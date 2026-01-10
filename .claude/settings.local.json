@@ -28,7 +28,11 @@
       "Bash(git checkout:*)",
       "Bash(tail:*)",
       "Bash(awk:*)",
-      "Bash(xxd:*)"
+      "Bash(xxd:*)",
+      "Bash(pandoc:*)",
+      "Bash(brew list:*)",
+      "Bash(pip3 list:*)",
+      "Bash(md-to-pdf:*)"
     ]
   }
 }
