@@ -2,8 +2,8 @@
 
 ---
 
-**[NAME]**
-**[STRASSE HAUSNUMMER]**
+**Martin Schwenzer**
+**Wöhrdstraße 41**
 **93059 Regensburg**
 
 An
@@ -12,7 +12,7 @@ Umweltamt
 Bruderwöhrdstraße 15 b
 93055 Regensburg
 
-**[DATUM]**
+**10. Januar 2026**
 
 ---
 
@@ -30,7 +30,7 @@ Einleitend möchte ich betonen, dass ich die grundsätzliche Notwendigkeit eines
 
 Als Mieter in der Wöhrdstraße bin ich von den geplanten HWS-Maßnahmen unmittelbar und persönlich betroffen. Die nachfolgend dargelegten Einwendungen betreffen sowohl meine persönlichen Belange als auch öffentliche Interessen des Natur-, Arten- und Denkmalschutzes, die ich als Bürger geltend mache.
 
-Ich gliedere meine Einwendungen in vier Hauptabschnitte und beziehe mich dabei vornehmlich auf den Erläuterungsbericht (Anlage A, nachfolgend „Bericht") und die Umweltverträglichkeitsstudie (Anlage D 1.0, nachfolgend „UVS").
+Ich gliedere meine Einwendungen in mehrere Abschnitte und beziehe mich dabei vornehmlich auf den Erläuterungsbericht (Anlage A, nachfolgend „Bericht") und die Umweltverträglichkeitsstudie (Anlage D 1.0, nachfolgend „UVS").
 
 ---
 
@@ -51,19 +51,23 @@ Diese Begründung erscheint mir nicht hinreichend belegt:
 Die geplanten HWS-Maßnahmen verletzen den für ein Planfeststellungsverfahren verwaltungsrechtlich zwingend erforderlichen **Grundsatz der Verhältnismäßigkeit**:
 
 **a) Beispiellose Komplexität ohne Best-Practice-Vorbild:**
+
 - Eine Insel soll U-förmig eingemauert und bis zu 15 Meter tief abgedichtet werden
 - Es entsteht ein Polder, der nur noch als ingenieursgeschaffene Gesamtstruktur funktioniert
 - Mir ist kein vergleichbares, erprobtes Projekt bekannt, das Kosten, Betriebssicherheit und Funktionalität belegen könnte
 
 **b) Verlagerung auf die Ausführungsplanung:**
+
 - Wesentliche Fragen zur „technischen Bauaufnahme und Statik" werden auf die spätere Ausführungsplanung verlagert (Bericht, S. 21, 26 ff., 47 f., 74 f., 84)
 - Die Überprüfung der Injektionsverfahren für die Mauerwerksabdichtung im Mühlenviertel erfolgt erst in der Ausführungsplanung (Bericht, S. 48)
 
 **c) Dauerhafte Betriebsrisiken:**
+
 - Ohne aufwendiges, dauerhaftes Betreiben von Pumpwerken und Drainagesystemen funktioniert der gesamte HWS nicht
 - „Eine regelmäßige Überwachung des Grundwasserspiegels und bei Bedarf Anpassungen an der Einstellung der Pumpen ist von großer Bedeutung" (UVS, S. 245)
 
 **d) Neue Risiken durch HWS-Maßnahmen selbst:**
+
 - Die Planunterlagen räumen ausdrücklich ein: „Mit den abdichtenden HWS-Maßnahmen könnten bei Starkregenereignissen Schäden entstehen, die ohne HWS-Maßnahmen nicht eintreten würden" (Bericht, S. 83)
 
 ### 1.3 Nichtberücksichtigung des Klimazuschlags
@@ -77,6 +81,7 @@ Die angeführten Begründungen – praktische Erwägungen bezüglich Aufbauaufwa
 Die Kosten werden nur äußerst vage mit ca. 50-55 Mio. Euro brutto angegeben (Bericht, S. 95).
 
 **Nicht berücksichtigt sind:**
+
 - Grundstückskosten
 - Grieser Steg-Neubau (Verantwortung Stadt)
 - Ufermauer-Sanierung Werftstraße (kritischer Zustand, Stadt)
@@ -84,6 +89,7 @@ Die Kosten werden nur äußerst vage mit ca. 50-55 Mio. Euro brutto angegeben (B
 - Jährliche Betriebs- und Unterhaltskosten nach Fertigstellung
 
 **Kostenrisiken:**
+
 - Die Ufermauer aus den 1930er Jahren ist in baulich kritischem Zustand; ihre „Standsicherheit nicht mehr nachzuweisen" (Bericht, S. 18)
 - Diese Sanierung MUSS VOR den HWS-Bauarbeiten erfolgen, liegt aber außerhalb der Projektverantwortung
 
@@ -96,6 +102,7 @@ Die geschätzte Gesamtbauzeit beträgt ca. 5 Jahre, mit Baubeginn nicht vor 2028
 **Widerspruch in den Planunterlagen:**
 
 Die Bauzeiten der einzelnen Planabschnitte laut Bericht S. 94:
+
 - PA 4: ca. 4 Jahre
 - PA 6: ca. 4 Jahre
 - PA 7: ca. 5 Jahre
@@ -104,19 +111,7 @@ Diese drei Abschnitte allein ergeben **13 Jahre Bauzeit** nacheinander. Selbst b
 
 Hinzu kommen typische Risiken (Bodenbefunde, Wetterschäden, Lieferprobleme), die nicht einkalkuliert erscheinen. Die Erfahrungen mit den HWS-Maßnahmen am Oberen Wöhrd und entlang des Regen, wo die Bauzeiten erheblich überschritten wurden, verstärken diese Bedenken.
 
-### 1.6 Hydrologischer Widerspruch bei HQ100-Berechnung
-
-Die Planunterlagen enthalten einen **grundlegenden hydrologischen Rechenfehler** (Bericht, S. 13-14):
-
-- **Angegebener Bemessungsabfluss:** HQ100 = 3.400 m³/s (Donau + Regen zusammen)
-- **Angabe Regen:** HQ100 Regen = 750 m³/s (dominanter Abfluss)
-- **Angabe Donau:** dominanter Abfluss = 3.000 m³/s
-
-**Rechenfehler:** 750 m³/s + 3.000 m³/s = **3.750 m³/s** ≠ 3.400 m³/s
-
-Die angegebenen Teilabflüsse ergeben **350 m³/s mehr** als der Bemessungsabfluss. Dieser grundlegende Widerspruch wirft Fragen zur Belastbarkeit der gesamten hydraulischen Berechnungen auf.
-
-### 1.7 Fragwürdiges Kosten-Nutzen-Verhältnis
+### 1.6 Fragwürdiges Kosten-Nutzen-Verhältnis
 
 Die Kosten-Nutzen-Betrachtung in den Planunterlagen ist **methodisch fragwürdig** (Bericht S. 23 vs. S. 95):
 
@@ -132,7 +127,7 @@ Die Baukosten entsprechen bereits der **unteren Grenze** der geschätzten 100-Ja
 
 Bei korrekter wirtschaftlicher Betrachtung dürfte das Kosten-Nutzen-Verhältnis **deutlich ungünstiger** ausfallen als dargestellt.
 
-### 1.8 Mangelhafte Bürgerbeteiligung
+### 1.7 Mangelhafte Bürgerbeteiligung
 
 Die Bürgerbeteiligung weist erhebliche Defizite auf:
 
@@ -144,7 +139,7 @@ Die Bürgerbeteiligung weist erhebliche Defizite auf:
 
 Das Verfahren verletzt damit den Grundsatz einer **transparenten Information und ordnungsgemäßen Bürgerbeteiligung**.
 
-### 1.9 Nicht abgedeckte Risiken
+### 1.8 Nicht abgedeckte Risiken
 
 Die Planunterlagen räumen ein, dass der **Anprall großer Ausflugsschiffe** an den Stilliegeplätzen Werftstraße „nicht planseits begegnet werden" kann (Bericht, S. 16). Dieses erhebliche Restrisiko wird auf nicht konkretisierte „organisatorische Maßnahmen" verlagert.
 
@@ -157,6 +152,7 @@ Die HWS-Maßnahmen zerstören zum Teil irreversibel ein außergewöhnliches inne
 ### 2.1 Baumfällungen
 
 **Umfang der Fällungen (UVS, S. 131, 222, 242 f.):**
+
 - **127 vitale Bäume** unterschiedlichen Alters werden gefällt
 - Davon 99 Bäume I. Wuchsordnung und 28 Bäume II. Wuchsordnung
 - **37 Bäume sind nach der Baumschutzverordnung Regensburg geschützt**
@@ -169,11 +165,13 @@ Die Angaben in den Planunterlagen sind teilweise unklar und unvollständig; in k
 Die **161 Neuanpflanzungen** kompensieren die Verluste nur unzureichend:
 
 **a) Qualitative Unterschiede:**
+
 - Ersatzpflanzungen: Stammumfang 16-18 cm
 - Gefällte Bäume: teils über 100 cm Stammumfang
 - Ersatzbäume benötigen Jahrzehnte, um gleichwertige Funktionen zu erfüllen
 
 **b) Räumliche Verlagerung:**
+
 - Die Kompensationen werden größtenteils nach **PA 10** (Auenmodellierung) verlagert
 - Dies liegt flussabwärts, außerhalb der eingemauerten Zone
 - Für den Altstadtprospekt und als Nahrungshabitat für geschützte Arten sind diese Kompensationen **nicht gleichwertig**
@@ -185,6 +183,7 @@ Die UVS bezieht zwar das FFH-Gebiet DE6741371 ein (UVS, S. 19, 55 f., 205, 249).
 **Betroffene Schutzgüter:**
 
 **Nachtreiher:**
+
 - Im Standarddatenbogen des SPA-Gebiets als Schutzgut genannt
 - In der UVS als Nahrungsgast im Projektgebiet nachgewiesen
 - Die Nachtreiher fliegen regelmäßig zur Nahrungssuche an die Ufer der Wöhrdinseln (vgl. NERB & STIERSTORFER, Regensburger Naturverführungen, 2009)
@@ -193,6 +192,7 @@ Die UVS bezieht zwar das FFH-Gebiet DE6741371 ein (UVS, S. 19, 55 f., 205, 249).
 - Die Ersatzbäume sind für Nachtreiher **weitgehend bedeutungslos**, wenn sie nicht ufernah direkt vor Ort gepflanzt werden
 
 **Eisvogel:**
+
 - Ebenfalls Schutzgut des SPA-Gebiets DE7040471
 - Nach Bayerischem Naturschutzgesetz streng geschützt
 - Analoge Betroffenheit wie beim Nachtreiher
@@ -206,10 +206,12 @@ Ohne FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471 sind die Planun
 Die spezielle artenschutzrechtliche Prüfung (saP, Anlage D 3) weist **erhebliche Mängel bei der Aktualität der Daten** auf:
 
 **Kritisch veraltet (über 8 Jahre):**
+
 - **Fischfauna:** Elektrobefischungen 2008-2015 (10-17 Jahre alt)
 - **Faunistische Grundlagenerhebung 2015:** 9 Jahre alt
 
 **Moderat veraltet (5-8 Jahre):**
+
 - **Mollusken-Kartierung 2018:** 6 Jahre alt
 - **Rosskastanien-Gutachten 2019:** 5 Jahre alt
 
@@ -290,6 +292,7 @@ Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6)
 **Biotopklassifizierung:** B432 - Streuobstbestand im Komplex mit intensiv bis extensiv genutztem Grünland mittlerer bis alter Ausprägung
 
 **Besonderheiten des Gartens:**
+
 - Das Wohnhaus ist als **Baudenkmal (X4)** erfasst
 - Zwei Bäume sind als **Stadtbiotop** kartiert:
   - **Kultur-Birne (Baum Nr. 79):** Stadtbiotop R-1303-004, 2,2 m Stammumfang, mit Efeu bewachsen, als **Höhlenbaum (HB 2021)** erfasst – potenzieller Lebensraum für Höhlenbrüter und Fledermäuse
@@ -333,7 +336,7 @@ Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
 3. **Kosten-Nutzen-Relation:** Die Maßnahmen sind auch mit Blick auf die **finanzielle Kosten-Nutzen-Rechnung nicht verhältnismäßig**. Die Kostenkalkulation ist unrealistisch und unvollständig. Die geschätzten 100-Jahres-Schäden (50-75 Mio. €) entsprechen den Baukosten, ohne Barwertberechnung oder Berücksichtigung von Betriebskosten.
 
-4. **Interne Widersprüche in den Planunterlagen:** Die Unterlagen enthalten **mathematische Inkonsistenzen** (HQ100-Abflussberechnung: 750 + 3.000 ≠ 3.400 m³/s) und **unrealistische Zeitplanungen** (5 Jahre Gesamtbauzeit bei 13 Jahren Summe der Einzelabschnitte).
+4. **Unrealistische Planungsannahmen:** Die Unterlagen enthalten **unrealistische Zeitplanungen** (5 Jahre Gesamtbauzeit bei 13 Jahren Summe der Einzelabschnitte PA 4, 6 und 7) und unvollständige Kostenschätzungen.
 
 5. **Naturschutzrechtliche Verstöße:** Den HWS-Maßnahmen fehlen eine **FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471** und eine hinreichende Beachtung des Artenschutzes mit aktuellen Daten. Dies verletzt europarechtliche bzw. naturschutzrechtliche Vorgaben.
 
@@ -357,15 +360,13 @@ Ich beantrage daher:
 
 4. Eine **realistische und vollständige Kostenermittlung** unter Einbeziehung aller vorbereitenden Maßnahmen und laufenden Betriebskosten
 
-5. Die **Klärung des hydrologischen Widerspruchs** bei der HQ100-Abflussberechnung (Summe der Teilabflüsse ergibt 3.750 m³/s statt angegebener 3.400 m³/s)
+5. Die **ernsthafte Prüfung weniger eingriffsintensiver Alternativen**
 
-6. Die **ernsthafte Prüfung weniger eingriffsintensiver Alternativen**
+6. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004) und der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
 
-7. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004) und der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
+7. Die **Prüfung alternativer Standorte** für das geplante Technikgebäude mit Trafoanlage außerhalb des geschützten Gartenbereichs
 
-8. Die **Prüfung alternativer Standorte** für das geplante Technikgebäude mit Trafoanlage außerhalb des geschützten Gartenbereichs
-
-9. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
+8. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
 
 ---
 
@@ -381,7 +382,7 @@ Mit freundlichen Grüßen
 
 ---
 
-*Anlagen: keine*
+_Anlagen: keine_
 
 ---
 

@@ -75,9 +75,9 @@ Der Garten Wöhrdstraße 41 ist in der Biotopkartierung als **besonders schutzw�
 
 ## Offene Punkte / Nächste Schritte
 
-- [x] Weitere Widersprüche in den 178 Markdown-Dateien suchen ✓ (4 neue Widersprüche gefunden)
+- [x] Weitere Widersprüche in den 178 Markdown-Dateien suchen ✓ (3 neue Widersprüche gefunden)
 - [x] Rechtsprechung zu ähnlichen Fällen recherchieren ✓ (12 BVerwG-Urteile dokumentiert)
-- [x] Visualisierungen der Mängel erstellen ✓ (8 Diagramme in `./visualisierungen/`)
+- [x] Visualisierungen der Mängel erstellen ✓ (7 Diagramme in `./visualisierungen/`)
 
 ---
 
@@ -290,21 +290,7 @@ Einzelne Bauzeiten:
 
 ---
 
-### 12. HQ100-Abflussberechnung mathematisch inkonsistent (NEU)
-
-**Problem (Bericht S. 13-14):**
-
-- **Behauptung:** HQ100 = 3.400 m³/s (Donau + Regen zusammen)
-- **Angabe Regen:** HQ100 Regen = 750 m³/s
-- **Angabe Donau:** "dominanter Abfluss der Donau von 3.000 m³/s"
-
-**Rechenfehler:** 750 + 3.000 = 3.750 m³/s ≠ 3.400 m³/s
-
-Die angegebenen Teilabflüsse ergeben **350 m³/s mehr** als der Bemessungsabfluss. Dies ist ein grundlegender hydrologischer Widerspruch.
-
----
-
-### 13. Kosten-Nutzen-Verhältnis fragwürdig (NEU)
+### 12. Kosten-Nutzen-Verhältnis fragwürdig (NEU)
 
 **Problem (Bericht S. 23 vs. S. 95):**
 
@@ -323,7 +309,7 @@ Eine seriöse Kosten-Nutzen-Analyse würde bei korrekter Barwertberechnung vermu
 
 ---
 
-### 14. Mehrdeutige Kastanien-Lebensdauer (NEU)
+### 13. Mehrdeutige Kastanien-Lebensdauer (NEU)
 
 **Problem (Bericht S. 50 vs. S. 95 vs. Gutachten F 6.1):**
 
@@ -346,9 +332,8 @@ Eine seriöse Kosten-Nutzen-Analyse würde bei korrekter Barwertberechnung vermu
 | 6   | Mangelhafte Bürgerbeteiligung             | Verwaltungsverfahrensrecht    |
 | 7   | Unzureichende Kompensation vor Ort        | § 15 BNatSchG                 |
 | 8   | **Unrealistische Bauzeitplanung**         | Planungsrechtlich bedenklich  |
-| 9   | **HQ100-Abfluss mathematisch inkonsistent** | Hydrologisch fehlerhaft     |
-| 10  | **Kosten-Nutzen-Verhältnis fragwürdig**   | Wirtschaftlichkeitsgebot      |
-| 11  | **Kastanien-Lebensdauer mehrdeutig**      | Dokumentationsmangel          |
+| 9   | **Kosten-Nutzen-Verhältnis fragwürdig**   | Wirtschaftlichkeitsgebot      |
+| 10  | **Kastanien-Lebensdauer mehrdeutig**      | Dokumentationsmangel          |
 
 ---
 
