@@ -76,8 +76,8 @@ Der Garten Wöhrdstraße 41 ist in der Biotopkartierung als **besonders schutzw�
 ## Offene Punkte / Nächste Schritte
 
 - [x] Weitere Widersprüche in den 178 Markdown-Dateien suchen ✓ (4 neue Widersprüche gefunden)
-- [ ] Rechtsprechung zu ähnlichen Fällen recherchieren
-- [ ] Visualisierungen der Mängel erstellen
+- [x] Rechtsprechung zu ähnlichen Fällen recherchieren ✓ (12 BVerwG-Urteile dokumentiert)
+- [x] Visualisierungen der Mängel erstellen ✓ (8 Diagramme in `./visualisierungen/`)
 
 ---
 
@@ -349,6 +349,59 @@ Eine seriöse Kosten-Nutzen-Analyse würde bei korrekter Barwertberechnung vermu
 | 9   | **HQ100-Abfluss mathematisch inkonsistent** | Hydrologisch fehlerhaft     |
 | 10  | **Kosten-Nutzen-Verhältnis fragwürdig**   | Wirtschaftlichkeitsgebot      |
 | 11  | **Kastanien-Lebensdauer mehrdeutig**      | Dokumentationsmangel          |
+
+---
+
+## Relevante Rechtsprechung
+
+### FFH-Verträglichkeitsprüfung
+
+| Urteil | Kernaussage |
+|--------|-------------|
+| **BVerwG, 12.03.2008, 9 A 3.06** | FFH-VP ist durchzuführen, wenn nach Vorprüfung Zweifel an der Verträglichkeit verbleiben |
+| **BVerwG, 09.07.2008, 9 A 14.07** | Maßstab "beste einschlägige wissenschaftliche Erkenntnisse" bei Verträglichkeitsprüfung |
+| **BVerwG, 10.04.2013, 4 C 3.12** | Fehlende FFH-VP kann zu nachträglicher Prüfungspflicht führen |
+| **BVerwG, 21.01.2016, 4 A 5.14** | Kompensationsmaßnahmen sind nur ausnahmsweise geeignet, FFH-Verträglichkeit sicherzustellen |
+
+**Relevanz für Einwendung:** Fehlende FFH-VP für SPA DE7040471 verstößt gegen Art. 6 FFH-RL und § 34 BNatSchG.
+
+### Artenschutz (saP)
+
+| Urteil | Kernaussage |
+|--------|-------------|
+| **BVerwG, 09.07.2008, 9 A 14.07** | Ausreichende Bestandsaufnahme der prüfrelevanten Arten erforderlich |
+| **BVerwG, 06.11.2012, 9 A 17.11** | Fünf-Jahres-Faustformel für Aktualität von Kartierdaten |
+| **BVerwG, 08.01.2014, 9 A 4.13** | Signifikant erhöhtes Tötungsrisiko auch bei Baufeldfreimachung relevant |
+
+**Relevanz für Einwendung:** Fischfauna-Daten 2008-2015 (10-17 Jahre alt) erfüllen Fünf-Jahres-Faustformel nicht.
+
+### Abwägung und Verhältnismäßigkeit
+
+| Urteil | Kernaussage |
+|--------|-------------|
+| **BVerwG, 09.11.2006, 4 A 2001.06** | Planrechtfertigung als Ausprägung des Verhältnismäßigkeitsprinzips |
+| **BVerwG, 27.02.2020, 7 C 3.19** | Prognosen dürfen nicht auf unrealistischen Annahmen beruhen |
+| **OLG Hamm, 15.03.2018, 21 U 22/17** | Bei unrealistischen Ansätzen keine Toleranz bei Kostenschätzungen |
+
+**Relevanz für Einwendung:** Unrealistische Bauzeit (5 Jahre bei 13 Jahren Summe) und fragwürdige Kosten-Nutzen-Rechnung.
+
+### Denkmalschutz und UNESCO-Welterbe
+
+| Urteil | Kernaussage |
+|--------|-------------|
+| **BVerwG, 21.04.2009, 4 C 3.08** | Denkmalpflege ist Gemeinwohlaufgabe von hohem Rang |
+| **Landesrecht NRW/Bayern** | UNESCO-Welterbeschutz bei Planungen angemessen zu berücksichtigen |
+
+**Relevanz für Einwendung:** Negative Auswirkungen auf UNESCO-Welterbe-Pufferzone nicht ausreichend abgewogen.
+
+### Hochwasserschutz-Planfeststellung
+
+| Fall | Ergebnis |
+|------|----------|
+| **VGH Bayern 2021 - Staubing** | Planfeststellungsbeschluss wegen planerischer Mängel aufgehoben |
+| **BVerwG 2013, 7 C 9.12 - Hofkirchen** | Ergänzung des Planfeststellungsbeschlusses angeordnet |
+
+**Relevanz für Einwendung:** Präzedenzfall zeigt, dass fehlerhafte HWS-Planfeststellungen erfolgreich angefochten werden können.
 
 ---
 

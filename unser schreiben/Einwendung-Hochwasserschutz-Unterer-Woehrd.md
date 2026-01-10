@@ -199,6 +199,8 @@ Die UVS bezieht zwar das FFH-Gebiet DE6741371 ein (UVS, S. 19, 55 f., 205, 249).
 
 Ohne FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471 sind die Planungen **rechtswidrig**, da dieser öffentliche Belang nicht in die Abwägung eingebracht werden kann. Dies verstößt gegen **Art. 6 FFH-Richtlinie** und **§ 34 BNatSchG**.
 
+**Rechtsprechung:** Das BVerwG hat wiederholt entschieden, dass eine FFH-Verträglichkeitsprüfung durchzuführen ist, wenn nach der Vorprüfung Zweifel an der Verträglichkeit verbleiben (BVerwG, Urteil vom 12.03.2008, Az. 9 A 3.06). Kompensationsmaßnahmen sind nur ausnahmsweise geeignet, die FFH-Verträglichkeit sicherzustellen (BVerwG, Urteil vom 21.01.2016, Az. 4 A 5.14).
+
 ### 2.4 Veraltete Datengrundlagen der Artenschutzprüfung (§ 44 BNatSchG)
 
 Die spezielle artenschutzrechtliche Prüfung (saP, Anlage D 3) weist **erhebliche Mängel bei der Aktualität der Daten** auf:
@@ -212,6 +214,8 @@ Die spezielle artenschutzrechtliche Prüfung (saP, Anlage D 3) weist **erheblich
 - **Rosskastanien-Gutachten 2019:** 5 Jahre alt
 
 Für eine ordnungsgemäße saP gem. § 44 BNatSchG müssen **aktuelle Daten** vorliegen. Die Beurteilung der Wirkungen auf einzelne Tierarten wurde nicht hinreichend analysiert; bei Gehölzen wurde allein die Funktion des Höhlenangebots beleuchtet, während andere Habitateigenschaften für Vögel und Fledermäuse nur unzureichend betrachtet wurden.
+
+**Rechtsprechung:** Das BVerwG wendet eine **Fünf-Jahres-Faustformel** für die Aktualität von Kartierdaten an (BVerwG, Urteil vom 06.11.2012, Az. 9 A 17.11). Fischfauna-Daten von 2008-2015 sind mit 10-17 Jahren **weit außerhalb** dieses Zeitrahmens.
 
 ### 2.5 Klima- und Hitzeresilienz
 
