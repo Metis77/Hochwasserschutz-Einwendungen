@@ -219,24 +219,60 @@ Die negativen Auswirkungen auf den Denkmalschutz sind **nicht ausreichend in die
 
 ---
 
-## 4. Beeinträchtigung meiner persönlichen Belange als Mieter
+## 4. Beeinträchtigung meiner persönlichen Belange als Mieter in der Wöhrdstraße 41
 
-Als Mieter in der Wöhrdstraße bin ich von den HWS-Maßnahmen unmittelbar betroffen:
+Als Mieter in der Wöhrdstraße 41 bin ich von den HWS-Maßnahmen **außerordentlich stark und unmittelbar** betroffen. Die Planunterlagen dokumentieren für das Flurstück 1791 (Grundstücksverzeichnis H 2, S. 9) massive Eingriffe:
 
-### 4.1 Belastungen während der Bauphase
+### 4.1 Umfang der Flächenbeanspruchung
 
-- **Baulärm und Erschütterungen** über mindestens 4-5 Jahre (PA 4-Bereich)
+- **Grundstücksgröße:** 5.573 m²
+- **Temporär beanspruchte Fläche:** 1.941 m² – das entspricht **ca. 35% des gesamten Grundstücks**
+- Diese außergewöhnlich hohe Beanspruchung ist im Vergleich zu anderen betroffenen Grundstücken überproportional
+
+### 4.2 Geplante bauliche Eingriffe
+
+Laut Grundstücksverzeichnis H 2 sind folgende Maßnahmen auf dem Grundstück geplant:
+
+- Erstellen einer Untergrundabdichtung (UGA)
+- Horizontale Abdichtung
+- HWS-Mauer und mobiler Hochwasserschutz
+- **Baumfällungen** im geschützten Gartenbereich
+- **Errichtung eines Technikgebäudes mit Trafoanlage**
+- Prüfen und ggf. Anpassen vorhandener querender Leitungen
+
+### 4.3 Zerstörung eines besonders schutzwürdigen Biotops
+
+Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6) als **besonders schutzwürdig** dokumentiert:
+
+> „Hervorzuheben ist der strukturreiche Garten (P22) zum Wohnhaus der Wöhrdstraße 41 (X4, denkmalgeschützt). Er ist als vielfältiger Nutz- und Ziergarten ausgeprägt, der zur Straße hin mit einer Buchenhecke abgegrenzt und mit einem alten Birnbaum, 2 Kastanien, einem Berg- und einem Spitzahorn bestockt ist. Der Garten hinter dem Haus wird darüber hinaus von einem vielfältigen, alten Obstbaumbestand geprägt (zwei Bäume als Stadtbiotop gekennzeichnet) und am nördlichen sowie westlichen Rand von einer alten Weißdornhecke umgeben."
+
+**Biotopklassifizierung:** B432 - Streuobstbestand im Komplex mit intensiv bis extensiv genutztem Grünland mittlerer bis alter Ausprägung
+
+**Besonderheiten des Gartens:**
+- Das Wohnhaus ist als **Baudenkmal (X4)** erfasst
+- Zwei Bäume sind als **Stadtbiotop** kartiert:
+  - **Kultur-Birne (Baum Nr. 79):** Stadtbiotop R-1303-004, 2,2 m Stammumfang, mit Efeu bewachsen, als **Höhlenbaum (HB 2021)** erfasst – potenzieller Lebensraum für Höhlenbrüter und Fledermäuse
+  - **Reneklode (Baum Nr. 60):** Stadtbiotop R-1303-002
+- **Alte Weißdornhecke** am nördlichen und westlichen Rand (schutzwürdig)
+- Vielfältiger, alter Obstbaumbestand mit Wildaufwuchs (Pflaumen, Mirabellen)
+
+Die geplanten Baumfällungen und die Errichtung eines Technikgebäudes würden dieses **einzigartige innerstädtische Biotop** unwiederbringlich zerstören. Ein Höhlenbaum mit 2,2 m Stammumfang kann nicht durch Neuanpflanzungen kompensiert werden – solche Strukturen benötigen Jahrzehnte bis Jahrhunderte zur Entwicklung.
+
+### 4.4 Belastungen während der Bauphase
+
+- **Baulärm und Erschütterungen** über mindestens 4-5 Jahre
 - Aufreißen von Straßen, Verlegen zahlloser Leitungen
 - Einsatz „raumbeanspruchenden schweren Geräts" (UVS, S. 220)
 - Einschränkungen bei Zugänglichkeit und Parkmöglichkeiten
+- **35% des Grundstücks** als Baustellenfläche nicht nutzbar
 
-### 4.2 Parkplatzsituation
+### 4.5 Parkplatzsituation
 
 - Reduzierung von Parkplätzen vorgesehen (Bericht, S. 48, 52, 56)
 - Jacobigelände als „Baustelleneinrichtungsfläche" über Jahre nicht nutzbar (Bericht, S. 39, 92 f.)
 - Fehlende verlässliche Aussagen zu Ausgleichsstellplätzen
 
-### 4.3 Fehlende Konkretisierung
+### 4.6 Fehlende Konkretisierung
 
 Die Planunterlagen sind bezüglich der konkreten Auswirkungen auf die Anwohner viel zu unbestimmt:
 
@@ -280,7 +316,11 @@ Ich beantrage daher:
 
 5. Die **ernsthafte Prüfung weniger eingriffsintensiver Alternativen**
 
-6. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
+6. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004) und der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
+
+7. Die **Prüfung alternativer Standorte** für das geplante Technikgebäude mit Trafoanlage außerhalb des geschützten Gartenbereichs
+
+8. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
 
 ---
 
