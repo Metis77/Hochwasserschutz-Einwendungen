@@ -2,14 +2,15 @@
 
 ---
 
-**Martin Schwenzer**
-**Wöhrdstraße 41**
-**93059 Regensburg**
+**Martin Schwenzer**<br>
+**Wöhrdstraße 41**<br>
+**93059 Regensburg**<br>
+mail@martinschwenzer.de
 
-An
-Stadt Regensburg
-Umweltamt
-Bruderwöhrdstraße 15 b
+An<br>
+Stadt Regensburg<br>
+Umweltamt<br>
+Bruderwöhrdstraße 15 b<br>
 93055 Regensburg
 
 **10. Januar 2026**
@@ -321,15 +322,18 @@ Der Erläuterungsbericht (Anlage A) dokumentiert, dass für den Bereich Wöhrdst
 Die Entscheidung fiel auf **Variante 1** – der Obstgarten wird der Aue zugeschlagen und bei HQ100 überflutet. Diese Entscheidung ist aus mehreren Gründen fragwürdig:
 
 **a) Widerspruch zur Biotopbewertung:**
+
 - Die Planunterlagen selbst bezeichnen den Obstgarten als „hochwertig"
 - In der Biotopkartierung wird der Garten als „besonders schutzwürdig" dokumentiert
 - Die Entscheidung, diesen wertvollen Bereich der Überflutung preiszugeben, widerspricht dem Grundsatz des Biotopschutzes
 
 **b) Keine Abwägung des Biotopverlusts:**
+
 - Die Variantenentscheidung berücksichtigt nur die Trassenführung, nicht aber den dadurch entstehenden Biotopverlust
 - Der Verlust von Höhlenbäumen, Obstbaumbeständen und Heckenstrukturen wird nicht gegen die Alternative abgewogen
 
 **c) Alternative nicht ausreichend geprüft:**
+
 - Eine Trassenführung, die den Obstgarten einschließt, hätte möglicherweise den wertvollen Baumbestand erhalten können
 - Die höheren Baukosten einer solchen Variante wurden nicht gegen den dauerhaften Biotopverlust abgewogen
 
@@ -350,6 +354,7 @@ Das Grundstücksverzeichnis (Anlage H 2) dokumentiert weitreichende **dauerhafte
 > „Duldung des dauerhaften Bestands der UGA, der horizontalen Abdichtung, der HWS-Wände, der mobilen Verschlüsse entlang der eingezeichneten Trasse, sowie des Technikgebäudes. Duldung von Maßnahmen zum dauerhaften Erhalt der hochwasserschützenden Funktion [...] **Betretungsrecht:** Zugang für Verteidigung, Kontrolle und Unterhaltung zu den [...] Bauteilen. **Nutzungseinschränkung:** Freihalten der gekennzeichneten Freiflächen für Betretung (Bewuchs/Bebauung)." (Grundstücksverzeichnis H 2, S. 9)
 
 Diese Grunddienstbarkeiten bedeuten:
+
 - **Dauerhaftes Betretungsrecht** durch Behörden und Wartungspersonal
 - **Nutzungsverbot** für gekennzeichnete Bereiche (keine Bepflanzung, keine baulichen Änderungen)
 - **Einschränkung der Eigentumsrechte** auf unbestimmte Zeit
@@ -431,7 +436,8 @@ Mit freundlichen Grüßen
 
 **[UNTERSCHRIFT]**
 
-**[NAME]**
+**Martin Schwenzer**<br>
+mail@martinschwenzer.de
 
 ---
 
