@@ -180,6 +180,8 @@ Die **161 Neuanpflanzungen** kompensieren die Verluste nur unzureichend:
 
 Die UVS bezieht zwar das FFH-Gebiet DE6741371 ein (UVS, S. 19, 55 f., 205, 249). Es fehlt jedoch eine **FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471** (Donau zwischen Regensburg und Straubing), das direkt unterhalb des Odessarings beginnt.
 
+**Bestätigung durch Aktenstudium:** Das FFH-Verträglichkeitsformblatt (Anlage D 4.0) bezieht sich ausschließlich auf das FFH-Gebiet **DE6741371** (Chamb, Regentalaue und Regen zwischen Roding und Donaumündung). Eine Prüfung des **Vogelschutzgebiets (SPA) DE7040471** fehlt vollständig – obwohl dieses Gebiet in unmittelbarer Nähe beginnt und die Nahrungshabitate der geschützten Arten Nachtreiher und Eisvogel direkt betroffen sind.
+
 **Betroffene Schutzgüter:**
 
 **Nachtreiher:**
@@ -283,7 +285,15 @@ Laut Grundstücksverzeichnis H 2 sind folgende Maßnahmen auf dem Grundstück ge
 - **Errichtung eines Technikgebäudes mit Trafoanlage**
 - Prüfen und ggf. Anpassen vorhandener querender Leitungen
 
-### 4.3 Zerstörung eines besonders schutzwürdigen Biotops
+### 4.3 Artenschutzrechtlich anerkannte Sensibilität des Standorts
+
+Die spezielle artenschutzrechtliche Prüfung (saP, Anlage D 3.0) bestätigt die besondere ökologische Bedeutung des Planabschnitts PA 1 (Bereich Wöhrdstr. 41 bis Maffeistraße) ausdrücklich:
+
+> „**PA 1 – West (Bereich Wöhrdstr. 41 bis Maffeistraße):** Aussetzen lärm- und erschütterungsintensiver Bautätigkeiten möglichst von Anfang März bis Ende Juli zur Vermeidung baubedingter Störwirkungen und Individuenverluste für den standort- und brutortstreuen **Feldsperling**, der hier mit **mehreren Brutpaaren** vorkommt." (saP, S. 14)
+
+Diese Bauzeitenbeschränkung von **fünf Monaten pro Jahr** (März bis Juli) zeigt, dass die Planer selbst die hohe artenschutzrechtliche Sensibilität des Areals anerkennen. Die Konsequenz ist jedoch unzureichend: Statt den wertvollen Lebensraum zu erhalten, werden lediglich die Bauzeiten eingeschränkt – während die Baumfällungen und die Errichtung des Technikgebäudes den Lebensraum dauerhaft zerstören.
+
+### 4.4 Zerstörung eines besonders schutzwürdigen Biotops
 
 Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6) als **besonders schutzwürdig** dokumentiert:
 
@@ -302,7 +312,28 @@ Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6)
 
 Die geplanten Baumfällungen und die Errichtung eines Technikgebäudes würden dieses **einzigartige innerstädtische Biotop** unwiederbringlich zerstören. Ein Höhlenbaum mit 2,2 m Stammumfang kann nicht durch Neuanpflanzungen kompensiert werden – solche Strukturen benötigen Jahrzehnte bis Jahrhunderte zur Entwicklung.
 
-### 4.4 Belastungen während der Bauphase
+### 4.5 Fragwürdige Variantenentscheidung zum Obstgarten
+
+Der Erläuterungsbericht (Anlage A) dokumentiert, dass für den Bereich Wöhrdstraße 41 eine Variantenbetrachtung durchgeführt wurde:
+
+> „Das ‚Bauhofmeisterhaus' ist als Einzeldenkmal gelistet (außerhalb des Ensembles). Es liegt zurückgesetzt an der Wöhrdstraße, nördlich schließen **alte Obstgartenbestände** an. Für das denkmalgeschützte Gebäude ist ein Objektschutz ausgeschlossen. Daher verbleiben zwei grundsätzliche Varianten, die den **hochwertigen Obstgarten** entweder der Flussaue oder dem geschützten Bereich zuschlagen." (Erläuterungsbericht, S. 55)
+
+Die Entscheidung fiel auf **Variante 1** – der Obstgarten wird der Aue zugeschlagen und bei HQ100 überflutet. Diese Entscheidung ist aus mehreren Gründen fragwürdig:
+
+**a) Widerspruch zur Biotopbewertung:**
+- Die Planunterlagen selbst bezeichnen den Obstgarten als „hochwertig"
+- In der Biotopkartierung wird der Garten als „besonders schutzwürdig" dokumentiert
+- Die Entscheidung, diesen wertvollen Bereich der Überflutung preiszugeben, widerspricht dem Grundsatz des Biotopschutzes
+
+**b) Keine Abwägung des Biotopverlusts:**
+- Die Variantenentscheidung berücksichtigt nur die Trassenführung, nicht aber den dadurch entstehenden Biotopverlust
+- Der Verlust von Höhlenbäumen, Obstbaumbeständen und Heckenstrukturen wird nicht gegen die Alternative abgewogen
+
+**c) Alternative nicht ausreichend geprüft:**
+- Eine Trassenführung, die den Obstgarten einschließt, hätte möglicherweise den wertvollen Baumbestand erhalten können
+- Die höheren Baukosten einer solchen Variante wurden nicht gegen den dauerhaften Biotopverlust abgewogen
+
+### 4.6 Belastungen während der Bauphase
 
 - **Baulärm und Erschütterungen** über mindestens 4-5 Jahre
 - Aufreißen von Straßen, Verlegen zahlloser Leitungen
@@ -310,13 +341,27 @@ Die geplanten Baumfällungen und die Errichtung eines Technikgebäudes würden d
 - Einschränkungen bei Zugänglichkeit und Parkmöglichkeiten
 - **35% des Grundstücks** als Baustellenfläche nicht nutzbar
 
-### 4.5 Parkplatzsituation
+**Verschärfung durch Bauzeitenbeschränkungen:** Da im Bereich PA 1 (Wöhrdstr. 41 bis Maffeistraße) laut saP lärm- und erschütterungsintensive Arbeiten von März bis Ende Juli ausgesetzt werden müssen (siehe 4.3), verlängert sich die effektive Bauzeit in diesem Bereich erheblich. Die ohnehin schon 4-5-jährige Bauphase könnte sich bei konsequenter Einhaltung der Artenschutzauflagen auf **6-8 Jahre** verlängern.
+
+### 4.7 Dauerhafte Grunddienstbarkeiten und Nutzungseinschränkungen
+
+Das Grundstücksverzeichnis (Anlage H 2) dokumentiert weitreichende **dauerhafte Beschränkungen** für das Flurstück 1791:
+
+> „Duldung des dauerhaften Bestands der UGA, der horizontalen Abdichtung, der HWS-Wände, der mobilen Verschlüsse entlang der eingezeichneten Trasse, sowie des Technikgebäudes. Duldung von Maßnahmen zum dauerhaften Erhalt der hochwasserschützenden Funktion [...] **Betretungsrecht:** Zugang für Verteidigung, Kontrolle und Unterhaltung zu den [...] Bauteilen. **Nutzungseinschränkung:** Freihalten der gekennzeichneten Freiflächen für Betretung (Bewuchs/Bebauung)." (Grundstücksverzeichnis H 2, S. 9)
+
+Diese Grunddienstbarkeiten bedeuten:
+- **Dauerhaftes Betretungsrecht** durch Behörden und Wartungspersonal
+- **Nutzungsverbot** für gekennzeichnete Bereiche (keine Bepflanzung, keine baulichen Änderungen)
+- **Einschränkung der Eigentumsrechte** auf unbestimmte Zeit
+- Das **Technikgebäude mit Trafoanlage** bleibt dauerhaft auf dem Grundstück
+
+### 4.8 Parkplatzsituation
 
 - Reduzierung von Parkplätzen vorgesehen (Bericht, S. 48, 52, 56)
 - Jacobigelände als „Baustelleneinrichtungsfläche" über Jahre nicht nutzbar (Bericht, S. 39, 92 f.)
 - Fehlende verlässliche Aussagen zu Ausgleichsstellplätzen
 
-### 4.6 Fehlende Konkretisierung
+### 4.9 Fehlende Konkretisierung
 
 Die Planunterlagen sind bezüglich der konkreten Auswirkungen auf die Anwohner viel zu unbestimmt:
 
@@ -346,6 +391,10 @@ Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
 8. **Alternative Maßnahmen:** Die HWS-Maßnahmen fokussieren einseitig eine unerprobte technokratische Maximallösung. **Flexiblere und umsichtigere Alternativen** (mobile Elemente, differenzierter Maßnahmenmix) werden nicht ernsthaft verfolgt.
 
+9. **Variantenentscheidung Obstgarten:** Die Entscheidung, den als „hochwertig" bezeichneten Obstgarten der Wöhrdstraße 41 der Überflutungszone zuzuschlagen, erfolgte **ohne angemessene Abwägung des Biotopverlusts** und der artenschutzrechtlichen Betroffenheit (nachgewiesene Feldsperling-Brutpaare).
+
+10. **Dauerhafte Eigentumsbelastungen:** Die im Grundstücksverzeichnis dokumentierten **dauerhaften Grunddienstbarkeiten** (Betretungsrecht, Nutzungseinschränkungen, Technikgebäude) stellen erhebliche Eigentumseingriffe dar, deren Verhältnismäßigkeit nicht hinreichend geprüft wurde.
+
 ---
 
 ## 6. Anträge
@@ -366,7 +415,11 @@ Ich beantrage daher:
 
 7. Die **Prüfung alternativer Standorte** für das geplante Technikgebäude mit Trafoanlage außerhalb des geschützten Gartenbereichs
 
-8. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
+8. Die **Überprüfung der Variantenentscheidung** zum Obstgarten Wöhrdstraße 41 unter angemessener Berücksichtigung des Biotopverlusts und der artenschutzrechtlichen Betroffenheit (Feldsperling-Brutpaare)
+
+9. Die **Konkretisierung der dauerhaften Grunddienstbarkeiten** und Nutzungseinschränkungen für das Flurstück 1791, insbesondere hinsichtlich Umfang und Häufigkeit des Betretungsrechts
+
+10. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
 
 ---
 
