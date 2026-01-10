@@ -25,7 +25,10 @@
       "Bash(git archive:*)",
       "Bash(tar:*)",
       "Bash(git restore:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(tail:*)",
+      "Bash(awk:*)",
+      "Bash(xxd:*)"
     ]
   }
 }
