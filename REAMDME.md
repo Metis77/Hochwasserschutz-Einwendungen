@@ -75,7 +75,9 @@ Der Garten Wöhrdstraße 41 ist in der Biotopkartierung als **besonders schutzw�
 
 ## Offene Punkte / Nächste Schritte
 
-- [ ] Ggf. weitere Argumente aus Planunterlagen ergänzen
+- [x] Weitere Widersprüche in den 178 Markdown-Dateien suchen ✓ (4 neue Widersprüche gefunden)
+- [ ] Rechtsprechung zu ähnlichen Fällen recherchieren
+- [ ] Visualisierungen der Mängel erstellen
 
 ---
 
@@ -271,17 +273,82 @@ Der Garten Wöhrdstraße 41 ist in der Biotopkartierung als **besonders schutzw�
 
 ---
 
-## Zusammenfassung der Rechtswidrigkeiten
+### 11. Unrealistische Bauzeitplanung (NEU)
 
-| Nr. | Verstoß                                 | Rechtsgrundlage               |
-| --- | --------------------------------------- | ----------------------------- |
-| 1   | Fehlende Berücksichtigung Klimazuschlag | Art. 44 Abs. 2 BayWG          |
-| 2   | Fehlende FFH-VP für SPA DE7040471       | § 34 BNatSchG, Art. 6 FFH-RL  |
-| 3   | Veraltete Artenschutzdaten              | § 44 BNatSchG                 |
-| 4   | Unvollständige Kostenermittlung         | Verhältnismäßigkeitsgrundsatz |
-| 5   | Abwägungsdefizit Denkmalschutz          | BayDSchG, UNESCO-Konvention   |
-| 6   | Mangelhafte Bürgerbeteiligung           | Verwaltungsverfahrensrecht    |
-| 7   | Unzureichende Kompensation vor Ort      | § 15 BNatSchG                 |
+**Problem (Bericht S. 94):**
+
+Einzelne Bauzeiten:
+- PA 4: ca. 4 Jahre
+- PA 6: ca. 4 Jahre
+- PA 7: ca. 5 Jahre
+
+**Angabe im Bericht:** Gesamtbauzeit "etwa 5 Jahre angestrebt"
+
+**Widerspruch:** Die drei längsten Planabschnitte allein ergeben 13 Jahre. Selbst mit maximaler Überlagerung ist eine Gesamtbauzeit von nur 5 Jahren **mathematisch unmöglich**. Realistisch wären 7-9 Jahre.
+
+**Risiko:** Unrealistische Zeitplanung führt zu Verzögerungen und Kostenüberschreitungen.
+
+---
+
+### 12. HQ100-Abflussberechnung mathematisch inkonsistent (NEU)
+
+**Problem (Bericht S. 13-14):**
+
+- **Behauptung:** HQ100 = 3.400 m³/s (Donau + Regen zusammen)
+- **Angabe Regen:** HQ100 Regen = 750 m³/s
+- **Angabe Donau:** "dominanter Abfluss der Donau von 3.000 m³/s"
+
+**Rechenfehler:** 750 + 3.000 = 3.750 m³/s ≠ 3.400 m³/s
+
+Die angegebenen Teilabflüsse ergeben **350 m³/s mehr** als der Bemessungsabfluss. Dies ist ein grundlegender hydrologischer Widerspruch.
+
+---
+
+### 13. Kosten-Nutzen-Verhältnis fragwürdig (NEU)
+
+**Problem (Bericht S. 23 vs. S. 95):**
+
+- **Geschätzte Schäden über 100 Jahre:** 50-75 Mio. Euro
+- **Baukosten des Projekts:** 50 Mio. Euro
+
+**Widerspruch:** Die Baukosten entsprechen bereits der **unteren Grenze** der geschätzten 100-Jahres-Schäden.
+
+Nicht berücksichtigt:
+- Diskontierung (Barwertberechnung)
+- Betriebskosten über 100 Jahre
+- Instandhaltungskosten
+- Inflation
+
+Eine seriöse Kosten-Nutzen-Analyse würde bei korrekter Barwertberechnung vermutlich negativ ausfallen.
+
+---
+
+### 14. Mehrdeutige Kastanien-Lebensdauer (NEU)
+
+**Problem (Bericht S. 50 vs. S. 95 vs. Gutachten F 6.1):**
+
+- **Gutachten 2019:** "Reststandzeit 10-15 (max. 20) Jahre" = bis 2029-2034 (max. 2039)
+- **Bericht S. 95:** Bäume "werden ca. zwischen 2029 und 2034 ihr maximales Lebensalter erreicht haben"
+
+**Mehrdeutigkeit:** "Reststandzeit" ist nicht dasselbe wie "maximales Lebensalter erreichen". Die Formulierung erlaubt unterschiedliche Interpretationen und könnte zur Rechtfertigung frühzeitiger Fällungen missbraucht werden.
+
+---
+
+## Zusammenfassung der Rechtswidrigkeiten und Widersprüche
+
+| Nr. | Verstoß/Widerspruch                       | Rechtsgrundlage/Kategorie     |
+| --- | ----------------------------------------- | ----------------------------- |
+| 1   | Fehlende Berücksichtigung Klimazuschlag   | Art. 44 Abs. 2 BayWG          |
+| 2   | Fehlende FFH-VP für SPA DE7040471         | § 34 BNatSchG, Art. 6 FFH-RL  |
+| 3   | Veraltete Artenschutzdaten                | § 44 BNatSchG                 |
+| 4   | Unvollständige Kostenermittlung           | Verhältnismäßigkeitsgrundsatz |
+| 5   | Abwägungsdefizit Denkmalschutz            | BayDSchG, UNESCO-Konvention   |
+| 6   | Mangelhafte Bürgerbeteiligung             | Verwaltungsverfahrensrecht    |
+| 7   | Unzureichende Kompensation vor Ort        | § 15 BNatSchG                 |
+| 8   | **Unrealistische Bauzeitplanung**         | Planungsrechtlich bedenklich  |
+| 9   | **HQ100-Abfluss mathematisch inkonsistent** | Hydrologisch fehlerhaft     |
+| 10  | **Kosten-Nutzen-Verhältnis fragwürdig**   | Wirtschaftlichkeitsgebot      |
+| 11  | **Kastanien-Lebensdauer mehrdeutig**      | Dokumentationsmangel          |
 
 ---
 

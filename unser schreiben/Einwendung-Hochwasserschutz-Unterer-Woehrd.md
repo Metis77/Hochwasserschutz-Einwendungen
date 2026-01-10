@@ -89,13 +89,50 @@ Die Kosten werden nur äußerst vage mit ca. 50-55 Mio. Euro brutto angegeben (B
 
 Die Kostenschätzung erscheint angesichts vergleichbarer Großprojekte (z.B. Sanierung Münchner Stadtmuseum: 270 Mio. Euro für ein einzelnes Gebäude) **unrealistisch niedrig**. Ohne tragfähige Kostenermittlung ist eine ordnungsgemäße Verhältnismäßigkeitsprüfung nicht möglich.
 
-### 1.5 Vage Bauzeitplanung
+### 1.5 Unrealistische Bauzeitplanung
 
-Die geschätzte Gesamtbauzeit beträgt ca. 5 Jahre, mit Baubeginn nicht vor 2028 (Bericht, S. 94). Für einzelne Planabschnitte werden bis zu 4-5 Jahre veranschlagt (PA 4, 6, 7).
+Die geschätzte Gesamtbauzeit beträgt ca. 5 Jahre, mit Baubeginn nicht vor 2028 (Bericht, S. 94).
 
-Es ist nicht erkennbar, ob bei der Berechnung typische Risiken (Bodenbefunde, Wetterschäden, Lieferprobleme) einkalkuliert sind. Die Erfahrungen mit den HWS-Maßnahmen am Oberen Wöhrd und entlang des Regen, wo die Bauzeiten erheblich überschritten wurden, lassen Zweifel an der Verlässlichkeit aufkommen.
+**Widerspruch in den Planunterlagen:**
 
-### 1.6 Mangelhafte Bürgerbeteiligung
+Die Bauzeiten der einzelnen Planabschnitte laut Bericht S. 94:
+- PA 4: ca. 4 Jahre
+- PA 6: ca. 4 Jahre
+- PA 7: ca. 5 Jahre
+
+Diese drei Abschnitte allein ergeben **13 Jahre Bauzeit** nacheinander. Selbst bei maximaler zeitlicher Überlagerung ist eine Gesamtbauzeit von nur 5 Jahren **mathematisch unmöglich**. Realistisch wären mindestens 7-9 Jahre.
+
+Hinzu kommen typische Risiken (Bodenbefunde, Wetterschäden, Lieferprobleme), die nicht einkalkuliert erscheinen. Die Erfahrungen mit den HWS-Maßnahmen am Oberen Wöhrd und entlang des Regen, wo die Bauzeiten erheblich überschritten wurden, verstärken diese Bedenken.
+
+### 1.6 Hydrologischer Widerspruch bei HQ100-Berechnung
+
+Die Planunterlagen enthalten einen **grundlegenden hydrologischen Rechenfehler** (Bericht, S. 13-14):
+
+- **Angegebener Bemessungsabfluss:** HQ100 = 3.400 m³/s (Donau + Regen zusammen)
+- **Angabe Regen:** HQ100 Regen = 750 m³/s (dominanter Abfluss)
+- **Angabe Donau:** dominanter Abfluss = 3.000 m³/s
+
+**Rechenfehler:** 750 m³/s + 3.000 m³/s = **3.750 m³/s** ≠ 3.400 m³/s
+
+Die angegebenen Teilabflüsse ergeben **350 m³/s mehr** als der Bemessungsabfluss. Dieser grundlegende Widerspruch wirft Fragen zur Belastbarkeit der gesamten hydraulischen Berechnungen auf.
+
+### 1.7 Fragwürdiges Kosten-Nutzen-Verhältnis
+
+Die Kosten-Nutzen-Betrachtung in den Planunterlagen ist **methodisch fragwürdig** (Bericht S. 23 vs. S. 95):
+
+- **Geschätzte Schäden über 100 Jahre ohne HWS:** 50-75 Mio. Euro
+- **Baukosten des Projekts:** 50 Mio. Euro
+
+Die Baukosten entsprechen bereits der **unteren Grenze** der geschätzten 100-Jahres-Schäden. Eine seriöse Kosten-Nutzen-Analyse müsste jedoch berücksichtigen:
+
+- **Barwertberechnung:** 50 Mio. Euro Schaden verteilt über 100 Jahre haben heute einen deutlich geringeren Barwert
+- **Betriebskosten:** Jährliche Kosten für Pumpen, Wartung, Personal
+- **Instandhaltung:** Laufende Sanierungskosten über die Lebensdauer
+- **Inflation:** Baukosten werden typischerweise überschritten
+
+Bei korrekter wirtschaftlicher Betrachtung dürfte das Kosten-Nutzen-Verhältnis **deutlich ungünstiger** ausfallen als dargestellt.
+
+### 1.8 Mangelhafte Bürgerbeteiligung
 
 Die Bürgerbeteiligung weist erhebliche Defizite auf:
 
@@ -107,7 +144,7 @@ Die Bürgerbeteiligung weist erhebliche Defizite auf:
 
 Das Verfahren verletzt damit den Grundsatz einer **transparenten Information und ordnungsgemäßen Bürgerbeteiligung**.
 
-### 1.7 Nicht abgedeckte Risiken
+### 1.9 Nicht abgedeckte Risiken
 
 Die Planunterlagen räumen ein, dass der **Anprall großer Ausflugsschiffe** an den Stilliegeplätzen Werftstraße „nicht planseits begegnet werden" kann (Bericht, S. 16). Dieses erhebliche Restrisiko wird auf nicht konkretisierte „organisatorische Maßnahmen" verlagert.
 
@@ -290,15 +327,17 @@ Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
 2. **Verhältnismäßigkeit:** Die HWS-Maßnahmen verletzen den verwaltungsrechtlichen **Grundsatz der Verhältnismäßigkeit**. Sie sind in dieser Massivität nirgends verlässlich erprobt, bergen große Risiken und schaffen teilweise neue Gefahren (Starkregenüberschwemmungen, kompliziertes Grundwassermanagement).
 
-3. **Kosten-Nutzen-Relation:** Die Maßnahmen sind auch mit Blick auf die **finanzielle Kosten-Nutzen-Rechnung nicht verhältnismäßig**. Die Kostenkalkulation ist unrealistisch und unvollständig.
+3. **Kosten-Nutzen-Relation:** Die Maßnahmen sind auch mit Blick auf die **finanzielle Kosten-Nutzen-Rechnung nicht verhältnismäßig**. Die Kostenkalkulation ist unrealistisch und unvollständig. Die geschätzten 100-Jahres-Schäden (50-75 Mio. €) entsprechen den Baukosten, ohne Barwertberechnung oder Berücksichtigung von Betriebskosten.
 
-4. **Naturschutzrechtliche Verstöße:** Den HWS-Maßnahmen fehlen eine **FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471** und eine hinreichende Beachtung des Artenschutzes mit aktuellen Daten. Dies verletzt europarechtliche bzw. naturschutzrechtliche Vorgaben.
+4. **Interne Widersprüche in den Planunterlagen:** Die Unterlagen enthalten **mathematische Inkonsistenzen** (HQ100-Abflussberechnung: 750 + 3.000 ≠ 3.400 m³/s) und **unrealistische Zeitplanungen** (5 Jahre Gesamtbauzeit bei 13 Jahren Summe der Einzelabschnitte).
 
-5. **Denkmalschutzdefizit:** Die negativen Auswirkungen auf den Denkmalschutz im UNESCO-Weltkulturerbe sind **nicht ausreichend in die Abwägung eingestellt**.
+5. **Naturschutzrechtliche Verstöße:** Den HWS-Maßnahmen fehlen eine **FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471** und eine hinreichende Beachtung des Artenschutzes mit aktuellen Daten. Dies verletzt europarechtliche bzw. naturschutzrechtliche Vorgaben.
 
-6. **Bürgerbeteiligung:** Das Verfahren **verletzt Grundsätze einer hinreichend transparenten bürgerlichen Partizipation**.
+6. **Denkmalschutzdefizit:** Die negativen Auswirkungen auf den Denkmalschutz im UNESCO-Weltkulturerbe sind **nicht ausreichend in die Abwägung eingestellt**.
 
-7. **Alternative Maßnahmen:** Die HWS-Maßnahmen fokussieren einseitig eine unerprobte technokratische Maximallösung. **Flexiblere und umsichtigere Alternativen** (mobile Elemente, differenzierter Maßnahmenmix) werden nicht ernsthaft verfolgt.
+7. **Bürgerbeteiligung:** Das Verfahren **verletzt Grundsätze einer hinreichend transparenten bürgerlichen Partizipation**.
+
+8. **Alternative Maßnahmen:** Die HWS-Maßnahmen fokussieren einseitig eine unerprobte technokratische Maximallösung. **Flexiblere und umsichtigere Alternativen** (mobile Elemente, differenzierter Maßnahmenmix) werden nicht ernsthaft verfolgt.
 
 ---
 
@@ -314,13 +353,15 @@ Ich beantrage daher:
 
 4. Eine **realistische und vollständige Kostenermittlung** unter Einbeziehung aller vorbereitenden Maßnahmen und laufenden Betriebskosten
 
-5. Die **ernsthafte Prüfung weniger eingriffsintensiver Alternativen**
+5. Die **Klärung des hydrologischen Widerspruchs** bei der HQ100-Abflussberechnung (Summe der Teilabflüsse ergibt 3.750 m³/s statt angegebener 3.400 m³/s)
 
-6. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004) und der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
+6. Die **ernsthafte Prüfung weniger eingriffsintensiver Alternativen**
 
-7. Die **Prüfung alternativer Standorte** für das geplante Technikgebäude mit Trafoanlage außerhalb des geschützten Gartenbereichs
+7. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004) und der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
 
-8. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
+8. Die **Prüfung alternativer Standorte** für das geplante Technikgebäude mit Trafoanlage außerhalb des geschützten Gartenbereichs
+
+9. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
 
 ---
 
