@@ -1,0 +1,23 @@
+{
+  "name": "wasserrechtliches-planfeststellungsverfahren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metis77/Wasserrechtliches-Planfeststellungsverfahren-Unterer-Wo-hrd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metis77/Wasserrechtliches-Planfeststellungsverfahren-Unterer-Wo-hrd/issues"
+  },
+  "homepage": "https://github.com/Metis77/Wasserrechtliches-Planfeststellungsverfahren-Unterer-Wo-hrd#readme",
+  "dependencies": {
+    "pdfjs-dist": "^5.4.530"
+  }
+}
