@@ -200,6 +200,14 @@ Die UVS bezieht zwar das FFH-Gebiet DE6741371 ein (UVS, S. 19, 55 f., 205, 249).
 - Nach Bayerischem Naturschutzgesetz streng geschützt
 - Analoge Betroffenheit wie beim Nachtreiher
 
+**Biber:**
+
+Die UVS dokumentiert einen aktiven Biber-Lebensraum im unmittelbaren Projektgebiet:
+
+> „Gemäß Information des Umweltamts befindet sich auf der Lazarettspitze ein Bibernebenbau. In den letzten Jahren ist eine Zunahme an Fraßspuren und Einbruchstellen an den Böschungen zur Donau festzustellen – und zwar dort, wo Bäume nicht mehr mit Drahthosen geschützt werden." (UVS, S. 63)
+
+Der Biber ist als FFH-Anhang-IV-Art streng geschützt. Die fünfjährige Bauphase mit erheblichen Störungen im Uferbereich kann zur Aufgabe des Nebenbaus führen.
+
 Ohne FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471 sind die Planungen **rechtswidrig**, da dieser öffentliche Belang nicht in die Abwägung eingebracht werden kann. Dies verstößt gegen **Art. 6 FFH-Richtlinie** und **§ 34 BNatSchG**.
 
 **Rechtsprechung:** Das BVerwG hat wiederholt entschieden, dass eine FFH-Verträglichkeitsprüfung durchzuführen ist, wenn nach der Vorprüfung Zweifel an der Verträglichkeit verbleiben (BVerwG, Urteil vom 12.03.2008, Az. 9 A 3.06). Kompensationsmaßnahmen sind nur ausnahmsweise geeignet, die FFH-Verträglichkeit sicherzustellen (BVerwG, Urteil vom 21.01.2016, Az. 4 A 5.14).
@@ -283,8 +291,10 @@ Laut Grundstücksverzeichnis H 2 sind folgende Maßnahmen auf dem Grundstück ge
 - Horizontale Abdichtung
 - HWS-Mauer und mobiler Hochwasserschutz
 - **Baumfällungen** im geschützten Gartenbereich
-- **Errichtung eines Technikgebäudes mit Trafoanlage**
+- **Errichtung eines Technikgebäudes mit Trafoanlage** (Schaltanlage I)
 - Prüfen und ggf. Anpassen vorhandener querender Leitungen
+
+**Konkret betroffen:** Baum Nr. 39 (Kultur-Apfel) im Garten der Wöhrdstraße 41 ist ausdrücklich als einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet dokumentiert, die gefällt werden sollen (UVS, S. 124; saP, S. 51). Dieser Baum ist Lebensraum für xylobionte Käferarten. Der Stamm soll zwar „gesichert und auf der Lazarettspitze stehend verankert" werden (saP, S. 51), doch diese Umsetzung bedeutet faktisch die Zerstörung des gewachsenen Habitatverbunds am Standort.
 
 ### 4.3 Artenschutzrechtlich anerkannte Sensibilität des Standorts
 
@@ -296,7 +306,7 @@ Diese Bauzeitenbeschränkung von **fünf Monaten pro Jahr** (März bis Juli) zei
 
 ### 4.4 Zerstörung eines besonders schutzwürdigen Biotops
 
-Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6) als **besonders schutzwürdig** dokumentiert:
+Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6-7) als **besonders schutzwürdig** dokumentiert:
 
 > „Hervorzuheben ist der strukturreiche Garten (P22) zum Wohnhaus der Wöhrdstraße 41 (X4, denkmalgeschützt). Er ist als vielfältiger Nutz- und Ziergarten ausgeprägt, der zur Straße hin mit einer Buchenhecke abgegrenzt und mit einem alten Birnbaum, 2 Kastanien, einem Berg- und einem Spitzahorn bestockt ist. Der Garten hinter dem Haus wird darüber hinaus von einem vielfältigen, alten Obstbaumbestand geprägt (zwei Bäume als Stadtbiotop gekennzeichnet) und am nördlichen sowie westlichen Rand von einer alten Weißdornhecke umgeben."
 
@@ -337,6 +347,14 @@ Die Entscheidung fiel auf **Variante 1** – der Obstgarten wird der Aue zugesch
 - Eine Trassenführung, die den Obstgarten einschließt, hätte möglicherweise den wertvollen Baumbestand erhalten können
 - Die höheren Baukosten einer solchen Variante wurden nicht gegen den dauerhaften Biotopverlust abgewogen
 
+**d) Planungsunsicherheit eingestanden:**
+
+Die Planunterlagen selbst empfehlen ein **Langzeit-Monitoring** für den Obstgarten Wöhrdstraße 41, was ein Eingeständnis erheblicher Unsicherheit darstellt:
+
+> „Bei der ökologischen Baubegleitung wird ein Langzeit-Monitoring empfohlen [...] das möglicherweise zunehmende Krankheiten oder gar Absterben von Gehölzen feststellen kann." (UVS, S. 248)
+
+Diese Formulierung zeigt, dass die Planer selbst mit negativen Auswirkungen auf die verbleibenden Gehölze rechnen – ein weiteres Argument für die unzureichende Berücksichtigung des Biotopverlusts in der Variantenentscheidung.
+
 ### 4.6 Belastungen während der Bauphase
 
 - **Baulärm und Erschütterungen** über mindestens 4-5 Jahre
@@ -360,13 +378,23 @@ Diese Grunddienstbarkeiten bedeuten:
 - **Einschränkung der Eigentumsrechte** auf unbestimmte Zeit
 - Das **Technikgebäude mit Trafoanlage** bleibt dauerhaft auf dem Grundstück
 
-### 4.8 Parkplatzsituation
+### 4.8 Unvollständiger Gebäudeschutz trotz massiver Eingriffe
+
+Die Planunterlagen räumen offen ein, dass trotz der massiven und teuren Eingriffe **Keller und Tiefgaragen weiterhin ungeschützt bleiben**:
+
+> „Keller, Garagen und Gebäudeteile, die bisher nicht zu Wohnzwecken dienen, bleiben weiterhin ungeschützt." (UVS, S. 172)
+
+> „Bei Bedarf müssen Keller und Tiefgaragen geflutet werden." (UVS, S. 107)
+
+Dies wirft die grundsätzliche Frage der **Verhältnismäßigkeit** auf: Wenn trotz Baukosten von 50-55 Mio. Euro und jahrelanger Baubelastung die Keller ungeschützt bleiben, rechtfertigt dies die massiven Eingriffe in Privateigentum, Naturschutz und Denkmalschutz?
+
+### 4.9 Parkplatzsituation
 
 - Reduzierung von Parkplätzen vorgesehen (Bericht, S. 48, 52, 56)
 - Jacobigelände als „Baustelleneinrichtungsfläche" über Jahre nicht nutzbar (Bericht, S. 39, 92 f.)
 - Fehlende verlässliche Aussagen zu Ausgleichsstellplätzen
 
-### 4.9 Fehlende Konkretisierung
+### 4.10 Fehlende Konkretisierung
 
 Die Planunterlagen sind bezüglich der konkreten Auswirkungen auf die Anwohner viel zu unbestimmt:
 
@@ -396,9 +424,13 @@ Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
 8. **Alternative Maßnahmen:** Die HWS-Maßnahmen fokussieren einseitig eine unerprobte technokratische Maximallösung. **Flexiblere und umsichtigere Alternativen** (mobile Elemente, differenzierter Maßnahmenmix) werden nicht ernsthaft verfolgt.
 
-9. **Variantenentscheidung Obstgarten:** Die Entscheidung, den als „hochwertig" bezeichneten Obstgarten der Wöhrdstraße 41 der Überflutungszone zuzuschlagen, erfolgte **ohne angemessene Abwägung des Biotopverlusts** und der artenschutzrechtlichen Betroffenheit (nachgewiesene Feldsperling-Brutpaare).
+9. **Variantenentscheidung Obstgarten:** Die Entscheidung, den als „hochwertig" bezeichneten Obstgarten der Wöhrdstraße 41 der Überflutungszone zuzuschlagen, erfolgte **ohne angemessene Abwägung des Biotopverlusts** und der artenschutzrechtlichen Betroffenheit (nachgewiesene Feldsperling-Brutpaare). Die Planunterlagen selbst räumen ein, dass ein Langzeit-Monitoring notwendig ist, da „zunehmende Krankheiten oder gar Absterben von Gehölzen" erwartet werden.
 
 10. **Dauerhafte Eigentumsbelastungen:** Die im Grundstücksverzeichnis dokumentierten **dauerhaften Grunddienstbarkeiten** (Betretungsrecht, Nutzungseinschränkungen, Technikgebäude) stellen erhebliche Eigentumseingriffe dar, deren Verhältnismäßigkeit nicht hinreichend geprüft wurde.
+
+11. **Unvollständiger Schutz:** Trotz Kosten von 50-55 Mio. Euro und massiver Eingriffe **bleiben Keller und Tiefgaragen ungeschützt** und müssen bei Hochwasser weiterhin geflutet werden. Dies stellt die Verhältnismäßigkeit des gesamten Vorhabens infrage.
+
+12. **Mulmhöhlenbaum Wöhrdstraße 41:** Baum Nr. 39 (Kultur-Apfel) ist einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet und beherbergt xylobionte Käferarten. Seine Fällung zerstört einen nicht kurzfristig ersetzbaren Lebensraum.
 
 ---
 
@@ -416,7 +448,10 @@ Ich beantrage daher:
 
 5. Die **ernsthafte Prüfung weniger eingriffsintensiver Alternativen**
 
-6. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004) und der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
+6. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere:
+   - des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004)
+   - der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
+   - des Kultur-Apfels (Baum Nr. 39) mit Mulmhöhle – einer von nur drei solchen Bäumen im gesamten Projektgebiet
 
 7. Die **Prüfung alternativer Standorte** für das geplante Technikgebäude mit Trafoanlage außerhalb des geschützten Gartenbereichs
 
