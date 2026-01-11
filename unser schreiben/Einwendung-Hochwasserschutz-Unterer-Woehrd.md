@@ -204,14 +204,6 @@ Die UVS bezieht zwar das FFH-Gebiet DE6741371 ein (UVS, S. 19, 55 f., 205, 249).
 - Nach Bayerischem Naturschutzgesetz streng geschützt
 - Analoge Betroffenheit wie beim Nachtreiher
 
-**Biber:**
-
-Die UVS dokumentiert einen aktiven Biber-Lebensraum im unmittelbaren Projektgebiet:
-
-> „Gemäß Information des Umweltamts befindet sich auf der Lazarettspitze ein Bibernebenbau. In den letzten Jahren ist eine Zunahme an Fraßspuren und Einbruchstellen an den Böschungen zur Donau festzustellen – und zwar dort, wo Bäume nicht mehr mit Drahthosen geschützt werden." (UVS, S. 63)
-
-Der Biber ist als FFH-Anhang-IV-Art streng geschützt. Die fünfjährige Bauphase mit erheblichen Störungen im Uferbereich kann zur Aufgabe des Nebenbaus führen.
-
 Ohne FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471 könnten die Planungen **rechtlichen Bedenken begegnen**, da dieser öffentliche Belang nicht in die Abwägung eingebracht werden kann. Eine Prüfung wäre nach **Art. 6 FFH-Richtlinie** und **§ 34 BNatSchG** erforderlich.
 
 **Rechtsprechung:** Das BVerwG hat wiederholt entschieden, dass eine FFH-Verträglichkeitsprüfung durchzuführen ist, wenn nach der Vorprüfung Zweifel an der Verträglichkeit verbleiben (BVerwG, Urteil vom 12.03.2008, Az. 9 A 3.06). Kompensationsmaßnahmen sind nur ausnahmsweise geeignet, die FFH-Verträglichkeit sicherzustellen (BVerwG, Urteil vom 21.01.2016, Az. 4 A 5.14).

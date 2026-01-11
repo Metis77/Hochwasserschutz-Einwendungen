@@ -1,33 +1,17 @@
-# Auftrag an CLAUDE
-
-## Ziel
-
-Erstellung einer fundierten Einwendung gegen das Planfeststellungsverfahren für den Hochwasserschutz Unterer Wöhrd (AZ.: 31.1.2. Pl-HWS-H/Unterer Wöhrd).
-
-## Ausgangslage
-
-- **Vorlage:** `./Sonstige Dokumente/Bernhard-Einwendung Hochwasserschutz v2.pdf` (Dr. Löffler)
-- **Einwendung:** `./unser schreiben/Einwendung-Hochwasserschutz-Unterer-Woehrd.md`
-- **Anpassung:** Ohne Punkt 2 (Haus Wöhrdstr. 3)
-- **Planunterlagen:** 178 PDFs konvertiert nach `./markdown/`
-
-## Schreibstil
-
-- Freundlich und wohlgesonnen gegenüber Stadt/Behörden
-- Juristisch präzise und sachlich fundiert
-
 # Einwendung Hochwasserschutz Unterer Wöhrd
 
 **AZ.: 31.1.2. Pl-HWS-H/Unterer Wöhrd**
 
 ## Übersicht
 
-|                            |                                                                                                                  |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Einwendung**             | [Einwendung-Hochwasserschutz-Unterer-Woehrd.md](unser%20schreiben/Einwendung-Hochwasserschutz-Unterer-Woehrd.md) |
-| **Einwendungsfrist**       | 16. Januar 2026                                                                                                  |
-| **Betroffenes Grundstück** | Wöhrdstraße 41 (Flurstück 1791)                                                                                  |
-| **Planabschnitt**          | PA 1                                                                                                             |
+|                            |                                                                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Einwendung (V2)**        | [Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md](unser%20schreiben/Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md) |
+| **Einwendungsfrist**       | 16. Januar 2026                                                                                                        |
+| **Betroffenes Grundstück** | Wöhrdstraße 41 (Flurstück 1791)                                                                                        |
+| **Planabschnitt**          | PA 1                                                                                                                   |
+
+**Vorlage:** `./Sonstige Dokumente/Bernhard-Einwendung Hochwasserschutz v2.pdf` (Dr. Löffler)
 
 ## Planunterlagen
 
@@ -53,14 +37,15 @@ Erstellung einer fundierten Einwendung gegen das Planfeststellungsverfahren für
 
 **Biotopwertung (D 6.0, S. 6):** Der Garten ist als "besonders schutzwürdig" dokumentiert (B432 - Streuobstbestand). Zwei Bäume sind als Stadtbiotop erfasst.
 
-## Kernpunkte der Einwendung
+## Kernpunkte der Einwendung (V2)
 
-1. **Fehlende FFH-VP** für SPA-Gebiet DE7040471
-2. **Veraltete Artenschutzdaten** (Fischfauna 2008-2015)
-3. **Unrealistische Bauzeit** (5 Jahre bei 13 Jahren Summe PA 4+6+7)
-4. **Fragwürdiges Kosten-Nutzen-Verhältnis**
-5. **Unzureichende Biotop-Kompensation** vor Ort
-6. **Artenschutz Feldsperling** - Bauzeitenbeschränkung März-Juli in PA 1
+1. **Verhältnismäßigkeit** – Komplexe Polderlösung ohne erprobtes Vorbild
+2. **Klimazuschlag** – Verzicht auf 15% HQ100-Zuschlag (Art. 44 BayWG)
+3. **Kosten-Nutzen-Verhältnis** – 50 Mio. € Baukosten vs. 50-75 Mio. € 100-Jahres-Schäden
+4. **Veraltete Artenschutzdaten** – Fischfauna 2008-2015, Mollusken 2018
+5. **Bauzeit** – 5 Jahre Gesamtbauzeit bei komplexen Abhängigkeiten
+6. **Biotop Wöhrdstraße 41** – Besonders schutzwürdiger Garten, Stadtbiotop-Bäume
+7. **Artenschutz Feldsperling** – Bauzeitenbeschränkung März-Juli in PA 1
 
 ## Projektdaten
 

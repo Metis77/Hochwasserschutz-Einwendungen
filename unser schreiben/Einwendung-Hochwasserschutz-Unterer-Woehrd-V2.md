@@ -129,6 +129,7 @@ Die Baukosten entsprechen bereits der unteren Grenze der geschätzten 100-Jahres
 
 Bei korrekter wirtschaftlicher Betrachtung dürfte das Kosten-Nutzen-Verhältnis ungünstiger ausfallen als in der vereinfachten Darstellung.
 
+<div style="page-break-before: always;"></div>
 ### 1.7 Zur Bürgerbeteiligung
 
 Die Rahmenbedingungen der Bürgerbeteiligung waren anspruchsvoll:
@@ -188,14 +189,6 @@ Die faunistischen Untersuchungen (Anlage F 5.1) dokumentieren bemerkenswerte Art
 - Früher Brutvogel am Unteren Wöhrd, heute Gast
 - Nach Bayerischem Naturschutzgesetz streng geschützt
 - Regelmäßig im Projektgebiet anzutreffen
-
-**Biber:**
-
-Die UVS dokumentiert einen aktiven Biber-Lebensraum im unmittelbaren Projektgebiet:
-
-> „Gemäß Information des Umweltamts befindet sich auf der Lazarettspitze ein Bibernebenbau. In den letzten Jahren ist eine Zunahme an Fraßspuren und Einbruchstellen an den Böschungen zur Donau festzustellen." (UVS, S. 63)
-
-Der Biber ist als FFH-Anhang-IV-Art streng geschützt. Die mehrjährige Bauphase mit erheblichen Störungen im Uferbereich kann zur Aufgabe des Nebenbaus führen.
 
 ### 2.4 Datengrundlagen der Artenschutzprüfung
 
@@ -282,6 +275,8 @@ Die spezielle artenschutzrechtliche Prüfung (saP, Anlage D 3.0) bestätigt die 
 
 Diese Bauzeitenbeschränkung von **fünf Monaten pro Jahr** (März bis Juli) zeigt, dass die Planer selbst die hohe artenschutzrechtliche Sensibilität des Areals anerkennen. Die Konsequenz ist jedoch begrenzt: Statt den wertvollen Lebensraum zu erhalten, werden lediglich die Bauzeiten eingeschränkt – während die Baumfällungen und die Errichtung des Technikgebäudes den Lebensraum dauerhaft verändern.
 
+<div style="page-break-before: always;"></div>
+
 ### 4.4 Zerstörung eines besonders schutzwürdigen Biotops
 
 Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6-7) als **besonders schutzwürdig** dokumentiert:
@@ -333,6 +328,8 @@ Diese Formulierung zeigt, dass die Planer mit negativen Auswirkungen auf die ver
 
 **Verlängerung durch Bauzeitenbeschränkungen:** Da im Bereich PA 1 (Wöhrdstr. 41 bis Maffeistraße) laut saP lärm- und erschütterungsintensive Arbeiten von März bis Ende Juli ausgesetzt werden müssen (siehe 4.3), verlängert sich die effektive Bauzeit in diesem Bereich. Die ohnehin mehrjährige Bauphase könnte sich bei konsequenter Einhaltung der Artenschutzauflagen weiter ausdehnen.
 
+<div style="page-break-before: always;"></div>
+
 ### 4.7 Dauerhafte Grunddienstbarkeiten und Nutzungseinschränkungen
 
 Das Grundstücksverzeichnis (Anlage H 2) dokumentiert weitreichende **dauerhafte Beschränkungen** für das Flurstück 1791:
@@ -363,8 +360,6 @@ Die Planunterlagen sind bezüglich der konkreten Auswirkungen auf die Anwohner t
 > „Der konkrete Umfang notwendiger Einschränkungen während der Bauzeit kann erst im Zuge der Ausführungsplanung mit Festlegung der Bauverfahren und Bauzeiten angegeben werden." (Bericht, S. 87)
 
 Eine Konkretisierung wäre für die Beurteilung der Betroffenheit hilfreich.
-
----
 
 ## 5. Zusammenfassung
 
@@ -407,6 +402,7 @@ Ich beantrage daher:
 4. Die **Prüfung weniger eingriffsintensiver Alternativen** für den Bereich Wöhrdstraße 41
 
 5. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere:
+
    - des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004)
    - der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
    - des Kultur-Apfels (Baum Nr. 39) mit Mulmhöhle – einer von nur drei solchen Bäumen im gesamten Projektgebiet
