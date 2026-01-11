@@ -130,6 +130,7 @@ Die Baukosten entsprechen bereits der unteren Grenze der geschätzten 100-Jahres
 Bei korrekter wirtschaftlicher Betrachtung dürfte das Kosten-Nutzen-Verhältnis ungünstiger ausfallen als in der vereinfachten Darstellung.
 
 <div style="page-break-before: always;"></div>
+
 ### 1.7 Zur Bürgerbeteiligung
 
 Die Rahmenbedingungen der Bürgerbeteiligung waren anspruchsvoll:
