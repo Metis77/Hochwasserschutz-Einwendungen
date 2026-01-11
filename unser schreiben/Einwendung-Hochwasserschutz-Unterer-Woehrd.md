@@ -355,6 +355,25 @@ Die Planunterlagen selbst empfehlen ein **Langzeit-Monitoring** für den Obstgar
 
 Diese Formulierung zeigt, dass die Planer selbst mit negativen Auswirkungen auf die verbleibenden Gehölze rechnen – ein weiteres Argument für die unzureichende Berücksichtigung des Biotopverlusts in der Variantenentscheidung.
 
+**e) Stadtgestalterische Alternativen nicht geprüft:**
+
+Die vorliegenden Planunterlagen fokussieren ausschließlich auf eine rein technische Hochwasserschutzlösung (Mauern, Untergrundabdichtungen, Pumpwerke). Moderne Hochwasserschutzkonzepte zeigen jedoch, dass integrative Ansätze möglich sind, die Hochwasserschutz mit städtebaulicher Aufwertung verbinden.
+
+Internationale Best-Practice-Beispiele belegen dies:
+
+- **Kopenhagen (Cloudburst Management Plan):** Integration von Regenwassermanagement in den öffentlichen Raum mit multifunktionalen Grünflächen
+- **Basel (Rheinufergestaltung):** Kombination von Hochwasserschutz mit öffentlicher Aufenthaltsqualität
+- **Hamburg (HafenCity):** Städtebaulich integrierte Hochwasserschutzlösungen
+
+Eine wissenschaftliche Untersuchung der Universität Kassel hat speziell für den Unteren Wöhrd alternative Konzepte entwickelt, die einen differenzierteren Umgang mit dem Hochwasserrisiko vorschlagen (Roggenstein, Marc: *Leben mit dem Wasser – Städtebau im Umgang mit Hochwasser und Starkregen*, Masterarbeit, Universität Kassel, Fachbereich Architektur, Stadtplanung, Landschaftsplanung, Wintersemester 2023/2024):
+
+- **Zonenkonzept:** Differenzierte Behandlung verschiedener Bereiche der Insel statt uniformer Mauerlösung
+- **Multifunktionale Freiräume:** Nutzung von Überflutungsflächen als Erholungsräume in Nicht-Hochwasserzeiten
+- **Gebäudebasierte Maßnahmen:** Objektschutz und Anpassung statt flächendeckender Abdichtung
+- **Integration von Starkregenschutz:** Berücksichtigung urbaner Sturzfluten (die durch die geplanten Maßnahmen sogar verschärft werden könnten)
+
+Diese Alternativen wurden in der Variantenprüfung nicht berücksichtigt. Die einseitige Fokussierung auf die technokratische Maximallösung widerspricht dem Grundsatz, dass **zumutbare Alternativen ernsthaft zu prüfen sind** (§ 34 Abs. 3 Nr. 2 BNatSchG).
+
 ### 4.6 Belastungen während der Bauphase
 
 - **Baulärm und Erschütterungen** über mindestens 4-5 Jahre
@@ -432,6 +451,8 @@ Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
 12. **Mulmhöhlenbaum Wöhrdstraße 41:** Baum Nr. 39 (Kultur-Apfel) ist einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet und beherbergt xylobionte Käferarten. Seine Fällung zerstört einen nicht kurzfristig ersetzbaren Lebensraum.
 
+13. **Stadtgestalterische Alternativen ignoriert:** Internationale Best-Practice-Beispiele (Kopenhagen, Basel, Hamburg) und eine wissenschaftliche Masterarbeit der Universität Kassel speziell zum Unteren Wöhrd (Roggenstein, WS 2023/2024) zeigen, dass **integrative Hochwasserschutzkonzepte** möglich sind, die Schutz mit städtebaulicher Aufwertung verbinden. Diese wurden nicht ernsthaft geprüft.
+
 ---
 
 ## 6. Anträge
@@ -460,6 +481,8 @@ Ich beantrage daher:
 9. Die **Konkretisierung der dauerhaften Grunddienstbarkeiten** und Nutzungseinschränkungen für das Flurstück 1791, insbesondere hinsichtlich Umfang und Häufigkeit des Betretungsrechts
 
 10. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
+
+11. Die **Prüfung stadtgestalterisch integrierter Hochwasserschutzkonzepte** nach internationalen Best-Practice-Vorbildern (Kopenhagen, Basel, Hamburg), einschließlich der wissenschaftlichen Erkenntnisse zu alternativen Ansätzen für den Unteren Wöhrd
 
 ---
 
