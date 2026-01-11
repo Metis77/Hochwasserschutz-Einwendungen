@@ -6,7 +6,7 @@ Erstellung einer fundierten Einwendung gegen das Planfeststellungsverfahren für
 
 ## Ausgangslage
 
-- **Vorlage:** `./unser schreiben/Bernhard-Einwendung Hochwasserschutz v2.pdf` (Dr. Löffler)
+- **Vorlage:** `./Sonstige Dokumente/Bernhard-Einwendung Hochwasserschutz v2.pdf` (Dr. Löffler)
 - **Einwendung:** `./unser schreiben/Einwendung-Hochwasserschutz-Unterer-Woehrd.md`
 - **Anpassung:** Ohne Punkt 2 (Haus Wöhrdstr. 3)
 - **Planunterlagen:** 178 PDFs konvertiert nach `./markdown/`
