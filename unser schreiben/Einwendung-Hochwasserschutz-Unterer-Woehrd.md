@@ -27,9 +27,9 @@ Sehr geehrte Damen und Herren,
 
 hiermit erhebe ich fristgerecht Einwendungen gegen das oben genannte Planfeststellungsverfahren.
 
-Einleitend möchte ich betonen, dass ich die grundsätzliche Notwendigkeit eines umsichtigen und differenzierten Hochwasserschutzes nicht bestreite. Allerdings sind die vorliegenden Planungen nach meiner Einschätzung in erheblichem Maße unverhältnismäßig und in mehrfacher Hinsicht rechtlich bedenklich.
+Einleitend möchte ich betonen, dass ich die grundsätzliche Notwendigkeit eines wirksamen Hochwasserschutzes für den Unteren Wöhrd ausdrücklich anerkenne. Die Bemühungen der Stadt Regensburg und des Wasserwirtschaftsamts, die Bewohnerinnen und Bewohner vor Hochwasserereignissen zu schützen, verdienen Anerkennung. Gleichwohl werfen die vorliegenden Planungen aus meiner Sicht Fragen hinsichtlich der Verhältnismäßigkeit und der Abwägung verschiedener Schutzgüter auf, die ich im Folgenden darlegen möchte.
 
-Als Mieter in der Wöhrdstraße bin ich von den geplanten HWS-Maßnahmen unmittelbar und persönlich betroffen. Die nachfolgend dargelegten Einwendungen betreffen sowohl meine persönlichen Belange als auch öffentliche Interessen des Natur-, Arten- und Denkmalschutzes, die ich als Bürger geltend mache.
+Als Mieter in der Wöhrdstraße bin ich von den geplanten HWS-Maßnahmen unmittelbar betroffen und habe mich daher intensiv mit den Planunterlagen auseinandergesetzt. Die nachfolgenden Anmerkungen betreffen sowohl meine persönlichen Belange als auch öffentliche Interessen des Natur-, Arten- und Denkmalschutzes, die ich als Bürger in das Verfahren einbringe. Ich verstehe diese Einwendung als konstruktiven Beitrag zum Planungsprozess.
 
 Ich gliedere meine Einwendungen in mehrere Abschnitte und beziehe mich dabei vornehmlich auf den Erläuterungsbericht (Anlage A, nachfolgend „Bericht") und die Umweltverträglichkeitsstudie (Anlage D 1.0, nachfolgend „UVS").
 
@@ -37,11 +37,11 @@ Ich gliedere meine Einwendungen in mehrere Abschnitte und beziehe mich dabei vor
 
 ## 1. Allgemeines und grundsätzliche Einwendungen
 
-### 1.1 Fragwürdige Ausgangsprämisse „Gefahr für Leib und Leben"
+### 1.1 Zur Ausgangsprämisse „Gefahr für Leib und Leben"
 
-Die zentrale Rechtfertigung für die Massivität der geplanten Eingriffe ist die angeblich erhebliche „Gefährdung für Leib und Leben sowie die Gesundheit der Menschen" durch ein Hochwasser HQ100 (Bericht, S. 23, 80; UVS, S. 115, 190).
+Die zentrale Rechtfertigung für den Umfang der geplanten Eingriffe ist die angeführte „Gefährdung für Leib und Leben sowie die Gesundheit der Menschen" durch ein Hochwasser HQ100 (Bericht, S. 23, 80; UVS, S. 115, 190).
 
-Diese Begründung erscheint mir nicht hinreichend belegt:
+Diese Begründung bedarf aus meiner Sicht weiterer Erläuterung:
 
 - Anders als bei Kerbtälern wie dem Ahrtal besteht bei einem breiten Sohlental wie dem Donautal keine vergleichbare unmittelbare Gefahr durch schnell ansteigende Fluten
 - Die Planunterlagen selbst verweisen auf über 48-stündige Vorwarnzeiten bei Hochwasser und sehen trotz vollzogener HWS-Maßnahmen planvolle Evakuierungen ab HW50 vor (Bericht, S. 77; UVS, S. 195, 200, 219, 237, 248)
@@ -94,13 +94,21 @@ Die Kosten werden nur äußerst vage mit ca. 50-55 Mio. Euro brutto angegeben (B
 - Die Ufermauer aus den 1930er Jahren ist in baulich kritischem Zustand; ihre „Standsicherheit nicht mehr nachzuweisen" (Bericht, S. 18)
 - Diese Sanierung MUSS VOR den HWS-Bauarbeiten erfolgen, liegt aber außerhalb der Projektverantwortung
 
-Die Kostenschätzung erscheint angesichts vergleichbarer Großprojekte (z.B. Sanierung Münchner Stadtmuseum: 270 Mio. Euro für ein einzelnes Gebäude) **unrealistisch niedrig**. Ohne tragfähige Kostenermittlung ist eine ordnungsgemäße Verhältnismäßigkeitsprüfung nicht möglich.
+**Einordnung durch Vergleichsprojekte:**
 
-### 1.5 Unrealistische Bauzeitplanung
+Ein Vergleich mit anderen bayerischen Hochwasserschutzprojekten lässt die Kostenschätzung hinterfragen:
+
+- **Hochwasserschutz Regensburg gesamt:** Für alle 18 Abschnitte sind laut Wasserwirtschaftsamt über 150 Mio. Euro veranschlagt. Der Untere Wöhrd (1 von 18 Abschnitten) soll mit 50-55 Mio. Euro bereits **ein Drittel der Gesamtkosten** ausmachen.
+- **Passau Lindau/Sulzsteg:** 1.275 Meter Schutzlinie mit HQ500-Schutzziel kosteten 38,8 Mio. Euro (Quelle: WWA Deggendorf). Der Untere Wöhrd soll für 50-55 Mio. Euro nur HQ100-Schutz bieten.
+- **Garmisch-Partenkirchen (Kanker/Partnach):** Eines der größten Wildbachprojekte Bayerns mit HQ100-Schutz wurde für 46 Mio. Euro fertiggestellt (Quelle: StMUV Bayern, 2024).
+
+Die Kostenschätzung erscheint angesichts dieser Vergleiche und der besonderen Komplexität des Vorhabens (Untergrundabdichtung bis 15 m Tiefe, Polderlösung, UNESCO-Welterbe) **erklärungsbedürftig**. Eine detailliertere Kostenermittlung wäre für eine fundierte Verhältnismäßigkeitsprüfung hilfreich.
+
+### 1.5 Zur Bauzeitplanung
 
 Die geschätzte Gesamtbauzeit beträgt ca. 5 Jahre, mit Baubeginn nicht vor 2028 (Bericht, S. 94).
 
-**Widerspruch in den Planunterlagen:**
+**Nachfrage zur Parallelisierung:**
 
 Die Bauzeiten der einzelnen Planabschnitte laut Bericht S. 94:
 
@@ -108,13 +116,13 @@ Die Bauzeiten der einzelnen Planabschnitte laut Bericht S. 94:
 - PA 6: ca. 4 Jahre
 - PA 7: ca. 5 Jahre
 
-Diese drei Abschnitte allein ergeben **13 Jahre Bauzeit** nacheinander. Selbst bei maximaler zeitlicher Überlagerung ist eine Gesamtbauzeit von nur 5 Jahren **mathematisch unmöglich**. Realistisch wären mindestens 7-9 Jahre.
+Diese drei Abschnitte allein ergeben **13 Jahre Bauzeit** bei sequentieller Ausführung. Selbst bei weitgehender zeitlicher Überlagerung erscheint eine Gesamtbauzeit von nur 5 Jahren **schwer nachvollziehbar**. Eine realistische Einschätzung läge vermutlich bei mindestens 7-9 Jahren.
 
 Hinzu kommen typische Risiken (Bodenbefunde, Wetterschäden, Lieferprobleme), die nicht einkalkuliert erscheinen. Die Erfahrungen mit den HWS-Maßnahmen am Oberen Wöhrd und entlang des Regen, wo die Bauzeiten erheblich überschritten wurden, verstärken diese Bedenken.
 
-### 1.6 Fragwürdiges Kosten-Nutzen-Verhältnis
+### 1.6 Zum Kosten-Nutzen-Verhältnis
 
-Die Kosten-Nutzen-Betrachtung in den Planunterlagen ist **methodisch fragwürdig** (Bericht S. 23 vs. S. 95):
+Die Kosten-Nutzen-Betrachtung in den Planunterlagen erscheint **methodisch ergänzungsbedürftig** (Bericht S. 23 vs. S. 95):
 
 - **Geschätzte Schäden über 100 Jahre ohne HWS:** 50-75 Mio. Euro
 - **Baukosten des Projekts:** 50 Mio. Euro
@@ -128,21 +136,17 @@ Die Baukosten entsprechen bereits der **unteren Grenze** der geschätzten 100-Ja
 
 Bei korrekter wirtschaftlicher Betrachtung dürfte das Kosten-Nutzen-Verhältnis **deutlich ungünstiger** ausfallen als dargestellt.
 
-### 1.7 Mangelhafte Bürgerbeteiligung
+### 1.7 Zur Bürgerbeteiligung
 
-Die Bürgerbeteiligung weist erhebliche Defizite auf:
+Die Rahmenbedingungen der Bürgerbeteiligung waren anspruchsvoll:
 
-- **179 Dateien mit 1,59 GB** Umfang sind für Laien in der gegebenen Zeit kaum zu bewältigen
-- Die **Auslage von 4 Wochen und Einwendungsfrist von 2 Monaten** fällt in die Advents-/Weihnachtszeit mit mehreren Feiertagen
+- **179 Dateien mit 1,59 GB** Umfang – eine beachtliche Lektüre für die Weihnachtszeit
+- Die **Auslage von 4 Wochen und Einwendungsfrist von 2 Monaten** fiel in die Advents-/Weihnachtszeit mit mehreren Feiertagen
 - Die **letzte Bürgerinformationsveranstaltung** fand am 26.07.2023 statt – unmittelbar vor den Sommerferien
 - Die **Information der Anlieger** erfolgte uneinheitlich (manche erhielten persönliche Schreiben, andere nicht)
 - Der **Stadtrat** ist bislang kaum informiert (vgl. Sitzungsmitschnitt Ausschuss Stadtplanung vom 16.12.2025)
 
-Das Verfahren verletzt damit den Grundsatz einer **transparenten Information und ordnungsgemäßen Bürgerbeteiligung**.
-
-### 1.8 Nicht abgedeckte Risiken
-
-Die Planunterlagen räumen ein, dass der **Anprall großer Ausflugsschiffe** an den Stilliegeplätzen Werftstraße „nicht planseits begegnet werden" kann (Bericht, S. 16). Dieses erhebliche Restrisiko wird auf nicht konkretisierte „organisatorische Maßnahmen" verlagert.
+Ich bin mir bewusst, dass Planfeststellungsverfahren nun einmal komplex sind. Dennoch würde eine bürgerfreundlichere Gestaltung (z.B. eine Zusammenfassung der wichtigsten Punkte, ein Termin außerhalb der Ferienzeit) die Akzeptanz des Verfahrens sicherlich erhöhen.
 
 ---
 
@@ -208,7 +212,7 @@ Die UVS dokumentiert einen aktiven Biber-Lebensraum im unmittelbaren Projektgebi
 
 Der Biber ist als FFH-Anhang-IV-Art streng geschützt. Die fünfjährige Bauphase mit erheblichen Störungen im Uferbereich kann zur Aufgabe des Nebenbaus führen.
 
-Ohne FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471 sind die Planungen **rechtswidrig**, da dieser öffentliche Belang nicht in die Abwägung eingebracht werden kann. Dies verstößt gegen **Art. 6 FFH-Richtlinie** und **§ 34 BNatSchG**.
+Ohne FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471 könnten die Planungen **rechtlichen Bedenken begegnen**, da dieser öffentliche Belang nicht in die Abwägung eingebracht werden kann. Eine Prüfung wäre nach **Art. 6 FFH-Richtlinie** und **§ 34 BNatSchG** erforderlich.
 
 **Rechtsprechung:** Das BVerwG hat wiederholt entschieden, dass eine FFH-Verträglichkeitsprüfung durchzuführen ist, wenn nach der Vorprüfung Zweifel an der Verträglichkeit verbleiben (BVerwG, Urteil vom 12.03.2008, Az. 9 A 3.06). Kompensationsmaßnahmen sind nur ausnahmsweise geeignet, die FFH-Verträglichkeit sicherzustellen (BVerwG, Urteil vom 21.01.2016, Az. 4 A 5.14).
 
@@ -260,16 +264,16 @@ Die Unterlagen führen nur den angeblich denkmalschützenden Aspekt an – die �
 - Verlust der historischen Kastanienbaumreihe in der westlichen Wöhrdstraße
 - Einbetonierung des Einzeldenkmals Proskestraße 5
 
-### 3.2 Irreführende Visualisierungen
+### 3.2 Zu den Visualisierungen
 
-Die visuellen Modellierungen in den Planunterlagen sind **beschönigend und irreführend**:
+Die visuellen Modellierungen in den Planunterlagen **geben möglicherweise nicht das vollständige Bild wieder**:
 
 - In der Visualisierung der Südseite PA 5 (UVS, S. 167, Abb. 26) stehen die alten Kastanienbäume noch und verdecken die HW-Mauer – obwohl sie alle gefällt werden sollen
-- Die Neupflanzung einer „Kilometer-Pappel nach historischem Vorbild" (Bericht, S. 57) ist ein Feigenblatt, während im direkten Umfeld mehrere Bäume gefällt werden
+- Die Neupflanzung einer „Kilometer-Pappel nach historischem Vorbild" (Bericht, S. 57) kann die Fällung mehrerer Bäume im direkten Umfeld nicht aufwiegen
 
 ### 3.3 Abwägungsdefizit
 
-Die negativen Auswirkungen auf den Denkmalschutz sind **nicht ausreichend in die Abwägung eingestellt**. Dieses Abwägungsdefizit macht die Entscheidung rechtswidrig.
+Die negativen Auswirkungen auf den Denkmalschutz erscheinen **nicht ausreichend in die Abwägung eingestellt**. Dies könnte einen Abwägungsfehler darstellen.
 
 ---
 
@@ -365,14 +369,9 @@ Internationale Best-Practice-Beispiele belegen dies:
 - **Basel (Rheinufergestaltung):** Kombination von Hochwasserschutz mit öffentlicher Aufenthaltsqualität
 - **Hamburg (HafenCity):** Städtebaulich integrierte Hochwasserschutzlösungen
 
-Eine wissenschaftliche Untersuchung der Universität Kassel hat speziell für den Unteren Wöhrd alternative Konzepte entwickelt, die einen differenzierteren Umgang mit dem Hochwasserrisiko vorschlagen (Roggenstein, Marc: *Leben mit dem Wasser – Städtebau im Umgang mit Hochwasser und Starkregen*, Masterarbeit, Universität Kassel, Fachbereich Architektur, Stadtplanung, Landschaftsplanung, Wintersemester 2023/2024):
+Auch für den Unteren Wöhrd wurden solche integrativen Ansätze bereits konzeptionell durchdacht – etwa in einer städtebaulichen Masterarbeit der Universität Kassel (Roggenstein 2024), die Zonenkonzepte, multifunktionale Freiräume und gebäudebasierte Maßnahmen als denkbare Alternativen skizziert. Dies zeigt, dass eine breitere Variantenprüfung möglich gewesen wäre.
 
-- **Zonenkonzept:** Differenzierte Behandlung verschiedener Bereiche der Insel statt uniformer Mauerlösung
-- **Multifunktionale Freiräume:** Nutzung von Überflutungsflächen als Erholungsräume in Nicht-Hochwasserzeiten
-- **Gebäudebasierte Maßnahmen:** Objektschutz und Anpassung statt flächendeckender Abdichtung
-- **Integration von Starkregenschutz:** Berücksichtigung urbaner Sturzfluten (die durch die geplanten Maßnahmen sogar verschärft werden könnten)
-
-Diese Alternativen wurden in der Variantenprüfung nicht berücksichtigt. Die einseitige Fokussierung auf die technokratische Maximallösung widerspricht dem Grundsatz, dass **zumutbare Alternativen ernsthaft zu prüfen sind** (§ 34 Abs. 3 Nr. 2 BNatSchG).
+Eine Prüfung solcher integrierter Lösungsansätze wäre im Sinne des naturschutzrechtlichen Vermeidungsgebots (§ 15 BNatSchG) wünschenswert.
 
 ### 4.6 Belastungen während der Bauphase
 
@@ -407,13 +406,7 @@ Die Planunterlagen räumen offen ein, dass trotz der massiven und teuren Eingrif
 
 Dies wirft die grundsätzliche Frage der **Verhältnismäßigkeit** auf: Wenn trotz Baukosten von 50-55 Mio. Euro und jahrelanger Baubelastung die Keller ungeschützt bleiben, rechtfertigt dies die massiven Eingriffe in Privateigentum, Naturschutz und Denkmalschutz?
 
-### 4.9 Parkplatzsituation
-
-- Reduzierung von Parkplätzen vorgesehen (Bericht, S. 48, 52, 56)
-- Jacobigelände als „Baustelleneinrichtungsfläche" über Jahre nicht nutzbar (Bericht, S. 39, 92 f.)
-- Fehlende verlässliche Aussagen zu Ausgleichsstellplätzen
-
-### 4.10 Fehlende Konkretisierung
+### 4.9 Fehlende Konkretisierung
 
 Die Planunterlagen sind bezüglich der konkreten Auswirkungen auf die Anwohner viel zu unbestimmt:
 
@@ -427,21 +420,21 @@ Diese Unverbindlichkeit verhindert eine **rechtssichere Beurteilung der Maßnahm
 
 Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
-1. **Abwägungsdefizit:** Die HWS-Maßnahmen bedeuten substantielle Eingriffe in persönliche Rechte und öffentliche Belange (Natur-, Arten- sowie Denkmalschutz), ohne dass es zu einer ordnungsgemäßen Abwägung der Chancen und Risiken gekommen wäre. Die Planungsunterlagen weisen einen **völlig unangemessenen Konkretisierungsgrad** auf.
+1. **Abwägungsdefizit:** Die HWS-Maßnahmen bedeuten substantielle Eingriffe in persönliche Rechte und öffentliche Belange (Natur-, Arten- sowie Denkmalschutz), ohne dass eine vollständige Abwägung der Chancen und Risiken erkennbar wäre. Die Planungsunterlagen weisen einen **verbesserungswürdigen Konkretisierungsgrad** auf.
 
-2. **Verhältnismäßigkeit:** Die HWS-Maßnahmen verletzen den verwaltungsrechtlichen **Grundsatz der Verhältnismäßigkeit**. Sie sind in dieser Massivität nirgends verlässlich erprobt, bergen große Risiken und schaffen teilweise neue Gefahren (Starkregenüberschwemmungen, kompliziertes Grundwassermanagement).
+2. **Verhältnismäßigkeit:** Die HWS-Maßnahmen werfen Fragen hinsichtlich des **Grundsatzes der Verhältnismäßigkeit** auf. Sie sind in dieser Komplexität kaum erprobt, bergen Risiken und schaffen teilweise neue Herausforderungen (Starkregenmanagement, kompliziertes Grundwassermanagement).
 
-3. **Kosten-Nutzen-Relation:** Die Maßnahmen sind auch mit Blick auf die **finanzielle Kosten-Nutzen-Rechnung nicht verhältnismäßig**. Die Kostenkalkulation ist unrealistisch und unvollständig. Die geschätzten 100-Jahres-Schäden (50-75 Mio. €) entsprechen den Baukosten, ohne Barwertberechnung oder Berücksichtigung von Betriebskosten.
+3. **Kosten-Nutzen-Relation:** Die **Kosten-Nutzen-Betrachtung** erscheint ergänzungsbedürftig. Die geschätzten 100-Jahres-Schäden (50-75 Mio. €) entsprechen den Baukosten, ohne Barwertberechnung oder Berücksichtigung von Betriebskosten.
 
-4. **Unrealistische Planungsannahmen:** Die Unterlagen enthalten **unrealistische Zeitplanungen** (5 Jahre Gesamtbauzeit bei 13 Jahren Summe der Einzelabschnitte PA 4, 6 und 7) und unvollständige Kostenschätzungen.
+4. **Planungsannahmen:** Die Unterlagen enthalten **optimistische Zeitplanungen** (5 Jahre Gesamtbauzeit bei 13 Jahren Summe der Einzelabschnitte PA 4, 6 und 7) und ergänzungsbedürftige Kostenschätzungen.
 
-5. **Naturschutzrechtliche Verstöße:** Den HWS-Maßnahmen fehlen eine **FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471** und eine hinreichende Beachtung des Artenschutzes mit aktuellen Daten. Dies verletzt europarechtliche bzw. naturschutzrechtliche Vorgaben.
+5. **Naturschutzrechtliche Fragen:** Den HWS-Maßnahmen fehlt eine **FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471**. Die Datengrundlagen des Artenschutzes bedürfen der Aktualisierung. Dies könnte europarechtliche bzw. naturschutzrechtliche Bedenken aufwerfen.
 
-6. **Denkmalschutzdefizit:** Die negativen Auswirkungen auf den Denkmalschutz im UNESCO-Weltkulturerbe sind **nicht ausreichend in die Abwägung eingestellt**.
+6. **Denkmalschutz:** Die negativen Auswirkungen auf den Denkmalschutz im UNESCO-Weltkulturerbe erscheinen **nicht ausreichend in die Abwägung eingestellt**.
 
-7. **Bürgerbeteiligung:** Das Verfahren **verletzt Grundsätze einer hinreichend transparenten bürgerlichen Partizipation**.
+7. **Bürgerbeteiligung:** Die Rahmenbedingungen des Verfahrens (Umfang, Zeitraum) **erschweren eine fundierte bürgerliche Partizipation**.
 
-8. **Alternative Maßnahmen:** Die HWS-Maßnahmen fokussieren einseitig eine unerprobte technokratische Maximallösung. **Flexiblere und umsichtigere Alternativen** (mobile Elemente, differenzierter Maßnahmenmix) werden nicht ernsthaft verfolgt.
+8. **Alternative Maßnahmen:** Die HWS-Maßnahmen fokussieren auf eine rein technische Lösung. **Flexiblere und integrative Alternativen** (mobile Elemente, differenzierter Maßnahmenmix) verdienen aus meiner Sicht stärkere Berücksichtigung.
 
 9. **Variantenentscheidung Obstgarten:** Die Entscheidung, den als „hochwertig" bezeichneten Obstgarten der Wöhrdstraße 41 der Überflutungszone zuzuschlagen, erfolgte **ohne angemessene Abwägung des Biotopverlusts** und der artenschutzrechtlichen Betroffenheit (nachgewiesene Feldsperling-Brutpaare). Die Planunterlagen selbst räumen ein, dass ein Langzeit-Monitoring notwendig ist, da „zunehmende Krankheiten oder gar Absterben von Gehölzen" erwartet werden.
 
@@ -451,7 +444,7 @@ Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
 12. **Mulmhöhlenbaum Wöhrdstraße 41:** Baum Nr. 39 (Kultur-Apfel) ist einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet und beherbergt xylobionte Käferarten. Seine Fällung zerstört einen nicht kurzfristig ersetzbaren Lebensraum.
 
-13. **Stadtgestalterische Alternativen ignoriert:** Internationale Best-Practice-Beispiele (Kopenhagen, Basel, Hamburg) und eine wissenschaftliche Masterarbeit der Universität Kassel speziell zum Unteren Wöhrd (Roggenstein, WS 2023/2024) zeigen, dass **integrative Hochwasserschutzkonzepte** möglich sind, die Schutz mit städtebaulicher Aufwertung verbinden. Diese wurden nicht ernsthaft geprüft.
+13. **Stadtgestalterische Alternativen ignoriert:** Internationale Best-Practice-Beispiele (Kopenhagen, Basel, Hamburg) zeigen, dass **integrative Hochwasserschutzkonzepte** möglich sind, die Schutz mit städtebaulicher Aufwertung verbinden. Dass solche Ansätze auch für den Unteren Wöhrd denkbar wären, wurde konzeptionell bereits skizziert. Eine breitere Variantenprüfung wäre wünschenswert gewesen.
 
 ---
 
@@ -482,7 +475,7 @@ Ich beantrage daher:
 
 10. Eine **angemessene Verlängerung der Einwendungsfrist** unter Berücksichtigung der Komplexität der Unterlagen
 
-11. Die **Prüfung stadtgestalterisch integrierter Hochwasserschutzkonzepte** nach internationalen Best-Practice-Vorbildern (Kopenhagen, Basel, Hamburg), einschließlich der wissenschaftlichen Erkenntnisse zu alternativen Ansätzen für den Unteren Wöhrd
+11. Die **Prüfung stadtgestalterisch integrierter Hochwasserschutzkonzepte** nach internationalen Best-Practice-Vorbildern (Kopenhagen, Basel, Hamburg)
 
 ---
 
