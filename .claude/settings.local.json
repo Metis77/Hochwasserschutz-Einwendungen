@@ -34,7 +34,11 @@
       "Bash(pip3 list:*)",
       "Bash(md-to-pdf:*)",
       "Bash(pdfinfo:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(export PATH=\"/Library/TeX/texbin:$PATH\")",
+      "Bash(pip3 install:*)",
+      "Bash(pip install:*)",
+      "Bash(python3:*)"
     ]
   }
 }
