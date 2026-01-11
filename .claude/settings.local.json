@@ -32,7 +32,9 @@
       "Bash(pandoc:*)",
       "Bash(brew list:*)",
       "Bash(pip3 list:*)",
-      "Bash(md-to-pdf:*)"
+      "Bash(md-to-pdf:*)",
+      "Bash(pdfinfo:*)",
+      "Bash(node:*)"
     ]
   }
 }
