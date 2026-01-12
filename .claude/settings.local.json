@@ -39,7 +39,8 @@
       "Bash(pip3 install:*)",
       "Bash(pip install:*)",
       "Bash(python3:*)",
-      "Bash(timeout 60 md-to-pdf:*)"
+      "Bash(timeout 60 md-to-pdf:*)",
+      "Bash(npx md-to-pdf:*)"
     ]
   }
 }
