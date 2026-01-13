@@ -74,7 +74,7 @@ Die geplanten HWS-Maßnahmen verletzen den für ein Planfeststellungsverfahren v
 
 - Die Planunterlagen räumen ausdrücklich ein: „Mit den abdichtenden HWS-Maßnahmen könnten bei Starkregenereignissen Schäden entstehen, die ohne HWS-Maßnahmen nicht eintreten würden" (Bericht, S. 83)
 
-### 1.3 Objektschutz als zu prüfende Alternative
+### 1.3 Mangelhafte Alternativenprüfung – insbesondere Objektschutz
 
 Die UVS führt Objektschutz lediglich als abstrakte Möglichkeit an, ohne jedoch eine nachvollziehbare Variantenprüfung, Wirkungsanalyse oder technische Bewertung vorzunehmen. Damit bleibt ein gesetzlich erforderlicher Planungsschritt unbeleuchtet.
 
@@ -88,29 +88,9 @@ Das Vorhaben unterliegt mehreren zwingenden gesetzlichen Anforderungen:
 - **§ 13 und § 36 WHG** beschränken erlaubte Eingriffe im Wasserhaushalt ausdrücklich auf solche, die zur Zielerreichung erforderlich sind
 - **§ 1 und § 4 BayDSchG** verpflichten zu einer Planung, die denkmalverträgliche Lösungen bevorzugt und Eingriffe nur dann zulässt, wenn sie alternativlos sind
 
-**Objektschutz für das Gebäude Wöhrdstraße 41:**
-
-Für unser Gebäude wäre ein wirkungsgleicher Hochwasserschutz mit deutlich geringerem Eingriffsaufwand denkbar – etwa durch Objektschutz an den Gebäudeeingängen mittels mobiler Dammbalkensysteme und Rückstausicherungstechnik. Solche Systeme werden bundesweit eingesetzt und sind an Baudenkmalen geübte Praxis.
-
-Unser Nachbar Florian Gebauer, der als Architekt an der Generalsanierung des Gebäudes 1996/97 beteiligt war, führt in seiner Einwendung detailliert aus, warum ein solcher Objektschutz hier fachlich gleichwertig wäre:
-
-- Erhöhte Lage des Gebäudes im Gelände (höchstgelegener Punkt am Unteren Wöhrd)
-- Keine Unterkellerung des Gebäudes
-- Bauphysikalische Eignung des Natursteinmauerwerks
-- Nachgewiesene Schadensfreiheit bei HQ 2002 und HQ 2013
-- Geringe Eintrittswahrscheinlichkeit von schadensrelevantem Oberflächenwasser
-
-Wir schließen uns seiner bautechnischen Bewertung an und unterstützen seine Forderung nach einer vollständigen Alternativenprüfung gemäß § 16 UVPG.
-
-**Vorteile des Objektschutzes:**
-
-- **Reversibilität** – jederzeit rückbaubar ohne dauerhafte Veränderung
-- **Denkmalverträglichkeit** – keine Eingriffe in historische Substanz
-- **Eingriffsminimierung** – keine Zerstörung des Gartens und kein Baumbestandsverlust
-- **Wirtschaftliche Effizienz** – Bruchteile der Bau- und Folgekosten
-- **Geringstes Betriebsrisiko** – keine dauerhafte Pumptechnik erforderlich
-
 Die UVS unterlässt zentrale Bewertungsstufen, darunter eine Gefährdungsanalyse nach HQ20/HQ100/HQext, einen Vergleich der Schadenswahrscheinlichkeit mit und ohne Mauersystem, eine Bewertung der Folgerisiken und eine Kostennutzenbewertung. Da dies nachweislich nicht erfolgt ist, liegt aus unserer Sicht ein Verfahrensfehler in der Alternativenprüfung vor.
+
+Für unser Gebäude Wöhrdstraße 41 wäre Objektschutz eine ernsthaft zu prüfende Alternative – wir legen dies in Abschnitt 4.1 im Detail dar.
 
 ### 1.4 Nichtberücksichtigung des Klimazuschlags
 
@@ -346,7 +326,7 @@ Die negativen Auswirkungen auf den Denkmalschutz erscheinen **nicht ausreichend 
 
 Als langjährige Mieter seit 2010 in der Wöhrdstraße 41 sind wir von den HWS-Maßnahmen **außerordentlich stark und unmittelbar** betroffen. Die Planunterlagen dokumentieren für das Flurstück 1791 (Grundstücksverzeichnis H 2, S. 9) massive Eingriffe:
 
-### 4.1 Fehlender objektspezifischer Schutzbedarf am Standort
+### 4.1 Fehlender objektspezifischer Schutzbedarf und Objektschutz als Alternative
 
 Das Gebäude Wöhrdstraße 41 weist aufgrund seiner besonderen topographischen Lage, Konstruktion und historisch belegten Hochwassererfahrung keinen gesicherten Bedarf für bauliche Maßnahmen der Kategorie „flächendeckender Systemschutz" auf.
 
@@ -360,10 +340,27 @@ Der Standort befindet sich nachweislich am höchstgelegenen Punkt am Unteren Wö
 - Keine ebenerdigen Öffnungsflächen im bodennahen Außenbereich
 - Keine druckseitigen Durchdringungen im relevanten Anschnitt
 - Vorhandener Pumpensumpf im abgesenkten Erdgeschossteil mit funktionierendem Abflussregime
+- Bauphysikalische Eignung des Natursteinmauerwerks ohne Durchströmungsöffnungen
 
 **Historische Erfahrung:**
 
-Unser Nachbar Florian Gebauer, der seit 29 Jahren im Gebäude wohnt, bestätigt in seiner Einwendung: Das Gebäude blieb bei den Hochwasserereignissen 2002 und 2013 nahezu vollständig schadensfrei. Es liegen keinerlei Hinweise auf Bausubstanzverschlechterung, Standsicherheitsrisiken oder behandlungsbedürftige Feuchteschäden vor.
+Unser Nachbar Florian Gebauer, der seit 29 Jahren im Gebäude wohnt und als Architekt an der Generalsanierung 1996/97 beteiligt war, bestätigt in seiner Einwendung: Das Gebäude blieb bei den Hochwasserereignissen 2002 und 2013 nahezu vollständig schadensfrei. Es liegen keinerlei Hinweise auf Bausubstanzverschlechterung, Standsicherheitsrisiken oder behandlungsbedürftige Feuchteschäden vor.
+
+**Objektschutz als fachlich gleichwertige Alternative:**
+
+Für unser Gebäude wäre ein wirkungsgleicher Hochwasserschutz mit deutlich geringerem Eingriffsaufwand möglich – durch Objektschutz an den vier Gebäudeeingängen mittels mobiler Dammbalkensysteme, Dichtschottungen und Rückstausicherungstechnik. Solche Systeme werden bundesweit eingesetzt und sind an Baudenkmalen geübte Praxis.
+
+Florian Gebauer führt in seiner Einwendung detailliert aus, warum Objektschutz hier fachlich gleichwertig wäre. Wir schließen uns seiner bautechnischen Bewertung an.
+
+**Vorteile des Objektschutzes gegenüber dem Systemschutz:**
+
+- **Reversibilität** – jederzeit rückbaubar ohne dauerhafte Veränderung
+- **Denkmalverträglichkeit** – keine Eingriffe in historische Substanz
+- **Eingriffsminimierung** – keine Zerstörung des Gartens und kein Baumbestandsverlust
+- **Wirtschaftliche Effizienz** – Bruchteile der Bau- und Folgekosten
+- **Geringstes Betriebsrisiko** – keine dauerhafte Pumptechnik erforderlich
+
+Selbst ein kombiniertes Hybridmodell (Objektschutz + punktuelle Geländeoptimierungen) wurde nicht untersucht, obwohl gesetzlich erforderlich.
 
 **Rechtliche Konsequenz:**
 
@@ -630,45 +627,25 @@ Diese Unverbindlichkeit verhindert eine **rechtssichere Beurteilung der Maßnahm
 
 Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
-1. **Abwägungsdefizit:** Die HWS-Maßnahmen bedeuten substantielle Eingriffe in persönliche Rechte und öffentliche Belange (Natur-, Arten- sowie Denkmalschutz), ohne dass eine vollständige Abwägung der Chancen und Risiken erkennbar wäre. Die Planungsunterlagen weisen einen **verbesserungswürdigen Konkretisierungsgrad** auf.
+1. **Abwägungsdefizit und Verhältnismäßigkeit:** Die HWS-Maßnahmen bedeuten substantielle Eingriffe in persönliche Rechte und öffentliche Belange (Natur-, Arten- sowie Denkmalschutz), ohne dass eine vollständige Abwägung erkennbar wäre. Sie sind in dieser Komplexität (U-förmige Einmauerung, 15 m tiefe Untergrundabdichtung, Polderlösung) kaum erprobt, bergen Risiken und schaffen neue Herausforderungen (Starkregenmanagement, Grundwassermanagement). Die Planungsunterlagen weisen einen verbesserungswürdigen Konkretisierungsgrad auf.
 
-2. **Verhältnismäßigkeit:** Die HWS-Maßnahmen werfen Fragen hinsichtlich des **Grundsatzes der Verhältnismäßigkeit** auf. Sie sind in dieser Komplexität kaum erprobt, bergen Risiken und schaffen teilweise neue Herausforderungen (Starkregenmanagement, kompliziertes Grundwassermanagement).
+2. **Fehlender Schutzbedarf und Objektschutz am Standort Wöhrdstraße 41:** Das Gebäude befindet sich am höchstgelegenen Punkt des Unteren Wöhrd, ist nicht unterkellert und hat beide großen Hochwasser (2002, 2013) nahezu schadlos überstanden. Die Alternative des Objektschutzes (mobile Dammbalkensysteme, Rückstausicherung) wurde nicht fachlich bewertet, obwohl sie reversibel, denkmalverträglich und wirtschaftlich effizienter wäre. Selbst Hybridlösungen wurden nicht untersucht.
 
-3. **Objektschutz nicht geprüft:** Die Alternative des Objektschutzes wurde nicht fachlich bewertet, obwohl das Gebäude Wöhrdstraße 41 aufgrund seiner erhöhten Lage und der historisch belegten Schadensfreiheit bei HQ 2002 und HQ 2013 keinen nachgewiesenen Bedarf für den flächendeckenden Systemschutz aufweist.
+3. **UGA-Linienführung und Baugrund-/Feuchterisiken:** Die Vorverlegung des UGA-Endpunktes an die nordwestliche Grundstücksecke oder Hausecke wurde nicht geprüft, obwohl dies ca. 170 m Baulänge und erhebliche Eingriffe vermeiden könnte. Die dauerhaften Auswirkungen der UGA auf das historische Mauerwerk (Setzungen, Feuchteaufstieg, Rissbildung, Salzmigration) wurden nicht objektbezogen bewertet – es fehlen Prognosen und Monitoring-Konzepte.
 
-4. **Fehlender Schutzbedarf am Standort:** Das Gebäude Wöhrdstraße 41 befindet sich am höchstgelegenen Punkt des Unteren Wöhrd, ist nicht unterkellert und hat beide großen Hochwasser der letzten Jahrzehnte nahezu schadlos überstanden.
+4. **Anlagengebäude und Außenanlagenplanung:** Das geplante Technikgebäude hat keinen Nutzen für das Grundstück, verursacht aber unbewertete Immissionsrisiken (EMF, Lärm, Störfälle). Die Verlagerung der Stellplätze in den Gartenbereich, die unzureichenden Mauerdurchgänge und die Positionierung des Gebäudes wurden nicht alternativengeprüft, obwohl eingriffsärmere Lösungen möglich wären.
 
-5. **UGA-Linienführung:** Die Vorverlegung des UGA-Endpunktes an die nordwestliche Grundstücksecke oder Hausecke wurde nicht geprüft, obwohl dies erhebliche Eingriffe vermeiden könnte.
+5. **Naturschutzrechtliche Mängel:** Den HWS-Maßnahmen fehlt eine FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471. Die Datengrundlagen des Artenschutzes (Fischfauna 2008-2015, Mollusken 2018) sind veraltet. Das Baumkataster enthält Fehlklassifizierungen, unzutreffende Messungen und fehlende Bäume – mindestens 21 geschützte Bäume wurden als „nicht geschützt" eingestuft. Baum Nr. 39 (Kultur-Apfel mit Mulmhöhle) ist einer von nur drei solchen Bäumen im gesamten Projektgebiet.
 
-6. **Baugrund- und Feuchterisiken:** Die dauerhaften Auswirkungen der UGA auf das historische Mauerwerk des Bauhofmeisterhauses wurden nicht objektbezogen bewertet. Es fehlen Prognosen und Monitoring-Konzepte.
+6. **Biotop und Variantenentscheidung Obstgarten:** Der Garten der Wöhrdstraße 41 ist als „besonders schutzwürdig" dokumentiert (Biotopklassifizierung B432). Die Entscheidung, den als „hochwertig" bezeichneten Obstgarten der Überflutungszone zuzuschlagen, erfolgte ohne angemessene Abwägung des Biotopverlusts. Die Planer selbst räumen ein, dass ein Langzeit-Monitoring wegen möglichen Absterbens von Gehölzen nötig ist.
 
-7. **Anlagengebäude:** Das geplante Technikgebäude hat keinen Nutzen für das Grundstück, verursacht aber Immissionsrisiken (EMF, Lärm, Störfälle), die nicht bewertet wurden.
+7. **Denkmalschutz:** Die negativen Auswirkungen auf das UNESCO-Weltkulturerbe und das Einzeldenkmal Wöhrdstraße 41 (BLfD Nr. D-3-62-000-1429) erscheinen nicht ausreichend in die Abwägung eingestellt.
 
-8. **Außenanlagenplanung:** Die Verlagerung der Stellplätze in den Gartenbereich, die unzureichenden Mauerdurchgänge und die Positionierung des Anlagengebäudes wurden nicht alternativengeprüft, obwohl eingriffsärmere Lösungen möglich wären.
+8. **Kosten, Bauzeit und unvollständiger Schutz:** Die Kosten-Nutzen-Betrachtung ist ergänzungsbedürftig (geschätzte 100-Jahres-Schäden entsprechen den Baukosten, ohne Barwert- oder Betriebskostenrechnung). Die Zeitplanung erscheint optimistisch (5 Jahre Gesamtbauzeit bei 13 Jahren Summe der Einzelabschnitte). Trotz Kosten von 50-55 Mio. Euro bleiben Keller und Tiefgaragen ungeschützt.
 
-9. **Baumkataster fehlerhaft:** Die Erfassung enthält Fehlklassifizierungen, unzutreffende Messungen und fehlende Bäume. Mindestens 21 geschützte Bäume wurden als „nicht geschützt" eingestuft.
+9. **Bauzeit-Belastungen und dauerhafte Einschränkungen:** Die mehrjährige Bauzeit (möglicherweise 6-8 Jahre wegen Artenschutz-Bauzeitenbeschränkungen) mit Zugangsbehinderungen, Stellplatzverlusten und Gartenunnutzbarkeit ist unverhältnismäßig für ein Grundstück ohne eigenen Schutzbedarf. Die dauerhaften Grunddienstbarkeiten (Betretungsrecht, Nutzungseinschränkungen, Technikgebäude) stellen erhebliche Eigentumseingriffe dar.
 
-10. **Kosten-Nutzen-Relation:** Die **Kosten-Nutzen-Betrachtung** erscheint ergänzungsbedürftig. Die geschätzten 100-Jahres-Schäden (50-75 Mio. €) entsprechen den Baukosten, ohne Barwertberechnung oder Berücksichtigung von Betriebskosten.
-
-11. **Planungsannahmen:** Die Unterlagen enthalten **optimistische Zeitplanungen** (5 Jahre Gesamtbauzeit bei 13 Jahren Summe der Einzelabschnitte PA 4, 6 und 7) und ergänzungsbedürftige Kostenschätzungen.
-
-12. **Naturschutzrechtliche Fragen:** Den HWS-Maßnahmen fehlt eine **FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471**. Die Datengrundlagen des Artenschutzes bedürfen der Aktualisierung.
-
-13. **Denkmalschutz:** Die negativen Auswirkungen auf den Denkmalschutz im UNESCO-Weltkulturerbe erscheinen **nicht ausreichend in die Abwägung eingestellt**.
-
-14. **Bauzeit-Belastungen:** Die mehrjährige Bauzeit mit Zugangsbehinderungen, Stellplatzverlusten und Gartenunnutzbarkeit ist unverhältnismäßig für ein Grundstück ohne eigenen Schutzbedarf.
-
-15. **Bürgerbeteiligung:** Die Rahmenbedingungen des Verfahrens (Umfang, Zeitraum) **erschweren eine fundierte bürgerliche Partizipation**.
-
-16. **Alternative Maßnahmen:** Die HWS-Maßnahmen fokussieren auf eine rein technische Lösung. **Flexiblere und integrative Alternativen** (mobile Elemente, differenzierter Maßnahmenmix) verdienen stärkere Berücksichtigung.
-
-17. **Variantenentscheidung Obstgarten:** Die Entscheidung, den als „hochwertig" bezeichneten Obstgarten der Wöhrdstraße 41 der Überflutungszone zuzuschlagen, erfolgte **ohne angemessene Abwägung des Biotopverlusts**.
-
-18. **Dauerhafte Eigentumsbelastungen:** Die im Grundstücksverzeichnis dokumentierten **dauerhaften Grunddienstbarkeiten** (Betretungsrecht, Nutzungseinschränkungen, Technikgebäude) stellen erhebliche Eingriffe dar.
-
-19. **Unvollständiger Schutz:** Trotz Kosten von 50-55 Mio. Euro und massiver Eingriffe **bleiben Keller und Tiefgaragen ungeschützt**.
-
-20. **Mulmhöhlenbaum Wöhrdstraße 41:** Baum Nr. 39 (Kultur-Apfel) ist einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet und beherbergt xylobionte Käferarten. Seine Fällung zerstört einen nicht kurzfristig ersetzbaren Lebensraum.
+10. **Bürgerbeteiligung und integrative Alternativen:** Die Rahmenbedingungen des Verfahrens (179 Dateien, Weihnachtszeit) erschweren eine fundierte Partizipation. Die HWS-Maßnahmen fokussieren auf eine rein technische Lösung – flexiblere und integrative Alternativen nach internationalen Best-Practice-Vorbildern (Kopenhagen, Basel, Hamburg) wurden nicht geprüft.
 
 ---
 
