@@ -9,7 +9,7 @@ pdf_options:
     right: 2.5cm
   displayHeaderFooter: true
   headerTemplate: "<span></span>"
-  footerTemplate: "<div style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10pt; text-align: center; width: 100%;\">Seite <span class='pageNumber'></span> von <span class='totalPages'></span></div>"
+  footerTemplate: '<div style="font-family: ''Helvetica Neue'', Helvetica, Arial, sans-serif; font-size: 10pt; text-align: center; width: 100%;">Seite <span class=''pageNumber''></span> von <span class=''totalPages''></span></div>'
 ---
 
 # Einwendung gegen das Planfeststellungsverfahren Hochwasserschutz Unterer Wöhrd
@@ -38,6 +38,8 @@ Bruderwöhrdstraße 15 b<br>
 **(AZ.: 31.1.2. Pl-HWS-H/Unterer Wöhrd)**
 
 ---
+
+<br>
 
 Sehr geehrte Damen und Herren,
 
