@@ -5,21 +5,39 @@ body {
   color: #000;
 }
 
-h1 { font-size: 16pt; margin-top: 0; }
-h2 { font-size: 14pt; margin-top: 1.5em; }
-h3 { font-size: 12pt; margin-top: 1.2em; }
+h1 {
+  font-size: 16pt;
+  margin-top: 0;
+}
+h2 {
+  font-size: 14pt;
+  margin-top: 1.5em;
+}
+h3 {
+  font-size: 12pt;
+  margin-top: 1.2em;
+}
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   page-break-after: avoid !important;
   break-after: avoid !important;
 }
 
-p, ul, ol, blockquote {
+p,
+ul,
+ol,
+blockquote {
   orphans: 4;
   widows: 4;
 }
 
-ul, ol {
+ul,
+ol {
   page-break-inside: avoid !important;
   break-inside: avoid !important;
 }
@@ -33,10 +51,3 @@ blockquote {
   break-inside: avoid !important;
 }
 
-@page {
-  @bottom-center {
-    content: "Seite " counter(page) " von " counter(pages);
-    font-size: 10pt;
-    color: #666;
-  }
-}
