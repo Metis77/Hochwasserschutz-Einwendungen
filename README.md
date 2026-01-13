@@ -4,14 +4,15 @@
 
 ## Übersicht
 
-|                            |                                                                                                                        |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Einwendung (V2)**        | [Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md](unser%20schreiben/Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md) |
-| **Einwendungsfrist**       | 16. Januar 2026                                                                                                        |
-| **Betroffenes Grundstück** | Wöhrdstraße 41 (Flurstück 1791)                                                                                        |
-| **Planabschnitt**          | PA 1                                                                                                                   |
+|                            |                                                                                                                  |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Einwendung**             | [Einwendung-Hochwasserschutz-Unterer-Woehrd.md](unser%20schreiben/Einwendung-Hochwasserschutz-Unterer-Woehrd.md) |
+| **Einwendungsfrist**       | 16. Januar 2026                                                                                                  |
+| **Betroffenes Grundstück** | Wöhrdstraße 41 (Flurstück 1791)                                                                                  |
+| **Planabschnitt**          | PA 1                                                                                                             |
 
 **Vorlage:** `./Sonstige Dokumente/Bernhard-Einwendung Hochwasserschutz v2.pdf` (Dr. Löffler)
+**Vorlage:** `./Sonstige Dokumente/Flo/2026-01-12_EINWENDUNGSSCHREIBEN ZUM PLANFESTSTELLUNGSVERFAHREN.PDF` (Florian Gebauer)
 
 ## Planunterlagen
 
