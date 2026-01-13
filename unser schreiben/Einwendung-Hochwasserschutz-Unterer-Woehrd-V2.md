@@ -9,26 +9,27 @@ pdf_options:
     right: 2.5cm
   displayHeaderFooter: true
   headerTemplate: "<span></span>"
-  footerTemplate: "<div style='font-size: 10pt; text-align: center; width: 100%;'>Seite <span class='pageNumber'></span> von <span class='totalPages'></span></div>"
+  footerTemplate: "<div style=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 10pt; text-align: center; width: 100%;\">Seite <span class='pageNumber'></span> von <span class='totalPages'></span></div>"
 ---
 
 # Einwendung gegen das Planfeststellungsverfahren Hochwasserschutz Unterer Wöhrd
 
----
+<br>  
+<div style="font-size: 8pt; border-bottom: 1px solid #000; padding-bottom: 2px; margin-bottom: 5px;">
+Martin Schwenzer · Stephanie Sabatier<br>    
+Wöhrdstraße 41 · 93059 Regensburg
+</div>
 
-**Martin Schwenzer**<br>
-**Stephanie Sabatier**<br>
-**Wöhrdstraße 41**<br>
-**93059 Regensburg**<br>
-mail@martinschwenzer.de
-
-An<br>
 Stadt Regensburg<br>
 Umweltamt<br>
 Bruderwöhrdstraße 15 b<br>
 93055 Regensburg
 
+<div style="text-align: right; margin-top: 1em;">
+
 **14. Januar 2026**
+
+</div>
 
 ---
 
@@ -40,11 +41,11 @@ Bruderwöhrdstraße 15 b<br>
 
 Sehr geehrte Damen und Herren,
 
-hiermit erheben wir fristgerecht Einwendungen gegen das oben genannte Planfeststellungsverfahren.
+wir, **Martin Schwenzer** und **Stephanie Sabatier**, langjährige Mieter in der Wöhrdstraße 41 (seit 2010), erheben hiermit fristgerecht Einwendungen gegen das oben genannte Planfeststellungsverfahren.
 
 Einleitend möchten wir betonen, dass wir die grundsätzliche Notwendigkeit eines wirksamen Hochwasserschutzes für den Unteren Wöhrd ausdrücklich anerkennen. Die Bemühungen der Stadt Regensburg und des Wasserwirtschaftsamts, die Bewohnerinnen und Bewohner vor Hochwasserereignissen zu schützen, verdienen Anerkennung. Gleichwohl werfen die vorliegenden Planungen aus unserer Sicht Fragen hinsichtlich der Verhältnismäßigkeit und der Abwägung verschiedener Schutzgüter auf, die wir im Folgenden darlegen möchten.
 
-Als langjährige Mieter seit 2010 in der Wöhrdstraße 41 sind wir von den geplanten HWS-Maßnahmen unmittelbar betroffen und haben uns daher intensiv mit den Planunterlagen auseinandergesetzt. Das Gebäude Wöhrdstraße 41 (ehemaliges Bauhofmeisterhaus) ist als Einzeldenkmal gelistet (BLfD Baudenkmalliste Nr. D-3-62-000-1429) und befindet sich im Wirkbereich des Planungsabschnitts PA 1. Die nachfolgenden Anmerkungen betreffen sowohl unsere persönlichen Belange als auch öffentliche Interessen des Natur-, Arten- und Denkmalschutzes, die wir als Bürger in das Verfahren einbringen. Wir verstehen diese Einwendung als konstruktiven Beitrag zum Planungsprozess.
+Das Gebäude Wöhrdstraße 41 (ehemaliges Bauhofmeisterhaus) ist als Einzeldenkmal gelistet (BLfD Baudenkmalliste Nr. D-3-62-000-1429) und befindet sich im Wirkbereich des Planungsabschnitts PA 1. Wir sind von den geplanten HWS-Maßnahmen unmittelbar betroffen und haben uns daher intensiv mit den Planunterlagen auseinandergesetzt. Die nachfolgenden Anmerkungen betreffen sowohl unsere persönlichen Belange als auch öffentliche Interessen des Natur-, Arten- und Denkmalschutzes, die wir als Bürger in das Verfahren einbringen. Wir verstehen diese Einwendung als konstruktiven Beitrag zum Planungsprozess.
 
 **Hinweis:** In baurechtlichen und bautechnischen Fragen beziehen wir uns ergänzend auf die Einwendung unseres Nachbarn Florian Gebauer (ebenfalls Mieter im Gebäude Wöhrdstraße 41), der als Architekt an der Generalsanierung des Gebäudes 1996/97 beteiligt war und über detaillierte Kenntnisse der baulichen Struktur und des konstruktiven Aufbaus verfügt. Wir unterstützen seine Einwendung ausdrücklich.
 
@@ -718,12 +719,11 @@ Mit freundlichen Grüßen
 
 ---
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-|                         |                        |
-|                         |                        |
-| **Martin Schwenzer**    | **Stephanie Sabatier** |
-
+|                      |                        |
+| :------------------- | :--------------------- |
+|                      |                        |
+|                      |                        |
+| **Martin Schwenzer** | **Stephanie Sabatier** |
 
 mail@martinschwenzer.de \
 Regensburg, 14.01.2026
