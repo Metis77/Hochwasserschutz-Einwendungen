@@ -32,3 +32,11 @@ blockquote {
   page-break-inside: avoid !important;
   break-inside: avoid !important;
 }
+
+@page {
+  @bottom-center {
+    content: "Seite " counter(page) " von " counter(pages);
+    font-size: 10pt;
+    color: #666;
+  }
+}

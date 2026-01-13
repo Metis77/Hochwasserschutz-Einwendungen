@@ -14,7 +14,7 @@ Umweltamt<br>
 Bruderwöhrdstraße 15 b<br>
 93055 Regensburg
 
-**10. Januar 2026**
+**14. Januar 2026**
 
 ---
 
@@ -676,6 +676,7 @@ Wir beantragen daher:
 11. Die **Neubegehung und korrekte Bewertung des Baumbestands** gemäß der städtischen Baumschutzverordnung
 
 12. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere:
+
     - Reneklode (Nr. 60, Stadtbiotop R-1303-002)
     - Kultur-Apfel (Baum Nr. 39) mit Mulmhöhle
     - Stieleiche (Baum Nr. 29) Stammumfang 175 cm
@@ -703,15 +704,18 @@ Mit freundlichen Grüßen
 
 ---
 
-**[UNTERSCHRIFT]**
+|                         |                        |
+| :---------------------- | :--------------------- |
+|                         |                        |
+|                         |                        |
+| **Martin Schwenzer**    | **Stephanie Sabatier** |
+| mail@martinschwenzer.de |                        |
 
-**Martin Schwenzer**<br>
-**Stephanie Sabatier**<br>
-mail@martinschwenzer.de
+Regensburg, 14.01.2026
 
----
+_Anlagen:_
 
-_Anlagen: keine_
+- Anlage 1 – Skizze zur Alternativlösung Parkplatz/Anlagengebäude
 
 ---
 
