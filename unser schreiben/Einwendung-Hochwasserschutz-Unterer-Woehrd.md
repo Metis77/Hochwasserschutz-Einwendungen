@@ -3,6 +3,7 @@
 ---
 
 **Martin Schwenzer**<br>
+**Stephanie Sabatier**<br>
 **Wöhrdstraße 41**<br>
 **93059 Regensburg**<br>
 mail@martinschwenzer.de
@@ -29,7 +30,7 @@ hiermit erhebe ich fristgerecht Einwendungen gegen das oben genannte Planfestste
 
 Einleitend möchte ich betonen, dass ich die grundsätzliche Notwendigkeit eines wirksamen Hochwasserschutzes für den Unteren Wöhrd ausdrücklich anerkenne. Die Bemühungen der Stadt Regensburg und des Wasserwirtschaftsamts, die Bewohnerinnen und Bewohner vor Hochwasserereignissen zu schützen, verdienen Anerkennung. Gleichwohl werfen die vorliegenden Planungen aus meiner Sicht Fragen hinsichtlich der Verhältnismäßigkeit und der Abwägung verschiedener Schutzgüter auf, die ich im Folgenden darlegen möchte.
 
-Als Mieter in der Wöhrdstraße bin ich von den geplanten HWS-Maßnahmen unmittelbar betroffen und habe mich daher intensiv mit den Planunterlagen auseinandergesetzt. Die nachfolgenden Anmerkungen betreffen sowohl meine persönlichen Belange als auch öffentliche Interessen des Natur-, Arten- und Denkmalschutzes, die ich als Bürger in das Verfahren einbringe. Ich verstehe diese Einwendung als konstruktiven Beitrag zum Planungsprozess.
+Als langjähriger Mieter seit 2010 in der Wöhrdstraße bin ich von den geplanten HWS-Maßnahmen unmittelbar betroffen und habe mich daher intensiv mit den Planunterlagen auseinandergesetzt. Die nachfolgenden Anmerkungen betreffen sowohl meine persönlichen Belange als auch öffentliche Interessen des Natur-, Arten- und Denkmalschutzes, die ich als Bürger in das Verfahren einbringe. Ich verstehe diese Einwendung als konstruktiven Beitrag zum Planungsprozess.
 
 Ich gliedere meine Einwendungen in mehrere Abschnitte und beziehe mich dabei vornehmlich auf den Erläuterungsbericht (Anlage A, nachfolgend „Bericht") und die Umweltverträglichkeitsstudie (Anlage D 1.0, nachfolgend „UVS").
 
@@ -102,7 +103,7 @@ Ein Vergleich mit anderen bayerischen Hochwasserschutzprojekten lässt die Koste
 - **Passau Lindau/Sulzsteg:** 1.275 Meter Schutzlinie mit HQ500-Schutzziel kosteten 38,8 Mio. Euro (Quelle: WWA Deggendorf). Der Untere Wöhrd soll für 50-55 Mio. Euro nur HQ100-Schutz bieten.
 - **Garmisch-Partenkirchen (Kanker/Partnach):** Eines der größten Wildbachprojekte Bayerns mit HQ100-Schutz wurde für 46 Mio. Euro fertiggestellt (Quelle: StMUV Bayern, 2024).
 
-Die Kostenschätzung erscheint angesichts dieser Vergleiche und der besonderen Komplexität des Vorhabens (Untergrundabdichtung bis 15 m Tiefe, Polderlösung, UNESCO-Welterbe) **erklärungsbedürftig**. Eine detailliertere Kostenermittlung wäre für eine fundierte Verhältnismäßigkeitsprüfung hilfreich.
+Die Kostenschätzung erscheint angesichts dieser Vergleiche und der besonderen Komplexität des Vorhabens (Untergrundabdichtung bis 15 m Tiefe, Polderlösung, UNESCO-Welterbe) **erklärungsbedürftig**. Eine detailliertere Kostenermittlung wäre für eine fundierte Verhältnismäßigkeitsprüfung unbedingt zu erstellen.
 
 ### 1.5 Zur Bauzeitplanung
 
@@ -118,7 +119,7 @@ Die Bauzeiten der einzelnen Planabschnitte laut Bericht S. 94:
 
 Diese drei Abschnitte allein ergeben **13 Jahre Bauzeit** bei sequentieller Ausführung. Selbst bei weitgehender zeitlicher Überlagerung erscheint eine Gesamtbauzeit von nur 5 Jahren **schwer nachvollziehbar**. Eine realistische Einschätzung läge vermutlich bei mindestens 7-9 Jahren.
 
-Hinzu kommen typische Risiken (Bodenbefunde, Wetterschäden, Lieferprobleme), die nicht einkalkuliert erscheinen. Die Erfahrungen mit den HWS-Maßnahmen am Oberen Wöhrd und entlang des Regen, wo die Bauzeiten erheblich überschritten wurden, verstärken diese Bedenken.
+Hinzu kommen typische Risiken (Bodenbefunde, Wetterschäden, Lieferprobleme), die nicht einkalkuliert erscheinen. Die Erfahrungen mit den HWS-Maßnahmen am entlang des Regen, wo die Bauzeiten erheblich überschritten wurden, verstärken diese Bedenken.
 
 ### 1.6 Zum Kosten-Nutzen-Verhältnis
 
@@ -265,13 +266,13 @@ Die visuellen Modellierungen in den Planunterlagen **geben möglicherweise nicht
 
 ### 3.3 Abwägungsdefizit
 
-Die negativen Auswirkungen auf den Denkmalschutz erscheinen **nicht ausreichend in die Abwägung eingestellt**. Dies könnte einen Abwägungsfehler darstellen.
+Die negativen Auswirkungen auf den Denkmalschutz erscheinen **nicht ausreichend in die Abwägung eingestellt**.
 
 ---
 
 ## 4. Beeinträchtigung meiner persönlichen Belange als Mieter in der Wöhrdstraße 41
 
-Als Mieter in der Wöhrdstraße 41 bin ich von den HWS-Maßnahmen **außerordentlich stark und unmittelbar** betroffen. Die Planunterlagen dokumentieren für das Flurstück 1791 (Grundstücksverzeichnis H 2, S. 9) massive Eingriffe:
+Als langjähriger Mieter seit 2010 in der Wöhrdstraße 41 bin ich von den HWS-Maßnahmen **außerordentlich stark und unmittelbar** betroffen. Die Planunterlagen dokumentieren für das Flurstück 1791 (Grundstücksverzeichnis H 2, S. 9) massive Eingriffe:
 
 ### 4.1 Umfang der Flächenbeanspruchung
 
@@ -311,11 +312,10 @@ Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6-
 **Besonderheiten des Gartens:**
 
 - Das Wohnhaus ist als **Baudenkmal (X4)** erfasst
-- Zwei Bäume sind als **Stadtbiotop** kartiert:
-  - **Kultur-Birne (Baum Nr. 79):** Stadtbiotop R-1303-004, 2,2 m Stammumfang, mit Efeu bewachsen, als **Höhlenbaum (HB 2021)** erfasst – potenzieller Lebensraum für Höhlenbrüter und Fledermäuse
-  - **Reneklode (Baum Nr. 60):** Stadtbiotop R-1303-002
+- **Reneklode (Baum Nr. 60):** Stadtbiotop R-1303-002
 - **Alte Weißdornhecke** am nördlichen und westlichen Rand (schutzwürdig)
-- Vielfältiger, alter Obstbaumbestand mit Wildaufwuchs (Pflaumen, Mirabellen)
+- Vielfältiger, alter Obstbaumbestand mit Wildaufwuchs (Pflaumen, Mirabellen). Darunter fälschlicherweise nicht als geschützt aufgeführte Bäume Nr 29, 30, 36, 37, 42
+- Gar nicht aufgeführt, der Feigenbaum zwischen 49 + 50, Kronendurchmesser 2 - 3 m
 
 Die geplanten Baumfällungen und die Errichtung eines Technikgebäudes würden dieses **einzigartige innerstädtische Biotop** unwiederbringlich zerstören. Ein Höhlenbaum mit 2,2 m Stammumfang kann nicht durch Neuanpflanzungen kompensiert werden – solche Strukturen benötigen Jahrzehnte bis Jahrhunderte zur Entwicklung.
 
@@ -455,9 +455,15 @@ Ich beantrage daher:
 5. Die **ernsthafte Prüfung weniger eingriffsintensiver Alternativen**
 
 6. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere:
-   - des als Höhlenbaum kartierten Birnbaums (Nr. 79, Stadtbiotop R-1303-004)
-   - der Reneklode (Nr. 60, Stadtbiotop R-1303-002)
-   - des Kultur-Apfels (Baum Nr. 39) mit Mulmhöhle – einer von nur drei solchen Bäumen im gesamten Projektgebiet
+
+- Reneklode (Nr. 60, Stadtbiotop R-1303-002)
+- Kultur-Apfels (Baum Nr. 39) mit Mulmhöhle – einer von nur drei solchen Bäumen im gesamten Projektgebiet
+- Stieleiche (Baum Nr. 29) Stammumfang 175cm
+- Walnuss (Baum Nr. 30) Stammumfang 176cm
+- Mirabelle (Baum Nr. 36) Stammumfang 122cm
+- Zwetschge (Baum Nr. 37) Stammumfang 115 cm
+- Sommerlinde (Baum Nr. 42) Stammumfang 110 cm
+- fehlende Feige Kronendurchmesser 2-3m
 
 7. Die **Prüfung alternativer Standorte** für das geplante Technikgebäude mit Trafoanlage außerhalb des geschützten Gartenbereichs
 
