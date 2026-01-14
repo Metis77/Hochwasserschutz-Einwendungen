@@ -400,7 +400,7 @@ Laut Grundstücksverzeichnis H 2 sind folgende Maßnahmen auf dem Grundstück ge
 - **Errichtung eines Technikgebäudes mit Trafoanlage** (Schaltanlage I)
 - Prüfen und ggf. Anpassen vorhandener querender Leitungen
 
-**Konkret betroffen:** Baum Nr. 39 (Kultur-Apfel) im Garten der Wöhrdstraße 41 ist ausdrücklich als einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet dokumentiert, die gefällt werden sollen (UVS, S. 124; saP, S. 51). Dieser Baum ist Lebensraum für xylobionte Käferarten. Der Stamm soll zwar „gesichert und auf der Lazarettspitze stehend verankert" werden (saP, S. 51), doch diese Umsetzung bedeutet faktisch die Zerstörung des gewachsenen Habitatverbunds am Standort.
+**Konkret betroffen:** Auf dem Grundstück Wöhrdstraße 41 sind nach unserer Zählung mindestens acht bedeutende Bäume von den geplanten Maßnahmen betroffen – darunter mehrere nach der städtischen Baumschutzverordnung geschützte Exemplare (Stieleiche Nr. 29, Walnuss Nr. 30, Mirabelle Nr. 36, Zwetschge Nr. 37, Sommerlinde Nr. 42), ein Stadtbiotop (Reneklode Nr. 60, Stadtbiotop R-1303-002), ein im Kataster fehlender Feigenbaum sowie der Kultur-Apfel Nr. 39 mit Mulmhöhle. Letzterer ist einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet (UVS, S. 124; saP, S. 51) und Lebensraum für xylobionte Käferarten. Dass sein Stamm „gesichert und auf der Lazarettspitze stehend verankert" werden soll (saP, S. 51), bedeutet faktisch die Zerstörung des gewachsenen Habitatverbunds am Standort – und betrifft nur einen von mehreren wertvollen Bäumen.
 
 ### 4.4 Prüfung der UGA-Linienführung
 
@@ -652,7 +652,7 @@ Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 
 4. **Anlagengebäude und Außenanlagenplanung:** Das geplante Technikgebäude hat keinen Nutzen für das Grundstück, verursacht aber unbewertete Immissionsrisiken (EMF, Lärm, Störfälle). Die Verlagerung der Stellplätze in den Gartenbereich, die unzureichenden Mauerdurchgänge und die Positionierung des Gebäudes wurden nicht alternativengeprüft, obwohl eingriffsärmere Lösungen möglich wären.
 
-5. **Naturschutzrechtliche Mängel:** Den HWS-Maßnahmen fehlt eine FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471. Die Datengrundlagen des Artenschutzes (Fischfauna 2008-2015, Mollusken 2018) sind veraltet. Das Baumkataster enthält Fehlklassifizierungen, unzutreffende Messungen und fehlende Bäume – mindestens 21 geschützte Bäume wurden als „nicht geschützt" eingestuft. Baum Nr. 39 (Kultur-Apfel mit Mulmhöhle) ist einer von nur drei solchen Bäumen im gesamten Projektgebiet.
+5. **Naturschutzrechtliche Mängel:** Den HWS-Maßnahmen fehlt eine FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471. Die Datengrundlagen des Artenschutzes (Fischfauna 2008-2015, Mollusken 2018) sind veraltet. Das Baumkataster enthält Fehlklassifizierungen, unzutreffende Messungen und fehlende Bäume – mindestens 21 geschützte Bäume wurden als „nicht geschützt" eingestuft. Allein auf dem Grundstück Wöhrdstraße 41 sind mindestens fünf nach Baumschutzverordnung geschützte Bäume, ein Stadtbiotop (Reneklode Nr. 60) und ein Mulmhöhlenbaum (Kultur-Apfel Nr. 39) betroffen.
 
 6. **Biotop und Variantenentscheidung Obstgarten:** Der Garten der Wöhrdstraße 41 ist als „besonders schutzwürdig" dokumentiert (Biotopklassifizierung B432). Die Entscheidung, den als „hochwertig" bezeichneten Obstgarten der Überflutungszone zuzuschlagen, erfolgte ohne angemessene Abwägung des Biotopverlusts. Die Planer selbst räumen ein, dass ein Langzeit-Monitoring wegen möglichen Absterbens von Gehölzen nötig ist.
 
@@ -692,16 +692,16 @@ Wir beantragen daher:
 
 11. Die **Neubegehung und korrekte Bewertung des Baumbestands** gemäß der städtischen Baumschutzverordnung
 
-12. Den **Erhalt der Stadtbiotop-Bäume** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere:
+12. Den **Erhalt des wertvollen Baumbestands** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere:
 
-    - Reneklode (Nr. 60, Stadtbiotop R-1303-002)
-    - Kultur-Apfel (Baum Nr. 39) mit Mulmhöhle
-    - Stieleiche (Baum Nr. 29) Stammumfang 175 cm
-    - Walnuss (Baum Nr. 30) Stammumfang 176 cm
-    - Mirabelle (Baum Nr. 36) Stammumfang 122 cm
-    - Zwetschge (Baum Nr. 37) Stammumfang 115 cm
-    - Sommerlinde (Baum Nr. 42) Stammumfang 110 cm
-    - Feigenbaum zwischen Nr. 49 und 51 (im Kataster fehlend)
+    - Reneklode (Nr. 60) – **Stadtbiotop R-1303-002**
+    - Stieleiche (Nr. 29) – Stammumfang 175 cm, **geschützt nach Baumschutzverordnung**
+    - Walnuss (Nr. 30) – Stammumfang 176 cm, **geschützt nach Baumschutzverordnung**
+    - Mirabelle (Nr. 36) – Stammumfang 122 cm, **geschützt nach Baumschutzverordnung**
+    - Zwetschge (Nr. 37) – Stammumfang 115 cm, **geschützt nach Baumschutzverordnung**, mit Spechthöhle
+    - Sommerlinde (Nr. 42) – Stammumfang 110 cm, **geschützt nach Baumschutzverordnung**
+    - Kultur-Apfel (Nr. 39) – mit Mulmhöhle (einer von drei im Projektgebiet)
+    - Feigenbaum zwischen Nr. 49 und 51 – im Kataster fehlend
 
 13. Die **Überprüfung der Variantenentscheidung** zum Obstgarten Wöhrdstraße 41 unter angemessener Berücksichtigung des Biotopverlusts
 
