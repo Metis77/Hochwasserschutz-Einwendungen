@@ -36,10 +36,10 @@ blockquote {
   widows: 4;
 }
 
-ul,
-ol {
-  page-break-inside: avoid !important;
-  break-inside: avoid !important;
+/* Nur einzelne Listeneinträge zusammenhalten, nicht ganze Listen */
+li {
+  page-break-inside: avoid;
+  break-inside: avoid;
 }
 
 blockquote {

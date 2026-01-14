@@ -31,10 +31,18 @@ node convert-pdfs.js
 
 Die Einwendung wird mit `md-to-pdf` in PDF konvertiert.
 
-**Befehl:**
+**WICHTIG – Korrekter Befehl für Seitenzahlen:**
 ```bash
-cd "unser schreiben" && md-to-pdf "Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md" --pdf-options '{"format": "A4", "margin": {"top": "2.5cm", "bottom": "2.5cm", "left": "2.5cm", "right": "2.5cm"}}' --stylesheet style.css
+cd "unser schreiben" && npx md-to-pdf "Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md" --stylesheet style.css
 ```
+
+**NICHT verwenden** (überschreibt Frontmatter und entfernt Seitenzahlen):
+```bash
+# FALSCH: --pdf-options überschreibt die YAML-Frontmatter-Einstellungen!
+npx md-to-pdf ... --pdf-options '{"format": "A4", ...}'
+```
+
+Die PDF-Einstellungen (Seitenzahlen, Ränder, Header/Footer) sind in der **YAML-Frontmatter** der Markdown-Datei definiert. Der `--stylesheet`-Parameter ist OK, aber `--pdf-options` überschreibt die Frontmatter-Einstellungen komplett.
 
 **Stylesheet:** `./unser schreiben/style.css`
 - 12pt Schriftgröße (wie Löffler-Vorlage)

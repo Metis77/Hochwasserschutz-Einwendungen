@@ -142,6 +142,8 @@ Ein Vergleich mit anderen bayerischen Hochwasserschutzprojekten lässt die Koste
 
 Die Kostenschätzung erscheint angesichts dieser Vergleiche und der besonderen Komplexität des Vorhabens (Untergrundabdichtung bis 15 m Tiefe, Polderlösung, UNESCO-Welterbe) **erklärungsbedürftig**. Eine detailliertere Kostenermittlung wäre für eine fundierte Verhältnismäßigkeitsprüfung unbedingt zu erstellen.
 
+<div style="page-break-before: always;"></div>
+
 ### 1.6 Zur Bauzeitplanung
 
 Die geschätzte Gesamtbauzeit beträgt ca. 5 Jahre, mit Baubeginn nicht vor 2028 (Bericht, S. 94).
@@ -173,6 +175,8 @@ Die Baukosten entsprechen bereits der **unteren Grenze** der geschätzten 100-Ja
 - **Inflation:** Baukosten werden typischerweise überschritten
 
 Bei korrekter wirtschaftlicher Betrachtung dürfte das Kosten-Nutzen-Verhältnis **deutlich ungünstiger** ausfallen als dargestellt.
+
+<div style="page-break-before: always;"></div>
 
 ### 1.8 Zur Bürgerbeteiligung
 
@@ -284,6 +288,8 @@ Ohne FFH-Verträglichkeitsprüfung für das SPA-Gebiet DE7040471 könnten die Pl
 
 **Rechtsprechung:** Das BVerwG hat wiederholt entschieden, dass eine FFH-Verträglichkeitsprüfung durchzuführen ist, wenn nach der Vorprüfung Zweifel an der Verträglichkeit verbleiben (BVerwG, Urteil vom 12.03.2008, Az. 9 A 3.06). Kompensationsmaßnahmen sind nur ausnahmsweise geeignet, die FFH-Verträglichkeit sicherzustellen (BVerwG, Urteil vom 21.01.2016, Az. 4 A 5.14).
 
+<div style="page-break-before: always;"></div>
+
 ### 2.5 Veraltete Datengrundlagen der Artenschutzprüfung (§ 44 BNatSchG)
 
 Die spezielle artenschutzrechtliche Prüfung (saP, Anlage D 3) weist **erhebliche Mängel bei der Aktualität der Daten** auf:
@@ -313,6 +319,8 @@ Die Klimaschutzthematik wird in den Unterlagen einseitig für die Rechtfertigung
 - Die Pump- und Drainagesysteme werden erhebliche Strommengen benötigen – so viel, dass zwei neue Schalt- und Trafostationen nötig sind
 
 ---
+
+<div style="page-break-before: always;"></div>
 
 ## 3. Denkmalschutz im UNESCO-Weltkulturerbe
 
@@ -414,6 +422,8 @@ Die vorgelegten Pläne weisen die Untergrundabdichtung (UGA) dreiseitig auf dem 
 
 Diese planerische Endsetzung wirft zwingend die Frage auf, ob das Grundstück tatsächlich hydraulisch erforderlich in den Systemzusammenhang einbezogen werden muss.
 
+<div style="page-break-before: always;"></div>
+
 **Schlussfolgerungen aus der Position des Endpunktes:**
 
 1. Die UGA ist kein zwingend durchlaufendes Element, sondern besitzt vor Ort bereits einen definierten Abschnittsabschluss
@@ -475,6 +485,7 @@ Das geplante Betriebs- und Schaltanlagengebäude dient ausschließlich der Funkt
 - Geruchs- und Schadstoffemissionen im Betriebs- und Störfall
 - Gefahrenpotenziale durch ölhaltige Isoliermedien und elektrische Lasten
 - Brand- und Explosionslasten im Zusammenhang mit Starkstromtechnik
+<div style="page-break-before: always;"></div>
 
 **Fehlende Bewertung:**
 
@@ -504,6 +515,7 @@ Nach der Außenanlagenplanung wird die bestehende nördliche Stellplatzkante auf
 - Verlust wertvoller nutzbarer Grün- und Aufenthaltsflächen
 - Zusätzlicher Versiegelung
 - Fällung schützenswerter Bäume
+<div style="page-break-before: always;"></div>
 
 **c) Alternative Planungslösungen:**
 
@@ -524,6 +536,8 @@ Die spezielle artenschutzrechtliche Prüfung (saP, Anlage D 3.0) bestätigt die 
 
 Diese Bauzeitenbeschränkung von **fünf Monaten pro Jahr** (März bis Juli) zeigt, dass die Planer selbst die hohe artenschutzrechtliche Sensibilität des Areals anerkennen. Die Konsequenz ist jedoch unzureichend: Statt den wertvollen Lebensraum zu erhalten, werden lediglich die Bauzeiten eingeschränkt – während die Baumfällungen und die Errichtung des Technikgebäudes den Lebensraum dauerhaft zerstören.
 
+<div style="page-break-before: always;"></div>
+
 ### 4.9 Zerstörung eines besonders schutzwürdigen Biotops
 
 Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6-7) als **besonders schutzwürdig** dokumentiert:
@@ -540,6 +554,8 @@ Der Garten der Wöhrdstraße 41 ist in der Biotopkartierung (Anlage D 6.0, S. 6-
 - Vielfältiger, alter Obstbaumbestand mit Wildaufwuchs
 
 Die geplanten Baumfällungen und die Errichtung eines Technikgebäudes würden dieses **einzigartige innerstädtische Biotop** unwiederbringlich zerstören. Ein Höhlenbaum mit 2,2 m Stammumfang kann nicht durch Neuanpflanzungen kompensiert werden – solche Strukturen benötigen Jahrzehnte bis Jahrhunderte zur Entwicklung.
+
+<div style="page-break-before: always;"></div>
 
 ### 4.10 Fragwürdige Variantenentscheidung zum Obstgarten
 
@@ -564,6 +580,7 @@ Die Entscheidung fiel auf **Variante 1** – der Obstgarten wird der Aue zugesch
 
 - Eine Trassenführung, die den Obstgarten einschließt, hätte möglicherweise den wertvollen Baumbestand erhalten können
 - Die höheren Baukosten einer solchen Variante wurden nicht gegen den dauerhaften Biotopverlust abgewogen
+<div style="page-break-before: always;"></div>
 
 **d) Planungsunsicherheit eingestanden:**
 
@@ -584,6 +601,8 @@ Internationale Best-Practice-Beispiele belegen dies:
 - **Hamburg (HafenCity):** Städtebaulich integrierte Hochwasserschutzlösungen
 
 Auch für den Unteren Wöhrd wurden solche integrativen Ansätze bereits konzeptionell durchdacht – etwa in einer städtebaulichen Masterarbeit der Universität Kassel (Roggenstein 2024), die Zonenkonzepte, multifunktionale Freiräume und gebäudebasierte Maßnahmen als denkbare Alternativen skizziert.
+
+<div style="page-break-before: always;"></div>
 
 ### 4.11 Belastungen während der Bauphase
 
@@ -612,6 +631,7 @@ Da im Bereich PA 1 (Wöhrdstr. 41 bis Maffeistraße) laut saP lärm- und erschü
 - Sicherstellung ausreichender Parkraumversorgung vor Ort
 - Lärm- und Staubschutzmaßnahmen über den gesetzlichen Mindeststandard hinaus
 - Beschränkung lärmintensiver Arbeiten auf werktägliche Kernzeiten
+<div style="page-break-before: always;"></div>
 
 ### 4.12 Dauerhafte Grunddienstbarkeiten und Nutzungseinschränkungen
 
@@ -635,6 +655,8 @@ Die Planunterlagen räumen offen ein, dass trotz der massiven und teuren Eingrif
 > „Bei Bedarf müssen Keller und Tiefgaragen geflutet werden." (UVS, S. 107)
 
 Dies wirft die grundsätzliche Frage der **Verhältnismäßigkeit** auf: Wenn trotz Baukosten von 50-55 Mio. Euro und jahrelanger Baubelastung die Keller ungeschützt bleiben, rechtfertigt dies die massiven Eingriffe in Privateigentum, Naturschutz und Denkmalschutz?
+
+<div style="page-break-before: always;"></div>
 
 ### 4.14 Fehlende Konkretisierung
 
@@ -671,6 +693,8 @@ Die vorstehenden Einwendungen lassen sich wie folgt zusammenfassen:
 10. **Bürgerbeteiligung und integrative Alternativen:** Die Rahmenbedingungen des Verfahrens (179 Dateien, Weihnachtszeit) erschweren eine fundierte Partizipation. Die HWS-Maßnahmen fokussieren auf eine rein technische Lösung – flexiblere und integrative Alternativen nach internationalen Best-Practice-Vorbildern (Kopenhagen, Basel, Hamburg) wurden nicht geprüft.
 
 ---
+
+<div style="page-break-before: always;"></div>
 
 ## 6. Anträge
 
@@ -719,19 +743,22 @@ Wir beantragen daher:
 
 ---
 
+<div style="page-break-before: always;"></div>
+
 Wir bitten um eine Bestätigung des fristgerechten Erhalts dieser Einwendung und um Mitteilung über das weitere Verfahren, insbesondere den Erörterungstermin.
 
 Wir unterstützen ausdrücklich die Einwendung unseres Nachbarn Florian Gebauer vom 12. Januar 2026, insbesondere seine detaillierten bautechnischen Ausführungen zum Objektschutz, zur UGA-Linienführung und zu den Baugrund- und Feuchterisiken.
 
 Mit freundlichen Grüßen
 
----
+<br><br>
 
-|                      |                        |
-| :------------------- | :--------------------- |
-|                      |                        |
-|                      |                        |
-| **Martin Schwenzer** | **Stephanie Sabatier** |
+<table style="width: 100%; border: none; border-collapse: collapse;">
+<tr>
+<td style="width: 50%; border: none; padding-top: 3em;"><strong>Martin Schwenzer</strong></td>
+<td style="width: 50%; border: none; padding-top: 3em;"><strong>Stephanie Sabatier</strong></td>
+</tr>
+</table>
 
 mail@martinschwenzer.de \
 Regensburg, 14.01.2026
