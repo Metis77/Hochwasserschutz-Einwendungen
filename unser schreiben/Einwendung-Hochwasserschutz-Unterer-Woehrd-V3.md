@@ -16,19 +16,17 @@ pdf_options:
 
 <br>  
 <div style="font-size: 8pt; border-bottom: 1px solid #000; padding-bottom: 2px; margin-bottom: 5px;">
-Martin Schwenzer · Stephanie Sabatier<br>    
+Martin Schwenzer · Stephanie Sabatier  
 Wöhrdstraße 41 · 93059 Regensburg
 </div>
 
-Stadt Regensburg<br>
-Umweltamt<br>
-Bruderwöhrdstraße 15 b<br>
+Stadt Regensburg
+Umweltamt
+Bruderwöhrdstraße 15 b
 93055 Regensburg
 
 <div style="text-align: right; margin-top: 1em;">
-
-**14. Januar 2026**
-
+**14 Januar 2026**
 </div>
 
 ---
@@ -53,6 +51,10 @@ Das Gebäude Wöhrdstraße 41 (ehemaliges Bauhofmeisterhaus) ist als Einzeldenkm
 
 Wir gliedern unsere Einwendungen in mehrere Abschnitte und beziehen uns dabei vornehmlich auf den Erläuterungsbericht (Anlage A, nachfolgend „Bericht") und die Umweltverträglichkeitsstudie (Anlage D 1.0, nachfolgend „UVS").
 
+<div style="border: 1px solid #1a7f37; background: #eaf6ec; padding: 8px 12px; margin: 12px 0; font-size: 10pt; color: #1a4d2b;">
+<strong>Hinweis zur Arbeitsfassung V3:</strong> Diese Fassung enthält gegenüber V2 unter den betroffenen Absätzen <strong>grün hinterlegte Korrekturhinweise</strong> 🔧 zu Seitenangaben, Datierungen und Quellenzuordnungen. Die Korrekturen beruhen auf einer vollständigen Verifikation gegen die Original-PDFs der Planfeststellungsunterlagen (vgl. begleitendes Dokument <em>Quellenbelege.md</em>). Sie sind in der finalen Reinfassung in den Fließtext zu übernehmen.
+</div>
+
 ---
 
 ## 1. Allgemeines und grundsätzliche Einwendungen
@@ -76,6 +78,10 @@ Die geplanten HWS-Maßnahmen verletzen den für ein Planfeststellungsverfahren v
 - Eine Insel soll U-förmig eingemauert und bis zu 15 Meter tief abgedichtet werden
 - Es entsteht ein Polder, der nur noch als ingenieursgeschaffene Gesamtstruktur funktioniert
 - Uns ist kein vergleichbares, erprobtes Projekt bekannt, das Kosten, Betriebssicherheit und Funktionalität belegen könnte
+
+<div style="border-left: 3px solid #1a7f37; background: #eaf6ec; padding: 6px 10px; margin: 8px 0; font-size: 10pt; color: #1a4d2b;">
+🔧 <strong>Korrektur:</strong> „bis zu 15 Meter tief" → <strong>11–19 m, bereichsweise bis zu 20 m unter Gelände</strong> (Bericht S. 21; UVS S. 49; LBP S. 10 / 44). Die 15 m stammen aus dem Geotechnischen Bericht F 2.1 (Quick 2016, S. 25) und beziehen sich dort auf die <em>Mächtigkeit der quartären Sand-/Kiesschicht</em>, nicht auf die UGA-Tiefe.
+</div>
 
 **b) Verlagerung auf die Ausführungsplanung:**
 
@@ -119,6 +125,10 @@ Die angeführten Begründungen – praktische Erwägungen bezüglich Aufbauaufwa
 
 Die Kosten werden nur äußerst vage mit ca. 50-55 Mio. Euro brutto angegeben (Bericht, S. 95).
 
+<div style="border-left: 3px solid #1a7f37; background: #eaf6ec; padding: 6px 10px; margin: 8px 0; font-size: 10pt; color: #1a4d2b;">
+🔧 <strong>Korrektur / Quellenergänzung:</strong> Der Bericht (S. 95) nennt nur die Baukosten von ca. 50 Mio. € brutto (ohne Grundstückskosten). Die Gesamtkosten von 55 Mio. € (Planung + Bau) ergeben sich aus der <strong>Beschlussvorlage der Stadt Regensburg vom 03.12.2024, S. 12</strong>.
+</div>
+
 **Nicht berücksichtigt sind:**
 
 - Grundstückskosten
@@ -132,6 +142,10 @@ Die Kosten werden nur äußerst vage mit ca. 50-55 Mio. Euro brutto angegeben (B
 - Die Ufermauer aus den 1930er Jahren ist in baulich kritischem Zustand; ihre „Standsicherheit nicht mehr nachzuweisen" (Bericht, S. 18)
 - Diese Sanierung MUSS VOR den HWS-Bauarbeiten erfolgen, liegt aber außerhalb der Projektverantwortung
 
+<div style="border-left: 3px solid #1a7f37; background: #eaf6ec; padding: 6px 10px; margin: 8px 0; font-size: 10pt; color: #1a4d2b;">
+🔧 <strong>Korrektur:</strong> „1930er Jahre" → <strong>„1830er Jahre"</strong> (Bericht S. 18: „30er Jahre des 19. Jahrhunderts"). Die Mauer ist rund 100 Jahre älter als bislang dargestellt – das verstärkt das Argument zur Sanierungsbedürftigkeit zusätzlich.
+</div>
+
 **Einordnung durch Vergleichsprojekte:**
 
 Ein Vergleich mit anderen bayerischen Hochwasserschutzprojekten lässt die Kostenschätzung hinterfragen:
@@ -141,6 +155,10 @@ Ein Vergleich mit anderen bayerischen Hochwasserschutzprojekten lässt die Koste
 - **Garmisch-Partenkirchen (Kanker/Partnach):** Eines der größten Wildbachprojekte Bayerns mit HQ100-Schutz wurde für 46 Mio. Euro fertiggestellt (Quelle: StMUV Bayern, 2024).
 
 Die Kostenschätzung erscheint angesichts dieser Vergleiche und der besonderen Komplexität des Vorhabens (Untergrundabdichtung bis 15 m Tiefe, Polderlösung, UNESCO-Welterbe) **erklärungsbedürftig**. Eine detailliertere Kostenermittlung wäre für eine fundierte Verhältnismäßigkeitsprüfung unbedingt zu erstellen.
+
+<div style="border-left: 3px solid #1a7f37; background: #eaf6ec; padding: 6px 10px; margin: 8px 0; font-size: 10pt; color: #1a4d2b;">
+🔧 <strong>Korrektur:</strong> „bis 15 m Tiefe" → <strong>„11–19 m, bereichsweise bis zu 20 m unter Gelände"</strong> (siehe Korrektur in Abschnitt 1.2).
+</div>
 
 <div style="page-break-before: always;"></div>
 
@@ -320,8 +338,6 @@ Die Klimaschutzthematik wird in den Unterlagen einseitig für die Rechtfertigung
 
 ---
 
-<div style="page-break-before: always;"></div>
-
 ## 3. Denkmalschutz im UNESCO-Weltkulturerbe
 
 Die geplanten HWS-Maßnahmen gefährden ein außergewöhnliches Denkmals-Ensemble von herausragender kultureller Bedeutung:
@@ -415,6 +431,12 @@ Laut Grundstücksverzeichnis H 2 sind folgende Maßnahmen auf dem Grundstück ge
 - Prüfen und ggf. Anpassen vorhandener querender Leitungen
 
 **Konkret betroffen:** Auf dem Grundstück Wöhrdstraße 41 sind nach unserer Zählung mindestens acht bedeutende Bäume von den geplanten Maßnahmen betroffen – darunter mehrere nach der städtischen Baumschutzverordnung geschützte Exemplare (Stieleiche Nr. 29, Walnuss Nr. 30, Mirabelle Nr. 36, Zwetschge Nr. 37, Sommerlinde Nr. 42), ein Stadtbiotop (Reneklode Nr. 60, Stadtbiotop R-1303-002), ein im Kataster fehlender Feigenbaum sowie der Kultur-Apfel Nr. 39 mit Mulmhöhle. Letzterer ist einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet (UVS, S. 124; saP, S. 51) und Lebensraum für xylobionte Käferarten. Nach unserer Messung hat dieser Baum einen Stammumfang von 103 cm (in 1 m Höhe) und ist damit ebenfalls nach der Baumschutzverordnung geschützt – im Kataster wird er jedoch mit nur 95 cm geführt und als „nicht geschützt" klassifiziert. Dass sein Stamm „gesichert und auf der Lazarettspitze stehend verankert" werden soll (saP, S. 51), bedeutet faktisch die Zerstörung des gewachsenen Habitatverbunds am Standort.
+
+<div style="border-left: 3px solid #1a7f37; background: #eaf6ec; padding: 6px 10px; margin: 8px 0; font-size: 10pt; color: #1a4d2b;">
+🔧 <strong>Korrektur:</strong> Die Quelle „saP, S. 51" wird hier zweimal zitiert – beide Zuordnungen sind ungenau:<br>
+• Mulmhöhlen-Aufzählung (Bäume Nr. 39, 409, 413): steht in der saP auf <strong>S. 52</strong> (Kap. 5.5.4), Hauptbeleg ist <strong>UVS, S. 124</strong>.<br>
+• Torso-Verankerung auf der Lazarettspitze: steht <strong>nicht in der saP</strong>, sondern in <strong>UVS, S. 124</strong> bzw. <strong>LBP D 2.0, S. 71</strong> (Maßnahme V 2.1).
+</div>
 
 ### 4.4 Prüfung der UGA-Linienführung
 
@@ -563,6 +585,10 @@ Der Erläuterungsbericht (Anlage A) dokumentiert, dass für den Bereich Wöhrdst
 
 > „Das ‚Bauhofmeisterhaus' ist als Einzeldenkmal gelistet (außerhalb des Ensembles). Es liegt zurückgesetzt an der Wöhrdstraße, nördlich schließen **alte Obstgartenbestände** an. Für das denkmalgeschützte Gebäude ist ein Objektschutz ausgeschlossen. Daher verbleiben zwei grundsätzliche Varianten, die den **hochwertigen Obstgarten** entweder der Flussaue oder dem geschützten Bereich zuschlagen." (Erläuterungsbericht, S. 55)
 
+<div style="border-left: 3px solid #1a7f37; background: #eaf6ec; padding: 6px 10px; margin: 8px 0; font-size: 10pt; color: #1a4d2b;">
+🔧 <strong>Korrektur:</strong> Seitenangabe „S. 55" → <strong>„S. 34"</strong> (Erläuterungsbericht, Kap. 5.2.1 PA 1.2 Bauhofmeisterhaus).
+</div>
+
 Die Entscheidung fiel auf **Variante 1** – der Obstgarten wird der Aue zugeschlagen und bei HQ100 überflutet. Diese Entscheidung ist aus mehreren Gründen fragwürdig:
 
 **a) Widerspruch zur Biotopbewertung:**
@@ -587,6 +613,10 @@ Die Entscheidung fiel auf **Variante 1** – der Obstgarten wird der Aue zugesch
 Die Planunterlagen selbst empfehlen ein **Langzeit-Monitoring** für den Obstgarten Wöhrdstraße 41, was ein Eingeständnis erheblicher Unsicherheit darstellt:
 
 > „Bei der ökologischen Baubegleitung wird ein Langzeit-Monitoring empfohlen [...] das möglicherweise zunehmende Krankheiten oder gar Absterben von Gehölzen feststellen kann." (UVS, S. 248)
+
+<div style="border-left: 3px solid #1a7f37; background: #eaf6ec; padding: 6px 10px; margin: 8px 0; font-size: 10pt; color: #1a4d2b;">
+🔧 <strong>Korrektur:</strong> Seitenangabe „S. 248" → <strong>„S. 233"</strong> (UVS, Kap. 14 – ausführlichste Fundstelle).
+</div>
 
 Diese Formulierung zeigt, dass die Planer selbst mit negativen Auswirkungen auf die verbleibenden Gehölze rechnen.
 
@@ -654,9 +684,13 @@ Die Planunterlagen räumen offen ein, dass trotz der massiven und teuren Eingrif
 
 > „Bei Bedarf müssen Keller und Tiefgaragen geflutet werden." (UVS, S. 107)
 
-Dies wirft die grundsätzliche Frage der **Verhältnismäßigkeit** auf: Wenn trotz Baukosten von 50-55 Mio. Euro und jahrelanger Baubelastung die Keller ungeschützt bleiben, rechtfertigt dies die massiven Eingriffe in Privateigentum, Naturschutz und Denkmalschutz?
+<div style="border-left: 3px solid #1a7f37; background: #eaf6ec; padding: 6px 10px; margin: 8px 0; font-size: 10pt; color: #1a4d2b;">
+🔧 <strong>Korrektur:</strong><br>
+• 1. Zitat: „UVS, S. 172" → <strong>„UVS, S. 171"</strong> (Kap. 6.11).<br>
+• 2. Zitat: „UVS, S. 107" → <strong>„UVS, S. 246 / S. 247"</strong> (Kap. 16 Gesamtfazit). Die bisherige Fundstelle S. 107/112 stand im Kapitel „Bewertung Ist-Zustand" und beschreibt die heutige Situation <em>ohne</em> HWS. Die neuen Fundstellen im Gesamtfazit beziehen sich ausdrücklich auf die Situation <em>mit</em> den geplanten Maßnahmen und sind argumentativ deutlich stärker.
+</div>
 
-<div style="page-break-before: always;"></div>
+Dies wirft die grundsätzliche Frage der **Verhältnismäßigkeit** auf: Wenn trotz Baukosten von 50-55 Mio. Euro und jahrelanger Baubelastung die Keller ungeschützt bleiben, rechtfertigt dies die massiven Eingriffe in Privateigentum, Naturschutz und Denkmalschutz?
 
 ### 4.14 Fehlende Konkretisierung
 
@@ -665,6 +699,8 @@ Die Planunterlagen sind bezüglich der konkreten Auswirkungen auf die Anwohner v
 > „Der konkrete Umfang notwendiger Einschränkungen während der Bauzeit kann erst im Zuge der Ausführungsplanung mit Festlegung der Bauverfahren und Bauzeiten angegeben werden." (Bericht, S. 87)
 
 Diese Unverbindlichkeit verhindert eine **rechtssichere Beurteilung der Maßnahmen**.
+
+<div style="page-break-before: always;"></div>
 
 ---
 
@@ -723,7 +759,6 @@ Wir beantragen daher:
 11. Die **Neubegehung und korrekte Bewertung des Baumbestands** gemäß der städtischen Baumschutzverordnung
 
 12. Den **Erhalt des wertvollen Baumbestands** auf dem Flurstück 1791 (Wöhrdstraße 41), insbesondere:
-
     - Reneklode (Nr. 60) – **Stadtbiotop R-1303-002**
     - Stieleiche (Nr. 29) – Stammumfang 175 cm, **geschützt nach Baumschutzverordnung**
     - Walnuss (Nr. 30) – Stammumfang 176 cm, **geschützt nach Baumschutzverordnung**
