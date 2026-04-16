@@ -51,6 +51,8 @@ Die Planunterlagen nennen **zwei** Tiefenangaben für die Untergrundabdichtung:
 
 🔴 **Fehler in der Einwendung** (aktuell: "bis 15 m Tiefe" – Abschnitt 1.2 und 1.5): Die korrekte Formulierung lautet **"11–19 m (bereichsweise bis zu 20 m unter Gelände)"**.
 
+Die "15 m" stammen vermutlich aus dem Geotechnischen Bericht F 2.1 (Quick 2016, S. 25), wo es heißt: *"Die Mächtigkeit der Schicht III kann bis zu 15 m betragen."* Das ist aber die **Mächtigkeit der quartären Sand-/Kiesschicht**, nicht die Tiefe der UGA. Die UGA reicht bis auf den darunterliegenden Fels und damit auf **11–19 m, max. 20 m** unter Gelände.
+
 ### Verifizierte Fundstellen
 
 | # | Quelle | Wortlaut |
@@ -161,10 +163,8 @@ Die Summe der Einzelbauzeiten beträgt 19,5 Jahre; die drei längsten Abschnitte
 
 | # | Quelle | Wortlaut |
 |---|--------|----------|
-| 1 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), Kap. 3.6.6<br> S. 18 · 🔴 | "Die Uferlinie an der Werftstraße einschließlich Mauer stammt aus den **30er Jahren des 19. Jahrhunderts**" |
-| 2 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), Kap. 3.6.6<br> S. 18 · ✅ | "Ihr baulicher Zustand ist kritisch […] **Aus statischer Sicht ist die Standsicherheit nicht mehr nachzuweisen.**" |
-| 3 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), Kap. 3.6.6<br> S. 18 · ✅ | "Die Instandsetzung der Ufermauer muss vor Beginn der Hochwasserschutz-Bauarbeiten abgeschlossen werden" |
-| 4 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), PA 6<br> S. 54 · ✅ | wiederholt: "Die Uferlinie einschließlich Mauer stammt aus den 30er Jahren des 19. Jahrhunderts" |
+| 1 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), Kap. 3.6.6<br> S. 18 · 🔴 ✅ | Drei zentrale Aussagen im selben Kapitel:<br>– "Die Uferlinie an der Werftstraße einschließlich Mauer stammt aus den **30er Jahren des 19. Jahrhunderts**" (🔴 Datierungsfehler in der Einwendung)<br>– "Ihr baulicher Zustand ist kritisch […] **Aus statischer Sicht ist die Standsicherheit nicht mehr nachzuweisen.**"<br>– "Die Instandsetzung der Ufermauer muss vor Beginn der Hochwasserschutz-Bauarbeiten abgeschlossen werden" |
+| 2 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), PA 6<br> S. 54 · ✅ | wiederholt: "Die Uferlinie einschließlich Mauer stammt aus den 30er Jahren des 19. Jahrhunderts" |
 
 ### Korrekturempfehlung
 
@@ -198,15 +198,30 @@ Die Summe der Einzelbauzeiten beträgt 19,5 Jahre; die drei längsten Abschnitte
 
 ## 9. Mulmhöhlen und xylobionte Käfer
 
+### Kernaussage
+
+🔴 **Fehler in der Einwendung** (Abschnitt 4.3): Die Seitenangabe "saP, S. 51" wird dort zweimal verwendet – einmal für die "drei Bäume mit Mulmhöhlen", einmal für die Torso-Verankerung auf der Lazarettspitze. **Beide Zuordnungen sind falsch:**
+
+- Die Aufzählung der drei Mulmhöhlenbäume (Nr. 39, 409, 413) steht auf saP **S. 52**, nicht S. 51.
+- Die Formulierung "an einem geeigneten Standort der Lazarettspitze stehend zu verankern" steht **gar nicht in der saP**, sondern in der UVS (S. 124) bzw. im LBP (Maßnahme V 2.1).
+
 ### Verifizierte Fundstellen
 
 | # | Quelle | Wortlaut |
 |---|--------|----------|
-| 1 | `D 1.0 36 Bericht.pdf`<br> §36-Bericht / UVS, Kap. 6.2<br> S. 124 · ✅ | "Fällung von **drei Bäumen mit Mulmhöhlen**: Baum Nr. 39 (Kultur-Apfel, Wöhrdstr. 41, PA1), Bäume-Nr. 409 und 413 (alte Rosskastanien, PA5)" + "die drei Torsos dieser Höhlenbäume mit Mulmhöhlen bei der Fällung zu sichern und an einem geeigneten Standort der Lazarettspitze (PA 9) stehend zu verankern" |
-| 2 | `D 3.0 saP - Erläuterungsbericht.pdf`<br> saP – Tab. 3 Höhlenbäume<br> S. 39 · ✅ | Tabellarischer Eintrag: "39 / Kultur-Apfel / Mulmhöhle / … / PA 1: Wöhrdstr. 41" |
-| 3 | `D 3.0 saP - Erläuterungsbericht.pdf`<br> saP, Kap. 5.5.4<br> S. 52 · ✅ | "drei Bäume mit Mulmhöhlen erfasst […] Bäume Nr. 39 (Kultur-Apfel, Wöhrdstr. 41), 409 und 413 (Rosskastanien PA 5)" |
+| 1 | `D 1.0 36 Bericht.pdf`<br> §36-Bericht / UVS, Kap. 6.2<br> S. 124 · ✅ | Hauptfundstelle (Verankerung + Aufzählung zusammen): "Fällung von **drei Bäumen mit Mulmhöhlen**: Baum Nr. 39 (Kultur-Apfel, Wöhrdstr. 41, PA1), Bäume-Nr. 409 und 413 (alte Rosskastanien, PA5)" + "die drei Torsos dieser Höhlenbäume mit Mulmhöhlen bei der Fällung zu sichern und an einem geeigneten Standort der Lazarettspitze (PA 9) stehend zu verankern" |
+| 2 | `D 2.0 LBP - Erläuterungsbericht.pdf`<br> LBP – Kap. 4.3 "Xylobionte Käfer" (verweist auf Maßnahme V 2.1)<br> S. 71 · ✅ | "die drei Torsos dieser Höhlenbäume mit Mulmhöhlen bei der Fällung zu sichern und an einem geeigneten Standort der Lazarettspitze (PA 9) stehend zu verankern (vgl. Maßnahmen V 2.1 Kap. 5.3)" |
+| 3 | `D 3.0 saP - Erläuterungsbericht.pdf`<br> saP – Tab. 3 "Zur Fällung vorgesehene Bäume mit Baumhöhlen oder Nistkästen"<br> S. 39 · ✅ | Tabellarischer Eintrag: "39 / Kultur-Apfel / Mulmhöhle / … / PA 1: Wöhrdstr. 41" |
+| 4 | `D 3.0 saP - Erläuterungsbericht.pdf`<br> saP, Kap. 5.5.4 "Xylobionte Käfer"<br> S. 52 · ✅ | "drei Bäume mit Mulmhöhlen erfasst […] Bäume Nr. 39 (Kultur-Apfel, Wöhrdstr. 41), 409 und 413 (Rosskastanien PA 5)" – **keine** Torso-/Lazarettspitzen-Formulierung an dieser Stelle |
 
-⚠️ **Hinweis zur Einwendung:** In Abschnitt 4.3 wird der Torso-Umgang als Zitat aus "saP, S. 51" angegeben. Die tatsächliche Fundstelle ist **UVS S. 124** (Formulierung "an einem geeigneten Standort der Lazarettspitze stehend zu verankern"). Die saP-Tabelle mit Baum Nr. 39 steht auf **S. 39**, die ergänzende Untersuchung auf **S. 52**. Die Seitenzahl "S. 51" ist falsch.
+### Korrekturempfehlung
+
+Die Einwendung führt für beide Aussagen die Quelle "saP, S. 51" an. Richtig ist:
+
+| Aussage in der Einwendung | Falsche Quelle | Korrekte Quelle |
+|--------------------------|----------------|-----------------|
+| "einer von nur drei Bäumen mit Mulmhöhlen im gesamten Projektgebiet" | saP, S. 51 | **UVS, S. 124** (Hauptbeleg) bzw. **saP, S. 52** (Kap. 5.5.4) |
+| "gesichert und auf der Lazarettspitze stehend verankert" | saP, S. 51 | **UVS, S. 124** bzw. **LBP D 2.0, S. 44** (Maßnahme V 2.1) – **nicht** saP |
 
 ---
 
@@ -480,10 +495,10 @@ Folgende **Fehler** sollten in der Einwendung vor dem Absenden korrigiert werden
 
 | # | Abschnitt | Fehler | Korrektur |
 |---|-----------|--------|-----------|
-| 1 | 1.2, 1.5 | "Untergrundabdichtung bis 15 m Tiefe" | "11–19 m (bereichsweise bis zu 20 m unter Gelände)" |
+| 1 | 1.2, 1.5 | "Untergrundabdichtung bis 15 m Tiefe" (15 m = Mächtigkeit der quartären Schicht laut F 2.1, nicht UGA-Tiefe) | "11–19 m (bereichsweise bis zu 20 m unter Gelände)" |
 | 2 | 1.5, 1.7 | Quelle "Bericht, S. 95" für 50–55 Mio. | Zusätzlich **Beschlussvorlage Stadt Regensburg vom 03.12.2024, S. 12** zitieren (dort stehen die 55 Mio. € Gesamt für Planung + Bau) |
 | 3 | 1.5 | "Ufermauer aus den 1930er Jahren" | **"1830er Jahren"** (30er Jahre des 19. Jahrhunderts) |
-| 4 | 4.3 | Torso-Zitat "saP, S. 51" | **"UVS, S. 124"** (Hauptfundstelle) bzw. "saP, S. 52" |
+| 4 | 4.3 | "saP, S. 51" wird zweimal zitiert – für Mulmhöhlen-Aufzählung und Torso-Verankerung. Beide Zuordnungen sind falsch. | Mulmhöhlen-Aufzählung: **"UVS, S. 124"** bzw. **"saP, S. 52"**. Torso-Verankerung: **"UVS, S. 124"** bzw. **"LBP D 2.0, S. 71"** (steht nicht in der saP) |
 | 5 | 4.10 | Obstgarten-Zitat "Erläuterungsbericht, S. 55" | **"Erläuterungsbericht, S. 34"** |
 | 6 | 4.10 | "UVS, S. 248" für Langzeit-Monitoring | **"UVS, S. 233"** |
 | 7 | 4.13 | "UVS, S. 172" für Keller ungeschützt | **"UVS, S. 171"** |
