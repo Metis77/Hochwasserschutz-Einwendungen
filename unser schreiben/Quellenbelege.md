@@ -37,6 +37,7 @@ Alle zitierten PDF-Dateien liegen im Ordner `Planunterlagen Hochwasserschutz Unt
 - [23. Verlagerung auf Ausführungsplanung](#23-verlagerung-auf-ausführungsplanung)
 - [24. Neuversiegelung und Regensburg-Plan 2040](#24-neuversiegelung-und-regensburg-plan-2040)
 - [25. Biodiversitäts-Hotspot](#25-biodiversitäts-hotspot)
+- [26. Spalt unter der UGA / unvollständige Felseinbindung](#26-spalt-unter-der-uga--unvollständige-felseinbindung)
 
 ---
 
@@ -61,15 +62,20 @@ Die Planunterlagen nennen **zwei** Tiefenangaben für die Untergrundabdichtung:
 | 5 | `D 1.0 36 Bericht.pdf`<br> §36-Bericht / UVS<br> S. 26 · ✅ | gleiche Formulierung wie oben |
 | 6 | `D 1.0 36 Bericht.pdf`<br> §36-Bericht / UVS<br> S. 49 · ✅ | "in **Tiefen bis zu 20 m unter Gelände** fortgeführt" (U-Lösung) |
 
+### Geotechnische Primärquellen (Quick & Kollegen 2016 / BCE 2014)
+
+Diese beiden Quellen sind die **technischen Originalbelege**, auf die sich die Erläuterungsbericht-/UVS-/LBP-Aussagen stützen:
+
+| # | Quelle | Wortlaut |
+|---|--------|----------|
+| 7 | `F 2.1 Geotechnischer Bericht (2016).pdf`<br> Quick & Kollegen, Q-42/14, Kap. 7.3.3 "Schicht III – Quartäre Sande und Kiese"<br> S. 25 (Quick) bzw. PDF S. 26 · ✅ | "Die Mächtigkeit der Schicht III kann **bis zu 15 m** betragen. Die Basis der Terrassensedimente schwankt in den Aufschlüssen zwischen ca. **9,4 muGOK und 19,8 muGOK**. Dies entspricht einem absoluten Niveau von ca. **313 mNN und 323 mNN**." |
+| 8 | `F 3.2 Grundwassermodellierung.pdf`<br> BCE 2014, Anlage 9.3 "Grundwassermodell – Teil 3", Kap. zur Baugrunderkundung<br> interne S. 6 / PDF S. 259 · ✅ | "An allen 32 Bohrungen wurde die Basis der quartären Sande und Kiese erreicht (1. GWL). Diese wurde in **Tiefen von ca. 8,5 m bis ca. 20 m unter GOK** erreicht (ca. **313 – 322 mNN**)." |
+
 ### Ergänzung – lokale Tiefe am Grundstück Wöhrdstr. 41
 
 | # | Quelle | Wortlaut |
 |---|--------|----------|
-| 7 | `B 1.1.1-1.1.9 Querschnitte 1.1-1.9.pdf`<br> Querschnitte QS 1.5–1.7, PA 1.2 Bauhofmeisterhaus<br> Anlage B 1.1.5 – B 1.1.7 · ✅ | UK UGA ca. 318–321 m üNN, Tiefe bis auf den Fels rund 12–15 m unter GOK (gemessen aus den Querschnitten) |
-
-### Hinweis zum Geotechnischen Gutachten (F 2.1)
-
-Die aus der Markdown-Konvertierung vorliegende Datei `F_2.1_Geotechnischer_Bericht_(2016).md` stammt aus einem 634-seitigen Original-PDF, das im Planunterlagen-Ordner **nicht vorhanden** ist. Die dort liegenden Dateien `F 2 Baugrunduntersuchungen (Quick-Ing.).pdf` und `F 3 Strömungsuntersuchungen (BCE).pdf` sind nur 1-seitige Deckblätter. `F 2.1` und `F 3.2` sollten daher **nicht** als Quelle zitiert werden, solange das Original-PDF nicht vorliegt.
+| 9 | `B 1.1.1-1.1.9 Querschnitte 1.1-1.9.pdf`<br> Querschnitte QS 1.5–1.7, PA 1.2 Bauhofmeisterhaus<br> Anlage B 1.1.5 – B 1.1.7 · ✅ | UK UGA ca. 318–321 m üNN, Tiefe bis auf den Fels rund 12–15 m unter GOK (gemessen aus den Querschnitten) |
 
 ---
 
@@ -437,6 +443,34 @@ Die korrekte Abkürzung für die Dokumentquelle ist immer **UVS**. "UVP" als Dok
 | # | Quelle | Wortlaut |
 |---|--------|----------|
 | 1 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), Kap. 3.2.5<br> S. 12 · ✅ | "Dennoch ist der Untere Wöhrd mit seiner hohen Artenvielfalt ein **Biodiversitäts-Hotspot innerhalb des Stadtgebietes von Regensburg**. Besondere Bedeutung kommt dabei den **reich strukturierten Uferbereichen mit ihren Weichholzauesäumen, den Überschwemmungswiesen** am Nordufer und dem Wäldchen östlich der Nibelungenbrücke zu." |
+
+---
+
+## 26. Spalt unter der UGA / unvollständige Felseinbindung
+
+### Kernaussage
+
+Die Planung räumt selbst ein, dass die Untergrundabdichtung den Quartär-Grundwasserleiter **bereichsweise nicht vollständig durchteufen** kann. In den Berechnungsmodellen wird daher von einem dauerhaften **Spalt von ca. 0,1 m** zwischen UGA-Unterkante und Fels ausgegangen – mit entsprechendem Restzustrom an Grundwasser im Hochwasserfall.
+
+Diese Information ist **neu** und in der bisherigen Einwendung nicht enthalten. Sie könnte für **Abschnitt 4.5 (Baugrund- und Feuchterisiken)** und für die Verhältnismäßigkeitsdebatte in Abschnitt 1.2 verwendet werden.
+
+### Verifizierte Fundstellen
+
+| # | Quelle | Wortlaut |
+|---|--------|----------|
+| 1 | `F 3.2 Grundwassermodellierung.pdf`<br> BCE 2014, Anlage 9.3 "Grundwassermodell – Teil 3"<br> interne S. 32 / PDF S. 285 · ✅ | "Ein ebenso zu beachtender Aspekt ist die Frage, inwieweit die geplante Untergrundabdichtung das Quartär aufgrund der in der Erkundung angetroffenen Verhältnisse vollständig durchteufen kann. […] Hier besteht die Möglichkeit, dass **bautechnisch keine vollständige Einbindung in den Grundwasserhemmer erreicht wird**. […] Innerhalb dieser Bereiche wird in den Berechnungen des HQB (HQ100) Ereignisses angesetzt, dass im Quartär ein **Spalt von 0,1 m** (mit der hohen Durchlässigkeit des Quartärs) unter der Untergrundabdichtung verbleibt." |
+| 2 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), Kap. 5.1.4 Untergrundabdichtung<br> S. 28–29 · ✅ | "Aufgrund der hohen Durchlässigkeiten des Baugrundes ist eine möglichst vollständige Einbindung der UGA in die tiefliegenden felsigen Schichten (Grundwasserstauer) anzustreben. Aufgrund geologischer und bautechnischer Einschränkungen ist davon auszugehen, dass **bereichsweise ein Spalt zwischen Untergrundabdichtung und dem Grundwasserstauer verbleibt**." |
+| 3 | `A Erläuterungsbericht.pdf`<br> Erläuterungsbericht (Anlage A), Kap. 5.1.4<br> S. 29 · ✅ | "Die Lage des Spaltes mit **durchschnittlich 0,1 m** ist in der Anlage 3.1 von Anlage F 3.2 Teil 3 dargestellt. In der Anlage F 2.2 wurde für diesen Spalt die **Suffosionssicherheit** abgeschätzt wonach keine Auswirkungen auf benachbarte bauliche Anlagen erwartet werden." |
+| 4 | `F 2.2 Nachweise zur Suffosionssicherheit (2024).pdf`<br> Quick & Kollegen, Nachweisführung Suffosionssicherheit<br> gesamtes Dokument · ✅ | Statischer Nachweis zur Stabilität des verbleibenden Spalts unter der UGA |
+
+### Argumentationspotenzial für die Einwendung
+
+Der Spalt von 0,1 m ist **planungsseitig akzeptiert** – das bedeutet:
+
+- Die UGA ist **nicht vollständig dicht**, sondern hat dauerhaft einen geplanten Restzustrom.
+- Die Suffosionssicherheit (Erosion von Bodenpartikeln durch das Spaltwasser) wurde nur **abgeschätzt**, nicht garantiert (vgl. F 2.2).
+- Trotz der enormen Investition von rund 50–55 Mio. € bleibt eine bautechnische Restunsicherheit bestehen.
+- Dies könnte für die Argumentation der **Verhältnismäßigkeit** und der **Baugrund-/Feuchterisiken** für das Bauhofmeisterhaus (Abschnitt 4.5) genutzt werden.
 
 ---
 
