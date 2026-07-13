@@ -4,9 +4,9 @@
 
 ### PDF-Konvertierung
 
-Die PDF-Dateien aus `./Planunterlagen Hochwasserschutz Unterer Wöhrd/` wurden bereits in Markdown konvertiert.
+Die PDF-Dateien aus `./01-Planunterlagen Hochwasserschutz Unterer Wöhrd/` wurden bereits in Markdown konvertiert.
 
-**Konvertierte Dateien:** 178 PDFs → `./markdown/`
+**Konvertierte Dateien:** 178 PDFs → `./01-Planunterlagen Hochwasserschutz Unterer Wöhrd/Markdown/`
 
 **Ordnerstruktur:**
 - `00_Anlagenverzeichnis/` - Verzeichnis aller Unterlagen
@@ -33,7 +33,7 @@ Die Einwendung wird mit `md-to-pdf` in PDF konvertiert.
 
 **WICHTIG – Korrekter Befehl für Seitenzahlen:**
 ```bash
-cd "unser schreiben" && npx md-to-pdf "Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md" --stylesheet style.css
+cd "02-Einwendungen" && npx md-to-pdf "Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md" --stylesheet style.css
 ```
 
 **NICHT verwenden** (überschreibt Frontmatter und entfernt Seitenzahlen):
@@ -44,7 +44,7 @@ npx md-to-pdf ... --pdf-options '{"format": "A4", ...}'
 
 Die PDF-Einstellungen (Seitenzahlen, Ränder, Header/Footer) sind in der **YAML-Frontmatter** der Markdown-Datei definiert. Der `--stylesheet`-Parameter ist OK, aber `--pdf-options` überschreibt die Frontmatter-Einstellungen komplett.
 
-**Stylesheet:** `./unser schreiben/style.css`
+**Stylesheet:** `./02-Einwendungen/style.css`
 - 12pt Schriftgröße (wie Löffler-Vorlage)
 - 2,5 cm Ränder
 - Sans-Serif-Schrift

@@ -6,7 +6,7 @@
 
 |                            |                                                                                                                  |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Einwendung**             | [Einwendung-Hochwasserschutz-Unterer-Woehrd.md](unser%20schreiben/Einwendung-Hochwasserschutz-Unterer-Woehrd.md) |
+| **Einwendung**             | [Einwendung-Hochwasserschutz-Unterer-Woehrd.md](02-Einwendungen/Einwendung-Hochwasserschutz-Unterer-Woehrd.md) |
 | **Einwendungsfrist**       | 16. Januar 2026                                                                                                  |
 | **Betroffenes Grundstück** | Wöhrdstraße 41 (Flurstück 1791)                                                                                  |
 | **Planabschnitt**          | PA 1                                                                                                             |
@@ -16,7 +16,7 @@
 
 ## Planunterlagen
 
-178 PDFs wurden nach `./markdown/` konvertiert.
+178 PDFs wurden nach `./01-Planunterlagen Hochwasserschutz Unterer Wöhrd/Markdown/` konvertiert.
 
 **Wichtige Dokumente:**
 

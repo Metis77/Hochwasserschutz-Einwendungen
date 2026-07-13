@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const PDF_DIR = './Planunterlagen Hochwasserschutz Unterer Wöhrd';
-const MD_DIR = './markdown';
+const PDF_DIR = './01-Planunterlagen Hochwasserschutz Unterer Wöhrd';
+const MD_DIR = './01-Planunterlagen Hochwasserschutz Unterer Wöhrd/Markdown';
 
 // Mapping von PDF-Präfixen zu Markdown-Ordnern
 const folderMapping = {
