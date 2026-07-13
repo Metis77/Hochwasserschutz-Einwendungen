@@ -183,17 +183,17 @@ In unserer Einwendung könnte folgender Passus aufgenommen werden:
 
 ---
 
-## 5. Offene Fragen
+## 5. Offene Fragen (beantwortet 13.07.2026)
 
-- [ ] Sollen die Ergänzungen in V2 eingearbeitet werden (→ V3)?
-- [ ] Soll auf Gebauers Einwendung explizit Bezug genommen werden?
-- [ ] Sind die Stellplätze für uns relevant?
-- [ ] Gibt es einen Grundwasserbrunnen zur Gartenbewässerung?
-- [ ] Können wir die Schadensfreiheit bei HQ 2002/2013 bestätigen?
+- [x] Sollen die Ergänzungen in V2 eingearbeitet werden (→ V3)? → **Nein.** Die Einwendungsphase ist abgeschlossen; es gibt keine neue Einwendungsfassung.
+- [x] Soll auf Gebauers Einwendung explizit Bezug genommen werden? → **Ja.** Beim Erörterungstermin werden alle rechtzeitig erhobenen Einwendungen erörtert (Art. 73 Abs. 6 BayVwVfG) — Bezugnahme ist zulässig und gewollt (mitunterschrieben).
+- [x] Sind die Stellplätze für uns relevant? → **Ja.** Im persönlichen Vorabtermin wurde bereits auf uns eingegangen (Florian Gebauers Vorschlägen folgend).
+- [x] Gibt es einen Grundwasserbrunnen zur Gartenbewässerung? → **Ja.**
+- [x] Können wir die Schadensfreiheit bei HQ 2002/2013 bestätigen? → **Ja.**
 
 ---
 
 ## Quelldateien
 
-- **Gebauer-Einwendung:** `Sonstige Dokumente/2026-01-10_EINWENDUNGEN-Planfeststellungsverfahren_Konkret zu Wöhrdstr.4....pdf`
-- **Schwenzer V2:** `unser schreiben/Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md`
+- **Gebauer-Einwendung:** `02-Einwendungen/Andere Einwender/Gebauer/2026-01-10_EINWENDUNGEN-Planfeststellungsverfahren_Konkret zu Wöhrdstr.4....pdf`
+- **Schwenzer V2:** `02-Einwendungen/Einwendung-Hochwasserschutz-Unterer-Woehrd-V2.md`

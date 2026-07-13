@@ -11,8 +11,8 @@
 | **Betroffenes Grundstück** | Wöhrdstraße 41 (Flurstück 1791)                                                                                  |
 | **Planabschnitt**          | PA 1                                                                                                             |
 
-**Vorlage:** `./Sonstige Dokumente/Bernhard-Einwendung Hochwasserschutz v2.pdf` (Dr. Löffler)
-**Vorlage:** `./Sonstige Dokumente/Flo/2026-01-12_EINWENDUNGSSCHREIBEN ZUM PLANFESTSTELLUNGSVERFAHREN.PDF` (Florian Gebauer)
+**Vorlage:** `./02-Einwendungen/Andere Einwender/Loeffler/Bernhard-Einwendung Hochwasserschutz v2.pdf` (Dr. Löffler)
+**Vorlage:** `./02-Einwendungen/Andere Einwender/Gebauer/2026-01-12_EINWENDUNGSSCHREIBEN ZUM PLANFESTSTELLUNGSVERFAHREN.PDF` (Florian Gebauer)
 
 ## Planunterlagen
 

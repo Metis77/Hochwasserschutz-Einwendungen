@@ -54,6 +54,8 @@ Die PDF-Einstellungen (Seitenzahlen, Ränder, Header/Footer) sind in der **YAML-
 <div style="page-break-before: always;"></div>
 ```
 
+**Ausnahme – Dokumente in `03-Erörterungstermin/`:** Diese PDFs werden mit dem MCP-Tool `iatemplate2pdf` erzeugt (iA-Writer-Template mit eigener Kopf-/Fußzeile und Seitenzahlen), **nicht** mit md-to-pdf. Wichtig: Die Markdown-Dateien dürfen **keine YAML-Frontmatter** enthalten — das iA-Template rendert sie sonst als Text ins PDF.
+
 ### Projektübersicht
 
 - **Vorhabensträger:** Freistaat Bayern / WWA Regensburg
@@ -61,3 +63,11 @@ Die PDF-Einstellungen (Seitenzahlen, Ränder, Header/Footer) sind in der **YAML-
 - **Betroffene:** 1.300 Einwohner, 430 Arbeitsplätze
 - **Planabschnitte:** PA 1-10
 - **Lage:** UNESCO-Welterbe Pufferzone
+
+### Verfahrensstand (wichtig)
+
+- **Einwendungsphase abgeschlossen** (Frist: 16.01.2026). Rechtlich maßgeblich ist die unterschrieben eingereichte **V2** (`02-Einwendungen/Einwendung-Hochwasserschutz-Unterer-Woehrd-V2 Unterschrieben.pdf`).
+- **V3 ist nur eine Arbeitsfassung** (V2 + grüne Korrekturhinweise zu Seitenangaben/Datierungen/Quellen). Es wird **keine V3/V4-Einreichung** geben. Nie eine neue Einwendungsfassung oder „Ergänzungsvorschläge für V2/V3" vorschlagen.
+- **Objektschutz** ist in der eigenen Einwendung bewusst nicht bautechnisch vertieft — die Detailargumentation liegt in der mitunterschriebenen **Gebauer-Einwendung** (`02-Einwendungen/Andere Einwender/Gebauer/`). Das ist Arbeitsteilung, kein Versäumnis.
+- **Aktueller Fokus:** Vorbereitung des Erörterungstermins → Ergebnisse nur in `03-Erörterungstermin/` ablegen (Anträge + Spickzettel).
+- **Korrekte Zahlen** (verifiziert, siehe `02-Einwendungen/Quellenbelege.md`): UGA-Tiefe 11–19 m, bereichsweise bis 20 m (nicht „15 m"); Baukosten ca. 50 Mio. € **brutto** ohne Grundstückskosten (Bericht S. 95); 55 Mio. € gesamt (Beschlussvorlage Stadt Regensburg 03.12.2024, S. 12); Ufermauer 1830er Jahre.
