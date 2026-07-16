@@ -8,7 +8,7 @@ Merksätze:
 - Zahlen: UGA i. d. R. **11–19 m** (UVS S. 26), bis 20 m (Bericht S. 21) · **50 Mio. € brutto** Bau ohne Grundstücke (Bericht S. 95) / **55 Mio. €** gesamt (Beschlussvorlage S. 12) · Ufermauer **1830er** (Bericht S. 18)
 ---
 
-**1 · Beweissicherung** — *Auflage nach Art. 74 Abs. 2 S. 2 BayVwVfG: Beweissicherung (architektonisch/geodätisch/erschütterungstechnisch, DIN 4150) durch ö.b.u.v. Sachverständigen vor Baubeginn + Gebäude-Monitoring, inkl. Wöhrdstr. 41.*
+**1 · Beweissicherung** — *Auflage nach Art. 74 Abs. 2 S. 2 BayVwVfG: Beweissicherung (architektonisch/geodätisch/erschütterungstechnisch, DIN 4150) durch öffentlich bestellten und vereidigten Sachverständigen vor Baubeginn + Gebäude-Monitoring, inkl. Wöhrdstr. 41.*
 - UVS S. 173 f. listet Wöhrdstr. 41 selbst als **erschütterungsgefährdet** (UGA, Mauer, Schaltanlage I)
 - Programm existiert nur als **Empfehlung** des Gutachters (F 2.1 Kap. 13, S. 57: „wird empfohlen/sollte")
 - Beweissicherungsauflagen nach Art. 74 Abs. 2 S. 2: anerkannt (BVerwG 7 A 11.11)
@@ -73,6 +73,8 @@ Merksätze:
 ## Abkürzungen
 
 - **„Bericht"** – Erläuterungsbericht (Anlage A der Planunterlagen)
+- **F 2.1 / F 3.2 / D 7.2 …** – Anlagen-Nummern der Planunterlagen (F = Gutachten, D = Umweltplanung)
+- **DIN 4150** – Baunorm „Erschütterungen im Bauwesen" (Teil 3: zulässige Erschütterungen an Gebäuden)
 - **UVP** – Umweltverträglichkeitsprüfung (die *Prüfung durch die Behörde*)
 - **UVS** – Umweltverträglichkeitsstudie (die *Unterlage des Vorhabensträgers*; hier zugleich der UVP-Bericht)
 - **UVPG** – Gesetz über die Umweltverträglichkeitsprüfung
