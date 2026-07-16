@@ -4,6 +4,26 @@
 **Eigene Einwendung:** fristgerecht eingereicht am 14.01.2026 (V2, unterschrieben) — Frist: 16.01.2026
 **Zweck dieses Dokuments:** Vorbereitung der Anträge zum Erörterungstermin (Art. 73 Abs. 6 BayVwVfG). Es ist **keine** Ergänzung oder Korrektur der Einwendung — das Einwendungsverfahren ist abgeschlossen.
 
+**Inhalt:**
+
+1. Beweissicherung an Gebäuden ⭐
+2. Niedrigwasser-Szenario im Grundwassermodell ⭐
+3. Information über den Verfahrensfortgang 🟡
+4. UVP-Bericht: Klarstellung und behördliche Eigenprüfung 🟡
+5. Tatsächliche Betroffenheit bei HQ100 ⭐
+6. Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung ⭐
+7. Ergebnisoffene Alternativenprüfung ⭐
+8. Offenlegung der Kostenberechnung ⭐
+9. Kostenteilung und Mehrkosten ⭐
+10. FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471 ⭐ _(Part: Löffler)_
+11. Baumkataster: Neubegehung und Korrektur ⭐ _(Part: Gebauer)_
+12. Vorverlegung des UGA-Endpunkts ⭐ _(Part: Gebauer)_
+13. Planungshistorie der Untergrundabdichtung 🟡
+
+— Flankierend: starke Punkte der Mitstreiter
+— Bewusst kein Antrag: 15 % Klimazuschlag
+— Zurückgestellt: Feuerwehrzufahrt westlich des Grundstücks
+
 **So ist jeder Antrag aufgebaut (= Ablauf beim Termin):**
 
 1. **Vortrag** — frei sprechen (1–2 Minuten); die Stichpunkte sind Gedächtnisstütze, kein Skript.
@@ -307,13 +327,138 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 <div style="page-break-before: always;"></div>
 
+## Antrag 10 — FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471 ⭐ stark
+
+**Part:** Löffler (Pkt. 3.3) — bei Anwesenheit unterstützen, nicht doppeln. Der Punkt ist aber durch die **eigene Einwendung selbständig getragen** (Abschn. 2.4 + Antrag 2) — bei Abwesenheit Löfflers selbst vortragen und stellen.
+
+**Vortrag (frei sprechen):**
+
+- Geprüft wurde nur das FFH-Gebiet DE6741371 — für das **Europäische Vogelschutzgebiet (SPA) DE7040471** „Donau zwischen Regensburg und Straubing", das direkt unterhalb des Odessarings beginnt, fehlt jede Verträglichkeitsprüfung.
+- Nachtreiher und Eisvogel sind Schutzgüter dieses SPA-Gebiets und in der UVS selbst als Nahrungsgäste im Projektgebiet nachgewiesen; die Uferbäume dienen als Ansitz und Versteck — viele davon werden gefällt oder im Kronenbereich beeinträchtigt.
+- Ohne diese Prüfung kann der europarechtliche Belang nicht in die Abwägung eingestellt werden.
+
+<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
+<strong>Antragstext (wörtlich verlesen):</strong><br><br>
+„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Durchführung einer FFH-Verträglichkeitsprüfung — hilfsweise zunächst einer FFH-Vorprüfung — nach § 34 BNatSchG für das Europäische Vogelschutzgebiet DE7040471 ‚Donau zwischen Regensburg und Straubing', insbesondere im Hinblick auf die Nahrungshabitate der Schutzgüter Nachtreiher und Eisvogel."
+</div>
+
+**Rechtsgrundlage:** Art. 6 Abs. 3 FFH-Richtlinie; § 34 BNatSchG. Umweltbezogen → keine Präklusion.
+
+**Fundierung (bei Rückfragen):**
+
+- Das FFH-Verträglichkeitsformblatt (Anlage D 4.0) bezieht sich **ausschließlich** auf das FFH-Gebiet DE6741371 (Chamb, Regentalaue und Regen) — das SPA-Gebiet DE7040471 fehlt vollständig (per Aktenstudium bestätigt, eigene Einwendung 2.4).
+- Nachtreiher: im Standarddatenbogen des SPA als Schutzgut genannt, in der UVS als Nahrungsgast im Projektgebiet nachgewiesen; Eisvogel analog. Ersatzbäume sind für den Nachtreiher weitgehend bedeutungslos, wenn sie nicht ufernah gepflanzt werden.
+- Rechtsprechung (aus der Einwendung): BVerwG, Urt. v. 12.03.2008 – 9 A 3.06 (Prüfpflicht, wenn nach Vorprüfung Zweifel verbleiben); BVerwG, Urt. v. 21.01.2016 – 4 A 5.14 (Kompensationsmaßnahmen sichern die Verträglichkeit nur ausnahmsweise).
+
+**Anknüpfung:** Eigene Einwendung 2.4 + Antrag 2; Löffler Pkt. 3.3.
+
+<div style="page-break-before: always;"></div>
+
+## Antrag 11 — Baumkataster: Neubegehung und Korrektur ⭐ stark
+
+**Part:** Gebauer (Anlagen 2 + 3: eigene Messungen, Fotodokumentation) — bei Anwesenheit unterstützen. Der Punkt ist durch die **eigene Einwendung selbständig getragen** (Abschn. 2.2 + Anträge 11/12) — bei Abwesenheit selbst stellen; die Bäume stehen auf dem eigenen Grundstück.
+
+**Vortrag (frei sprechen):**
+
+- Nach der Baumschutzverordnung der Stadt Regensburg (11.02.1993) sind Laub- und Obstbäume ab 100 cm Stammumfang geschützt. Trotzdem führt das Baumkataster **alle** Bäume auf dem Grundstück Wöhrdstraße 41 als „nicht geschützt" — schon nach den **eigenen Tabellenwerten** des Katasters überschreiten mindestens 21 Bäume den Grenzwert.
+- Dazu falsche Messwerte (Sommerlinde Nr. 42: 75 cm im Kataster, tatsächlich ca. 110 cm; Kultur-Apfel Nr. 39: 95 statt ca. 103 cm) und fehlende Bäume im Eingriffsbereich (Feigenbaum zwischen Nr. 49 und 51).
+- Folge: Schutzgüter wurden nicht erkannt, die Eingriffsintensität ist falsch bewertet, Alternativen wurden zu Unrecht verworfen — die Abwägung steht auf falscher Tatsachengrundlage.
+
+<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
+<strong>Antragstext (wörtlich verlesen):</strong><br><br>
+„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:<br>
+1. eine Neubegehung und Korrektur des Baumkatasters (Anlagen D 7.1 und D 7.2) mit korrekter Erfassung der Stammumfänge, des Schutzstatus nach der Baumschutzverordnung der Stadt Regensburg und der bisher fehlenden Bäume;<br>
+2. die Neubewertung von Eingriff, Vermeidungsmaßnahmen und Alternativen auf der korrigierten Tatsachengrundlage."
+</div>
+
+**Rechtsgrundlage:** Art. 24 BayVwVfG; Abwägung auf zutreffender Tatsachengrundlage (Art. 74 BayVwVfG, Abwägungsgebot); Baumschutzverordnung der Stadt Regensburg vom 11.02.1993. Umweltbezogen → keine Präklusion.
+
+**Fundierung (bei Rückfragen):**
+
+- Eigene Einwendung 2.2 a–e: mindestens **21 Bäume** über dem 100-cm-Grenzwert, sämtlich als „nicht geschützt" geführt; konkret auf Wöhrdstr. 41 u. a. Stieleiche Nr. 29 (175 cm), Walnuss Nr. 30 (176 cm), Mirabelle Nr. 36 (122 cm), Zwetschge Nr. 37 (115 cm, Spechthöhle), Kultur-Apfel Nr. 39 (103 cm, Mulmhöhle — eine von dreien im Projektgebiet), Sommerlinde Nr. 42 (110 cm).
+- Plandarstellung D 7.1 widerspricht sogar der eigenen Tabelle D 7.2.
+- Erhalt konkret beantragt in der eigenen Einwendung Antrag 12 (inkl. **Stadtbiotop R-1303-002**, Reneklode Nr. 60).
+
+**Anknüpfung:** Eigene Einwendung 2.2 + Anträge 11/12; Gebauer Anlagen 2 + 3.
+
+<div style="page-break-before: always;"></div>
+
+## Antrag 12 — Vorverlegung des UGA-Endpunkts ⭐ stark
+
+**Part:** Gebauer (Abschn. 5: bautechnische Detailargumentation, ca. 170 m Einsparung, Skizze Anlage 1) — bei Anwesenheit unterstützen, nicht doppeln. Grundlage in der **eigenen Einwendung**: Abschn. 4.4 + Antrag 6 — bei Abwesenheit selbst stellen. **Formulierung nach Stephanies Vorgabe: primär Ende an der nordwestlichen Gebäudeecke** (nicht Grundstücksgrenze).
+
+**Vortrag (frei sprechen):**
+
+- Die UGA endet planmäßig am **nordöstlichen Grundstückseckpunkt** der Wöhrdstraße 41 — sie ist also kein zwingend durchlaufendes Element, sondern hat vor Ort bereits einen definierten Abschluss. Dann ist auch ein früherer Endpunkt denkbar.
+- Die Planer selbst haben die UGA-Trasse andernorts zur „**Minimierung Eingriff in Privateigentum**" optimiert (Nordseite: Beginn erst westlich Wöhrdstr. 49, Bericht S. 22) — dieselbe Optimierung fordern wir für unser Grundstück.
+- Bei positiver Prüfung entfallen ca. 170 m UGA- und Mauerlänge, die Eingriffe in Garten, Wurzelbereiche und Baumbestand vollständig.
+
+<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
+<strong>Antragstext (wörtlich verlesen):</strong><br><br>
+„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Prüfung, ob die Untergrundabdichtung bereits an der nordwestlichen Gebäudeecke der Wöhrdstraße 41 beendet werden kann, ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen — unter Darlegung, ob und warum die Einbeziehung des Grundstücks in den Systemzusammenhang hydraulisch erforderlich ist."
+</div>
+
+**Rechtsgrundlage:** Art. 24 BayVwVfG; Abwägungsgebot (mildere Mittel bei gleicher Wirksamkeit); Verbindung zu Antrag 7 (Alternativenprüfung).
+
+**Fundierung (bei Rückfragen):**
+
+- Eigene Einwendung 4.4: Die Pläne führen die UGA **dreiseitig** über das Grundstück (westliche Grenze, 6 m nördlich parallel zum Gebäude, östliche Grenze) und enden am nordöstlichen Eckpunkt — der Abschnittsabschluss liegt bereits im Grundstücksumfeld.
+- Bericht S. 22 (Tabelle Untervarianten): „Optimierung Nordseite … UGA beginnt erst westlich Wöhrdstr. 49 → **Minimierung Eingriff in Privateigentum**" — das Kriterium ist planungsimmanent anerkannt, wurde für Wöhrdstr. 41 aber nicht angewandt.
+- Eigene Einwendung Antrag 6 (eingereicht): Prüfung der Vorverlegung „an die nordwestliche Grundstücksecke oder nordwestliche Hausecke" — der Termin-Antrag konkretisiert auf die Gebäudeecke.
+- Gebauer Abschn. 5: Einsparung ca. 170 m UGA-/Mauerbaulänge, Wegfall sämtlicher Folgebaumaßnahmen, Erhalt des Baumbestands.
+
+**Anknüpfung:** Eigene Einwendung 4.4 + Antrag 6; Gebauer Abschn. 5 + Anlage 1 (Skizze); verbindet sich mit Antrag 11 (Baumbestand) und Antrag 2 (Grundwasser).
+
+<div style="page-break-before: always;"></div>
+
+## Antrag 13 — Planungshistorie der Untergrundabdichtung 🟡 mittel
+
+**Part:** Stephanies Punkt („ab wann kam die UGA ins Spiel?") — als Frage formuliert, hier zum **Aufklärungs-/Offenlegungsantrag** umgebaut, damit er antragsfähig ist.
+
+**Vortrag (frei sprechen):**
+
+- Die UGA ist der tiefste und dauerhafteste Eingriff des gesamten Projekts. Der Erläuterungsbericht beschreibt die Variantenwahl aber nur im **Ergebnis** (Kap. 4.3.2): reine Pumplösung „technisch nicht mehr sicher beherrschbar", O-Lösung ausgeschieden, U-Lösung „Optimum".
+- Wann diese Entscheidung fiel, auf welcher Untersuchungsgrundlage, und wie die dort erwähnte „Nutzen-Kosten-Betrachtung" aussah — all das ist den ausgelegten Unterlagen nicht zu entnehmen.
+
+<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
+<strong>Antragstext (wörtlich verlesen):</strong><br><br>
+„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Darlegung der Planungshistorie der Untergrundabdichtung — zu welchem Zeitpunkt und auf welcher Untersuchungsgrundlage die Entscheidung für eine tiefe Untergrundabdichtung gefallen ist — sowie die Offenlegung der zugehörigen Variantenuntersuchungen einschließlich der im Erläuterungsbericht erwähnten Nutzen-Kosten-Betrachtung."
+</div>
+
+**Rechtsgrundlage:** Art. 24, 26 BayVwVfG; ergänzend (außerhalb des Termins) Umweltinformationsanspruch nach UIG/BayUIG.
+
+**Fundierung (bei Rückfragen):**
+
+- Bericht Kap. 4.3.2 (S. 21 f.): drei Grundvarianten (reine Pumplösung / U-Lösung / O-Lösung); das Ausscheiden der Pumplösung wird nur **behauptet**, nicht belegt; die Wahl der U-Lösung stützt sich auf eine „Nutzen-Kosten-Betrachtung" (S. 22), die **nicht beiliegt**.
+- Interesse an der Historie: Sie zeigt, ob die **mildere Variante ohne UGA** (reine Pumplösung) je ernsthaft und mit aktuellem Stand der Technik untersucht wurde — verbindet sich mit Antrag 7 (Ermittlungsdefizit Alternativen) und Antrag 2 (Dauerwirkung der UGA nie für Niedrigwasser gerechnet).
+
+**Anknüpfung:** Antrag 2, Antrag 7; eigene Einwendung 4.4/4.5.
+
+<div style="page-break-before: always;"></div>
+
 ## Flankierend: starke Punkte der Mitstreiter (beim Termin unterstützen)
 
-- **FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471** (Löffler Pkt. 3.3; eigener Einwendungs-Antrag 2) — europarechtlich stark.
-- **Baumkataster-Fehler** (Gebauer Anlagen 2 + 3: ≥ 21 Bäume fälschlich „nicht geschützt", falsche Stammumfänge; eigene Anträge 11/12) — Abwägung auf falscher Tatsachengrundlage.
 - **Immissions-/Störfallgutachten Anlagengebäude** (Gebauer Abschn. 7; eigener Antrag 8) — EMF, Lärm, Brand-/Öllasten.
 - **Bauzeit-/Belastungskonzept** (Gebauer Abschn. 10; eigener Antrag 14).
 - **Stellplätze/Außenanlagen Wöhrdstr. 41** (Gebauer Abschn. 8b mit Alternativskizze Anlage 1; eigener Antrag 9): Im **persönlichen Vorabtermin wurde bereits auf uns eingegangen** (Gebauers Vorschlägen folgend) — dieses Entgegenkommen beim Erörterungstermin ansprechen und ausdrücklich **zur Niederschrift protokollieren lassen**; eine mündliche Zusage außerhalb des Protokolls ist unverbindlich.
+
+<div style="page-break-before: always;"></div>
+
+## Bewusst kein Antrag: 15 % Klimazuschlag (Einwendung 1.4)
+
+Der fehlende Klimazuschlag ist absichtlich **nicht** als Antrag aufgenommen — er ist kein Antrags-, sondern ein Widerspruchsthema:
+
+- Ein förmlicher „Antrag auf 15 % Klimazuschlag" würde einen **höheren Bemessungsabfluss** fordern (3.810 statt 3.400 m³/s) — also ein **größeres Bauwerk**. Das liefe den eigenen Anträgen zur Verhältnismäßigkeit und zu milderen Mitteln (Anträge 6 und 7) direkt zuwider.
+- Richtig ist die **Widerspruchs-Rüge** (so bereits Einwendung 1.4): Die Planung begründet das Vorhaben mit dem Klimawandel, verzichtet aber „bewusst" auf die allgemein übliche Erhöhung des HQ100-Abflusses um 15 % (Bericht Kap. 3.5, S. 15) — mit nicht-hydrologischen Argumenten (Aufbauaufwand, Belastung der Binnenentwässerung). Entweder trägt das Klimaargument — dann müsste konsistent geplant werden; oder es trägt nicht — dann schwächt das die Planrechtfertigung (Abwägungsfehler, Art. 44 Abs. 2 BayWG: Auswirkungen der Klimaänderung sind „angemessen zu berücksichtigen").
+- **Beim Termin:** den Widerspruch ansprechen und **protokollieren lassen** — keinen Zuschlag beantragen.
+
+## Zurückgestellt: Feuerwehrzufahrt westlich des Grundstücks
+
+Der vorgeschlagene Antrag („Überprüfung, ob eine Feuerwehrzufahrt auf westlicher Seite Richtung Norden entlang unserem Grundstück besteht") wird **bewusst zurückgestellt**:
+
+- Ein Aufklärungsantrag könnte genau die **falsche Antwort provozieren** — nämlich dass die Behörde die Zufahrt in der Linienführung der HWS-Mauer „mitlöst", **zulasten des Grundstücks** (Flächenbedarf, Ausbau als 5 m breite Aufstellfläche wie bei Wöhrdstr. 1/3, Bericht S. 43).
+- Die Unterlagen behaupten nur pauschal, Feuerwehrzufahrten seien „bei den Planungen berücksichtigt" bzw. würden während der Bauzeit „für jedes Grundstück weiterhin sichergestellt" (Bericht S. 87 f.) — konkret ausgewiesen ist für unser Grundstück nichts. Das ist ein offener Punkt, aber einer, der sich in beide Richtungen auflösen kann.
+- **Erst stellen, wenn klar ist, welches Ergebnis uns besser stellt** — vorher intern klären (ggf. mit Gebauer), ob eine förmlich gesicherte Zufahrt gewollt ist oder gerade nicht.
 
 ---
 

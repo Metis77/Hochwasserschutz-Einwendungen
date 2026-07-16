@@ -62,9 +62,30 @@ Merksätze:
 - 50:50 ist ausdrücklich „**vorläufig**"; bindende Vereinbarung erst zum Maßnahmenbeschluss **2028**; im Stadthaushalt bisher nur 600.000 €
 - „Wer zahlt, wenn aus 55 Mio. € 80 oder 100 Mio. werden?"
 
+**10 · FFH-Prüfung SPA-Gebiet** — *FFH-Verträglichkeitsprüfung (hilfsweise Vorprüfung) nach § 34 BNatSchG für das Vogelschutzgebiet DE7040471 (Art. 24 BayVwVfG).* **Part: Löffler 3.3** — falls abwesend: selbst stellen (eigene Einwendung 2.4 + Antrag 2)
+- Formblatt D 4.0 prüft **nur** FFH-Gebiet DE6741371 — SPA DE7040471 fehlt komplett
+- Nachtreiher + Eisvogel: Schutzgüter des SPA, in der UVS als Nahrungsgäste nachgewiesen; Uferbäume = Ansitz, fallen weg
+- BVerwG 9 A 3.06 (Prüfpflicht bei Zweifeln); 4 A 5.14 (Kompensation reicht nur ausnahmsweise)
+
+**11 · Baumkataster** — *Neubegehung + Korrektur D 7.1/7.2, Neubewertung des Eingriffs (Art. 24 BayVwVfG).* **Part: Gebauer Anl. 2+3** — falls abwesend: selbst stellen (eigene Einwendung 2.2 + Anträge 11/12; eigenes Grundstück!)
+- ≥ **21 Bäume** über 100-cm-Grenze der Baumschutzverordnung, alle als „nicht geschützt" geführt
+- Falsche Messwerte: Linde Nr. 42 (75 → ~110 cm), Apfel Nr. 39 (95 → ~103 cm); Feigenbaum fehlt ganz
+- Stadtbiotop R-1303-002 (Reneklode Nr. 60); Abwägung auf falscher Tatsachengrundlage
+
+**12 · UGA-Endpunkt vorverlegen** — *Prüfung: UGA-Ende an der **nordwestlichen Gebäudeecke** Wöhrdstr. 41 (Art. 24 BayVwVfG) + Darlegung der hydraulischen Erforderlichkeit.* **Part: Gebauer Abschn. 5** — falls abwesend: selbst stellen (eigene Einwendung 4.4 + Antrag 6)
+- UGA endet schon jetzt am **nordöstlichen** Grundstückseck — kein durchlaufendes Element
+- Planer-eigenes Kriterium „Minimierung Eingriff in Privateigentum" (Nordseite, Bericht S. 22) — für uns nicht angewandt
+- Gewinn: ~170 m weniger UGA/Mauer, Garten + Baumbestand bleiben (Gebauer Skizze Anl. 1)
+
+**13 · UGA-Planungshistorie** — *Darlegung: wann und auf welcher Grundlage fiel die UGA-Entscheidung; Offenlegung der Variantenuntersuchungen inkl. Nutzen-Kosten-Betrachtung (Art. 24 BayVwVfG).* (Stephs Frage, als Antrag gerahmt)
+- Kap. 4.3.2: Pumplösung „nicht sicher beherrschbar" = **Behauptung ohne Beleg**; Nutzen-Kosten-Betrachtung (S. 22) liegt nicht bei
+- Zeigt, ob die mildere Variante ohne UGA je ernsthaft geprüft wurde → Verbindung zu Anträgen 2 + 7
+
 ---
 
-**Flankierend unterstützen:** FFH-Prüfung SPA DE7040471 (Löffler 3.3 / eigener Antrag 2) · Baumkataster-Fehler ≥ 21 Bäume (Gebauer Anl. 2+3 / eigene Anträge 11/12) · Immissions-/Störfallgutachten Anlagengebäude (Gebauer 7 / eigener Antrag 8) · Bauzeit-/Belastungskonzept (Gebauer 10 / eigener Antrag 14) · **Stellplätze:** Entgegenkommen aus dem Vorabtermin (Gebauers Vorschläge) ansprechen und **zur Niederschrift protokollieren lassen**
+**Flankierend unterstützen:** Immissions-/Störfallgutachten Anlagengebäude (Gebauer 7 / eigener Antrag 8) · Bauzeit-/Belastungskonzept (Gebauer 10 / eigener Antrag 14) · **Stellplätze:** Entgegenkommen aus dem Vorabtermin (Gebauers Vorschläge) ansprechen und **zur Niederschrift protokollieren lassen**
+
+**Kein Antrag — 15 % Klimazuschlag:** nur als **Widerspruch rügen** und protokollieren lassen (Klimawandel-Begründung vs. „bewusster" Verzicht, Bericht S. 15) — keinen Zuschlag beantragen, das hieße größeres Bauwerk. · **Zurückgestellt — Feuerwehrzufahrt:** nicht ansprechen, solange unklar, ob die Antwort uns schlechter stellt (Gefahr: „Mitlösung" in der Mauer-Linienführung).
 
 **Merke:** Erörtert werden **alle** rechtzeitig erhobenen Einwendungen (Art. 73 Abs. 6 BayVwVfG) — Bezugnahme auf Gebauer/Löffler ist zulässig und erwünscht.
 
