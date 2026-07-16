@@ -2,7 +2,7 @@
 
 Merksätze:
 
-- Jeden Antrag **„zur Niederschrift"** stellen (Art. 68 Abs. 4 S. 2 Nr. 3 BayVwVfG — Anträge müssen protokolliert werden) und schriftlich übergeben
+- Jeden Antrag **„zur Niederschrift"** stellen (Art. 68 Abs. 4 S. 2 Nr. 3 BayVwVfG — Anträge müssen protokolliert werden) und schriftlich übergeben (Übergabefassung)
 - Aufklärungsanträge auf Art. 24 BayVwVfG stützen
 - Keine Präklusion (= Ausschluss verspäteten Vorbringens) bei Umweltbezug — Schutzgüter-Ausnahme lt. Bekanntmachung; § 7 Abs. 4 UmwRG
 - Zahlen: UGA i. d. R. **11–19 m** (UVS S. 26), bis 20 m (Bericht S. 21) · **50 Mio. € brutto** Bau ohne Grundstücke (Bericht S. 95) / **55 Mio. €** gesamt (Beschlussvorlage S. 12) · Ufermauer **1830er** (Bericht S. 18)
@@ -27,7 +27,7 @@ Merksätze:
 - Bekanntmachung S. 4: ab > 50 Einwendern alles per öffentlicher Bekanntmachung ersetzbar → persönliche Info **nicht garantiert**, Klagefrist läuft trotzdem
 - Rückfall: Sammel-Info (Verteiler) über Meilensteine; Akteneinsicht Art. 29 BayVwVfG / UIG
 
-**4 · UVP-Klarstellung** — *Feststellung: „UVS" (Anlage D 1) = UVP-Bericht nach § 16 UVPG; Zusage eigenständiger Behördenbewertung (§§ 24, 25 UVPG).*
+**4 · UVP-Bericht: Klarstellung** — *Feststellung: „UVS" (Anlage D 1) = UVP-Bericht nach § 16 UVPG; Zusage eigenständiger Behördenbewertung (§§ 24, 25 UVPG).*
 - ⚠️ Nicht „UVP fehlt" sagen — UVP läuft (vom Träger selbst beantragt, § 7 Abs. 3 UVPG)
 - Frage: Warum heißt die Unterlage in der Bekanntmachung „UVP-Bericht", in den Unterlagen „UVS"?
 - § 24 Abs. 2 UVPG: zusammenfassende Darstellung „möglichst innerhalb eines Monats" **nach der Erörterung** (Soll-Frist) — jetzt einfordern
@@ -40,7 +40,7 @@ Merksätze:
 - F 7.0 „Risikogutachten" = Versagensbetrachtung mobiler Elemente, kein Betroffenheitsgutachten
 - **Zur Niederschrift erklären:** Wöhrdstr. 41 schadensfrei bei HW 2002 und 2013 (persönlich bezeugbar)
 
-**6 · Verhältnismäßigkeit / NKV** — *Vorlage einer förmlichen Nutzen-Kosten-Untersuchung (Barwert, Betriebskosten, Risiken).*
+**6 · Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung** — *Vorlage einer förmlichen Nutzen-Kosten-Untersuchung (Barwert, Betriebskosten, Risiken).*
 - Es existiert **keine** Wirtschaftlichkeitsuntersuchung der Gesamtmaßnahme
 - 50–75 Mio. € Schäden **über 100 Jahre** vs. 50 Mio. € Baukosten **sofort** — nie gegenübergestellt, kein Barwert
 - Plus unbezifferte Dauer-Betriebskosten (4 Pumpwerke, Drainagen — UVS S. 245)
@@ -57,7 +57,7 @@ Merksätze:
 - Art. 39 Abs. 1 BayWG: Ausbaupflicht nur bei **gesicherter Finanzierung**
 - Vergleich: Passau Lindau/Sulzsteg 1.275 m **HQ500** = 38,8 Mio. €
 
-**9 · Mehrkosten & Kostenteilung** — *Darlegung: Wer trägt Kostensteigerungen? Warum 50 % Stadtanteil statt gesetzlicher 20 % (Art. 42 Abs. 2 S. 1 BayWG)? Offenlegung Planungsvereinbarung 2005 + Entwurf Bau-/Unterhaltsvereinbarung.*
+**9 · Kostenteilung & Mehrkosten** — *Darlegung: Wer trägt Kostensteigerungen? Warum 50 % Stadtanteil statt gesetzlicher 20 % (Art. 42 Abs. 2 S. 1 BayWG)? Offenlegung Planungsvereinbarung 2005 + Entwurf Bau-/Unterhaltsvereinbarung.*
 - Zu Mehrkosten/Baupreissteigerung: **keine einzige Fundstelle** in allen Unterlagen
 - 50:50 ist ausdrücklich „**vorläufig**"; bindende Vereinbarung erst zum Maßnahmenbeschluss **2028**; im Stadthaushalt bisher nur 600.000 €
 - „Wer zahlt, wenn aus 55 Mio. € 80 oder 100 Mio. werden?"
@@ -73,19 +73,25 @@ Merksätze:
 ## Abkürzungen
 
 - **„Bericht"** – Erläuterungsbericht (Anlage A der Planunterlagen)
-- **F 2.1 / F 3.2 / D 7.2 …** – Anlagen-Nummern der Planunterlagen (F = Gutachten, D = Umweltplanung)
+- **A / C / D / F …** – Anlagen-Nummern der Planunterlagen (z. B. D 1.0 = UVS-Bericht, F 3.2 = Grundwassermodellierung)
 - **DIN 4150** – Baunorm „Erschütterungen im Bauwesen" (Teil 3: zulässige Erschütterungen an Gebäuden)
 - **UVP** – Umweltverträglichkeitsprüfung (die *Prüfung durch die Behörde*)
 - **UVS** – Umweltverträglichkeitsstudie (die *Unterlage des Vorhabensträgers*; hier zugleich der UVP-Bericht)
 - **UVPG** – Gesetz über die Umweltverträglichkeitsprüfung
 - **UmwRG** – Umwelt-Rechtsbehelfsgesetz
-- **BayVwVfG** – Bayerisches Verwaltungsverfahrensgesetz
+- **BayVwVfG** – Bayerisches Verwaltungsverfahrensgesetz (wortgleich zum Bundes-VwVfG)
+- **WHG** – Wasserhaushaltsgesetz (Bund)
 - **BayWG** – Bayerisches Wassergesetz
+- **BayHO** – Bayerische Haushaltsordnung
+- **UIG / BayUIG** – Umweltinformationsgesetz (Bund / Bayern)
 - **UGA** – Untergrundabdichtung (tiefe Dichtwand im Boden)
+- **HWS** – Hochwasserschutz
 - **HQ100 / HW50** – Hochwasser, das statistisch alle 100 bzw. ca. 50 Jahre erreicht wird
 - **NQ** – Niedrigwasserabfluss
 - **PA** – Planabschnitt (PA 1–10; Wöhrdstraße 41 liegt in PA 1)
 - **Präklusion** – Ausschluss verspätet vorgebrachter Einwendungen
+- **LBP** – Landschaftspflegerischer Begleitplan
 - **FFH / SPA** – EU-Naturschutzgebiet (Fauna-Flora-Habitat) / EU-Vogelschutzgebiet
 - **EMF** – elektromagnetische Felder
-- **BVerwG** – Bundesverwaltungsgericht
+- **BVerwG** – Bundesverwaltungsgericht (BVerwGE = dessen Entscheidungssammlung; Rn. = Randnummer im Urteil)
+- **st. Rspr.** – ständige Rechtsprechung

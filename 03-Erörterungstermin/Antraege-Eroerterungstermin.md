@@ -7,28 +7,48 @@
 **So ist jeder Antrag aufgebaut (= Ablauf beim Termin):**
 
 1. **Vortrag** — frei sprechen (1–2 Minuten); die Stichpunkte sind Gedächtnisstütze, kein Skript.
-2. **Antragstext** — am Ende **wörtlich und langsam verlesen** („Wir beantragen zur Niederschrift …"), auf Protokollierung achten, schriftliche Fassung übergeben.
+2. **Antragstext** — am Ende **wörtlich und langsam verlesen** („Wir beantragen zur Niederschrift …"), auf Protokollierung achten, schriftliche Fassung übergeben (Übergabefassung).
 3. **Rechtsgrundlage / Fundierung / Anknüpfung** — _nicht_ vortragen. Das ist die Munition für Rückfragen („Wo soll das stehen?") — Dokument dabeihaben und Stelle aufschlagen können.
 
 **Hinweis Arbeitsteilung Objektschutz:** Die bautechnische Detailargumentation zum Objektschutz (Alternativkonzept, Vorverlegung der Untergrundabdichtung (UGA), Skizze Planungsalternative) liegt bewusst in der **Einwendung Gebauer** (mitunterschrieben; in der eigenen Einwendung ausdrücklich unterstützt). Beim Termin: auf Gebauer verweisen und unterstützen, nicht doppeln. Die Bezugnahme ist zulässig — erörtert werden **alle** rechtzeitig erhobenen Einwendungen (Art. 73 Abs. 6 BayVwVfG), nicht nur die eigenen.
 
 ---
 
+<div style="page-break-before: always;"></div>
+
 ## Abkürzungen
 
-- **„Bericht"** = Erläuterungsbericht (Anlage A der Planunterlagen) · **A / C / D / F …** = Anlagen-Nummern der Planunterlagen (z. B. D 1.0 = UVS-Bericht, F 3.2 = Grundwassermodellierung)
-- **UVP** = Umweltverträglichkeitsprüfung (die _Prüfung durch die Behörde_) · **UVS** = Umweltverträglichkeitsstudie (die _Unterlage des Vorhabensträgers_; hier zugleich der UVP-Bericht) · **UVPG** = Gesetz über die Umweltverträglichkeitsprüfung · **UmwRG** = Umwelt-Rechtsbehelfsgesetz
-- **BayVwVfG** = Bayerisches Verwaltungsverfahrensgesetz (wortgleich zum Bundes-VwVfG) · **WHG** = Wasserhaushaltsgesetz (Bund) · **BayWG** = Bayerisches Wassergesetz · **BayHO** = Bayerische Haushaltsordnung · **UIG/BayUIG** = Umweltinformationsgesetz (Bund/Bayern)
-- **UGA** = Untergrundabdichtung (tiefe Dichtwand im Boden) · **HWS** = Hochwasserschutz · **HQ100 / HW50** = Hochwasser, das statistisch alle 100 bzw. ca. 50 Jahre erreicht wird · **NQ** = Niedrigwasserabfluss
-- **PA** = Planabschnitt (PA 1–10; Wöhrdstraße 41 liegt in PA 1) · **LBP** = Landschaftspflegerischer Begleitplan · **FFH** = Fauna-Flora-Habitat(-Richtlinie der EU) · **SPA** = EU-Vogelschutzgebiet (Special Protection Area) · **EMF** = elektromagnetische Felder
-- **ö. b. u. v.** = öffentlich bestellt und vereidigt (Sachverständiger) · **DIN 4150** = Baunorm „Erschütterungen im Bauwesen" (Teil 3: zulässige Erschütterungen an Gebäuden) · **GW** = Grundwasser
-- **BVerwG** = Bundesverwaltungsgericht · **BVerwGE** = amtliche Entscheidungssammlung des BVerwG · **Rn.** = Randnummer (Absatz im Urteil) · **st. Rspr.** = ständige Rechtsprechung
+- **„Bericht"** – Erläuterungsbericht (Anlage A der Planunterlagen)
+- **A / C / D / F …** – Anlagen-Nummern der Planunterlagen (z. B. D 1.0 = UVS-Bericht, F 3.2 = Grundwassermodellierung)
+- **DIN 4150** – Baunorm „Erschütterungen im Bauwesen" (Teil 3: zulässige Erschütterungen an Gebäuden)
+- **UVP** – Umweltverträglichkeitsprüfung (die _Prüfung durch die Behörde_)
+- **UVS** – Umweltverträglichkeitsstudie (die _Unterlage des Vorhabensträgers_; hier zugleich der UVP-Bericht)
+- **UVPG** – Gesetz über die Umweltverträglichkeitsprüfung
+- **UmwRG** – Umwelt-Rechtsbehelfsgesetz
+- **BayVwVfG** – Bayerisches Verwaltungsverfahrensgesetz (wortgleich zum Bundes-VwVfG)
+- **WHG** – Wasserhaushaltsgesetz (Bund)
+- **BayWG** – Bayerisches Wassergesetz
+- **BayHO** – Bayerische Haushaltsordnung
+- **UIG / BayUIG** – Umweltinformationsgesetz (Bund / Bayern)
+- **UGA** – Untergrundabdichtung (tiefe Dichtwand im Boden)
+- **HWS** – Hochwasserschutz
+- **HQ100 / HW50** – Hochwasser, das statistisch alle 100 bzw. ca. 50 Jahre erreicht wird
+- **NQ** – Niedrigwasserabfluss
+- **PA** – Planabschnitt (PA 1–10; Wöhrdstraße 41 liegt in PA 1)
+- **Präklusion** – Ausschluss verspätet vorgebrachter Einwendungen
+- **LBP** – Landschaftspflegerischer Begleitplan
+- **FFH / SPA** – EU-Naturschutzgebiet (Fauna-Flora-Habitat) / EU-Vogelschutzgebiet
+- **EMF** – elektromagnetische Felder
+- **BVerwG** – Bundesverwaltungsgericht (BVerwGE = dessen Entscheidungssammlung; Rn. = Randnummer im Urteil)
+- **st. Rspr.** – ständige Rechtsprechung
 
 ---
 
+<div style="page-break-before: always;"></div>
+
 ## Verfahrenstaktik (gilt für alle Anträge)
 
-1. **Jeden Antrag ausdrücklich „zur Niederschrift" stellen.** Rechtsgrundlage: Art. 73 Abs. 6 Satz 6 i. V. m. Art. 68 Abs. 2 Satz 2 BayVwVfG (Verhandlungsleiter hat darauf hinzuwirken, dass sachdienliche Anträge gestellt werden); Art. 68 Abs. 4 Satz 2 Nr. 3 BayVwVfG (Niederschrift muss „die gestellten Anträge" enthalten). Zusätzlich **schriftliche Fassung übergeben** (Spickzettel-Anlage) und Protokollierung verlangen.
+1. **Jeden Antrag ausdrücklich „zur Niederschrift" stellen.** Rechtsgrundlage: Art. 73 Abs. 6 Satz 6 i. V. m. Art. 68 Abs. 2 Satz 2 BayVwVfG (Verhandlungsleiter hat darauf hinzuwirken, dass sachdienliche Anträge gestellt werden); Art. 68 Abs. 4 Satz 2 Nr. 3 BayVwVfG (Niederschrift muss „die gestellten Anträge" enthalten). Zusätzlich **schriftliche Fassung übergeben** (Übergabefassung, 2–3 Ausfertigungen) und Protokollierung verlangen.
 2. **Rahmung:** Ein förmliches Beweisantragsrecht mit Bescheidungsanspruch gibt es im Verwaltungsverfahren **nicht** (Art. 26 BayVwVfG = pflichtgemäßes Ermessen). Deshalb alle Aufklärungsanträge als **„Antrag auf Sachverhaltsaufklärung nach Art. 24, 26 BayVwVfG"** stellen. Übergeht die Behörde eine substantiierte Anregung zu einem entscheidungserheblichen Punkt, ist das später als Ermittlungsdefizit/Abwägungsfehler rügefähig.
 3. **Keine Angst vor „neuen" Punkten:** Das Vorhaben ist UVP-pflichtig (UVP = Umweltverträglichkeitsprüfung) — die Vorprüfung entfiel auf Antrag des Vorhabensträgers mit Billigung der Behörde, die UVP-Pflicht folgt aus § 7 Abs. 3 Sätze 1 und 2 UVPG. Die Bekanntmachung vom 17.10.2025 nimmt Einwendungen zu den Schutzgütern nach § 2 Abs. 1 UVPG ausdrücklich vom Einwendungsausschluss aus; für ein späteres Klageverfahren ist die materielle Präklusion ohnehin unanwendbar (§ 7 Abs. 4 UmwRG, hier i. V. m. Art. 73 Abs. 4 Sätze 3–6 BayVwVfG — Wirkung im gerichtlichen Rechtsbehelfsverfahren).
 4. **Nur korrekte Zahlen verwenden** (verifizierte Fassung, vgl. Quellenbelege.md):
@@ -107,9 +127,8 @@
 - Es gibt keinen Zeitplan im Verfahren: Baubeginn „nicht vor 2028" — wir möchten wissen, wann was entschieden wird.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br>
-
-„Wir beantragen zur Niederschrift die Zusage der Planfeststellungsbehörde,
+<strong>Antragstext (wörtlich verlesen):</strong><br><br>
+„Wir beantragen zur Niederschrift die Zusage der Planfeststellungsbehörde,<br>
 
 1. die Einwender individuell über das Ergebnis der Erörterung und den weiteren Verfahrensgang zu informieren, und<br>
 2. die Entscheidung individuell zuzustellen (Art. 74 Abs. 4 BayVwVfG), ohne von der Ersetzung durch öffentliche Bekanntmachung (Art. 74 Abs. 5 BayVwVfG) Gebrauch zu machen."
@@ -126,7 +145,7 @@
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 4 — UVP: Klarstellung und behördliche Eigenprüfung 🟡 umgebaut (ursprüngliche Idee trägt nicht)
+## Antrag 4 — UVP-Bericht: Klarstellung und behördliche Eigenprüfung 🟡 umgebaut (ursprüngliche Idee trägt nicht)
 
 **Wichtig — Befund der Prüfung:** Die ursprüngliche Formulierung „Antrag auf UVP — nur UVS vorhanden" **trägt nicht**: Es findet eine vollwertige UVP statt. Der Vorhabensträger hat sie nach begonnener Vorprüfung selbst beantragt (§ 7 Abs. 3 Sätze 1 und 2 UVPG; UVS Kap. 1.5, S. 15), und die „UVS" ist nach eigener Aussage der UVP-Bericht i. S. d. § 16 UVPG („UVS, analog UVP-Bericht", Kap. 1.6, S. 15). Die Bekanntmachung nennt die Unterlage durchgängig „UVP-Bericht", das Anlagenverzeichnis (S. 3) dagegen „D 1 Umweltverträglichkeitsstudie (UVS)". Deshalb umformuliert:
 
@@ -140,7 +159,7 @@
 „Wir beantragen zur Niederschrift:<br>
 1. die Feststellung, dass die als ‚Umweltverträglichkeitsstudie (UVS)' bezeichnete Anlage D 1 der UVP-Bericht nach § 16 UVPG ist;<br>
 2. die Zusage, dass die Planfeststellungsbehörde die zusammenfassende Darstellung (§ 24 UVPG) und die begründete Bewertung (§ 25 UVPG) eigenständig erarbeitet und nicht lediglich die Bewertungen des Vorhabensträgers übernimmt.<br><br>
-Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollständig ist (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — dazu unser Antrag zur Alternativenprüfung)."
+Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollständig ist (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — siehe Antrag 7)."
 </div>
 
 **Fundierung (bei Rückfragen):**
@@ -270,9 +289,9 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
 „Wir beantragen zur Niederschrift die Darlegung:<br>
-1. Wer trägt Mehrkosten und Kostensteigerungen gegenüber der Kostenberechnung (Stand Entwurfsplanung)?<br>
-2. Auf welcher Grundlage übernimmt die Stadt Regensburg ‚etwa 50 Prozent der Kosten', obwohl Art. 42 Abs. 2 Satz 1 BayWG einen Gemeindeanteil von 20 % der Ausbaukosten vorsieht?<br>
-3. Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und des Entwurfs der Bau- und Unterhaltsvereinbarung."
+1. wer Mehrkosten und Kostensteigerungen gegenüber der Kostenberechnung (Stand Entwurfsplanung) trägt;<br>
+2. auf welcher Grundlage die Stadt Regensburg ‚etwa 50 Prozent der Kosten' übernimmt, obwohl Art. 42 Abs. 2 Satz 1 BayWG einen Gemeindeanteil von 20 % der Ausbaukosten vorsieht.<br><br>
+Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und des Entwurfs der Bau- und Unterhaltsvereinbarung."
 </div>
 
 **Rechtsgrundlage:** Art. 42 Abs. 1, Abs. 2 Satz 1 BayWG (verifiziert: „… erhebt er von den Gemeinden Beiträge und Vorschüsse in Höhe von **20 % der Ausbaukosten**"; Satz 6: abweichende vertragliche Vereinbarung möglich — genau deren Offenlegung wird beantragt); Art. 24 BayVwVfG.
