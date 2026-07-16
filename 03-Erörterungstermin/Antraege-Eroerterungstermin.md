@@ -36,7 +36,7 @@
    - Baukosten: **ca. 50 Mio. € brutto** (Bericht S. 95, ohne Grundstückskosten) — nicht „netto"; **55 Mio. € gesamt** (Planung + Bau, Beschlussvorlage 03.12.2024, S. 12)
    - Ufermauer: **1830er Jahre** (Bericht S. 18)
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 1 — Beweissicherung an Gebäuden ⭐ sehr stark
 
@@ -66,7 +66,7 @@
 
 **Anknüpfung:** Eigene Einwendung Antrag 7 (Mess-/Monitoring-Konzept Bauhofmeisterhaus); Löffler Pkt. 2.1 (Risse durch Spundwände/Injektionen); Gebauer Abschn. 6 (Riss-Monitoring vor/während/nach Bauphase, Substanzschutzkonzept). **Alle drei Einwender fordern das** — gemeinsam vortragen.
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 2 — Niedrigwasser-Szenario im Grundwassermodell ⭐ sehr stark
 
@@ -97,7 +97,7 @@
 
 **Anknüpfung:** Eigene Einwendung 4.5 (Baugrund-/Feuchterisiken, dauerhafte Veränderung des hydrogeologischen Systems); Gebauer Abschn. 6 (Prognose „über alle Betriebs- und Extremzustände"); Löffler Pkt. 2.2 (Veränderungen der Grundwasserströmungen).
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 3 — Information über den Verfahrensfortgang 🟡 mittel (Zusage-Antrag)
 
@@ -124,7 +124,7 @@
 
 **Ehrliche Einschätzung:** Bei Nutzung von Abs. 5 besteht **kein Rechtsanspruch** auf individuelle Zustellung — der Antrag zielt auf eine freiwillige, protokollierte Zusage. **Rückfallposition:** Zusage wenigstens einer Sammel-Information (E-Mail-Verteiler) über Meilensteine; unabhängig davon selbst Amtsblatt/Bekanntmachungen überwachen (Klagefrist läuft sonst ab öffentlicher Bekanntmachung!).
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 4 — UVP: Klarstellung und behördliche Eigenprüfung 🟡 umgebaut (ursprüngliche Idee trägt nicht)
 
@@ -149,7 +149,7 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 - §§ 24, 25 UVPG: Die UVP-_Prüfung_ ist Behördenaufgabe — die zusammenfassende Darstellung „soll möglichst innerhalb eines Monats **nach dem Abschluss der Erörterung**" erarbeitet werden (§ 24 Abs. 2 UVPG, Soll-Frist); genau jetzt ist der richtige Zeitpunkt, das einzufordern. Zudem Aktualitätsgebot § 25 Abs. 3 UVPG.
 - Inhaltlicher Hebel: § 16 Abs. 1 Satz 1 Nr. 6 UVPG verlangt die Beschreibung der „vernünftigen Alternativen" — die UVS behandelt Objektschutz nur abstrakt (vgl. Antrag 7).
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 5 — Tatsächliche Betroffenheit bei HQ100 ⭐ stark
 
@@ -177,7 +177,7 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 
 **Anknüpfung:** Eigene Einwendung 1.1 (Ausgangsprämisse „Gefahr für Leib und Leben"); > 48 h Vorwarnzeit (Bericht S. 77); **Evakuierungen ab ca. HW50 (≈ 50-jährliches Hochwasser) gemäß Risikogutachten** (UVS S. 115 wörtlich; Tab. 43 „Evakuierung Polder ab ca. HW50", UVS S. 195 f.); Löffler Pkt. 1.1; Gebauer (höchstgelegener Punkt: Abschn. 4; Schadensfreiheit HQ 2002/2013: Abschn. 0 und 3).
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 6 — Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung ⭐ stark
 
@@ -202,7 +202,7 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 
 **Anknüpfung:** Eigene Einwendung 1.2 (Verhältnismäßigkeit) und 1.7 (Kosten-Nutzen-Verhältnis, Barwert-Argument); Löffler Pkt. 1.2; Gebauer Abschn. 2/12.
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 7 — Ergebnisoffene Alternativenprüfung ⭐ stark
 
@@ -229,7 +229,7 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 
 **Anknüpfung:** Eigene Einwendung 1.3 und 4.1; **Gebauer trägt hier die bautechnische Hauptlast** (Abschn. 3 Objektschutz/Hybridmodell, Abschn. 5 UGA-Vorverlegung mit ca. 170 m Einsparung, Anlage 1 Skizze Planungsalternative) — beim Termin dessen Ausführungen ausdrücklich unterstützen und darauf verweisen; Löffler fordert „differenzierten Maßnahmenmix je nach Lage und Standort".
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 8 — Offenlegung der Kostenberechnung ⭐ stark
 
@@ -257,7 +257,7 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 
 **Anknüpfung:** Eigene Einwendung 1.5 + Antrag 4 (realistische Kostenermittlung); Löffler Pkt. 1.4 („völlig unglaubwürdig, unseriös"); Vergleichsprojekte aus der Einwendung (Passau Lindau/Sulzsteg: 1.275 m HQ500 für 38,8 Mio. €; ein Abschnitt von 18 soll hier ⅓ der 150 Mio. Gesamtkosten binden).
 
----
+<div style="page-break-before: always;"></div>
 
 ## Antrag 9 — Kostenteilung und Mehrkosten ⭐ stark (als Fragenkomplex)
 
@@ -286,7 +286,7 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 
 **Anknüpfung:** Eigene Einwendung 1.5 (Kostenrisiken) und 1.6 (Bauzeit 13 Jahre sequentiell vs. 5 Jahre behauptet); Löffler Pkt. 1.4 (Warnung kommunaler Haushalt, „Stuttgart 21").
 
----
+<div style="page-break-before: always;"></div>
 
 ## Flankierend: starke Punkte der Mitstreiter (beim Termin unterstützen)
 
