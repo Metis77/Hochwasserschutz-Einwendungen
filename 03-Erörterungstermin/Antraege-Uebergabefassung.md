@@ -25,23 +25,16 @@ Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwV
 2. mit Sensitivitätsbetrachtung des Restspalts unter der Dichtwand;
 3. mit Bewertung der Folgen dauerhaft tiefer Grundwasserstände für Gebäudegründungen, Feuchtehaushalt und Vegetation.
 
-## Antrag 3 — Information über den Verfahrensfortgang
-
-Wir beantragen zur Niederschrift die Zusage der Planfeststellungsbehörde,
-
-1. die Einwender individuell über das Ergebnis der Erörterung und den weiteren Verfahrensgang zu informieren, und
-2. die Entscheidung individuell zuzustellen (Art. 74 Abs. 4 BayVwVfG), ohne von der Ersetzung durch öffentliche Bekanntmachung (Art. 74 Abs. 5 BayVwVfG) Gebrauch zu machen.
-
-## Antrag 4 — UVP-Bericht: Klarstellung und behördliche Eigenprüfung
+## Antrag 3 — UVP-Bericht: Klarstellung und behördliche Eigenprüfung
 
 Wir beantragen zur Niederschrift:
 
 1. die Feststellung, dass die als „Umweltverträglichkeitsstudie (UVS)" bezeichnete Anlage D 1 der UVP-Bericht nach § 16 UVPG ist;
 2. die Zusage, dass die Planfeststellungsbehörde die zusammenfassende Darstellung (§ 24 UVPG) und die begründete Bewertung (§ 25 UVPG) eigenständig erarbeitet und nicht lediglich die Bewertungen des Vorhabensträgers übernimmt.
 
-Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollständig ist (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — siehe Antrag 7).
+Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollständig ist (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — siehe Antrag 6).
 
-## Antrag 5 — Tatsächliche Betroffenheit bei HQ100
+## Antrag 4 — Tatsächliche Betroffenheit bei HQ100
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:
 
@@ -49,24 +42,24 @@ Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwV
 2. ein quantifiziertes Schadenspotenzial (Schadenserwartungswert);
 3. die Vorlage des Primärbelegs für die Angabe „85 Betriebe mit 430 Arbeitsplätzen".
 
-## Antrag 6 — Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung
+## Antrag 5 — Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: Vorlage einer förmlichen Nutzen-Kosten-Untersuchung der Gesamtmaßnahme — mit Barwertbetrachtung der über 100 Jahre verteilten Schadenserwartung, mit den laufenden Betriebs- und Unterhaltskosten und mit den Kostenrisiken — als Grundlage der Abwägung und der Verhältnismäßigkeitsprüfung.
 
-## Antrag 7 — Ergebnisoffene Alternativenprüfung
+## Antrag 6 — Ergebnisoffene Alternativenprüfung
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die ergebnisoffene Prüfung eines flächendeckenden Objektschutz- bzw. Hybridkonzepts — Objektschutz, mobile Elemente und punktuelle Geländeanpassung — als Alternative zum linienförmigen Polderschutz, und die entsprechende Ergänzung der Alternativendarstellung des UVP-Berichts (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG).
 
 Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den ausgelegten Unterlagen nicht enthalten ist.
 
-## Antrag 8 — Offenlegung der Kostenberechnung
+## Antrag 7 — Offenlegung der Kostenberechnung
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Offenlegung der Kostenberechnung der Entwurfsplanung —
 
 1. aufgeschlüsselt nach Planabschnitten, Gewerken und Kostengruppen, mit Angabe des Preisstands;
 2. mit Bezifferung der Grundstückskosten, der jährlichen Betriebs- und Unterhaltskosten der an die Stadt zu übertragenden Anlagen und der Kosten der Kompensationsmaßnahmen.
 
-## Antrag 9 — Kostenteilung und Mehrkosten
+## Antrag 8 — Kostenteilung und Mehrkosten
 
 Wir beantragen zur Niederschrift die Darlegung:
 
@@ -75,24 +68,31 @@ Wir beantragen zur Niederschrift die Darlegung:
 
 Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und des Entwurfs der Bau- und Unterhaltsvereinbarung.
 
-## Antrag 10 — FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471
+## Antrag 9 — FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Durchführung einer FFH-Verträglichkeitsprüfung — hilfsweise zunächst einer FFH-Vorprüfung — nach § 34 BNatSchG für das Europäische Vogelschutzgebiet DE7040471 „Donau zwischen Regensburg und Straubing", insbesondere im Hinblick auf die Nahrungshabitate der Schutzgüter Nachtreiher und Eisvogel.
 
-## Antrag 11 — Baumkataster: Neubegehung und Korrektur
+## Antrag 10 — Baumkataster: Neubegehung und Korrektur
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:
 
 1. eine Neubegehung und Korrektur des Baumkatasters (Anlagen D 7.1 und D 7.2) mit korrekter Erfassung der Stammumfänge, des Schutzstatus nach der Baumschutzverordnung der Stadt Regensburg und der bisher fehlenden Bäume;
 2. die Neubewertung von Eingriff, Vermeidungsmaßnahmen und Alternativen auf der korrigierten Tatsachengrundlage.
 
-## Antrag 12 — Vorverlegung des UGA-Endpunkts
+## Antrag 11 — Vorverlegung des UGA-Endpunkts
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Prüfung, ob die Untergrundabdichtung bereits an der nordwestlichen Gebäudeecke der Wöhrdstraße 41 beendet werden kann, ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen — unter Darlegung, ob und warum die Einbeziehung des Grundstücks in den Systemzusammenhang hydraulisch erforderlich ist.
 
-## Antrag 13 — Planungshistorie der Untergrundabdichtung
+## Antrag 12 — Planungshistorie der Untergrundabdichtung
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Darlegung der Planungshistorie der Untergrundabdichtung — zu welchem Zeitpunkt und auf welcher Untersuchungsgrundlage die Entscheidung für eine tiefe Untergrundabdichtung gefallen ist — sowie die Offenlegung der zugehörigen Variantenuntersuchungen einschließlich der im Erläuterungsbericht erwähnten Nutzen-Kosten-Betrachtung.
+
+## Antrag 13 — Information über den Verfahrensfortgang
+
+Wir beantragen zur Niederschrift die Zusage der Planfeststellungsbehörde,
+
+1. die Einwender individuell über das Ergebnis der Erörterung und den weiteren Verfahrensgang zu informieren, und
+2. die Entscheidung individuell zuzustellen (Art. 74 Abs. 4 BayVwVfG), ohne von der Ersetzung durch öffentliche Bekanntmachung (Art. 74 Abs. 5 BayVwVfG) Gebrauch zu machen.
 
 ---
 

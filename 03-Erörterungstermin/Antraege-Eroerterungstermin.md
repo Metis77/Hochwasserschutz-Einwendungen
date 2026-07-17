@@ -1,36 +1,26 @@
 # Anträge zum Erörterungstermin — Arbeitsdokument
 
 **Verfahren:** Wasserrechtliches Planfeststellungsverfahren gem. § 68 Abs. 1 i. V. m. § 67 Abs. 2 WHG, Hochwasserschutz Regensburg, Abschnitt H „Unterer Wöhrd"
-**Eigene Einwendung:** fristgerecht eingereicht am 14.01.2026 (V2, unterschrieben) — Frist: 16.01.2026
-**Zweck dieses Dokuments:** Vorbereitung der Anträge zum Erörterungstermin (Art. 73 Abs. 6 BayVwVfG). Es ist **keine** Ergänzung oder Korrektur der Einwendung — das Einwendungsverfahren ist abgeschlossen.
 
-**Inhalt:**
+**Inhalt** — _kursiv darunter: wessen Einwendung den Antrag trägt._
 
-1. Beweissicherung an Gebäuden ⭐
-2. Niedrigwasser-Szenario im Grundwassermodell ⭐
-3. Information über den Verfahrensfortgang 🟡
-4. UVP-Bericht: Klarstellung und behördliche Eigenprüfung 🟡
-5. Tatsächliche Betroffenheit bei HQ100 ⭐
-6. Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung ⭐
-7. Ergebnisoffene Alternativenprüfung ⭐
-8. Offenlegung der Kostenberechnung ⭐
-9. Kostenteilung und Mehrkosten ⭐
-10. FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471 ⭐ _(Part: Löffler)_
-11. Baumkataster: Neubegehung und Korrektur ⭐ _(Part: Gebauer)_
-12. Vorverlegung des UGA-Endpunkts ⭐ _(Part: Gebauer)_
-13. Planungshistorie der Untergrundabdichtung 🟡
+1. Beweissicherung an Gebäuden<br>_eigene (Antrag 7), Löffler, Gebauer_
+2. Niedrigwasser-Szenario im Grundwassermodell<br>_eigene (4.5), Löffler, Gebauer_
+3. UVP-Bericht: Klarstellung und behördliche Eigenprüfung<br>_teils eigene (1.3), teils neu (verfahrensbezogen)_
+4. Tatsächliche Betroffenheit bei HQ100<br>_eigene (1.1), Löffler, Gebauer_
+5. Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung<br>_eigene (1.2, 1.7), Löffler, Gebauer_
+6. Ergebnisoffene Alternativenprüfung<br>_eigene (1.3, 4.1, Antrag 5), Löffler, Gebauer_
+7. Offenlegung der Kostenberechnung<br>_eigene (1.5, Antrag 4), Löffler_
+8. Kostenteilung und Mehrkosten<br>_eigene (1.5, 1.6), Löffler_
+9. FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471 _(Part: Löffler)_<br>_eigene (2.4, Antrag 2), Löffler_
+10. Baumkataster: Neubegehung und Korrektur _(Part: Gebauer)_<br>_eigene (2.2, Anträge 11/12), Gebauer_
+11. Vorverlegung des UGA-Endpunkts _(Part: Gebauer)_<br>_eigene (4.4, Antrag 6), Gebauer_
+12. Planungshistorie der Untergrundabdichtung<br>_eigene (4.4, 4.5)_
+13. Information über den Verfahrensfortgang<br>_eigene (Schlussabsatz), sonst verfahrensbezogen_
 
 — Flankierend: starke Punkte der Mitstreiter
-— Bewusst kein Antrag: 15 % Klimazuschlag
-— Zurückgestellt: Feuerwehrzufahrt westlich des Grundstücks
-
-**So ist jeder Antrag aufgebaut (= Ablauf beim Termin):**
-
-1. **Vortrag** — frei sprechen (1–2 Minuten); die Stichpunkte sind Gedächtnisstütze, kein Skript.
-2. **Antragstext** — am Ende **wörtlich und langsam verlesen** („Wir beantragen zur Niederschrift …"), auf Protokollierung achten, schriftliche Fassung übergeben (Übergabefassung).
-3. **Rechtsgrundlage / Fundierung / Anknüpfung** — _nicht_ vortragen. Das ist die Munition für Rückfragen („Wo soll das stehen?") — Dokument dabeihaben und Stelle aufschlagen können.
-
-**Hinweis Arbeitsteilung Objektschutz:** Die bautechnische Detailargumentation zum Objektschutz (Alternativkonzept, Vorverlegung der Untergrundabdichtung (UGA), Skizze Planungsalternative) liegt bewusst in der **Einwendung Gebauer** (mitunterschrieben; in der eigenen Einwendung ausdrücklich unterstützt). Beim Termin: auf Gebauer verweisen und unterstützen, nicht doppeln. Die Bezugnahme ist zulässig — erörtert werden **alle** rechtzeitig erhobenen Einwendungen (Art. 73 Abs. 6 BayVwVfG), nicht nur die eigenen.
+— Bewusst kein Antrag: 15 % Klimazuschlag — _eigene (1.4)_
+— Zurückgestellt: Feuerwehrzufahrt westlich des Grundstücks — _neu (in keiner Einwendung)_
 
 ---
 
@@ -62,23 +52,11 @@
 - **BVerwG** – Bundesverwaltungsgericht (BVerwGE = dessen Entscheidungssammlung; Rn. = Randnummer im Urteil)
 - **st. Rspr.** – ständige Rechtsprechung
 
----
-
 <div style="page-break-before: always;"></div>
 
-## Verfahrenstaktik (gilt für alle Anträge)
+## Antrag 1 — Beweissicherung an Gebäuden — sehr stark
 
-1. **Jeden Antrag ausdrücklich „zur Niederschrift" stellen.** Rechtsgrundlage: Art. 73 Abs. 6 Satz 6 i. V. m. Art. 68 Abs. 2 Satz 2 BayVwVfG (Verhandlungsleiter hat darauf hinzuwirken, dass sachdienliche Anträge gestellt werden); Art. 68 Abs. 4 Satz 2 Nr. 3 BayVwVfG (Niederschrift muss „die gestellten Anträge" enthalten). Zusätzlich **schriftliche Fassung übergeben** (Übergabefassung, 2–3 Ausfertigungen) und Protokollierung verlangen.
-2. **Rahmung:** Ein förmliches Beweisantragsrecht mit Bescheidungsanspruch gibt es im Verwaltungsverfahren **nicht** (Art. 26 BayVwVfG = pflichtgemäßes Ermessen). Deshalb alle Aufklärungsanträge als **„Antrag auf Sachverhaltsaufklärung nach Art. 24, 26 BayVwVfG"** stellen. Übergeht die Behörde eine substantiierte Anregung zu einem entscheidungserheblichen Punkt, ist das später als Ermittlungsdefizit/Abwägungsfehler rügefähig.
-3. **Keine Angst vor „neuen" Punkten:** Das Vorhaben ist UVP-pflichtig (UVP = Umweltverträglichkeitsprüfung) — die Vorprüfung entfiel auf Antrag des Vorhabensträgers mit Billigung der Behörde, die UVP-Pflicht folgt aus § 7 Abs. 3 Sätze 1 und 2 UVPG. Die Bekanntmachung vom 17.10.2025 nimmt Einwendungen zu den Schutzgütern nach § 2 Abs. 1 UVPG ausdrücklich vom Einwendungsausschluss aus; für ein späteres Klageverfahren ist die materielle Präklusion ohnehin unanwendbar (§ 7 Abs. 4 UmwRG, hier i. V. m. Art. 73 Abs. 4 Sätze 3–6 BayVwVfG — Wirkung im gerichtlichen Rechtsbehelfsverfahren).
-4. **Nur korrekte Zahlen verwenden** (verifizierte Fassung, vgl. Quellenbelege.md):
-   - UGA-Tiefe: i. d. R. **11–19 m** (UVS S. 26, Kap. 3.1.1: „bis in eine Tiefe von 11 - 19 m über dem anstehenden Fels"), **bis zu 20 m unter Gelände** (Bericht S. 21) — nicht „15 m" (die 15 m sind die Quartär-Schichtmächtigkeit, F 2.1 S. 25)
-   - Baukosten: **ca. 50 Mio. € brutto** (Bericht S. 95, ohne Grundstückskosten) — nicht „netto"; **55 Mio. € gesamt** (Planung + Bau, Beschlussvorlage 03.12.2024, S. 12)
-   - Ufermauer: **1830er Jahre** (Bericht S. 18)
-
-<div style="page-break-before: always;"></div>
-
-## Antrag 1 — Beweissicherung an Gebäuden ⭐ sehr stark
+**Einwendungsbezug:** eigene Einwendung (Antrag 7); Löffler (Pkt. 2.1); Gebauer (Abschn. 6) — alle drei Einwender.
 
 **Vortrag (frei sprechen):**
 
@@ -108,7 +86,9 @@
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 2 — Niedrigwasser-Szenario im Grundwassermodell ⭐ sehr stark
+## Antrag 2 — Niedrigwasser-Szenario im Grundwassermodell — sehr stark
+
+**Einwendungsbezug:** eigene Einwendung (4.5); Löffler (Pkt. 2.2); Gebauer (Abschn. 6).
 
 **Vortrag (frei sprechen):**
 
@@ -139,33 +119,9 @@
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 3 — Information über den Verfahrensfortgang 🟡 mittel (Zusage-Antrag)
+## Antrag 3 — UVP-Bericht: Klarstellung und behördliche Eigenprüfung — umgebaut (ursprüngliche Idee trägt nicht)
 
-**Vortrag (frei sprechen):**
-
-- „Bei mehr als 50 Einwendern darf die Behörde Benachrichtigung und Zustellung durch öffentliche Bekanntmachung ersetzen — dann erfährt niemand von uns persönlich, wie es weitergeht. Wir bitten um die Zusage, uns individuell zu informieren."
-- Es gibt keinen Zeitplan im Verfahren: Baubeginn „nicht vor 2028" — wir möchten wissen, wann was entschieden wird.
-
-<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Zusage der Planfeststellungsbehörde,<br>
-
-1. die Einwender individuell über das Ergebnis der Erörterung und den weiteren Verfahrensgang zu informieren, und<br>
-2. die Entscheidung individuell zuzustellen (Art. 74 Abs. 4 BayVwVfG), ohne von der Ersetzung durch öffentliche Bekanntmachung (Art. 74 Abs. 5 BayVwVfG) Gebrauch zu machen."
-</div>
-
-**Rechtsgrundlage:** Art. 74 Abs. 4 BayVwVfG (Anspruch auf Zustellung an Einwender); Art. 74 Abs. 5 (Ersetzung bei > 50 Zustellungen — dagegen richtet sich der Antrag); ergänzend Art. 29 BayVwVfG (Akteneinsicht), UIG/BayUIG (Umweltinformationen, gilt jedermann, auch für Gutachten).
-
-**Fundierung (bei Rückfragen):**
-
-- Bekanntmachung 17.10.2025, S. 4: Benachrichtigung vom Erörterungstermin **und** Zustellung der Entscheidung können bei > 50 Fällen durch öffentliche Bekanntmachung ersetzt werden — bei 1.300 Einwohnern und vielen Einwendern ist genau das zu erwarten. Eine persönliche Information ist also **nicht garantiert**.
-- Kein Zeitplan im Verfahren: Baubeginn „nicht vor 2028" (Bericht S. 94), Maßnahmenbeschluss der Stadt „geplant 2028" (Beschlussvorlage S. 13).
-
-**Ehrliche Einschätzung:** Bei Nutzung von Abs. 5 besteht **kein Rechtsanspruch** auf individuelle Zustellung — der Antrag zielt auf eine freiwillige, protokollierte Zusage. **Rückfallposition:** Zusage wenigstens einer Sammel-Information (E-Mail-Verteiler) über Meilensteine; unabhängig davon selbst Amtsblatt/Bekanntmachungen überwachen (Klagefrist läuft sonst ab öffentlicher Bekanntmachung!).
-
-<div style="page-break-before: always;"></div>
-
-## Antrag 4 — UVP-Bericht: Klarstellung und behördliche Eigenprüfung 🟡 umgebaut (ursprüngliche Idee trägt nicht)
+**Einwendungsbezug:** Alternativen-Rüge aus eigener Einwendung (1.3, UVPG-Hebel); Klarstellungs- und Zusageteil **neu** (verfahrensbezogen; Einwendungen zu Umweltbelangen sind laut Bekanntmachung ohnehin nicht präkludiert).
 
 **Wichtig — Befund der Prüfung:** Die ursprüngliche Formulierung „Antrag auf UVP — nur UVS vorhanden" **trägt nicht**: Es findet eine vollwertige UVP statt. Der Vorhabensträger hat sie nach begonnener Vorprüfung selbst beantragt (§ 7 Abs. 3 Sätze 1 und 2 UVPG; UVS Kap. 1.5, S. 15), und die „UVS" ist nach eigener Aussage der UVP-Bericht i. S. d. § 16 UVPG („UVS, analog UVP-Bericht", Kap. 1.6, S. 15). Die Bekanntmachung nennt die Unterlage durchgängig „UVP-Bericht", das Anlagenverzeichnis (S. 3) dagegen „D 1 Umweltverträglichkeitsstudie (UVS)". Deshalb umformuliert:
 
@@ -179,18 +135,20 @@
 „Wir beantragen zur Niederschrift:<br>
 1. die Feststellung, dass die als ‚Umweltverträglichkeitsstudie (UVS)' bezeichnete Anlage D 1 der UVP-Bericht nach § 16 UVPG ist;<br>
 2. die Zusage, dass die Planfeststellungsbehörde die zusammenfassende Darstellung (§ 24 UVPG) und die begründete Bewertung (§ 25 UVPG) eigenständig erarbeitet und nicht lediglich die Bewertungen des Vorhabensträgers übernimmt.<br><br>
-Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollständig ist (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — siehe Antrag 7)."
+Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollständig ist (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — siehe Antrag 6)."
 </div>
 
 **Fundierung (bei Rückfragen):**
 
 - Terminologische Diskrepanz: Anlagenverzeichnis/Anlage D sagen „UVS", Bekanntmachung sagt „UVP-Bericht" — für Einwender ohne Kap. 1.6 nicht erkennbar, dass beides dieselbe Unterlage ist (Transparenzmangel der Auslegung).
 - §§ 24, 25 UVPG: Die UVP-_Prüfung_ ist Behördenaufgabe — die zusammenfassende Darstellung „soll möglichst innerhalb eines Monats **nach dem Abschluss der Erörterung**" erarbeitet werden (§ 24 Abs. 2 UVPG, Soll-Frist); genau jetzt ist der richtige Zeitpunkt, das einzufordern. Zudem Aktualitätsgebot § 25 Abs. 3 UVPG.
-- Inhaltlicher Hebel: § 16 Abs. 1 Satz 1 Nr. 6 UVPG verlangt die Beschreibung der „vernünftigen Alternativen" — die UVS behandelt Objektschutz nur abstrakt (vgl. Antrag 7).
+- Inhaltlicher Hebel: § 16 Abs. 1 Satz 1 Nr. 6 UVPG verlangt die Beschreibung der „vernünftigen Alternativen" — die UVS behandelt Objektschutz nur abstrakt (vgl. Antrag 6).
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 5 — Tatsächliche Betroffenheit bei HQ100 ⭐ stark
+## Antrag 4 — Tatsächliche Betroffenheit bei HQ100 — stark
+
+**Einwendungsbezug:** eigene Einwendung (1.1); Löffler (Pkt. 1.1); Gebauer (Abschn. 0, 3, 4).
 
 **Vortrag (frei sprechen):**
 
@@ -218,7 +176,9 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 6 — Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung ⭐ stark
+## Antrag 5 — Verhältnismäßigkeit / Nutzen-Kosten-Untersuchung — stark
+
+**Einwendungsbezug:** eigene Einwendung (1.2, 1.7); Löffler (Pkt. 1.2); Gebauer (Abschn. 2, 12).
 
 **Vortrag (frei sprechen):**
 
@@ -243,13 +203,15 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 7 — Ergebnisoffene Alternativenprüfung ⭐ stark
+## Antrag 6 — Ergebnisoffene Alternativenprüfung — stark
+
+**Einwendungsbezug:** eigene Einwendung (1.3, 4.1; Antrag 5); Gebauer (Abschn. 3, 5; Anlage 1); Löffler (Maßnahmenmix).
 
 **Vortrag (frei sprechen):**
 
 - „Geprüft wurde nur, _wie_ man die Insel einmauert — nie, _ob_ es mildere Mittel gibt. Das ist ein Ermittlungsdefizit, kein Ermessensspielraum."
 - Hybridkonzept benennen (Objektschutz + mobile Elemente + punktuelle Geländeanpassung) und auf Gebauer-Einwendung inkl. Alternativskizze verweisen.
-- § 16 Abs. 1 UVPG verlangt die Darstellung vernünftiger Alternativen im UVP-Bericht — deren Fehlen ist auch ein UVP-Mangel (Verbindung zu Antrag 4).
+- § 16 Abs. 1 UVPG verlangt die Darstellung vernünftiger Alternativen im UVP-Bericht — deren Fehlen ist auch ein UVP-Mangel (Verbindung zu Antrag 3).
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
@@ -270,7 +232,9 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 8 — Offenlegung der Kostenberechnung ⭐ stark
+## Antrag 7 — Offenlegung der Kostenberechnung — stark
+
+**Einwendungsbezug:** eigene Einwendung (1.5; Antrag 4); Löffler (Pkt. 1.4).
 
 **Vortrag (frei sprechen):**
 
@@ -298,7 +262,9 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 9 — Kostenteilung und Mehrkosten ⭐ stark (als Fragenkomplex)
+## Antrag 8 — Kostenteilung und Mehrkosten — stark (als Fragenkomplex)
+
+**Einwendungsbezug:** eigene Einwendung (1.5, 1.6); Löffler (Pkt. 1.4).
 
 **Vortrag (frei sprechen):**
 
@@ -327,9 +293,11 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 10 — FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471 ⭐ stark
+## Antrag 9 — FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471 — stark
 
-**Part:** Löffler (Pkt. 3.3) — bei Anwesenheit unterstützen, nicht doppeln. Der Punkt ist aber durch die **eigene Einwendung selbständig getragen** (Abschn. 2.4 + Antrag 2) — bei Abwesenheit Löfflers selbst vortragen und stellen.
+**Einwendungsbezug:** eigene Einwendung (2.4; Antrag 2); Löffler (Pkt. 3.3) — durch die eigene Einwendung **selbständig getragen**.
+
+**Part:** Löffler — bei Anwesenheit unterstützen, nicht doppeln; bei Abwesenheit selbst vortragen und stellen.
 
 **Vortrag (frei sprechen):**
 
@@ -354,9 +322,11 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 11 — Baumkataster: Neubegehung und Korrektur ⭐ stark
+## Antrag 10 — Baumkataster: Neubegehung und Korrektur — stark
 
-**Part:** Gebauer (Anlagen 2 + 3: eigene Messungen, Fotodokumentation) — bei Anwesenheit unterstützen. Der Punkt ist durch die **eigene Einwendung selbständig getragen** (Abschn. 2.2 + Anträge 11/12) — bei Abwesenheit selbst stellen; die Bäume stehen auf dem eigenen Grundstück.
+**Einwendungsbezug:** eigene Einwendung (2.2; Anträge 11/12); Gebauer (Anlagen 2 + 3: eigene Messungen, Fotodokumentation) — durch die eigene Einwendung **selbständig getragen**.
+
+**Part:** Gebauer — bei Anwesenheit unterstützen; bei Abwesenheit selbst stellen; die Bäume stehen auf dem eigenen Grundstück.
 
 **Vortrag (frei sprechen):**
 
@@ -383,9 +353,11 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 12 — Vorverlegung des UGA-Endpunkts ⭐ stark
+## Antrag 11 — Vorverlegung des UGA-Endpunkts — stark
 
-**Part:** Gebauer (Abschn. 5: bautechnische Detailargumentation, ca. 170 m Einsparung, Skizze Anlage 1) — bei Anwesenheit unterstützen, nicht doppeln. Grundlage in der **eigenen Einwendung**: Abschn. 4.4 + Antrag 6 — bei Abwesenheit selbst stellen. **Formulierung nach Stephanies Vorgabe: primär Ende an der nordwestlichen Gebäudeecke** (nicht Grundstücksgrenze).
+**Einwendungsbezug:** eigene Einwendung (4.4; Antrag 6); Gebauer (Abschn. 5: bautechnische Detailargumentation, ca. 170 m Einsparung, Skizze Anlage 1).
+
+**Part:** Gebauer — bei Anwesenheit unterstützen, nicht doppeln; bei Abwesenheit selbst stellen. **Formulierung nach Stephanies Vorgabe: primär Ende an der nordwestlichen Gebäudeecke** (nicht Grundstücksgrenze).
 
 **Vortrag (frei sprechen):**
 
@@ -398,7 +370,7 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 „Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Prüfung, ob die Untergrundabdichtung bereits an der nordwestlichen Gebäudeecke der Wöhrdstraße 41 beendet werden kann, ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen — unter Darlegung, ob und warum die Einbeziehung des Grundstücks in den Systemzusammenhang hydraulisch erforderlich ist."
 </div>
 
-**Rechtsgrundlage:** Art. 24 BayVwVfG; Abwägungsgebot (mildere Mittel bei gleicher Wirksamkeit); Verbindung zu Antrag 7 (Alternativenprüfung).
+**Rechtsgrundlage:** Art. 24 BayVwVfG; Abwägungsgebot (mildere Mittel bei gleicher Wirksamkeit); Verbindung zu Antrag 6 (Alternativenprüfung).
 
 **Fundierung (bei Rückfragen):**
 
@@ -407,11 +379,13 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 - Eigene Einwendung Antrag 6 (eingereicht): Prüfung der Vorverlegung „an die nordwestliche Grundstücksecke oder nordwestliche Hausecke" — der Termin-Antrag konkretisiert auf die Gebäudeecke.
 - Gebauer Abschn. 5: Einsparung ca. 170 m UGA-/Mauerbaulänge, Wegfall sämtlicher Folgebaumaßnahmen, Erhalt des Baumbestands.
 
-**Anknüpfung:** Eigene Einwendung 4.4 + Antrag 6; Gebauer Abschn. 5 + Anlage 1 (Skizze); verbindet sich mit Antrag 11 (Baumbestand) und Antrag 2 (Grundwasser).
+**Anknüpfung:** Eigene Einwendung 4.4 + Antrag 6; Gebauer Abschn. 5 + Anlage 1 (Skizze); verbindet sich mit Antrag 10 (Baumbestand) und Antrag 2 (Grundwasser).
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 13 — Planungshistorie der Untergrundabdichtung 🟡 mittel
+## Antrag 12 — Planungshistorie der Untergrundabdichtung — mittel
+
+**Einwendungsbezug:** eigene Einwendung (4.4, 4.5) — Aufklärungsantrag zu dort gerügten Punkten.
 
 **Part:** Stephanies Punkt („ab wann kam die UGA ins Spiel?") — als Frage formuliert, hier zum **Aufklärungs-/Offenlegungsantrag** umgebaut, damit er antragsfähig ist.
 
@@ -430,9 +404,37 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 **Fundierung (bei Rückfragen):**
 
 - Bericht Kap. 4.3.2 (S. 21 f.): drei Grundvarianten (reine Pumplösung / U-Lösung / O-Lösung); das Ausscheiden der Pumplösung wird nur **behauptet**, nicht belegt; die Wahl der U-Lösung stützt sich auf eine „Nutzen-Kosten-Betrachtung" (S. 22), die **nicht beiliegt**.
-- Interesse an der Historie: Sie zeigt, ob die **mildere Variante ohne UGA** (reine Pumplösung) je ernsthaft und mit aktuellem Stand der Technik untersucht wurde — verbindet sich mit Antrag 7 (Ermittlungsdefizit Alternativen) und Antrag 2 (Dauerwirkung der UGA nie für Niedrigwasser gerechnet).
+- Interesse an der Historie: Sie zeigt, ob die **mildere Variante ohne UGA** (reine Pumplösung) je ernsthaft und mit aktuellem Stand der Technik untersucht wurde — verbindet sich mit Antrag 6 (Ermittlungsdefizit Alternativen) und Antrag 2 (Dauerwirkung der UGA nie für Niedrigwasser gerechnet).
 
-**Anknüpfung:** Antrag 2, Antrag 7; eigene Einwendung 4.4/4.5.
+**Anknüpfung:** Antrag 2, Antrag 6; eigene Einwendung 4.4/4.5.
+
+<div style="page-break-before: always;"></div>
+
+## Antrag 13 — Information über den Verfahrensfortgang — mittel (Zusage-Antrag)
+
+**Einwendungsbezug:** eigene Einwendung (Schlussabsatz: Bitte um Mitteilung über das weitere Verfahren); im Übrigen reiner Verfahrensantrag, der keinen Einwendungsbezug voraussetzt.
+
+**Vortrag (frei sprechen):**
+
+- „Bei mehr als 50 Einwendern darf die Behörde Benachrichtigung und Zustellung durch öffentliche Bekanntmachung ersetzen — dann erfährt niemand von uns persönlich, wie es weitergeht. Wir bitten um die Zusage, uns individuell zu informieren."
+- Es gibt keinen Zeitplan im Verfahren: Baubeginn „nicht vor 2028" — wir möchten wissen, wann was entschieden wird.
+
+<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
+<strong>Antragstext (wörtlich verlesen):</strong><br><br>
+„Wir beantragen zur Niederschrift die Zusage der Planfeststellungsbehörde,<br>
+
+1. die Einwender individuell über das Ergebnis der Erörterung und den weiteren Verfahrensgang zu informieren, und<br>
+2. die Entscheidung individuell zuzustellen (Art. 74 Abs. 4 BayVwVfG), ohne von der Ersetzung durch öffentliche Bekanntmachung (Art. 74 Abs. 5 BayVwVfG) Gebrauch zu machen."
+</div>
+
+**Rechtsgrundlage:** Art. 74 Abs. 4 BayVwVfG (Anspruch auf Zustellung an Einwender); Art. 74 Abs. 5 (Ersetzung bei > 50 Zustellungen — dagegen richtet sich der Antrag); ergänzend Art. 29 BayVwVfG (Akteneinsicht), UIG/BayUIG (Umweltinformationen, gilt jedermann, auch für Gutachten).
+
+**Fundierung (bei Rückfragen):**
+
+- Bekanntmachung 17.10.2025, S. 4: Benachrichtigung vom Erörterungstermin **und** Zustellung der Entscheidung können bei > 50 Fällen durch öffentliche Bekanntmachung ersetzt werden — bei 1.300 Einwohnern und vielen Einwendern ist genau das zu erwarten. Eine persönliche Information ist also **nicht garantiert**.
+- Kein Zeitplan im Verfahren: Baubeginn „nicht vor 2028" (Bericht S. 94), Maßnahmenbeschluss der Stadt „geplant 2028" (Beschlussvorlage S. 13).
+
+**Ehrliche Einschätzung:** Bei Nutzung von Abs. 5 besteht **kein Rechtsanspruch** auf individuelle Zustellung — der Antrag zielt auf eine freiwillige, protokollierte Zusage. **Rückfallposition:** Zusage wenigstens einer Sammel-Information (E-Mail-Verteiler) über Meilensteine; unabhängig davon selbst Amtsblatt/Bekanntmachungen überwachen (Klagefrist läuft sonst ab öffentlicher Bekanntmachung!).
 
 <div style="page-break-before: always;"></div>
 
@@ -448,20 +450,14 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 Der fehlende Klimazuschlag ist absichtlich **nicht** als Antrag aufgenommen — er ist kein Antrags-, sondern ein Widerspruchsthema:
 
-- Ein förmlicher „Antrag auf 15 % Klimazuschlag" würde einen **höheren Bemessungsabfluss** fordern (3.810 statt 3.400 m³/s) — also ein **größeres Bauwerk**. Das liefe den eigenen Anträgen zur Verhältnismäßigkeit und zu milderen Mitteln (Anträge 6 und 7) direkt zuwider.
+- Ein förmlicher „Antrag auf 15 % Klimazuschlag" würde einen **höheren Bemessungsabfluss** fordern (3.810 statt 3.400 m³/s) — also ein **größeres Bauwerk**. Das liefe den eigenen Anträgen zur Verhältnismäßigkeit und zu milderen Mitteln (Anträge 5 und 6) direkt zuwider.
 - Richtig ist die **Widerspruchs-Rüge** (so bereits Einwendung 1.4): Die Planung begründet das Vorhaben mit dem Klimawandel, verzichtet aber „bewusst" auf die allgemein übliche Erhöhung des HQ100-Abflusses um 15 % (Bericht Kap. 3.5, S. 15) — mit nicht-hydrologischen Argumenten (Aufbauaufwand, Belastung der Binnenentwässerung). Entweder trägt das Klimaargument — dann müsste konsistent geplant werden; oder es trägt nicht — dann schwächt das die Planrechtfertigung (Abwägungsfehler, Art. 44 Abs. 2 BayWG: Auswirkungen der Klimaänderung sind „angemessen zu berücksichtigen").
 - **Beim Termin:** den Widerspruch ansprechen und **protokollieren lassen** — keinen Zuschlag beantragen.
 
-## Zurückgestellt: Feuerwehrzufahrt westlich des Grundstücks
+## Zurückgestellt: Feuerwehrzufahrt westlich des Grundstücks — neu (in keiner Einwendung)
 
 Der vorgeschlagene Antrag („Überprüfung, ob eine Feuerwehrzufahrt auf westlicher Seite Richtung Norden entlang unserem Grundstück besteht") wird **bewusst zurückgestellt**:
 
 - Ein Aufklärungsantrag könnte genau die **falsche Antwort provozieren** — nämlich dass die Behörde die Zufahrt in der Linienführung der HWS-Mauer „mitlöst", **zulasten des Grundstücks** (Flächenbedarf, Ausbau als 5 m breite Aufstellfläche wie bei Wöhrdstr. 1/3, Bericht S. 43).
 - Die Unterlagen behaupten nur pauschal, Feuerwehrzufahrten seien „bei den Planungen berücksichtigt" bzw. würden während der Bauzeit „für jedes Grundstück weiterhin sichergestellt" (Bericht S. 87 f.) — konkret ausgewiesen ist für unser Grundstück nichts. Das ist ein offener Punkt, aber einer, der sich in beide Richtungen auflösen kann.
 - **Erst stellen, wenn klar ist, welches Ergebnis uns besser stellt** — vorher intern klären (ggf. mit Gebauer), ob eine förmlich gesicherte Zufahrt gewollt ist oder gerade nicht.
-
----
-
-_Arbeitsdokument, Stand 13.07.2026. Quellen: Planunterlagen (Anlagen A, D, F; Seitenangaben = aufgedruckte Paginierung der Original-PDFs), Bekanntmachung 17.10.2025, Amtsblatt 46/2025, Beschlussvorlage Stadt Regensburg 03.12.2024, Einwendungen Löffler/Gebauer, eigene Einwendung V2, Normtexte gesetze-bayern.de / gesetze-im-internet.de (Stand Juli 2026)._
-
-_Quellen-Review 13.07.2026: Sämtliche Zitate und Seitenangaben wurden gegen die **Original-PDFs** (nicht die Markdown-Konvertate) sowie die aktuellen Normtexte verifiziert; Rechtsprechungszitate gegen die Urteilsvolltexte. Hinweis: Zwei Fundstellen waren zu korrigieren — UGA-Tiefe „11–19 m": UVS **S. 26** (nicht S. 49 wie in der V3-Arbeitsfassung; LBP S. 10 dagegen bestätigt); „Evakuierung ab ca. HW50": UVS **S. 115** (wörtlich) und Tab. 43 S. 195 f. — Bericht S. 77 trägt nur die >48-h-Vorwarnzeit. Die inhaltlichen Werte der V3-Korrekturen (11–19/20 m, 1830er, 50 Mio. brutto/55 Mio. gesamt, 15 m = Quartärmächtigkeit F 2.1 S. 25) wurden am Original bestätigt._
