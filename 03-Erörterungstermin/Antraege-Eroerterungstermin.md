@@ -2,6 +2,13 @@
 
 **Verfahren:** Wasserrechtliches Planfeststellungsverfahren gem. § 68 Abs. 1 i. V. m. § 67 Abs. 2 WHG, Hochwasserschutz Regensburg, Abschnitt H „Unterer Wöhrd"
 
+**Merksätze:**
+
+- Jeden Antrag **„zur Niederschrift"** stellen (Art. 68 Abs. 4 S. 2 Nr. 3 BayVwVfG — Anträge müssen protokolliert werden) und schriftlich übergeben (Übergabefassung)
+- Keine Präklusion (= Ausschluss verspäteten Vorbringens) bei Umweltbezug — Schutzgüter-Ausnahme lt. Bekanntmachung; § 7 Abs. 4 UmwRG
+- Erörtert werden **alle** rechtzeitig erhobenen Einwendungen (Art. 73 Abs. 6 BayVwVfG) — Bezugnahme auf Gebauer/Löffler ist zulässig und erwünscht
+- Zahlen: UGA i. d. R. **11–19 m** (UVS S. 26), bis 20 m (Bericht S. 21) · **50 Mio. € brutto** Bau ohne Grundstücke (Bericht S. 95) / **55 Mio. €** gesamt (Beschlussvorlage S. 12) · Ufermauer **1830er** (Bericht S. 18)
+
 **Inhalt** — _kursiv darunter: wessen Einwendung den Antrag trägt._
 
 1. Beweissicherung an Gebäuden<br>_eigene (Antrag 7), Löffler, Gebauer_
@@ -417,18 +424,18 @@ Wir beantragen zudem die **Offenlegung** der Planungsvereinbarung vom 11.04.2005
 
 **Einwendungsbezug:** eigene Einwendung (4.4; Antrag 6); Gebauer (Abschn. 5: bautechnische Detailargumentation, ca. 170 m Einsparung, Skizze Anlage 1).
 
-**Part:** Gebauer — bei Anwesenheit unterstützen, nicht doppeln; bei Abwesenheit selbst stellen. **Formulierung nach Stephanies Vorgabe: primär Ende an der nordwestlichen Gebäudeecke** (nicht Grundstücksgrenze).
+**Part:** Gebauer — bei Anwesenheit unterstützen, nicht doppeln; bei Abwesenheit selbst stellen. **Formulierung: Ende an der Westseite des Gebäudes** — ob Nordwest- oder Südwestecke, bewusst offen (nicht Grundstücksgrenze).
 
 **Vortrag (frei sprechen):**
 
 1. **Fakt:** Die UGA endet schon jetzt am Grundstück (nordöstliches Eck) — sie ist kein durchlaufendes Element.
 2. **Eigenes Planer-Kriterium:** „Minimierung Eingriff in Privateigentum" — auf der Nordseite angewandt, bei uns nicht.
-3. **Forderung:** Prüfen, ob die UGA schon an der **nordwestlichen Gebäudeecke** enden kann.
+3. **Forderung:** Prüfen, ob die UGA schon an der **Westseite des Gebäudes** enden kann — welche Ecke, bleibt offen.
 4. **Gewinn:** ca. 170 m weniger UGA und Mauer — Garten und Baumbestand bleiben.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
-„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG): die <strong>Prüfung, ob die Untergrundabdichtung bereits an der nordwestlichen Gebäudeecke</strong> der Wöhrdstraße 41 <strong>enden kann</strong> — ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen. Dabei ist <strong>darzulegen, ob und warum</strong> die Einbeziehung des Grundstücks <strong>hydraulisch erforderlich</strong> ist."
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG): die <strong>Prüfung, ob die Untergrundabdichtung bereits an der Westseite des Gebäudes</strong> Wöhrdstraße 41 <strong>enden kann</strong> — ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen. Dabei ist <strong>darzulegen, ob und warum</strong> die Einbeziehung des Grundstücks <strong>hydraulisch erforderlich</strong> ist."
 </div>
 
 **Rechtsgrundlage:** Art. 24 BayVwVfG; Abwägungsgebot (mildere Mittel bei gleicher Wirksamkeit); Verbindung zu Antrag 6 (Alternativenprüfung).
@@ -437,7 +444,7 @@ Wir beantragen zudem die **Offenlegung** der Planungsvereinbarung vom 11.04.2005
 
 - Eigene Einwendung 4.4: Die Pläne führen die UGA **dreiseitig** über das Grundstück (westliche Grenze, 6 m nördlich parallel zum Gebäude, östliche Grenze) und enden am nordöstlichen Eckpunkt — der Abschnittsabschluss liegt bereits im Grundstücksumfeld.
 - Bericht S. 22 (Tabelle Untervarianten): „Optimierung Nordseite … UGA beginnt erst westlich Wöhrdstr. 49 → **Minimierung Eingriff in Privateigentum**" — das Kriterium ist planungsimmanent anerkannt, wurde für Wöhrdstr. 41 aber nicht angewandt.
-- Eigene Einwendung Antrag 6 (eingereicht): Prüfung der Vorverlegung „an die nordwestliche Grundstücksecke oder nordwestliche Hausecke" — der Termin-Antrag konkretisiert auf die Gebäudeecke.
+- Eigene Einwendung Antrag 6 (eingereicht): Prüfung der Vorverlegung „an die nordwestliche Grundstücksecke oder nordwestliche Hausecke" — der Termin-Antrag stellt auf die Westseite des Gebäudes ab und lässt die genaue Ecke (Nordwest/Südwest) bewusst offen.
 - Gebauer Abschn. 5: Einsparung ca. 170 m UGA-/Mauerbaulänge, Wegfall sämtlicher Folgebaumaßnahmen, Erhalt des Baumbestands.
 
 **Anknüpfung:** Eigene Einwendung 4.4 + Antrag 6; Gebauer Abschn. 5 + Anlage 1 (Skizze); verbindet sich mit Antrag 10 (Baumbestand), Antrag 11 (Ersatzpflanzungen) und Antrag 2 (Grundwasser).

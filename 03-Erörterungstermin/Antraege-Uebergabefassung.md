@@ -95,7 +95,7 @@ Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwV
 
 ## Antrag 12 — Vorverlegung des UGA-Endpunkts
 
-Wir beantragen zur Niederschrift die **Sachverhaltsaufklärung** (Art. 24 BayVwVfG): die **Prüfung, ob die Untergrundabdichtung bereits an der nordwestlichen Gebäudeecke** der Wöhrdstraße 41 **enden kann** — ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen. Dabei ist **darzulegen, ob und warum** die Einbeziehung des Grundstücks **hydraulisch erforderlich** ist.
+Wir beantragen zur Niederschrift die **Sachverhaltsaufklärung** (Art. 24 BayVwVfG): die **Prüfung, ob die Untergrundabdichtung bereits an der Westseite des Gebäudes** Wöhrdstraße 41 **enden kann** — ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen. Dabei ist **darzulegen, ob und warum** die Einbeziehung des Grundstücks **hydraulisch erforderlich** ist.
 
 ## Antrag 13 — Planungshistorie der Untergrundabdichtung
 
