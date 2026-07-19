@@ -68,16 +68,21 @@ Merksätze:
 - Falsche Messwerte: Linde Nr. 42 (75 → ~110 cm), Apfel Nr. 39 (95 → ~103 cm); Feigenbaum fehlt ganz
 - Stadtbiotop R-1303-002 (Reneklode Nr. 60); Abwägung auf falscher Tatsachengrundlage
 
-**11 · UGA-Endpunkt vorverlegen** — *Prüfung: UGA-Ende an der **nordwestlichen Gebäudeecke** Wöhrdstr. 41 (Art. 24 BayVwVfG) + Darlegung der hydraulischen Erforderlichkeit.* **Part: Gebauer Abschn. 5** — falls abwesend: selbst stellen (eigene Einwendung 4.4 + Antrag 6)
+**11 · Ersatzpflanzungen** — *Neubewertung der LBP-Bilanz (D 2.0/2.5) wegen Baumzustandsbericht 2025 (VO/26/23217/31, Umweltausschuss 15.07.2026; Art. 24 BayVwVfG) + Auflagen nach Art. 74 Abs. 2 S. 2: 10 J. Pflege/Bewässerung, Erfolgskontrolle + Nachpflanzpflicht, Baumschutz/Baubegleitung verbindlich.* (**Beschlussvorlage als Anlage übergeben**; Einwendung 2.1/2.3/2.6)
+- Umweltamt amtlich: **hohe Verluste** bei Ersatzpflanzungen · Neupflanzungen **max. ~40 Jahre** · **nie das Grünvolumen** eines Altbaums · ohne Gießen sterben viele Jungbäume
+- LBP dagegen: **127** Bäume (4.050 m² Krone) sofort weg, **161** Ersatz erst „**nach 25 Jahren**" mit 30/15 m² (D 2.5) — **keine** Ausfallrate/Pflegedauer/Kontrolle/Nachpflanzpflicht (§ 15 Abs. 4 BNatSchG)
+- **231 Erhaltbäume** baubedingt gefährdet, V 1.1/V 5.1 nur Maßnahme, keine Auflage → wenn Ersatz kaum wirkt, zählt **Erhalt** (stärkt Anträge 10 + 12)
+
+**12 · UGA-Endpunkt vorverlegen** — *Prüfung: UGA-Ende an der **nordwestlichen Gebäudeecke** Wöhrdstr. 41 (Art. 24 BayVwVfG) + Darlegung der hydraulischen Erforderlichkeit.* **Part: Gebauer Abschn. 5** — falls abwesend: selbst stellen (eigene Einwendung 4.4 + Antrag 6)
 - UGA endet schon jetzt am **nordöstlichen** Grundstückseck — kein durchlaufendes Element
 - Planer-eigenes Kriterium „Minimierung Eingriff in Privateigentum" (Nordseite, Bericht S. 22) — für uns nicht angewandt
 - Gewinn: ~170 m weniger UGA/Mauer, Garten + Baumbestand bleiben (Gebauer Skizze Anl. 1)
 
-**12 · UGA-Planungshistorie** — *Darlegung: wann und auf welcher Grundlage fiel die UGA-Entscheidung; Offenlegung der Variantenuntersuchungen inkl. Nutzen-Kosten-Betrachtung (Art. 24 BayVwVfG).* (Stephs Frage, als Antrag gerahmt)
+**13 · UGA-Planungshistorie** — *Darlegung: wann und auf welcher Grundlage fiel die UGA-Entscheidung; Offenlegung der Variantenuntersuchungen inkl. Nutzen-Kosten-Betrachtung (Art. 24 BayVwVfG).* (Stephs Frage, als Antrag gerahmt)
 - Kap. 4.3.2: Pumplösung „nicht sicher beherrschbar" = **Behauptung ohne Beleg**; Nutzen-Kosten-Betrachtung (S. 22) liegt nicht bei
 - Zeigt, ob die mildere Variante ohne UGA je ernsthaft geprüft wurde → Verbindung zu Anträgen 2 + 6
 
-**13 · Verfahrensfortgang** — *Zusage: individuelle Info + Zustellung nach Art. 74 Abs. 4 BayVwVfG, kein Ersatz durch öffentliche Bekanntmachung (Abs. 5).*
+**14 · Verfahrensfortgang** — *Zusage: individuelle Info + Zustellung nach Art. 74 Abs. 4 BayVwVfG, kein Ersatz durch öffentliche Bekanntmachung (Abs. 5).*
 - Bekanntmachung S. 4: ab > 50 Einwendern alles per öffentlicher Bekanntmachung ersetzbar → persönliche Info **nicht garantiert**, Klagefrist läuft trotzdem
 - Rückfall: Sammel-Info (Verteiler) über Meilensteine; Akteneinsicht Art. 29 BayVwVfG / UIG
 
@@ -104,6 +109,9 @@ Merksätze:
 - **WHG** – Wasserhaushaltsgesetz (Bund)
 - **BayWG** – Bayerisches Wassergesetz
 - **BayHO** – Bayerische Haushaltsordnung
+- **BNatSchG** – Bundesnaturschutzgesetz
+- **BayKompV** – Bayerische Kompensationsverordnung (Bemessung von Eingriff und Kompensation)
+- **DIN 18920 / R SBB 2023** – Regelwerke zum Schutz von Bäumen und Vegetationsbeständen bei Baumaßnahmen
 - **UIG / BayUIG** – Umweltinformationsgesetz (Bund / Bayern)
 - **UGA** – Untergrundabdichtung (tiefe Dichtwand im Boden)
 - **HWS** – Hochwasserschutz

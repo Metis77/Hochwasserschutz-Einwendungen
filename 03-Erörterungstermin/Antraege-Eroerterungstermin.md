@@ -14,9 +14,10 @@
 8. Kostenteilung und Mehrkosten<br>_eigene (1.5, 1.6), Löffler_
 9. FFH-Verträglichkeitsprüfung SPA-Gebiet DE7040471 _(Part: Löffler)_<br>_eigene (2.4, Antrag 2), Löffler_
 10. Baumkataster: Neubegehung und Korrektur _(Part: Gebauer)_<br>_eigene (2.2, Anträge 11/12), Gebauer_
-11. Vorverlegung des UGA-Endpunkts _(Part: Gebauer)_<br>_eigene (4.4, Antrag 6), Gebauer_
-12. Planungshistorie der Untergrundabdichtung<br>_eigene (4.4, 4.5)_
-13. Information über den Verfahrensfortgang<br>_eigene (Schlussabsatz), sonst verfahrensbezogen_
+11. Ersatzpflanzungen: Neubewertung und Sicherung<br>_eigene (2.1, 2.3, 2.6; Anträge 11/12), Gebauer; neue Tatsache: Baumzustandsbericht 07/2026_
+12. Vorverlegung des UGA-Endpunkts _(Part: Gebauer)_<br>_eigene (4.4, Antrag 6), Gebauer_
+13. Planungshistorie der Untergrundabdichtung<br>_eigene (4.4, 4.5)_
+14. Information über den Verfahrensfortgang<br>_eigene (Schlussabsatz), sonst verfahrensbezogen_
 
 — Flankierend: starke Punkte der Mitstreiter
 — Bewusst kein Antrag: 15 % Klimazuschlag — _eigene (1.4)_
@@ -39,6 +40,9 @@
 - **WHG** – Wasserhaushaltsgesetz (Bund)
 - **BayWG** – Bayerisches Wassergesetz
 - **BayHO** – Bayerische Haushaltsordnung
+- **BNatSchG** – Bundesnaturschutzgesetz
+- **BayKompV** – Bayerische Kompensationsverordnung (Bemessung von Eingriff und Kompensation)
+- **DIN 18920 / R SBB 2023** – Regelwerke zum Schutz von Bäumen und Vegetationsbeständen bei Baumaßnahmen
 - **UIG / BayUIG** – Umweltinformationsgesetz (Bund / Bayern)
 - **UGA** – Untergrundabdichtung (tiefe Dichtwand im Boden)
 - **HWS** – Hochwasserschutz
@@ -353,7 +357,37 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 11 — Vorverlegung des UGA-Endpunkts — stark
+## Antrag 11 — Ersatzpflanzungen: Neubewertung und Sicherung — stark (neue amtliche Erkenntnis)
+
+**Einwendungsbezug:** eigene Einwendung (2.1, 2.3 „Unzureichende Kompensation vor Ort", 2.6; Anträge 11/12); Gebauer (Anlagen 2 + 3) — selbständig getragen. Neue Tatsache: Baumzustandsbericht des Umweltamts vom Juli 2026 (nach Ablauf der Einwendungsfrist).
+
+**Vortrag (frei sprechen):**
+
+- „Das Umweltamt der Stadt selbst stellt amtlich fest: Ersatzpflanzungen erleiden hohe Verluste, städtische Neupflanzungen werden nicht älter als 40 Jahre, und ein Ersatzbaum erreicht nie das Grünvolumen eines Altbaums. Die Kompensationsbilanz dieses Verfahrens beruht auf dem Gegenteil."
+- LBP-Rechnung: 127 vitale Bäume (4.050 m² Kronenfläche) fallen sofort, die 161 Ersatzbäume werden erst „nach 25 Jahren" mit 30 bzw. 15 m² angesetzt — ohne Ausfallrate, Pflegedauer, Erfolgskontrolle oder Nachpflanzpflicht.
+- Folge: Der Erhalt der Altbäume gewinnt Gewicht (Vermeidungsgebot § 15 Abs. 1 BNatSchG — stützt Anträge 10 und 12); was gepflanzt wird, muss per Auflage gesichert werden.
+
+<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
+<strong>Antragstext (wörtlich verlesen):</strong><br><br>
+„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:<br>
+1. die Neubewertung der Kompensationsbilanz des Landschaftspflegerischen Begleitplans (LBP; Anlagen D 2.0, D 2.5) unter Berücksichtigung des Baumzustandsberichts des Umweltamts der Stadt Regensburg für das Jahr 2025 (Beschlussvorlage VO/26/23217/31, Umweltausschuss vom 15.07.2026) — hohe Verluste bei Ersatzpflanzungen, Lebenserwartung städtischer Neupflanzungen rund 40 Jahre, ein Ersatzbaum erreicht nie das Grünvolumen eines Altbaums;<br>
+2. für den Fall der Planfeststellung verbindliche Auflagen nach Art. 74 Abs. 2 Satz 2 BayVwVfG: zehnjährige Entwicklungspflege mit Bewässerung, Erfolgskontrollen mit Nachpflanzverpflichtung bei Ausfällen (§ 15 Abs. 4 BNatSchG) sowie Baumschutz und ökologische Baubegleitung (Maßnahmen V 1.1 und V 5.1 des LBP) als vollziehbare Nebenbestimmungen."
+</div>
+
+**Rechtsgrundlage:** Art. 24 BayVwVfG; § 15 Abs. 1, 2 und 4 BNatSchG (Vermeidung, Kompensation, Unterhaltungs- und Sicherungspflicht); Art. 74 Abs. 2 Satz 2 BayVwVfG (Schutzauflagen); § 25 Abs. 3 UVPG (Aktualität). Umweltbezogen → keine Präklusion; zudem fristgerecht gerügt (Einwendung 2.3).
+
+**Fundierung (bei Rückfragen):**
+
+- **Baumzustandsbericht 2025** (Beschlussvorlage VO/26/23217/31, federführend Umweltamt, Umweltausschuss 15.07.2026, TOP Ö 2; Pressebericht: idowa.de, 14.07.2026): „hohe Verluste" bei Ersatzpflanzungen; viele Neupflanzungen überleben ohne Gießen nicht; neu gepflanzte Bäume im Stadtraum werden „nicht mehr älter als 40 Jahre"; „Ein Ersatzbaum erreiche nie das Grünvolumen eines Altbaumes"; bei Baumaßnahmen „regelmäßig Schädigungen an Altbäumen" (Wurzeln, Starkäste, Überschüttungen) — daher fordert das Umweltamt vermehrt Umweltbaubegleitung.
+- **LBP-Bilanz:** 127 vitale Bäume gefällt (37 BVO-geschützt, 9 Höhlenbäume), 4.050 m² Kronenfläche sofort weg (Ø 32 m²); die 161 Neupflanzungen werden nach BayKompV erst „nach 25 Jahren" mit 30/15 m² angesetzt (D 2.0, D 2.5) — 25 Jahre Funktionslücke, und die Prognose ist nach dem 40-Jahre-Befund zu optimistisch.
+- **Fehlstellen im LBP** (Volltextsuche): keine Ausfallquote, keine Pflegedauer, keine Erfolgskontrolle, keine Nachpflanzregelung; Bewässerung nur ein Satz — Widerspruch zu § 15 Abs. 4 BNatSchG. Bis zu 231 Erhaltbäume im Kronentraufbereich baubedingt betroffen; Baumschutz (V 1.1) und ökologische Baubegleitung (V 5.1) bisher nur LBP-Maßnahme, keine vollziehbare Auflage.
+- **Stadtklima:** LBP selbst: Grünflächen des Unteren Wöhrd sind „lokal wichtige thermische Ausgleichsräume" für „thermisch sehr hoch belastete" Areale; Umweltamt: ein Drittel Überschirmung senkt die Temperatur um 0,4 °C und „verhindert Hitzetote" — der 25-Jahre-Verlust ist gesundheitsrelevant.
+
+**Anknüpfung:** Eigene Einwendung 2.1/2.3/2.6 + Anträge 11/12; Antrag 10 (Baumkataster), Antrag 12 (UGA-Vorverlegung: Erhalt statt Ersatz), Antrag 9 (Ersatzbäume nur ufernah wirksam); Gebauer Anlagen 2 + 3. **Beschlussvorlage VO/26/23217/31 beim Termin als Anlage zur Niederschrift übergeben.**
+
+<div style="page-break-before: always;"></div>
+
+## Antrag 12 — Vorverlegung des UGA-Endpunkts — stark
 
 **Einwendungsbezug:** eigene Einwendung (4.4; Antrag 6); Gebauer (Abschn. 5: bautechnische Detailargumentation, ca. 170 m Einsparung, Skizze Anlage 1).
 
@@ -379,11 +413,11 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 - Eigene Einwendung Antrag 6 (eingereicht): Prüfung der Vorverlegung „an die nordwestliche Grundstücksecke oder nordwestliche Hausecke" — der Termin-Antrag konkretisiert auf die Gebäudeecke.
 - Gebauer Abschn. 5: Einsparung ca. 170 m UGA-/Mauerbaulänge, Wegfall sämtlicher Folgebaumaßnahmen, Erhalt des Baumbestands.
 
-**Anknüpfung:** Eigene Einwendung 4.4 + Antrag 6; Gebauer Abschn. 5 + Anlage 1 (Skizze); verbindet sich mit Antrag 10 (Baumbestand) und Antrag 2 (Grundwasser).
+**Anknüpfung:** Eigene Einwendung 4.4 + Antrag 6; Gebauer Abschn. 5 + Anlage 1 (Skizze); verbindet sich mit Antrag 10 (Baumbestand), Antrag 11 (Ersatzpflanzungen) und Antrag 2 (Grundwasser).
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 12 — Planungshistorie der Untergrundabdichtung — mittel
+## Antrag 13 — Planungshistorie der Untergrundabdichtung — mittel
 
 **Einwendungsbezug:** eigene Einwendung (4.4, 4.5) — Aufklärungsantrag zu dort gerügten Punkten.
 
@@ -410,7 +444,7 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 13 — Information über den Verfahrensfortgang — mittel (Zusage-Antrag)
+## Antrag 14 — Information über den Verfahrensfortgang — mittel (Zusage-Antrag)
 
 **Einwendungsbezug:** eigene Einwendung (Schlussabsatz: Bitte um Mitteilung über das weitere Verfahren); im Übrigen reiner Verfahrensantrag, der keinen Einwendungsbezug voraussetzt.
 

@@ -79,15 +79,22 @@ Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwV
 1. eine Neubegehung und Korrektur des Baumkatasters (Anlagen D 7.1 und D 7.2) mit korrekter Erfassung der Stammumfänge, des Schutzstatus nach der Baumschutzverordnung der Stadt Regensburg und der bisher fehlenden Bäume;
 2. die Neubewertung von Eingriff, Vermeidungsmaßnahmen und Alternativen auf der korrigierten Tatsachengrundlage.
 
-## Antrag 11 — Vorverlegung des UGA-Endpunkts
+## Antrag 11 — Ersatzpflanzungen: Neubewertung und Sicherung
+
+Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:
+
+1. die Neubewertung der Kompensationsbilanz des Landschaftspflegerischen Begleitplans (LBP; Anlagen D 2.0, D 2.5) unter Berücksichtigung des Baumzustandsberichts des Umweltamts der Stadt Regensburg für das Jahr 2025 (Beschlussvorlage VO/26/23217/31, Umweltausschuss vom 15.07.2026) — hohe Verluste bei Ersatzpflanzungen, Lebenserwartung städtischer Neupflanzungen rund 40 Jahre, ein Ersatzbaum erreicht nie das Grünvolumen eines Altbaums;
+2. für den Fall der Planfeststellung verbindliche Auflagen nach Art. 74 Abs. 2 Satz 2 BayVwVfG: zehnjährige Entwicklungspflege mit Bewässerung, Erfolgskontrollen mit Nachpflanzverpflichtung bei Ausfällen (§ 15 Abs. 4 BNatSchG) sowie Baumschutz und ökologische Baubegleitung (Maßnahmen V 1.1 und V 5.1 des LBP) als vollziehbare Nebenbestimmungen.
+
+## Antrag 12 — Vorverlegung des UGA-Endpunkts
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Prüfung, ob die Untergrundabdichtung bereits an der nordwestlichen Gebäudeecke der Wöhrdstraße 41 beendet werden kann, ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen — unter Darlegung, ob und warum die Einbeziehung des Grundstücks in den Systemzusammenhang hydraulisch erforderlich ist.
 
-## Antrag 12 — Planungshistorie der Untergrundabdichtung
+## Antrag 13 — Planungshistorie der Untergrundabdichtung
 
 Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Darlegung der Planungshistorie der Untergrundabdichtung — zu welchem Zeitpunkt und auf welcher Untersuchungsgrundlage die Entscheidung für eine tiefe Untergrundabdichtung gefallen ist — sowie die Offenlegung der zugehörigen Variantenuntersuchungen einschließlich der im Erläuterungsbericht erwähnten Nutzen-Kosten-Betrachtung.
 
-## Antrag 13 — Information über den Verfahrensfortgang
+## Antrag 14 — Information über den Verfahrensfortgang
 
 Wir beantragen zur Niederschrift die Zusage der Planfeststellungsbehörde,
 
