@@ -70,12 +70,12 @@
 4. **Umfang:** vereidigter Sachverständiger · alle Gebäude · DIN 4150-3 · Monitoring in der Bauphase · Übergabe der Unterlagen.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid; ">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift, dem Vorhabensträger im Planfeststellungsbeschluss als Schutzauflage nach Art. 74 Abs. 2 Satz 2 BayVwVfG verbindlich aufzuerlegen:<br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift, dem Vorhabensträger im Planfeststellungsbeschluss <strong>verbindliche Schutzauflagen</strong> aufzuerlegen (Art. 74 Abs. 2 Satz 2 BayVwVfG):<br>
 
-1. vor Baubeginn eine Beweissicherung an allen Gebäuden im Einflussbereich der Bauarbeiten — einschließlich des Baudenkmals Wöhrdstraße 41 — durch einen öffentlich bestellten und vereidigten Sachverständigen, und zwar architektonisch, geodätisch und erschütterungstechnisch nach DIN 4150;<br>
-2. während der Bauphase ein Riss-, Setzungs- und Erschütterungsmonitoring an den Gebäuden mit Grenzwerten nach DIN 4150-3;<br>
-3. die Aushändigung der Dokumentation an Eigentümer und Bewohner."
+1. **Vor Baubeginn: Beweissicherung** an allen Gebäuden im Einflussbereich der Bauarbeiten — auch am Baudenkmal Wöhrdstraße 41 — durch einen **öffentlich bestellten und vereidigten Sachverständigen** (architektonisch, geodätisch, erschütterungstechnisch nach DIN 4150);<br>
+2. **während der Bauphase: Monitoring** von Rissen, Setzungen und Erschütterungen an den Gebäuden (Grenzwerte nach DIN 4150-3);<br>
+3. **danach: Aushändigung der Dokumentation** an Eigentümer und Bewohner."
 </div>
 
 **Rechtsgrundlage:** Art. 74 Abs. 2 Satz 2 BayVwVfG (Schutzauflagen); Beweissicherungsauflagen auf dieser Grundlage sind anerkannt (vgl. BVerwG, Urt. v. 10.07.2012 – 7 A 11.11) und gängige Nebenbestimmung in Hochwasserschutz-Planfeststellungsbeschlüssen.
@@ -104,12 +104,12 @@
 5. **Eigene Betroffenheit benennen:** Grundwasserbrunnen zur Gartenbewässerung auf dem Grundstück.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: Die Grundwassermodellierung (Anlage F 3.2) ist um Niedrigwasser-Szenarien zu ergänzen —<br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG): Das <strong>Grundwassermodell</strong> (Anlage F 3.2) ist um <strong>Niedrigwasser-Szenarien zu ergänzen</strong> —<br>
 
-1. stationäre Berechnung für anhaltendes Niedrigwasser (NQ), jeweils im Bezugs- und im Planungszustand;<br>
-2. mit Sensitivitätsbetrachtung des Restspalts unter der Dichtwand;<br>
-3. mit Bewertung der Folgen dauerhaft tiefer Grundwasserstände für Gebäudegründungen, Feuchtehaushalt und Vegetation."
+1. **Berechnung für anhaltendes Niedrigwasser** (NQ, stationär) — jeweils im Bezugs- und im Planungszustand;<br>
+2. **mit Sensitivitätsbetrachtung des Restspalts** unter der Dichtwand;<br>
+3. **mit Bewertung der Folgen** dauerhaft tiefer Grundwasserstände — für Gebäudegründungen, Feuchtehaushalt und Vegetation."
 </div>
 
 **Rechtsgrundlage:** Art. 24, 26 BayVwVfG (Untersuchungsgrundsatz); § 25 Abs. 3 UVPG (Aktualitätsgebot); umweltbezogen → keine Präklusion.
@@ -139,12 +139,12 @@
 3. **Protokollieren lassen:** Die Behörde bewertet eigenständig (§§ 24, 25 UVPG) — nicht der Vorhabensträger.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
 „Wir beantragen zur Niederschrift:<br>
 
-1. die Feststellung, dass die als ‚Umweltverträglichkeitsstudie (UVS)' bezeichnete Anlage D 1 der UVP-Bericht nach § 16 UVPG ist;<br>
-2. die Zusage, dass die Planfeststellungsbehörde die zusammenfassende Darstellung (§ 24 UVPG) und die begründete Bewertung (§ 25 UVPG) eigenständig erarbeitet und nicht lediglich die Bewertungen des Vorhabensträgers übernimmt.<br><br>
-Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollständig ist (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — siehe Antrag 6)."
+1. **die Feststellung:** Die Anlage D 1 — genannt ‚Umweltverträglichkeitsstudie (UVS)' — **ist der UVP-Bericht** (§ 16 UVPG);<br>
+2. **die Zusage:** Die Planfeststellungsbehörde erarbeitet Darstellung und Bewertung (§§ 24, 25 UVPG) **eigenständig** — und übernimmt nicht einfach die Bewertungen des Vorhabensträgers.<br><br>
+Ferner **rügen** wir: Die **Alternativendarstellung** des UVP-Berichts ist **unvollständig** (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — siehe Antrag 6)."
 </div>
 
 **Fundierung (bei Rückfragen):**
@@ -168,12 +168,12 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 5. **Zur Niederschrift erklären:** Wöhrdstraße 41 blieb 2002 und 2013 schadensfrei — persönlich bezeugbar.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:<br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG):<br>
 
-1. eine gebäudescharfe Ermittlung, wie viele Gebäude und Haushalte am Unteren Wöhrd bei einem HQ100 tatsächlich überflutet würden (Wassertiefe am Gebäude);<br>
-2. ein quantifiziertes Schadenspotenzial (Schadenserwartungswert);<br>
-3. die Vorlage des Primärbelegs für die Angabe ‚85 Betriebe mit 430 Arbeitsplätzen'."
+1. **gebäudescharfe Ermittlung:** Wie viele Gebäude und Haushalte am Unteren Wöhrd würden bei HQ100 **tatsächlich überflutet** — und wie tief stünde das Wasser am Gebäude?<br>
+2. **ein bezifferter Schadenserwartungswert**;<br>
+3. **der Primärbeleg** für die Angabe ‚85 Betriebe mit 430 Arbeitsplätzen'."
 </div>
 
 **Fundierung (bei Rückfragen):**
@@ -200,8 +200,12 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 5. **Beispiellos komplex:** U-förmige Einmauerung · UGA bis 20 m · Polder braucht dauerhaften Pumpbetrieb.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: Vorlage einer förmlichen Nutzen-Kosten-Untersuchung der Gesamtmaßnahme — mit Barwertbetrachtung der über 100 Jahre verteilten Schadenserwartung, mit den laufenden Betriebs- und Unterhaltskosten und mit den Kostenrisiken — als Grundlage der Abwägung und der Verhältnismäßigkeitsprüfung."
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG): die <strong>Vorlage einer förmlichen Nutzen-Kosten-Untersuchung</strong> der Gesamtmaßnahme — als Grundlage von Abwägung und Verhältnismäßigkeitsprüfung. Sie muss enthalten:<br>
+
+1. den **Barwert** der über 100 Jahre verteilten Schadenserwartung;<br>
+2. die **laufenden Betriebs- und Unterhaltskosten**;<br>
+3. die **Kostenrisiken**."
 </div>
 
 **Rechtsgrundlage:** Planrechtfertigung und Abwägungsgebot (st. Rspr. BVerwG; Fehlerkategorien Abwägungsdefizit/-disproportionalität); Kosten sind abwägungserheblicher öffentlicher Belang. _Nicht_ auf Art. 7 BayHO stützen (Haushaltsinnenrecht ohne subjektive Rechte).
@@ -229,9 +233,12 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 5. **UVP-Hebel:** § 16 UVPG verlangt Alternativen im UVP-Bericht (→ Antrag 3).
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die ergebnisoffene Prüfung eines flächendeckenden Objektschutz- bzw. Hybridkonzepts — Objektschutz, mobile Elemente und punktuelle Geländeanpassung — als Alternative zum linienförmigen Polderschutz, und die entsprechende Ergänzung der Alternativendarstellung des UVP-Berichts (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG).<br><br>
-Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den ausgelegten Unterlagen nicht enthalten ist."
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG):<br>
+
+1. die **ergebnisoffene Prüfung eines Hybridkonzepts** — Objektschutz, mobile Elemente, punktuelle Geländeanpassung — als **Alternative zum linienförmigen Polderschutz**;<br>
+2. die entsprechende **Ergänzung der Alternativendarstellung** des UVP-Berichts (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG).<br><br>
+**Hilfsweise:** die Protokollierung, dass eine solche Prüfung **in den ausgelegten Unterlagen nicht enthalten ist**."
 </div>
 
 **Rechtsgrundlage:** § 16 Abs. 1 Satz 1 Nr. 6 UVPG (Beschreibung vernünftiger Alternativen); Abwägungsgebot. Maßstab BVerwG (grundlegend Urt. v. 03.03.2011 – 9 A 8.10, BVerwGE 139, 150, Rn. 65 f.: Ausscheiden nach „Grobanalyse" zulässig, Grenze erst bei sich „aufdrängender" Alternative; für wasserrechtliche Planfeststellung Urt. v. 09.02.2017 – 7 A 2.15 ‹Elbvertiefung›): Angriff nicht über „wählt die andere Trasse", sondern über das **Ermittlungsdefizit** — die Alternative wurde nie ernsthaft untersucht.
@@ -258,11 +265,11 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 3. **Dauerlast der Stadt:** Betrieb und Unterhalt — ohne jede Zahl.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Offenlegung der Kostenberechnung der Entwurfsplanung —<br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG): die <strong>Offenlegung der Kostenberechnung</strong> der Entwurfsplanung —<br>
 
-1. aufgeschlüsselt nach Planabschnitten, Gewerken und Kostengruppen, mit Angabe des Preisstands;<br>
-2. mit Bezifferung der Grundstückskosten, der jährlichen Betriebs- und Unterhaltskosten der an die Stadt zu übertragenden Anlagen und der Kosten der Kompensationsmaßnahmen."
+1. **aufgeschlüsselt** nach Planabschnitten, Gewerken und Kostengruppen — **mit Angabe des Preisstands**;<br>
+2. **mit Bezifferung von:** Grundstückskosten, jährlichen Betriebs- und Unterhaltskosten der an die Stadt übergehenden Anlagen, Kosten der Kompensationsmaßnahmen."
 </div>
 
 **Rechtsgrundlage:** Art. 24 BayVwVfG; Kosten als abwägungserheblicher Belang/Element der Planrechtfertigung; Art. 39 Abs. 1 BayWG (Einleitungssatz): Ausbaupflicht besteht nur, „soweit es das Wohl der Allgemeinheit erfordert und **die Finanzierung gesichert ist**" — ohne belastbare Kostenermittlung keine gesicherte Finanzierung. Ergänzend (außerhalb des Termins): Umweltinformationsanspruch UIG/BayUIG.
@@ -289,12 +296,12 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 3. **Alles vorläufig:** Die bindende Vereinbarung kommt erst 2028. Die Finanzierung ist nicht gesichert (Art. 39 Abs. 1 BayWG).
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Darlegung:<br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift <strong>die Darlegung:</strong><br>
 
-1. wer Mehrkosten und Kostensteigerungen gegenüber der Kostenberechnung (Stand Entwurfsplanung) trägt;<br>
-2. auf welcher Grundlage die Stadt Regensburg ‚etwa 50 Prozent der Kosten' übernimmt, obwohl Art. 42 Abs. 2 Satz 1 BayWG einen Gemeindeanteil von 20 % der Ausbaukosten vorsieht.<br><br>
-Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und des Entwurfs der Bau- und Unterhaltsvereinbarung."
+1. **Wer trägt Mehrkosten** und Kostensteigerungen gegenüber der Kostenberechnung (Stand Entwurfsplanung)?<br>
+2. **Warum übernimmt die Stadt ‚etwa 50 Prozent' der Kosten** — obwohl das Gesetz einen Gemeindeanteil von **20 Prozent** vorsieht (Art. 42 Abs. 2 Satz 1 BayWG)?<br><br>
+Wir beantragen zudem die **Offenlegung** der Planungsvereinbarung vom 11.04.2005 und des Entwurfs der Bau- und Unterhaltsvereinbarung."
 </div>
 
 **Rechtsgrundlage:** Art. 42 Abs. 1, Abs. 2 Satz 1 BayWG (verifiziert: „… erhebt er von den Gemeinden Beiträge und Vorschüsse in Höhe von **20 % der Ausbaukosten**"; Satz 6: abweichende vertragliche Vereinbarung möglich — genau deren Offenlegung wird beantragt); Art. 24 BayVwVfG.
@@ -324,8 +331,8 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 4. **Folge:** Ohne Prüfung fehlt der europarechtliche Belang in der Abwägung.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Durchführung einer FFH-Verträglichkeitsprüfung — hilfsweise zunächst einer FFH-Vorprüfung — nach § 34 BNatSchG für das Europäische Vogelschutzgebiet DE7040471 ‚Donau zwischen Regensburg und Straubing', insbesondere im Hinblick auf die Nahrungshabitate der Schutzgüter Nachtreiher und Eisvogel."
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG): eine <strong>FFH-Verträglichkeitsprüfung</strong> — hilfsweise zunächst eine Vorprüfung — (§ 34 BNatSchG) für das <strong>Europäische Vogelschutzgebiet DE7040471</strong> ‚Donau zwischen Regensburg und Straubing', insbesondere zu den <strong>Nahrungshabitaten von Nachtreiher und Eisvogel</strong>."
 </div>
 
 **Rechtsgrundlage:** Art. 6 Abs. 3 FFH-Richtlinie; § 34 BNatSchG. Umweltbezogen → keine Präklusion.
@@ -354,11 +361,11 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 4. **Folge:** Die Abwägung steht auf falscher Tatsachengrundlage.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:<br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG):<br>
 
-1. eine Neubegehung und Korrektur des Baumkatasters (Anlagen D 7.1 und D 7.2) mit korrekter Erfassung der Stammumfänge, des Schutzstatus nach der Baumschutzverordnung der Stadt Regensburg und der bisher fehlenden Bäume;<br>
-2. die Neubewertung von Eingriff, Vermeidungsmaßnahmen und Alternativen auf der korrigierten Tatsachengrundlage."
+1. **Neubegehung und Korrektur des Baumkatasters** (Anlagen D 7.1 und D 7.2) — mit korrekten **Stammumfängen**, korrektem **Schutzstatus** nach der Baumschutzverordnung der Stadt Regensburg und den bisher **fehlenden Bäumen**;<br>
+2. **Neubewertung** von Eingriff, Vermeidungsmaßnahmen und Alternativen — **auf der korrigierten Tatsachengrundlage**."
 </div>
 
 **Rechtsgrundlage:** Art. 24 BayVwVfG; Abwägung auf zutreffender Tatsachengrundlage (Art. 74 BayVwVfG, Abwägungsgebot); Baumschutzverordnung der Stadt Regensburg vom 11.02.1993. Umweltbezogen → keine Präklusion.
@@ -386,11 +393,11 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 5. **Auflagen fordern** — und die Beschlussvorlage als Anlage übergeben.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:<br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG):<br>
 
-1. die Neubewertung der Kompensationsbilanz des Landschaftspflegerischen Begleitplans (LBP; Anlagen D 2.0, D 2.5) unter Berücksichtigung des Baumzustandsberichts des Umweltamts der Stadt Regensburg für das Jahr 2025 (Beschlussvorlage VO/26/23217/31, Umweltausschuss vom 15.07.2026) — hohe Verluste bei Ersatzpflanzungen, Lebenserwartung städtischer Neupflanzungen rund 40 Jahre, ein Ersatzbaum erreicht nie das Grünvolumen eines Altbaums;<br>
-2. für den Fall der Planfeststellung verbindliche Auflagen nach Art. 74 Abs. 2 Satz 2 BayVwVfG: zehnjährige Entwicklungspflege mit Bewässerung, Erfolgskontrollen mit Nachpflanzverpflichtung bei Ausfällen (§ 15 Abs. 4 BNatSchG) sowie Baumschutz und ökologische Baubegleitung (Maßnahmen V 1.1 und V 5.1 des LBP) als vollziehbare Nebenbestimmungen."
+1. die **Neubewertung der Kompensationsbilanz** des Landschaftspflegerischen Begleitplans (Anlagen D 2.0, D 2.5) — auf Basis des **Baumzustandsberichts 2025** des Umweltamts der Stadt Regensburg (Beschlussvorlage VO/26/23217/31, Umweltausschuss 15.07.2026). Dessen Befund: **hohe Verluste** bei Ersatzpflanzungen — Lebenserwartung städtischer Neupflanzungen **rund 40 Jahre** — ein Ersatzbaum erreicht **nie das Grünvolumen eines Altbaums**;<br>
+2. für den Fall der Planfeststellung **verbindliche Auflagen** (Art. 74 Abs. 2 Satz 2 BayVwVfG): **zehn Jahre Entwicklungspflege mit Bewässerung** — **Erfolgskontrollen mit Nachpflanzpflicht** bei Ausfällen (§ 15 Abs. 4 BNatSchG) — **Baumschutz und ökologische Baubegleitung** (Maßnahmen V 1.1 und V 5.1 des LBP), als vollziehbare Nebenbestimmungen."
 </div>
 
 **Rechtsgrundlage:** Art. 24 BayVwVfG; § 15 Abs. 1, 2 und 4 BNatSchG (Vermeidung, Kompensation, Unterhaltungs- und Sicherungspflicht); Art. 74 Abs. 2 Satz 2 BayVwVfG (Schutzauflagen); § 25 Abs. 3 UVPG (Aktualität). Umweltbezogen → keine Präklusion; zudem fristgerecht gerügt (Einwendung 2.3).
@@ -420,8 +427,8 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 4. **Gewinn:** ca. 170 m weniger UGA und Mauer — Garten und Baumbestand bleiben.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Prüfung, ob die Untergrundabdichtung bereits an der nordwestlichen Gebäudeecke der Wöhrdstraße 41 beendet werden kann, ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen — unter Darlegung, ob und warum die Einbeziehung des Grundstücks in den Systemzusammenhang hydraulisch erforderlich ist."
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG): die <strong>Prüfung, ob die Untergrundabdichtung bereits an der nordwestlichen Gebäudeecke</strong> der Wöhrdstraße 41 <strong>enden kann</strong> — ohne die Wirksamkeit des Hochwasserschutzsystems zu beeinträchtigen. Dabei ist <strong>darzulegen, ob und warum</strong> die Einbeziehung des Grundstücks <strong>hydraulisch erforderlich</strong> ist."
 </div>
 
 **Rechtsgrundlage:** Art. 24 BayVwVfG; Abwägungsgebot (mildere Mittel bei gleicher Wirksamkeit); Verbindung zu Antrag 6 (Alternativenprüfung).
@@ -450,8 +457,11 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 3. **Frage:** Wann fiel die Entscheidung — und auf welcher Untersuchungsgrundlage?
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Darlegung der Planungshistorie der Untergrundabdichtung — zu welchem Zeitpunkt und auf welcher Untersuchungsgrundlage die Entscheidung für eine tiefe Untergrundabdichtung gefallen ist — sowie die Offenlegung der zugehörigen Variantenuntersuchungen einschließlich der im Erläuterungsbericht erwähnten Nutzen-Kosten-Betrachtung."
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Sachverhaltsaufklärung</strong> (Art. 24 BayVwVfG):<br>
+
+1. die **Darlegung der Planungshistorie** der Untergrundabdichtung: **Wann** fiel die Entscheidung für die tiefe Abdichtung — und **auf welcher Untersuchungsgrundlage**?<br>
+2. die **Offenlegung der Variantenuntersuchungen** — einschließlich der im Erläuterungsbericht erwähnten **Nutzen-Kosten-Betrachtung**."
 </div>
 
 **Rechtsgrundlage:** Art. 24, 26 BayVwVfG; ergänzend (außerhalb des Termins) Umweltinformationsanspruch nach UIG/BayUIG.
@@ -476,11 +486,11 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 3. **Zusatz:** Es gibt keinen Zeitplan — wann wird was entschieden?
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (wörtlich verlesen):</strong><br><br>
-„Wir beantragen zur Niederschrift die Zusage der Planfeststellungsbehörde,<br>
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Zusage der Planfeststellungsbehörde:</strong><br>
 
-1. die Einwender individuell über das Ergebnis der Erörterung und den weiteren Verfahrensgang zu informieren, und<br>
-2. die Entscheidung individuell zuzustellen (Art. 74 Abs. 4 BayVwVfG), ohne von der Ersetzung durch öffentliche Bekanntmachung (Art. 74 Abs. 5 BayVwVfG) Gebrauch zu machen."
+1. Die Einwender werden **individuell informiert** — über das Ergebnis der Erörterung und den weiteren Verfahrensgang;<br>
+2. die Entscheidung wird **individuell zugestellt** (Art. 74 Abs. 4 BayVwVfG) — **ohne Ersetzung durch öffentliche Bekanntmachung** (Art. 74 Abs. 5 BayVwVfG)."
 </div>
 
 **Rechtsgrundlage:** Art. 74 Abs. 4 BayVwVfG (Anspruch auf Zustellung an Einwender); Art. 74 Abs. 5 (Ersetzung bei > 50 Zustellungen — dagegen richtet sich der Antrag); ergänzend Art. 29 BayVwVfG (Akteneinsicht), UIG/BayUIG (Umweltinformationen, gilt jedermann, auch für Gutachten).
