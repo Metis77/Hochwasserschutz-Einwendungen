@@ -64,9 +64,10 @@
 
 **Vortrag (frei sprechen):**
 
-- Die Unterlagen erkennen die Gefährdung der Denkmal-Bausubstanz selbst an (UVS S. 173) — verschieben aber alle Schutz- und Beweissicherungsmaßnahmen als bloße _Empfehlung_ in die Ausführungsplanung.
-- Was empfohlen ist (F 2.1 Kap. 13), muss als **verbindliche Auflage** in den Beschluss — sonst ist es nicht einklagbar.
-- Konkret gefordert: öffentlich bestellter und vereidigter Sachverständiger, alle Gebäude im Einflussbereich, Grenzwerte nach DIN 4150-3, Monitoring während der Spezialtiefbauarbeiten, Übergabe an Eigentümer/Bewohner.
+1. **Gefahr ist anerkannt.** Die UVS listet unser Haus selbst als erschütterungsgefährdet (UVS S. 173).
+2. **Aber nur „Empfehlung".** Das Schutzprogramm steht nur im Gutachten (F 2.1) — nicht im Beschluss.
+3. **Forderung: verbindliche Auflage.** Nur was im Beschluss steht, ist einklagbar.
+4. **Umfang:** vereidigter Sachverständiger · alle Gebäude · DIN 4150-3 · Monitoring in der Bauphase · Übergabe der Unterlagen.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid; ">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
@@ -96,9 +97,11 @@
 
 **Vortrag (frei sprechen):**
 
-- Kernsatz: „Das Grundwassermodell kennt nur Mittelwasser und HQ100 — der Trockenfall, den die eigene UVS als Klimafolge erwartet, wurde nie gerechnet."
-- Die UGA (11–19 m, bereichsweise 20 m tief) wirkt **dauerhaft**, nicht nur im Hochwasserfall — die Behörde muss den ungünstigsten Dauerzustand kennen, bevor sie abwägt.
-- Folgewirkungen unbewertet: Gründungen/Setzungen, Feuchtehaushalt der Denkmäler, Vegetation (Obstgarten) — und der **vorhandene Grundwasserbrunnen zur Gartenbewässerung auf dem Grundstück Wöhrdstr. 41** (konkrete Einzelbetroffenheit, auch Gebauer Abschn. 1; beim Termin als eigene Betroffenheit benennen).
+1. **Kernsatz:** „Das Modell kennt nur Mittelwasser und HQ100. Niedrigwasser wurde nie gerechnet."
+2. **Widerspruch:** Die UVS erwartet selbst mehr Dürren durch den Klimawandel — modelliert ist keine einzige.
+3. **Dauerbauwerk:** Die UGA (11–19 m tief) wirkt immer — nicht nur bei Hochwasser.
+4. **Unbewertet:** Setzungen · Feuchtehaushalt der Denkmäler · Vegetation.
+5. **Eigene Betroffenheit benennen:** Grundwasserbrunnen zur Gartenbewässerung auf dem Grundstück.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
@@ -131,12 +134,14 @@
 
 **Vortrag (frei sprechen):**
 
-- Frage an die Behörde: „Bestätigen Sie, dass Anlage D 1 der UVP-Bericht nach § 16 UVPG ist — und warum trägt sie in den ausgelegten Unterlagen einen anderen Titel als in der Bekanntmachung?"
-- Bitte um Protokollierung: eigenständige Behördenbewertung nach §§ 24, 25 UVPG.
+1. **Nicht sagen: „Die UVP fehlt."** Die UVP läuft — vom Träger selbst beantragt.
+2. **Frage an die Behörde:** „Ist Anlage D 1 der UVP-Bericht nach § 16 UVPG? Warum trägt sie zwei verschiedene Titel?"
+3. **Protokollieren lassen:** Die Behörde bewertet eigenständig (§§ 24, 25 UVPG) — nicht der Vorhabensträger.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
 „Wir beantragen zur Niederschrift:<br>
+
 1. die Feststellung, dass die als ‚Umweltverträglichkeitsstudie (UVS)' bezeichnete Anlage D 1 der UVP-Bericht nach § 16 UVPG ist;<br>
 2. die Zusage, dass die Planfeststellungsbehörde die zusammenfassende Darstellung (§ 24 UVPG) und die begründete Bewertung (§ 25 UVPG) eigenständig erarbeitet und nicht lediglich die Bewertungen des Vorhabensträgers übernimmt.<br><br>
 Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollständig ist (§ 16 Abs. 1 Satz 1 Nr. 6 UVPG — siehe Antrag 6)."
@@ -156,14 +161,16 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 
 **Vortrag (frei sprechen):**
 
-- Kernfrage: „Wie viele Haushalte stünden bei HQ100 tatsächlich im Wasser — und mit welcher Tiefe? Diese Zahl steht in keiner Unterlage."
-- Die 1.300 sind alle Bewohner der Insel, nicht die Betroffenen; die 430 Arbeitsplätze sind unbelegt (Zirkelverweis offenlegen).
-- Ohne quantifizierte Betroffenheit fehlt der Abwägung die Tatsachengrundlage für Eingriffe dieser Größenordnung.
-- Eigene Erfahrung **zur Niederschrift erklären**: Wöhrdstr. 41 blieb bei den Hochwassern 2002 und 2013 schadensfrei (persönlich bezeugbar; amtlich nicht dokumentiert — deshalb als protokollierte Erklärung wertvoll).
+1. **Kernfrage:** „Wie viele Haushalte stünden bei HQ100 wirklich im Wasser? Diese Zahl steht in keiner Unterlage."
+2. **1.300 Einwohner** = alle Bewohner der Insel — nicht die Betroffenen.
+3. **430 Arbeitsplätze** = unbelegt (Zirkelverweis).
+4. **Ohne diese Zahlen** hat die Abwägung keine Tatsachengrundlage.
+5. **Zur Niederschrift erklären:** Wöhrdstraße 41 blieb 2002 und 2013 schadensfrei — persönlich bezeugbar.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
 „Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:<br>
+
 1. eine gebäudescharfe Ermittlung, wie viele Gebäude und Haushalte am Unteren Wöhrd bei einem HQ100 tatsächlich überflutet würden (Wassertiefe am Gebäude);<br>
 2. ein quantifiziertes Schadenspotenzial (Schadenserwartungswert);<br>
 3. die Vorlage des Primärbelegs für die Angabe ‚85 Betriebe mit 430 Arbeitsplätzen'."
@@ -186,9 +193,11 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 
 **Vortrag (frei sprechen):**
 
-- „Für ein 55-Mio.-€-Projekt gibt es keine einzige Wirtschaftlichkeitsrechnung — nur zwei Pauschalzahlen, die nie in Beziehung gesetzt wurden."
-- Barwert: 50–75 Mio. € verteilt über 100 Jahre sind heute deutlich weniger wert als 50 Mio. € sofortige Baukosten plus unbezifferte Dauer-Betriebskosten.
-- Beispiellose Komplexität ohne Best-Practice-Vorbild (U-förmige Einmauerung, UGA 11–19 m, bereichsweise 20 m; Polder nur mit dauerhaftem Pumpbetrieb funktionsfähig, UVS S. 245).
+1. **Kernsatz:** „Für ein 55-Millionen-Projekt gibt es keine einzige Wirtschaftlichkeitsrechnung."
+2. **Nie verglichen:** 50–75 Mio. € Schäden über 100 Jahre — gegen 50 Mio. € Baukosten sofort.
+3. **Barwert fehlt:** Künftige Schäden sind heute weniger wert als sofortige Baukosten.
+4. **Dazu:** Dauer-Betriebskosten ohne jede Zahl (4 Pumpwerke, Drainagen).
+5. **Beispiellos komplex:** U-förmige Einmauerung · UGA bis 20 m · Polder braucht dauerhaften Pumpbetrieb.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
@@ -213,9 +222,11 @@ Ferner rügen wir, dass die Alternativendarstellung des UVP-Berichts unvollstän
 
 **Vortrag (frei sprechen):**
 
-- „Geprüft wurde nur, _wie_ man die Insel einmauert — nie, _ob_ es mildere Mittel gibt. Das ist ein Ermittlungsdefizit, kein Ermessensspielraum."
-- Hybridkonzept benennen (Objektschutz + mobile Elemente + punktuelle Geländeanpassung) und auf Gebauer-Einwendung inkl. Alternativskizze verweisen.
-- § 16 Abs. 1 UVPG verlangt die Darstellung vernünftiger Alternativen im UVP-Bericht — deren Fehlen ist auch ein UVP-Mangel (Verbindung zu Antrag 3).
+1. **Kernsatz:** „Geprüft wurde nur, _wie_ man die Insel einmauert — nie, _ob_ es mildere Mittel gibt."
+2. **Das ist ein Ermittlungsdefizit** — kein Ermessensspielraum.
+3. **Alternative benennen:** Hybridkonzept — Objektschutz + mobile Elemente + Geländeanpassung.
+4. **Auf Gebauer verweisen:** dort liegt die bautechnische Detailargumentation samt Skizze.
+5. **UVP-Hebel:** § 16 UVPG verlangt Alternativen im UVP-Bericht (→ Antrag 3).
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
@@ -242,13 +253,14 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 
 **Vortrag (frei sprechen):**
 
-- „Die gesamte Kostendarstellung eines 55-Mio.-Projekts besteht aus zwei Pauschalsätzen in zwei Dokumenten, die nicht einmal zueinander erläutert werden."
-- Ohne Preisstand und Aufschlüsselung ist weder die Abwägung noch die gesetzlich geforderte gesicherte Finanzierung (Art. 39 Abs. 1 BayWG) überprüfbar.
-- Dauerlast der Stadt (Betrieb/Unterhalt) ist komplett unbeziffert.
+1. **Kernsatz:** „Die gesamte Kostendarstellung besteht aus zwei Pauschalsätzen — nie zueinander erläutert."
+2. **Ohne Aufschlüsselung und Preisstand:** Finanzierung nicht überprüfbar (Art. 39 Abs. 1 BayWG).
+3. **Dauerlast der Stadt:** Betrieb und Unterhalt — ohne jede Zahl.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
 „Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG: die Offenlegung der Kostenberechnung der Entwurfsplanung —<br>
+
 1. aufgeschlüsselt nach Planabschnitten, Gewerken und Kostengruppen, mit Angabe des Preisstands;<br>
 2. mit Bezifferung der Grundstückskosten, der jährlichen Betriebs- und Unterhaltskosten der an die Stadt zu übertragenden Anlagen und der Kosten der Kompensationsmaßnahmen."
 </div>
@@ -272,13 +284,14 @@ Hilfsweise beantragen wir die Protokollierung, dass eine solche Prüfung in den 
 
 **Vortrag (frei sprechen):**
 
-- „Wer zahlt, wenn aus 55 Mio. — wie bei Projekten dieser Komplexität üblich — 80 oder 100 Mio. werden? Dazu schweigen alle Unterlagen."
-- Klärungsfrage 20 % vs. 50 %: Das Gesetz sieht 20 % Gemeindeanteil vor — warum verpflichtet sich die Stadt vertraglich zum 2,5-fachen, und was bedeutet das für ihre Zustimmung zu Mehrkosten?
-- Der Verteilungsschlüssel ist „vorläufig", die bindende Vereinbarung kommt erst 2028 — die Abwägung stützt sich also auf eine ungesicherte Finanzierung (Art. 39 Abs. 1 BayWG).
+1. **Kernfrage:** „Wer zahlt, wenn aus 55 Mio. € am Ende 80 oder 100 werden?" Dazu schweigen alle Unterlagen.
+2. **20 % vs. 50 %:** Das Gesetz sieht 20 % Stadtanteil vor — vereinbart sind 50. Warum?
+3. **Alles vorläufig:** Die bindende Vereinbarung kommt erst 2028. Die Finanzierung ist nicht gesichert (Art. 39 Abs. 1 BayWG).
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
 „Wir beantragen zur Niederschrift die Darlegung:<br>
+
 1. wer Mehrkosten und Kostensteigerungen gegenüber der Kostenberechnung (Stand Entwurfsplanung) trägt;<br>
 2. auf welcher Grundlage die Stadt Regensburg ‚etwa 50 Prozent der Kosten' übernimmt, obwohl Art. 42 Abs. 2 Satz 1 BayWG einen Gemeindeanteil von 20 % der Ausbaukosten vorsieht.<br><br>
 Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und des Entwurfs der Bau- und Unterhaltsvereinbarung."
@@ -305,9 +318,10 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 **Vortrag (frei sprechen):**
 
-- Geprüft wurde nur das FFH-Gebiet DE6741371 — für das **Europäische Vogelschutzgebiet (SPA) DE7040471** „Donau zwischen Regensburg und Straubing", das direkt unterhalb des Odessarings beginnt, fehlt jede Verträglichkeitsprüfung.
-- Nachtreiher und Eisvogel sind Schutzgüter dieses SPA-Gebiets und in der UVS selbst als Nahrungsgäste im Projektgebiet nachgewiesen; die Uferbäume dienen als Ansitz und Versteck — viele davon werden gefällt oder im Kronenbereich beeinträchtigt.
-- Ohne diese Prüfung kann der europarechtliche Belang nicht in die Abwägung eingestellt werden.
+1. **Lücke:** Geprüft wurde nur das FFH-Gebiet. Das **Vogelschutzgebiet DE7040471** fehlt komplett — es beginnt direkt unterhalb des Odessarings.
+2. **Betroffen:** Nachtreiher und Eisvogel — Schutzgüter des SPA, laut UVS Nahrungsgäste im Gebiet.
+3. **Eingriff:** Die Uferbäume sind Ansitz und Versteck — viele fallen weg.
+4. **Folge:** Ohne Prüfung fehlt der europarechtliche Belang in der Abwägung.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
@@ -334,13 +348,15 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 **Vortrag (frei sprechen):**
 
-- Nach der Baumschutzverordnung der Stadt Regensburg (11.02.1993) sind Laub- und Obstbäume ab 100 cm Stammumfang geschützt. Trotzdem führt das Baumkataster **alle** Bäume auf dem Grundstück Wöhrdstraße 41 als „nicht geschützt" — schon nach den **eigenen Tabellenwerten** des Katasters überschreiten mindestens 21 Bäume den Grenzwert.
-- Dazu falsche Messwerte (Sommerlinde Nr. 42: 75 cm im Kataster, tatsächlich ca. 110 cm; Kultur-Apfel Nr. 39: 95 statt ca. 103 cm) und fehlende Bäume im Eingriffsbereich (Feigenbaum zwischen Nr. 49 und 51).
-- Folge: Schutzgüter wurden nicht erkannt, die Eingriffsintensität ist falsch bewertet, Alternativen wurden zu Unrecht verworfen — die Abwägung steht auf falscher Tatsachengrundlage.
+1. **Regel:** Baumschutzverordnung der Stadt — geschützt ab 100 cm Stammumfang.
+2. **Kataster:** führt trotzdem **alle** Bäume als „nicht geschützt". Mindestens 21 liegen über der Grenze — nach den eigenen Zahlen des Katasters.
+3. **Falsch gemessen:** Linde Nr. 42: 75 statt ca. 110 cm · Apfel Nr. 39: 95 statt ca. 103 cm · Feigenbaum fehlt ganz.
+4. **Folge:** Die Abwägung steht auf falscher Tatsachengrundlage.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
 „Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:<br>
+
 1. eine Neubegehung und Korrektur des Baumkatasters (Anlagen D 7.1 und D 7.2) mit korrekter Erfassung der Stammumfänge, des Schutzstatus nach der Baumschutzverordnung der Stadt Regensburg und der bisher fehlenden Bäume;<br>
 2. die Neubewertung von Eingriff, Vermeidungsmaßnahmen und Alternativen auf der korrigierten Tatsachengrundlage."
 </div>
@@ -363,13 +379,16 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 **Vortrag (frei sprechen):**
 
-- „Das Umweltamt der Stadt selbst stellt amtlich fest: Ersatzpflanzungen erleiden hohe Verluste, städtische Neupflanzungen werden nicht älter als 40 Jahre, und ein Ersatzbaum erreicht nie das Grünvolumen eines Altbaums. Die Kompensationsbilanz dieses Verfahrens beruht auf dem Gegenteil."
-- LBP-Rechnung: 127 vitale Bäume (4.050 m² Kronenfläche) fallen sofort, die 161 Ersatzbäume werden erst „nach 25 Jahren" mit 30 bzw. 15 m² angesetzt — ohne Ausfallrate, Pflegedauer, Erfolgskontrolle oder Nachpflanzpflicht.
-- Folge: Der Erhalt der Altbäume gewinnt Gewicht (Vermeidungsgebot § 15 Abs. 1 BNatSchG — stützt Anträge 10 und 12); was gepflanzt wird, muss per Auflage gesichert werden.
+1. **Neue amtliche Tatsache:** Das Umweltamt stellt selbst fest — Ersatzpflanzungen: hohe Verluste · Neupflanzungen: kaum älter als 40 Jahre · nie das Grünvolumen eines Altbaums.
+2. **Die LBP-Bilanz beruht auf dem Gegenteil:** 127 Bäume sofort weg — 161 Ersatzbäume erst „nach 25 Jahren" angerechnet.
+3. **Es fehlt alles:** keine Ausfallrate · keine Pflegedauer · keine Erfolgskontrolle · keine Nachpflanzpflicht.
+4. **Folge:** Der Erhalt der Altbäume gewinnt Gewicht (§ 15 Abs. 1 BNatSchG — stützt Anträge 10 und 12).
+5. **Auflagen fordern** — und die Beschlussvorlage als Anlage übergeben.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
 „Wir beantragen zur Niederschrift die Sachverhaltsaufklärung nach Art. 24 BayVwVfG:<br>
+
 1. die Neubewertung der Kompensationsbilanz des Landschaftspflegerischen Begleitplans (LBP; Anlagen D 2.0, D 2.5) unter Berücksichtigung des Baumzustandsberichts des Umweltamts der Stadt Regensburg für das Jahr 2025 (Beschlussvorlage VO/26/23217/31, Umweltausschuss vom 15.07.2026) — hohe Verluste bei Ersatzpflanzungen, Lebenserwartung städtischer Neupflanzungen rund 40 Jahre, ein Ersatzbaum erreicht nie das Grünvolumen eines Altbaums;<br>
 2. für den Fall der Planfeststellung verbindliche Auflagen nach Art. 74 Abs. 2 Satz 2 BayVwVfG: zehnjährige Entwicklungspflege mit Bewässerung, Erfolgskontrollen mit Nachpflanzverpflichtung bei Ausfällen (§ 15 Abs. 4 BNatSchG) sowie Baumschutz und ökologische Baubegleitung (Maßnahmen V 1.1 und V 5.1 des LBP) als vollziehbare Nebenbestimmungen."
 </div>
@@ -395,9 +414,10 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 **Vortrag (frei sprechen):**
 
-- Die UGA endet planmäßig am **nordöstlichen Grundstückseckpunkt** der Wöhrdstraße 41 — sie ist also kein zwingend durchlaufendes Element, sondern hat vor Ort bereits einen definierten Abschluss. Dann ist auch ein früherer Endpunkt denkbar.
-- Die Planer selbst haben die UGA-Trasse andernorts zur „**Minimierung Eingriff in Privateigentum**" optimiert (Nordseite: Beginn erst westlich Wöhrdstr. 49, Bericht S. 22) — dieselbe Optimierung fordern wir für unser Grundstück.
-- Bei positiver Prüfung entfallen ca. 170 m UGA- und Mauerlänge, die Eingriffe in Garten, Wurzelbereiche und Baumbestand vollständig.
+1. **Fakt:** Die UGA endet schon jetzt am Grundstück (nordöstliches Eck) — sie ist kein durchlaufendes Element.
+2. **Eigenes Planer-Kriterium:** „Minimierung Eingriff in Privateigentum" — auf der Nordseite angewandt, bei uns nicht.
+3. **Forderung:** Prüfen, ob die UGA schon an der **nordwestlichen Gebäudeecke** enden kann.
+4. **Gewinn:** ca. 170 m weniger UGA und Mauer — Garten und Baumbestand bleiben.
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
@@ -425,8 +445,9 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 **Vortrag (frei sprechen):**
 
-- Die UGA ist der tiefste und dauerhafteste Eingriff des gesamten Projekts. Der Erläuterungsbericht beschreibt die Variantenwahl aber nur im **Ergebnis** (Kap. 4.3.2): reine Pumplösung „technisch nicht mehr sicher beherrschbar", O-Lösung ausgeschieden, U-Lösung „Optimum".
-- Wann diese Entscheidung fiel, auf welcher Untersuchungsgrundlage, und wie die dort erwähnte „Nutzen-Kosten-Betrachtung" aussah — all das ist den ausgelegten Unterlagen nicht zu entnehmen.
+1. **Die UGA ist der tiefste und dauerhafteste Eingriff** — begründet wird sie nur im Ergebnis.
+2. **Behauptet, nicht belegt:** Pumplösung „nicht sicher beherrschbar" · Nutzen-Kosten-Betrachtung liegt nicht bei.
+3. **Frage:** Wann fiel die Entscheidung — und auf welcher Untersuchungsgrundlage?
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
@@ -450,8 +471,9 @@ Wir beantragen zudem die Offenlegung der Planungsvereinbarung vom 11.04.2005 und
 
 **Vortrag (frei sprechen):**
 
-- „Bei mehr als 50 Einwendern darf die Behörde Benachrichtigung und Zustellung durch öffentliche Bekanntmachung ersetzen — dann erfährt niemand von uns persönlich, wie es weitergeht. Wir bitten um die Zusage, uns individuell zu informieren."
-- Es gibt keinen Zeitplan im Verfahren: Baubeginn „nicht vor 2028" — wir möchten wissen, wann was entschieden wird.
+1. **Problem:** Ab 50 Einwendern darf die Behörde alles per öffentlicher Bekanntmachung ersetzen — niemand wird persönlich informiert.
+2. **Bitte um Zusage:** individuelle Information und individuelle Zustellung.
+3. **Zusatz:** Es gibt keinen Zeitplan — wann wird was entschieden?
 
 <div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
 <strong>Antragstext (wörtlich verlesen):</strong><br><br>
