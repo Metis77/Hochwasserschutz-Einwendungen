@@ -2,15 +2,6 @@
 
 **Verfahren:** Wasserrechtliches Planfeststellungsverfahren gem. § 68 Abs. 1 i. V. m. § 67 Abs. 2 WHG, Hochwasserschutz Regensburg, Abschnitt H „Unterer Wöhrd"
 
-**Merksätze:**
-
-- Jeden Antrag **„zur Niederschrift"** stellen (Art. 68 Abs. 4 S. 2 Nr. 3 BayVwVfG — Anträge müssen protokolliert werden) und schriftlich übergeben (Übergabefassung)
-- Keine Präklusion (= Ausschluss verspäteten Vorbringens) bei Umweltbezug — Schutzgüter-Ausnahme lt. Bekanntmachung; § 7 Abs. 4 UmwRG
-- Erörtert werden **alle** rechtzeitig erhobenen Einwendungen (Art. 73 Abs. 6 BayVwVfG) — Bezugnahme auf Gebauer/Löffler ist zulässig und erwünscht
-- Zahlen: UGA i. d. R. **11–19 m** (UVS S. 26), bis 20 m (Bericht S. 21) · **50 Mio. € brutto** Bau ohne Grundstücke (Bericht S. 95) / **55 Mio. €** gesamt (Beschlussvorlage S. 12) · Ufermauer **1830er** (Bericht S. 18)
-
-**Inhalt** — _kursiv darunter: wessen Einwendung den Antrag trägt._
-
 1. Beweissicherung an Gebäuden<br>_eigene (Antrag 7), Löffler, Gebauer_
 2. Niedrigwasser-Szenario im Grundwassermodell<br>_eigene (4.5), Löffler, Gebauer_
 3. UVP-Bericht: Klarstellung und behördliche Eigenprüfung<br>_teils eigene (1.3), teils neu (verfahrensbezogen)_
@@ -29,8 +20,6 @@
 — Flankierend: starke Punkte der Mitstreiter
 — Bewusst kein Antrag: 15 % Klimazuschlag — _eigene (1.4)_
 — Zurückgestellt: Feuerwehrzufahrt westlich des Grundstücks — _neu (in keiner Einwendung)_
-
----
 
 <div style="page-break-before: always;"></div>
 
