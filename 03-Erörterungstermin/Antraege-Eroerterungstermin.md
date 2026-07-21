@@ -15,8 +15,8 @@
 11. Ersatzpflanzungen: Neubewertung und Sicherung<br>_eigene (2.1, 2.3, 2.6; Anträge 11/12), Gebauer; neue Tatsache: Baumzustandsbericht 07/2026_
 12. Vorverlegung des UGA-Endpunkts _(Part: Gebauer)_<br>_eigene (4.4, Antrag 6), Gebauer_
 13. Planungshistorie der Untergrundabdichtung<br>_eigene (4.4, 4.5)_
-14. Information über den Verfahrensfortgang<br>_eigene (Schlussabsatz), sonst verfahrensbezogen_
-15. Bestätigung der Absprachen aus der Vor-Ort-Besprechung<br>_neu (Besprechung mit WWA und Objektplanung nach Einwendungsfrist); knüpft an eigene (4.4, Anträge 6/9), Antrag 12 und Gebauer (Abschn. 5, 8) an_
+14. Bestätigung der Absprachen aus der Vor-Ort-Besprechung<br>_neu (Besprechung mit WWA und Objektplanung nach Einwendungsfrist); knüpft an eigene (4.4, Anträge 6/9), Antrag 12 und Gebauer (Abschn. 5, 8) an_
+15. Information über den Verfahrensfortgang<br>_eigene (Schlussabsatz), sonst verfahrensbezogen_
 
 — Flankierend: starke Punkte der Mitstreiter
 — Bewusst kein Antrag: 15 % Klimazuschlag — _eigene (1.4)_
@@ -472,36 +472,7 @@ Wir beantragen zudem die **Offenlegung** der Planungsvereinbarung vom 11.04.2005
 
 <div style="page-break-before: always;"></div>
 
-## Antrag 14 — Information über den Verfahrensfortgang — mittel (Zusage-Antrag)
-
-**Einwendungsbezug:** eigene Einwendung (Schlussabsatz: Bitte um Mitteilung über das weitere Verfahren); im Übrigen reiner Verfahrensantrag, der keinen Einwendungsbezug voraussetzt.
-
-**Vortrag (frei sprechen):**
-
-1. **Problem:** Ab 50 Einwendern darf die Behörde alles per öffentlicher Bekanntmachung ersetzen — niemand wird persönlich informiert.
-2. **Bitte um Zusage:** individuelle Information und individuelle Zustellung.
-3. **Zusatz:** Es gibt keinen Zeitplan — wann wird was entschieden?
-
-<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
-<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
-„Wir beantragen zur Niederschrift die <strong>Zusage der Planfeststellungsbehörde:</strong><br>
-
-1. Die Einwender werden **individuell informiert** — über das Ergebnis der Erörterung und den weiteren Verfahrensgang;<br>
-2. die Entscheidung wird **individuell zugestellt** (Art. 74 Abs. 4 BayVwVfG) — **ohne Ersetzung durch öffentliche Bekanntmachung** (Art. 74 Abs. 5 BayVwVfG)."
-</div>
-
-**Rechtsgrundlage:** Art. 74 Abs. 4 BayVwVfG (Anspruch auf Zustellung an Einwender); Art. 74 Abs. 5 (Ersetzung bei > 50 Zustellungen — dagegen richtet sich der Antrag); ergänzend Art. 29 BayVwVfG (Akteneinsicht), UIG/BayUIG (Umweltinformationen, gilt jedermann, auch für Gutachten).
-
-**Fundierung (bei Rückfragen):**
-
-- Bekanntmachung 17.10.2025, S. 4: Benachrichtigung vom Erörterungstermin **und** Zustellung der Entscheidung können bei > 50 Fällen durch öffentliche Bekanntmachung ersetzt werden — bei 1.300 Einwohnern und vielen Einwendern ist genau das zu erwarten. Eine persönliche Information ist also **nicht garantiert**.
-- Kein Zeitplan im Verfahren: Baubeginn „nicht vor 2028" (Bericht S. 94), Maßnahmenbeschluss der Stadt „geplant 2028" (Beschlussvorlage S. 13).
-
-**Ehrliche Einschätzung:** Bei Nutzung von Abs. 5 besteht **kein Rechtsanspruch** auf individuelle Zustellung — der Antrag zielt auf eine freiwillige, protokollierte Zusage. **Rückfallposition:** Zusage wenigstens einer Sammel-Information (E-Mail-Verteiler) über Meilensteine; unabhängig davon selbst Amtsblatt/Bekanntmachungen überwachen (Klagefrist läuft sonst ab öffentlicher Bekanntmachung!).
-
-<div style="page-break-before: always;"></div>
-
-## Antrag 15 — Bestätigung der Absprachen aus der Vor-Ort-Besprechung — wichtig (Zusage-Antrag)
+## Antrag 14 — Bestätigung der Absprachen aus der Vor-Ort-Besprechung — wichtig (Zusage-Antrag)
 
 **Einwendungsbezug:** neue Absprachen nach Ablauf der Einwendungsfrist (Vor-Ort-Besprechung am 24.06.2026 in der Wöhrdstraße 41 mit dem Wasserwirtschaftsamt Regensburg — Herr Zimmermann, Herr Kastenmeier — und der Objektplanung/Architekten); inhaltlich anknüpfend an eigene Einwendung (4.4; Anträge 6 und 9), Termin-Antrag 12 und Gebauer (Abschn. 5 und 8). Kein Präklusionsrisiko: Der Antrag protokolliert ein **Entgegenkommen des Vorhabensträgers**, keine neue Einwendung.
 
@@ -542,11 +513,40 @@ Diese Punkte gelten **unbeschadet unserer weitergehenden Anträge** (insbesonder
 
 <div style="page-break-before: always;"></div>
 
+## Antrag 15 — Information über den Verfahrensfortgang — mittel (Zusage-Antrag)
+
+**Einwendungsbezug:** eigene Einwendung (Schlussabsatz: Bitte um Mitteilung über das weitere Verfahren); im Übrigen reiner Verfahrensantrag, der keinen Einwendungsbezug voraussetzt.
+
+**Vortrag (frei sprechen):**
+
+1. **Problem:** Ab 50 Einwendern darf die Behörde alles per öffentlicher Bekanntmachung ersetzen — niemand wird persönlich informiert.
+2. **Bitte um Zusage:** individuelle Information und individuelle Zustellung.
+3. **Zusatz:** Es gibt keinen Zeitplan — wann wird was entschieden?
+
+<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift die <strong>Zusage der Planfeststellungsbehörde:</strong><br>
+
+1. Die Einwender werden **individuell informiert** — über das Ergebnis der Erörterung und den weiteren Verfahrensgang;<br>
+2. die Entscheidung wird **individuell zugestellt** (Art. 74 Abs. 4 BayVwVfG) — **ohne Ersetzung durch öffentliche Bekanntmachung** (Art. 74 Abs. 5 BayVwVfG)."
+</div>
+
+**Rechtsgrundlage:** Art. 74 Abs. 4 BayVwVfG (Anspruch auf Zustellung an Einwender); Art. 74 Abs. 5 (Ersetzung bei > 50 Zustellungen — dagegen richtet sich der Antrag); ergänzend Art. 29 BayVwVfG (Akteneinsicht), UIG/BayUIG (Umweltinformationen, gilt jedermann, auch für Gutachten).
+
+**Fundierung (bei Rückfragen):**
+
+- Bekanntmachung 17.10.2025, S. 4: Benachrichtigung vom Erörterungstermin **und** Zustellung der Entscheidung können bei > 50 Fällen durch öffentliche Bekanntmachung ersetzt werden — bei 1.300 Einwohnern und vielen Einwendern ist genau das zu erwarten. Eine persönliche Information ist also **nicht garantiert**.
+- Kein Zeitplan im Verfahren: Baubeginn „nicht vor 2028" (Bericht S. 94), Maßnahmenbeschluss der Stadt „geplant 2028" (Beschlussvorlage S. 13).
+
+**Ehrliche Einschätzung:** Bei Nutzung von Abs. 5 besteht **kein Rechtsanspruch** auf individuelle Zustellung — der Antrag zielt auf eine freiwillige, protokollierte Zusage. **Rückfallposition:** Zusage wenigstens einer Sammel-Information (E-Mail-Verteiler) über Meilensteine; unabhängig davon selbst Amtsblatt/Bekanntmachungen überwachen (Klagefrist läuft sonst ab öffentlicher Bekanntmachung!).
+
+<div style="page-break-before: always;"></div>
+
 ## Flankierend: starke Punkte der Mitstreiter (beim Termin unterstützen)
 
 - **Immissions-/Störfallgutachten Anlagengebäude** (Gebauer Abschn. 7; eigener Antrag 8) — EMF, Lärm, Brand-/Öllasten.
 - **Bauzeit-/Belastungskonzept** (Gebauer Abschn. 10; eigener Antrag 14).
-- **Stellplätze/Außenanlagen Wöhrdstr. 41** (Gebauer Abschn. 8b mit Alternativskizze Anlage 1; eigener Antrag 9): Im **persönlichen Vorabtermin wurde bereits auf uns eingegangen** (Gebauers Vorschlägen folgend) — die Protokollierung dieses Entgegenkommens ist jetzt **Antrag 15 (Punkt 5)**.
+- **Stellplätze/Außenanlagen Wöhrdstr. 41** (Gebauer Abschn. 8b mit Alternativskizze Anlage 1; eigener Antrag 9): Im **persönlichen Vorabtermin wurde bereits auf uns eingegangen** (Gebauers Vorschlägen folgend) — die Protokollierung dieses Entgegenkommens ist jetzt **Antrag 14 (Punkt 5)**.
 
 <div style="page-break-before: always;"></div>
 
