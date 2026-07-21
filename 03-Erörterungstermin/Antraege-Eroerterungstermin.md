@@ -16,6 +16,7 @@
 12. Vorverlegung des UGA-Endpunkts _(Part: Gebauer)_<br>_eigene (4.4, Antrag 6), Gebauer_
 13. Planungshistorie der Untergrundabdichtung<br>_eigene (4.4, 4.5)_
 14. Information über den Verfahrensfortgang<br>_eigene (Schlussabsatz), sonst verfahrensbezogen_
+15. Bestätigung der Absprachen aus der Vor-Ort-Besprechung<br>_neu (Besprechung mit WWA und Objektplanung nach Einwendungsfrist); knüpft an eigene (4.4, Anträge 6/9), Antrag 12 und Gebauer (Abschn. 5, 8) an_
 
 — Flankierend: starke Punkte der Mitstreiter
 — Bewusst kein Antrag: 15 % Klimazuschlag — _eigene (1.4)_
@@ -500,11 +501,52 @@ Wir beantragen zudem die **Offenlegung** der Planungsvereinbarung vom 11.04.2005
 
 <div style="page-break-before: always;"></div>
 
+## Antrag 15 — Bestätigung der Absprachen aus der Vor-Ort-Besprechung — wichtig (Zusage-Antrag)
+
+**Einwendungsbezug:** neue Absprachen nach Ablauf der Einwendungsfrist (Vor-Ort-Besprechung am 24.06.2026 in der Wöhrdstraße 41 mit dem Wasserwirtschaftsamt Regensburg — Herr Zimmermann, Herr Kastenmeier — und der Objektplanung/Architekten); inhaltlich anknüpfend an eigene Einwendung (4.4; Anträge 6 und 9), Termin-Antrag 12 und Gebauer (Abschn. 5 und 8). Kein Präklusionsrisiko: Der Antrag protokolliert ein **Entgegenkommen des Vorhabensträgers**, keine neue Einwendung.
+
+**Vortrag (frei sprechen):**
+
+1. **Mit Dank beginnen.** Das Vor-Ort-Gespräch war konstruktiv — das ausdrücklich anerkennen. Das erleichtert dem WWA die Bestätigung.
+2. **Aber:** Mündliche Absprachen binden niemanden. Baubeginn frühestens 2028, ca. 5 Jahre Bauzeit — Personen wechseln, Baufirmen kennen die Absprache nicht.
+3. **Sechs Punkte** einzeln benennen (siehe Antragstext).
+4. **Bitte an das WWA:** die Punkte hier, im Termin, zur Niederschrift bestätigen.
+5. **Bitte an die Behörde:** die bestätigten Punkte als **Zusagen in den Planfeststellungsbeschluss** übernehmen — nur dort sind sie vollziehbar.
+
+<div style="border-left: 3px solid #4a6785; background: #eef2f6; padding: 10px 14px; margin: 10px 0; page-break-inside: avoid; break-inside: avoid;">
+<strong>Antragstext (verlesen — Klammern beim Vorlesen überspringen):</strong><br><br>
+„Wir beantragen zur Niederschrift, die folgenden <strong>Ergebnisse der Vor-Ort-Besprechung vom 24. Juni 2026</strong> auf dem Grundstück Wöhrdstraße 41 — mit dem Wasserwirtschaftsamt Regensburg und der Objektplanung — <strong>durch den Vorhabensträger bestätigen zu lassen</strong> und als <strong>verbindliche Zusagen in den Planfeststellungsbeschluss aufzunehmen</strong> (Art. 74 Abs. 2 Satz 2 BayVwVfG):<br>
+
+1. **Prüfung eines früheren Endes der Untergrundabdichtung** — etwa an der südöstlichen oder sogar der südwestlichen Ecke der Hochwasserschutzmauer auf dem Grundstück Wöhrdstraße 41 (ergänzend zu Antrag 12);<br>
+2. **Natursteinverkleidung der Mauer-Außenseite**; die Mauer wird **bepflanzbar und berankbar** ausgeführt;<br>
+3. **zwei Durchgänge durch die Mauer** — jeweils **gegenüber den beiden Haustüren**;<br>
+4. **früheres Ende des oberirdischen Mauerteils** — auf Höhe des Durchgangs zwischen Haupthaus und steinernem Nebengebäude; nach dem Ende der Mauer ist das **natürliche Gelände** — die höchste Stelle der Insel — **bereits hoch genug**, und mit einer **Aufschüttung von wenigen Zentimetern** zur Sicherheit ist der **geplante Hochwasserschutz machbar**;<br>
+5. **Anpassung der Stellplatz- und Parkplatzsituation** gegenüber der ausgelegten Planung — entsprechend den Vorschlägen aus den Einwendungen Gebauer und Wöhrdstraße 41;<br>
+6. **begradigter Verlauf der Untergrundabdichtung**: Der Verlauf orientiert sich **nicht mehr an den Parkplätzen**, sondern kann weitgehend gerade durchlaufen — die **Bäume zwischen den Parkplätzen und dem neuen UGA-Verlauf bleiben erhalten**.<br><br>
+Diese Punkte gelten **unbeschadet unserer weitergehenden Anträge** (insbesondere der Anträge 6 und 12)."
+</div>
+
+**Rechtsgrundlage:** Nur der Planfeststellungsbeschluss bindet dauerhaft und gegenüber jedermann (Art. 74, 75 BayVwVfG); protokollierte Zusagen des Vorhabensträgers werden üblicherweise als eigener Abschnitt „Zusagen" Bestandteil des Beschlusses und damit vollziehbar. Eine förmliche Zusicherung bedürfte ohnehin der Schriftform (Rechtsgedanke des Art. 38 Abs. 1 BayVwVfG) — mündliche Absprachen außerhalb der Niederschrift sind unverbindlich.
+
+**Fundierung (bei Rückfragen):**
+
+- Vor-Ort-Besprechung am **24.06.2026** auf dem Grundstück Wöhrdstraße 41: Teilnehmer WWA Regensburg (Herr Zimmermann, Herr Kastenmeier), Objektplanung/Architekten, Einwender.
+- Punkt 4 deckt sich mit der eigenen Einwendung und Gebauer Abschn. 4: Das Grundstück liegt am **höchstgelegenen Punkt der Insel** — die Machbarkeit des früheren oberirdischen Mauerendes ist damit plausibilisiert, nicht bloß behauptet.
+- Baubeginn „nicht vor 2028" (Bericht S. 94), Bauzeit ca. 5 Jahre: Zwischen Absprache und Ausführung liegen viele Jahre — handelnde Personen und ausführende Firmen wechseln; nur der Beschluss wirkt fort.
+
+**Verhältnis zu den anderen Anträgen (wichtig):**
+
+- **Antrag 12 bleibt in vollem Umfang gestellt.** Punkt 1 protokolliert nur zusätzlich, dass der Vorhabensträger die Prüfung eines früheren UGA-Endes **selbst zugesagt** hat — das stärkt Antrag 12, ersetzt ihn nicht.
+- Die **Unbeschadet-Klausel** stellt sicher, dass insbesondere Punkt 4 (oberirdisches Mauerende) nicht als Anerkenntnis der Mauer oder Verzicht auf die Alternativenprüfung (Antrag 6) ausgelegt werden kann.
+- Der bisherige Flankierend-Punkt „Stellplätze/Außenanlagen" geht in Punkt 5 dieses Antrags auf.
+
+<div style="page-break-before: always;"></div>
+
 ## Flankierend: starke Punkte der Mitstreiter (beim Termin unterstützen)
 
 - **Immissions-/Störfallgutachten Anlagengebäude** (Gebauer Abschn. 7; eigener Antrag 8) — EMF, Lärm, Brand-/Öllasten.
 - **Bauzeit-/Belastungskonzept** (Gebauer Abschn. 10; eigener Antrag 14).
-- **Stellplätze/Außenanlagen Wöhrdstr. 41** (Gebauer Abschn. 8b mit Alternativskizze Anlage 1; eigener Antrag 9): Im **persönlichen Vorabtermin wurde bereits auf uns eingegangen** (Gebauers Vorschlägen folgend) — dieses Entgegenkommen beim Erörterungstermin ansprechen und ausdrücklich **zur Niederschrift protokollieren lassen**; eine mündliche Zusage außerhalb des Protokolls ist unverbindlich.
+- **Stellplätze/Außenanlagen Wöhrdstr. 41** (Gebauer Abschn. 8b mit Alternativskizze Anlage 1; eigener Antrag 9): Im **persönlichen Vorabtermin wurde bereits auf uns eingegangen** (Gebauers Vorschlägen folgend) — die Protokollierung dieses Entgegenkommens ist jetzt **Antrag 15 (Punkt 5)**.
 
 <div style="page-break-before: always;"></div>
 

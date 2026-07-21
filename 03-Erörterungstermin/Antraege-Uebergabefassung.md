@@ -111,6 +111,19 @@ Wir beantragen zur Niederschrift die **Zusage der Planfeststellungsbehörde:**
 1. Die Einwender werden **individuell informiert** — über das Ergebnis der Erörterung und den weiteren Verfahrensgang;
 2. die Entscheidung wird **individuell zugestellt** (Art. 74 Abs. 4 BayVwVfG) — **ohne Ersetzung durch öffentliche Bekanntmachung** (Art. 74 Abs. 5 BayVwVfG).
 
+## Antrag 15 — Bestätigung der Absprachen aus der Vor-Ort-Besprechung
+
+Wir beantragen zur Niederschrift, die folgenden **Ergebnisse der Vor-Ort-Besprechung vom 24. Juni 2026** auf dem Grundstück Wöhrdstraße 41 — mit dem Wasserwirtschaftsamt Regensburg und der Objektplanung — **durch den Vorhabensträger bestätigen zu lassen** und als **verbindliche Zusagen in den Planfeststellungsbeschluss aufzunehmen** (Art. 74 Abs. 2 Satz 2 BayVwVfG):
+
+1. **Prüfung eines früheren Endes der Untergrundabdichtung** — etwa an der südöstlichen oder sogar der südwestlichen Ecke der Hochwasserschutzmauer auf dem Grundstück Wöhrdstraße 41 (ergänzend zu Antrag 12);
+2. **Natursteinverkleidung der Mauer-Außenseite**; die Mauer wird **bepflanzbar und berankbar** ausgeführt;
+3. **zwei Durchgänge durch die Mauer** — jeweils **gegenüber den beiden Haustüren**;
+4. **früheres Ende des oberirdischen Mauerteils** — auf Höhe des Durchgangs zwischen Haupthaus und steinernem Nebengebäude; nach dem Ende der Mauer ist das **natürliche Gelände** — die höchste Stelle der Insel — **bereits hoch genug**, und mit einer **Aufschüttung von wenigen Zentimetern** zur Sicherheit ist der **geplante Hochwasserschutz machbar**;
+5. **Anpassung der Stellplatz- und Parkplatzsituation** gegenüber der ausgelegten Planung — entsprechend den Vorschlägen aus den Einwendungen Gebauer und Wöhrdstraße 41;
+6. **begradigter Verlauf der Untergrundabdichtung**: Der Verlauf orientiert sich **nicht mehr an den Parkplätzen**, sondern kann weitgehend gerade durchlaufen — die **Bäume zwischen den Parkplätzen und dem neuen UGA-Verlauf bleiben erhalten**.
+
+Diese Punkte gelten **unbeschadet unserer weitergehenden Anträge** (insbesondere der Anträge 6 und 12).
+
 ---
 
 Regensburg, den _______________
