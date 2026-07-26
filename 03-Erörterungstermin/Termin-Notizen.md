@@ -14,12 +14,16 @@ Transkription der handschriftlichen Notizen (`Termin Notizen.pdf`).
 - Zuständig: Amt für Immissionsschutz, Frau Bayerle.
 - Begutachtung hierzu steht noch aus.
 
-## Michael Kroll
+## Sonstiges
 
-- Beantragt das **Verschieben des Planfeststellungsbeschlusses** nach bestimmten Teilen der **Ausführungsplanung** (gemeint wohl: bis bestimmte Teile der Ausführungsplanung vorliegen).
+- Michael Kroll: Beantragt das **Verschieben des Planfeststellungsbeschlusses** nach bestimmten Untersuchungen, die auf die **Ausführungsplanung** verschoben wurden.
 - „Nicht planfeststellungsrelevant" → die meisten Einwender werden nicht berücksichtigt.
-- Das Vorhaben schützt nicht vor Hochwasser, sondern nur vor den **Folgen** — nicht vor den **Ursachen**.
+
 - **Klimavorbehalt** Stadt Regensburg.
+
+## Toller Satz
+
+- Das Vorhaben schützt nicht vor Hochwasser, sondern nur vor den **Folgen** — nicht vor den **Ursachen**.
 
 ## Kontakte
 
