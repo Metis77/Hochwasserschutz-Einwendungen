@@ -112,17 +112,14 @@ Das AG Regensburg stoppte die Fällung einer geschützten Stieleiche am Rennweg 
 - Beschlussvorlage VO/26/23217/31 im Ratsinformationssystem – https://srv19.regensburg.de/bi/vo020.asp?VOLFDNR=22698
 - Iungman et al., „Cooling cities through urban green infrastructure", The Lancet, 2023 (vom Umweltamt in der Beschlussvorlage als „The Lancet, 18.02.2023" zitiert – Beleg für 30 % Überschirmung → −0,4 °C → verhindert Hitzetote)
 
-## Beschaffte Anlagen (Stand 02.08.2026)
+## Anlagen der Nachreichung (sortiert 06.08.2026)
 
-In `Anlagen/`:
+`Anlagen/` entspricht 1:1 dem Anlagenverzeichnis des Briefs (Duplikate zu `Sonstige Dokumente/` sind beabsichtigt):
 
-1. `2026-07-30_RKI-Wochenbericht-hitzebedingte-Mortalitaet-KW29-2026.pdf` (+ CSV-Datentabelle)
-2. `2026_DUH-Hitze-Check_Staedte-Bundeslaender.pdf`
-3. `2026-07-27_regensburg-digital_AG-Regensburg-stoppt-Faellung-Eiche.pdf`
+1. `Anlage-1_Beschlussvorlage-VO-26-23217-31_Baumzustandsbericht-2025_inkl-Klimavorbehalt.pdf` (= Sammeldokument: Vorlage + Anlage „Prüfung Klimavorbehalt Stufe 3")
+2. `Anlage-2_idowa_2026-07-14_Alarmierender-Baumzustand-Umweltausschuss.pdf`
+3. `Anlage-3_RKI-Wochenbericht-hitzebedingte-Mortalitaet-KW29-2026.pdf` + `Anlage-3a_RKI-Datentabelle-Hitzemortalitaet-2026.csv` (im Brief: „mit Datentabelle")
+4. `Anlage-4_DUH-Hitze-Check-2026_Ergebnistabelle-Staedte.pdf`
+5. `Anlage-5_regensburg-digital_2026-07-27_AG-Regensburg-Eichen-Urteil.pdf`
 
-In `Sonstige Dokumente/`:
-
-4. `2026-07-15_Beschlussvorlage Baumzustandsbericht 2025 VO-26-23217-31 Vorlage.pdf` (5 S., Original mit Lancet-Zitat)
-5. `…Sammeldokument.pdf` (Vorlage + Anlagen in einem PDF)
-6. `2026-07-15_Anlage Pruefung Klimavorbehalt Stufe 3 (VO-26-23217-31).pdf`
-7. `Presse/IDDE-00110172-20260714-…-Beitrag-1.pdf` (idowa-Artikel, von Martin geliefert)
+Originale/weitere Exemplare in `Sonstige Dokumente/`: Beschlussvorlage (Vorlage einzeln, Sammeldokument, Klimavorbehalt-Anlage einzeln) sowie der idowa-Artikel unter `Presse/`.
