@@ -69,5 +69,6 @@ Die PDF-Einstellungen (Seitenzahlen, Ränder, Header/Footer) sind in der **YAML-
 - **Einwendungsphase abgeschlossen** (Frist: 16.01.2026). Rechtlich maßgeblich ist die unterschrieben eingereichte **V2** (`02-Einwendungen/Einwendung-Hochwasserschutz-Unterer-Woehrd-V2 Unterschrieben.pdf`).
 - **V3 ist nur eine Arbeitsfassung** (V2 + grüne Korrekturhinweise zu Seitenangaben/Datierungen/Quellen). Es wird **keine V3/V4-Einreichung** geben. Nie eine neue Einwendungsfassung oder „Ergänzungsvorschläge für V2/V3" vorschlagen.
 - **Objektschutz** ist in der eigenen Einwendung bewusst nicht bautechnisch vertieft — die Detailargumentation liegt in der mitunterschriebenen **Gebauer-Einwendung** (`02-Einwendungen/Andere Einwender/Gebauer/`). Das ist Arbeitsteilung, kein Versäumnis.
-- **Aktueller Fokus:** Vorbereitung des Erörterungstermins → Ergebnisse nur in `03-Erörterungstermin/` ablegen (Anträge + Spickzettel).
+- **Erörterungstermin hat stattgefunden** (Unterlagen dazu in `03-Erörterungstermin/`). Der **Planfeststellungsbeschluss wird nicht vor April 2027 erwartet**.
+- **Aktueller Nebenschauplatz (08/2026):** Aufforderung des Ordnungsamts, die Banner des Aktionsbündnisses abzuhängen → Vorgang und Rechtslage-Recherche in `05-Plakatierung-Ordnungsamt/`.
 - **Korrekte Zahlen** (verifiziert, siehe `02-Einwendungen/Quellenbelege.md`): UGA-Tiefe 11–19 m, bereichsweise bis 20 m (nicht „15 m"); Baukosten ca. 50 Mio. € **brutto** ohne Grundstückskosten (Bericht S. 95); 55 Mio. € gesamt (Beschlussvorlage Stadt Regensburg 03.12.2024, S. 12); Ufermauer 1830er Jahre.
