@@ -17,6 +17,7 @@ Dokumente rund um das Grundstück Wöhrdstraße 41 im Nachgang zum Erörterungst
 
 ## Nächste Schritte
 
-- [ ] Protokoll final prüfen (inhaltlich vollständig, keine offenen Stellen mehr).
-- [ ] PDF erzeugen — mit dem MCP-Tool `iatemplate2pdf` (wie in `03-Erörterungstermin/`; die Markdown-Datei darf **keine YAML-Frontmatter** enthalten).
-- [ ] Versand **per E-Mail an Frau Pollinger**: christine.pollinger@wwa-r.bayern.de (Schreibweise „Pollinger" ohne Umlaut, gem. E-Mail-Adresse in den Termin-Notizen).
+- [x] Protokoll final geprüft, von allen drei Einwendern digital unterschrieben (`…_unterschrieben_v2.pdf`).
+- [x] **Versand am 31.07.2026, 17:45 Uhr** per E-Mail an christine.pollinger@wwa-r.bayern.de (CC Zimmermann, Stephanie, Flo; Anhang: unterschriebenes Protokoll v2, 1,7 MB) – Original als `2026-07-31_E-Mail-Versand-Protokoll-an-WWA-Pollinger.eml`. Bitte in der Mail: Bestätigungsvermerk gegenzeichnen und zurücksenden.
+- [ ] **Bestätigung des WWA steht aus** (Stand 06.09.2026, über fünf Wochen: weder Eingangs- noch inhaltliche Bestätigung) → Nachfass am 06.09.2026 versendet (`Nachfass-E-Mail-Pollinger.md`), Frist 18.09.2026; danach telefonisch nachhaken.
+- [ ] Nach Bestätigung: Protokoll an die Planfeststellungsbehörde (Frau Wittmann) zur Akte geben.

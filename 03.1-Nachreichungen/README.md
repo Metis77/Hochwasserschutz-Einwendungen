@@ -2,7 +2,7 @@
 
 **Stand:** 02.08.2026 · **Einwender:** Martin Schwenzer und Stephanie Sabatier (Wöhrdstraße 41)
 
-**Entwurf liegt vor:** `Nachreichung-Einwendung-Woehrdstrasse-41.md` (+ PDF via md-to-pdf mit `../02-Einwendungen/style.css`) – 5 Abschnitte, 5 Anlagen, Datum 02.08.2026 (vor Versand ggf. anpassen). Status: **Entwurf, noch nicht versendet.**
+**Entwurf liegt vor:** `Nachreichung-Einwendung-Woehrdstrasse-41.md` (+ PDF via md-to-pdf mit `../02-Einwendungen/style.css`) – 5 Abschnitte, 5 Anlagen, Datum 02.08.2026 (vor Versand ggf. anpassen). Status: **versendet am 06.08.2026, 20:52 Uhr** per E-Mail an umweltamt@regensburg.de (z. Hd. Frau Wittmann, CC Stephanie; unterschriebenes PDF + Anlagen 1–5 als 7 Dateien, ca. 11 MB) – Original als `2026-08-06_E-Mail-Versand-Nachreichung-an-Umweltamt.eml`. In der Mail wurde bereits um Eingangsbestätigung, Einbeziehung nach § 24 UVPG und individuelle Information gebeten. **Keine Reaktion bis 06.09.2026** → Nachfass am 06.09.2026 versendet (`Nachfass-E-Mail-Wittmann.md`); Eingangsbestätigung weiter offen.
 
 ## Ausgangslage
 
