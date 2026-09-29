@@ -1,6 +1,6 @@
 # Nachfass-E-Mail an das WWA (Frau Pollinger) – Bestätigung Ergebnisprotokoll
 
-**Stand:** 06.09.2026 · **Status:** versendet am 06.09.2026 (Antwort auf die Mail vom 31.07.2026), Frist 18.09.2026
+**Stand:** 29.09.2026 · **Status:** versendet am 06.09.2026 (Antwort auf die Mail vom 31.07.2026), Frist 18.09.2026 · **Zwischenantwort Frau Pollinger am 07.09.2026:** Abstimmung wegen Urlaubszeit noch nicht möglich, Rückmeldung nach Abstimmung mit den Besprechungsteilnehmern. Inhaltliche Bestätigung steht weiter aus.
 
 **Anlass:** Das Ergebnisprotokoll der Vor-Ort-Besprechung vom 24.06.2026 (`Protokoll-Vor-Ort-Besprechung-2026-06-24_unterschrieben_v2.pdf`, von allen drei Einwendern unterschrieben) wurde am **31.07.2026, 17:45 Uhr** per E-Mail an Frau Pollinger geschickt, CC Herr Zimmermann, Stephanie und Flo. Original: `2026-07-31_E-Mail-Versand-Protokoll-an-WWA-Pollinger.eml`. Darin wurde um Gegenzeichnung des Bestätigungsvermerks und Rücksendung gebeten. Bis heute (über fünf Wochen) weder Eingangsbestätigung noch die vereinbarte inhaltliche Bestätigung des WWA.
 
