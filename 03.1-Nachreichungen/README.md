@@ -1,8 +1,16 @@
 # Nachreichungen zur Einwendung – Planung und Recherche
 
-**Stand:** 02.08.2026 · **Einwender:** Martin Schwenzer und Stephanie Sabatier (Wöhrdstraße 41)
+**Stand:** 29.09.2026 · **Einwender:** Martin Schwenzer und Stephanie Sabatier (Wöhrdstraße 41)
 
 **Entwurf liegt vor:** `Nachreichung-Einwendung-Woehrdstrasse-41.md` (+ PDF via md-to-pdf mit `../02-Einwendungen/style.css`) – 5 Abschnitte, 5 Anlagen, Datum 02.08.2026 (vor Versand ggf. anpassen). Status: **versendet am 06.08.2026, 20:52 Uhr** per E-Mail an umweltamt@regensburg.de (z. Hd. Frau Wittmann, CC Stephanie; unterschriebenes PDF + Anlagen 1–5 als 7 Dateien, ca. 11 MB) – Original als `2026-08-06_E-Mail-Versand-Nachreichung-an-Umweltamt.eml`. In der Mail wurde bereits um Eingangsbestätigung, Einbeziehung nach § 24 UVPG und individuelle Information gebeten. **Keine Reaktion bis 06.09.2026** → Nachfass am 06.09.2026 versendet (`Nachfass-E-Mail-Wittmann.md`); Eingangsbestätigung weiter offen.
+
+## Neu (29.09.2026): Baumschutzverordnungs-Grenze – Stellungnahme Umweltamt 11.09.2026
+
+Ordner `Baumschutzverordnung-Grenze/` (Stellungnahme von Stephanie weitergeleitet, CC Flo): Stellungnahme des Umweltamts (Amt 31.2, Dr. Pöhler/Dr. Voigt) an die Regierung der Oberpfalz, SG 55.1, zur „Anregung zur Prüfung der BVO-Grenze" von Nils Deichner (04.08.2026) – als PDF (Scan), Transkript (`…-BVO-Grenze.md`) und Analyse (`Analyse-BVO-Grenze-Woehrdstrasse-41.md`). Anlage der Stellungnahme ist die **Telefonnotiz bgmr/Umweltamt vom 25.04.2023**, mit der die Landschaftsarchitektin des Vorhabensträgers die Grenze des Baumschutzes gezeichnet hat: „Obstgarten Wöhrdstr. 41 entlang der nördlichen Hausgrenze ausgenommen".
+
+**Kernbefund:** Die BVO-Grenze auf Wöhrdstraße 41 ist identisch mit der geplanten Mauerachse („in Achse der Nordfassade", Erläuterungsbericht S. 55); Plan D 7.1 zeigt um den Obstgarten eine Ausbuchtung bis zur Hauswand, bei den Nachbarn reicht der Geltungsbereich bis zum Hochufer (Ausschnitt als PNG im Ordner). Folge: 23 Fällungen auf dem Grundstück mit 0 Ersatzbäumen nach BVO, obwohl mindestens 5 gefällte Bäume über 100 cm liegen (13 Ersatzbäume nach § 7 BSchV) und § 5 BSchV eine baumbezogene Alternativenprüfung verlangt. Das Umweltamt antwortet auf Begründungspflicht, Überarbeitung und Auswirkungen jeweils mit „Nein/Keine"; das Bauordnungsamt hat nicht entschieden, obwohl es 2022 selbst die Rechtssicherheit des kartenlosen Geltungsbereichs bezweifelt hatte (`Sonstige Dokumente/2022-11-14_Anlage-1-…pdf`).
+
+**Empfehlung (Details in der Analyse, Abschnitt 4):** Nachreichung 2 an Frau Wittmann (neue Tatsache, Anträge auf förmliche Grenzfeststellung mit Bauordnungsamt, alte Karte 1993, Neuberechnung Tab. 5e, § 5-Prüfung je Baum, Fällliste für die geänderte Linienführung); kurzes Schreiben an die Regierung der Oberpfalz zur Unterstützung von Deichners Anregung; Abstimmung mit Deichner und Gebauer. **Stand 29.09.2026:** Mail an Stephanie mit Befund und Optionen versendet (`Baumschutzverordnung-Grenze/E-Mail-Stephanie-BVO-Grenze.md`); Entscheidung über Nachreichung 2 liegt bei ihr, Flo wird ggf. dazugeholt. Offen: alte BVO-Karte 1993/2004, Deichners Originalschreiben, Frage nach einer Ortseinsicht des Umweltamts.
 
 ## Ausgangslage
 
