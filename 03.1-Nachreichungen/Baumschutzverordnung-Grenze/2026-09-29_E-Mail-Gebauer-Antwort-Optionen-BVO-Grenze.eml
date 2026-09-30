@@ -1,0 +1,694 @@
+Received: from GV2PR08MB11882.eurprd08.prod.outlook.com
+ (2603:10a6:150:344::11) by VI0PR08MB10826.eurprd08.prod.outlook.com with
+ HTTPS; Wed, 30 Sep 2026 06:16:54 +0000
+Received: from PR3P189CA0071.EURP189.PROD.OUTLOOK.COM (2603:10a6:102:b4::16)
+ by GV2PR08MB11882.eurprd08.prod.outlook.com (2603:10a6:150:344::11) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.472.14; Wed, 30 Sep
+ 2026 06:16:50 +0000
+Received: from MI3PEPF00008487.eurprd02.prod.outlook.com
+ (2603:10a6:102:b4:cafe::31) by PR3P189CA0071.outlook.office365.com
+ (2603:10a6:102:b4::16) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.21.472.16 via Frontend Transport; Wed,
+ 30 Sep 2026 06:16:49 +0000
+Authentication-Results: mx.microsoft.com 1; spf=pass (sender IP is
+ 92.204.71.192) smtp.mailfrom=stephaniesabatier.com; dkim=fail (no key for
+ signature) header.d=stephaniesabatier.com;dmarc=pass action=none
+ header.from=stephaniesabatier.com;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of stephaniesabatier.com
+ designates 92.204.71.192 as permitted sender)
+ receiver=protection.outlook.com; client-ip=92.204.71.192;
+ helo=sxb1nlsmtp02-03.prod.sxb1.secureserver.net; pr=C
+Received: from sxb1nlsmtp02-03.prod.sxb1.secureserver.net (92.204.71.192) by
+ MI3PEPF00008487.mail.protection.outlook.com (10.167.240.134) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.21.472.14
+ via Frontend Transport; Wed, 30 Sep 2026 06:16:49 +0000
+Received: from wolke3.hauptwolke.de ([92.205.105.114])
+	by : HOSTING RELAY : with ESMTPS
+	id BnbXx63aHv4VJBnbXxEbmz; Wed, 30 Sep 2026 06:15:47 +0000
+X-SECURESERVER-ACCT: 92.205.105.114
+x-originating-ip: 92.205.105.114
+X-CMAE-Analysis: v=2.4 cv=cYRHPXDM c=1 sm=1 tr=0 ts=6abca913
+ a=EZHCdL/8VS2RhTH/UfI1zg==:117 a=EZHCdL/8VS2RhTH/UfI1zg==:17
+ a=xqWC_Br6kY4A:10 a=VdqzKS8jKosA:10 a=cr9RIHQsuQIA:10 a=hbzxeSXEAAAA:8
+ a=fkvfZdWTAAAA:8 a=jpelRNLUqfMgi493ac8A:9 a=lqcHg5cX4UMA:10 a=QEXdDO2ut3YA:10
+ a=OgADZA_QW_ULI_nAa_EA:9 a=b2w8H-40tK2sQ2zy:21 a=_W_S_7VecoQA:10
+ a=9r4JeQWsK1K-eza1QjQA:9 a=HXjIzolwW10A:10 a=T6a71-JsGAwA:10
+ a=zob0TqQg8HZQyzK5PjXg:22 a=NNpAyKn2zWFXzr9RjQia:22
+Received: from wolke3.hauptwolke.de (localhost.localdomain [127.0.0.1])
+	by wolke3.hauptwolke.de (Postfix) with ESMTP id 39F468C3
+	for <martin@derhaeuptling.de>; Wed, 30 Sep 2026 08:15:47 +0200 (CEST)
+X-Spam-Flag: NO
+X-Spam-Score: -3.089
+X-Spam-Level:
+X-Spam-Status: No, score=-3.089 tagged_above=-9999 required=3
+ tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+ DKIM_VALID_AU=-0.1, DKIM_VALID_EF=-0.1, HTML_MESSAGE=0.001, SPF_PASS=-0.001,
+ T_KAM_HTML_FONT_INVALID=0.01, URIBL_DBL_BLOCKED_OPENDNS=0.001]
+ autolearn=ham autolearn_force=no
+Authentication-Results-Original: wolke3.hauptwolke.de (amavis) (amavis);
+ dkim=pass (1024-bit key) header.d=stephaniesabatier.com
+Received: from wolke3.hauptwolke.de ([92.205.105.114])
+ by wolke3.hauptwolke.de (wolke3.hauptwolke.de [127.0.0.1]) (amavis, port 10024)
+ with ESMTP id MKBShhnY9pip for <martin@derhaeuptling.de>;
+ Wed, 30 Sep 2026 08:15:38 +0200 (CEST)
+Received: from smtpclient.apple (dynamic-2a02-3100-a500-ad00-584b-5416-3014-ec96.310.pool.telefonica.de [IPv6:2a02:3100:a500:ad00:584b:5416:3014:ec96])
+	by wolke3.hauptwolke.de (Postfix) with ESMTPSA id BED805C1
+	for <martin@derhaeuptling.de>; Wed, 30 Sep 2026 08:15:37 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=stephaniesabatier.com; s=default; t=1790748938;
+	bh=fgiRVu4ncATurmPknBvWnQTVAF6kLnHFlWo6FLsdQIM=; h=From:Subject:To;
+	b=EH2vLYql0ETX4liDhdglv02A07uk5Zv9tUKPAKejUFQ1yEvUyVS0Mg+dSGon4/Pqt
+	 6UHdkzurfPBfG4+m+tJgyPVRb6j7oukNrTeiNuMWlS69ckRqUocQDjwZ4ZlC2LZ8el
+	 0iZK9wvzKm3/2W13LZ6LnHcDS9ojY57LVdOacTKg=
+Authentication-Results-Original: wolke3.hauptwolke.de;	spf=pass (sender IP is
+ 2a02:3100:a500:ad00:584b:5416:3014:ec96)
+ smtp.mailfrom=info@stephaniesabatier.com smtp.helo=smtpclient.apple
+Received-SPF: pass (wolke3.hauptwolke.de: connection is authenticated)
+From: Stephanie Sabatier <info@stephaniesabatier.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_06AA1B32-1ABF-4611-AD76-A92B20109518"
+Subject: Fwd: Umweltamt Stellungnahme / Nils
+Message-ID: <4DC385B5-7918-494F-AEC2-5086E4D1A848@stephaniesabatier.com>
+References: <008501dd5042$d7e84510$87b8cf30$@gww-architekten.de>
+To: =?utf-8?Q?=22Martin_Schwenzer=2C_DER_H=C3=84UPTLING=22?=
+ <martin@derhaeuptling.de>
+Date: Wed, 30 Sep 2026 08:15:27 +0200
+X-Mailer: Apple Mail (2.3864.700.51.1.1)
+X-PPP-Message-ID: <179074893805.1056641.9812138989609302396@wolke3.hauptwolke.de>
+X-PPP-Vhost: stephaniesabatier.com
+X-CMAE-Envelope: MS4xfCkhZqQ4TdfMucnSGLR+ga8lqgwoUkyDQRT03XxRIem+nNG3llz/VnkWjFGTz0zH39Sr555ueV5aaSHK1Oj7C1ItzkraNslKZjFowsgp6OlnahD9Q/OT
+ TBIk3FVvGh00SmpmtWimECrdari2PbjltOv1I+XBZ2SIj19GFaJWRLROwJ4qXtMFW4vhkPqtO4NucJ8DEiSpfjO25aWfy1y217U=
+Return-Path: info@stephaniesabatier.com
+X-MS-Exchange-Organization-ExpirationStartTime: 30 Sep 2026 06:16:49.6588
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 2bb3525d-75c5-4165-26e2-08df1eba69bc
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 8f051a06-6e1a-4205-83c2-06aa470f4cd7:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: MI3PEPF00008487:EE_|GV2PR08MB11882:EE_|VI0PR08MB10826:EE_
+X-MS-Exchange-Organization-AuthSource: MI3PEPF00008487.eurprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 2bb3525d-75c5-4165-26e2-08df1eba69bc
+X-MS-Exchange-Antispam-SubmissionContentType: Mail
+X-MS-Exchange-Antispam-SubmissionContentSubType: Msg
+X-MS-Exchange-Antispam-SubmissionIds: 3cdc4933-ca5b-4f79-dc09-08df1eba6b84
+X-MS-Exchange-Antispam-FeedDropEnabled: True
+X-MS-Exchange-Antispam-FeedCategory: 7801
+X-MS-Exchange-Antispam-FeedType: PHISH
+X-Original-X-MS-Exchange-Antispam-FeedCategory: 7801
+X-Original-X-MS-Exchange-Antispam-FeedType: PHISH
+X-Original-X-MS-Exchange-Organization-Antispam-FeedCategory: 7801
+X-Original-X-MS-Exchange-Organization-Antispam-FeedType: PHISH
+X-MS-Exchange-Antispam-FeedbackProcessingScenario: ENT
+X-MS-Exchange-Antispam-SubmitterEmail: info@stephaniesabatier.com
+X-MS-Exchange-Antispam-SubmitterOrganizationId: 8f051a06-6e1a-4205-83c2-06aa470f4cd7
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|260918215300599003|6049299003|260918224100599003|7149299003|5063699009|19002099009|10067099003|16102099003|57112099003|6133799003|18003699003|4076899003|4053099003|8096899003|13003099007;
+X-Forefront-Antispam-Report: CIP:92.204.71.192;CTRY:FR;LANG:de;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:sxb1nlsmtp02-03.prod.sxb1.secureserver.net;PTR:sxb1nlsmtp02-03.prod.sxb1.secureserver.net;CAT:NONE;SFS:(13230040)(260918215300599003)(6049299003)(260918224100599003)(7149299003)(5063699009)(19002099009)(10067099003)(16102099003)(57112099003)(6133799003)(18003699003)(4076899003)(4053099003)(8096899003)(13003099007);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 30 Sep 2026 06:16:49.5667
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 2bb3525d-75c5-4165-26e2-08df1eba69bc
+X-MS-Exchange-CrossTenant-Id: 8f051a06-6e1a-4205-83c2-06aa470f4cd7
+X-MS-Exchange-CrossTenant-AuthSource: MI3PEPF00008487.eurprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: GV2PR08MB11882
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.5572905
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0472.005
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(930201)(20251009189)(140003)(1310096);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?T3J1KzlSQ05DWkhnTW9US1A1SGZMSmtTYjFnKzMrMUV4b0hsa05OdHR3bDQw?=
+ =?utf-8?B?K0ZBNWx2ZTB5b2gwNk5sR1hsRE5TVDNiYVgva3g0QkxxOGJyU3oveE9OSGpL?=
+ =?utf-8?B?MDhod0ovZTJiSmRhVUxnazhWNlhxQkdPb0c4RDQ4ZmpXRWhHM2YxM0VXMW80?=
+ =?utf-8?B?ZEliUERrazdub1NPR3FOTHEyeng2UXQ2aThvU2pkeXhkMjZWSXJRVTlNMWJC?=
+ =?utf-8?B?OFBYZFNTQUVyNWE2ZW05M0NtdGJOYzdGOXc2U1dqYnZhZVoyYThRZHlOeFNG?=
+ =?utf-8?B?MWFXaXNxWmk3UjJYM3c3RXhzZXphcXBVaXU3Y1FCWmVKWVhkWjVyckxGMGs1?=
+ =?utf-8?B?QUNZaFBSdXcxYjdyTUNIVlBmMWhyUmpiTUtIR1Y3ZkIvQzU4NUdYMjlVSmxm?=
+ =?utf-8?B?MFZxMTA3QURUdVlOSzBCWGdTMm03RTJMc0oxNTBqYWs0dGowZGJvTThBVkNV?=
+ =?utf-8?B?ZUJBNm5LNWZnVFR2SzNTYjZTMkRQc1RkR3YxZ2JwNzF6R3JEa0QrWjUwcHlH?=
+ =?utf-8?B?eEVFcUpnTDNLN1ZycUlFR2QxWlhOOEIrOStKenFwWHlaZWpiSlpIUStNMk5L?=
+ =?utf-8?B?Mm5SRFRsZWFDSlhEaERKc1lxRzNIMzd2YVZGUEhvSTdTSzNnUkRZUWF6Vkxr?=
+ =?utf-8?B?aGVacW5yRkNTUGFsVnZOOGdnb3Q1dGNsVG1pTTVSOFJhcWw1VTJnWUtlRlRo?=
+ =?utf-8?B?d2tsVVBVTHl4SzF2RzdDa1FHTkJSKzBEclI5Q2hzWGxuQlljTWhoVi9haW5u?=
+ =?utf-8?B?UW9yMDBkaWh6ZUtCQXNTQ3ltWmlDOC8yQXM3OVZLZEViUmdQV3ZwamFwZ1Jt?=
+ =?utf-8?B?YWwrWHExQmVlZklGTzB3WStzQVNqK1Y3YzZZL2VRTi82TW80UndFZFFEZ28z?=
+ =?utf-8?B?cDBIUDFOTVg2SnJFMG5EbS9jcU5ncTI1ak96NEF3YjBabVBWZU94M0FvTUU1?=
+ =?utf-8?B?ZHlTc2ZoeUJSeE1laU0xRTdPOVFQSFRPbnNPN0xQaU14YVR4RU1FaWg0S3hW?=
+ =?utf-8?B?T29jUDZDWFozc0NGSUptOU9SZXVGUDBaTDJhSUkwcjlycE9PejZzeWt3Q00y?=
+ =?utf-8?B?MlFXclVKQ0dOQ0JTWkxUS3VpN2ZOLzVnK3N0WW5COVdOZXI2VldzMldmWVdR?=
+ =?utf-8?B?ajVkT1JhY2MzelpGT21qeWJNcnlRd004cFNzanp5UmN3NFgzREJFdW8vSSto?=
+ =?utf-8?B?OHJHdlJnWHVpQXo2VjFGU2tIUFU3MDIrZ05zd0xod1FLMkRjeCtFcUtvZGlL?=
+ =?utf-8?B?QXJrYzBZTUNGTU4xS1Q3dXNYZDNlVnZ1djFtTlVKMTJ6MFdnVWhiV3VuYm84?=
+ =?utf-8?B?QlMyOHFtRHNVMi9ZUEFoZTNjQnp4ZzZSNTNOc2tzZlp3ZTE3eHZrVnNZTGZE?=
+ =?utf-8?B?eXA3c0hoZXg3VzRFazFrZUdHeDhwWUVzT09udWQrYU5jUW5TdEF2Q3BlOHlF?=
+ =?utf-8?B?NE5HZTA0T2lVT3owTHVzSWtLc0ozWTFEbmxLOU1MV3JBNDhEZU9xN0RzSkNn?=
+ =?utf-8?B?TmJ0QVVzMXZ3Wm1SVHk3VlpNanhuajRVRlFVNzN5TlZYaU5NT0JwQmtxOHlS?=
+ =?utf-8?B?VzdmR0VJRENSbDRpeDF0Z2tGMEpIVlVKUG1ZUHlIQU1jYTFSTjhCVzdITk9C?=
+ =?utf-8?B?UDFkNUtpT3RmNk0ybGtUQ1RSV1NJWUQ5WlVkUkl5OXpaaktGMjNxRUdtaTBm?=
+ =?utf-8?B?bFBjbXpYQWg2bmNNcDdqdStDWWtOZUNxcUFGTDVKU29wTHA1b3J3NVdJUW9I?=
+ =?utf-8?B?Q2EwUHMzMmVWalBuVHgxOWZ6OUF0REFYTVRvck5IK1N3anA0WUpJZDIzK0ZK?=
+ =?utf-8?B?cCszN2ZoK0hjK3ZrOVNsYzVJcTVreU9kRkdKcGplbC9INVJBZ09BWXRyZU9h?=
+ =?utf-8?B?M0xaYjcwSWJzeVI2T2FVY2hpWnc2VGU2aUx6RjRJVkUvSlN2dnN5aHNJVDVF?=
+ =?utf-8?B?SElkWmhEZy90a0ZtMmJTZXVzZlVtSXNnM2R3b044bkVXMzFpazNtOVB1dUJz?=
+ =?utf-8?B?czJBS085RGNnUk1IRTJxaDU5VXBRUkJYcGVWaTBZVStuajdQbitWcUJiZ0pi?=
+ =?utf-8?B?SVVEQ2Fra2dlVFpYR1dSODhtaDZUTU5jQ1ZQRFFyVnlxVFYybkpTYmJRQ0JD?=
+ =?utf-8?B?Wmk3TS9jK09qZzR5Wml0UTB0enY2aUJUM1pvOTNKMGt3cGE5V2dEMEdUMmJJ?=
+ =?utf-8?B?MzA4QkhlWFlyb1g2eG1UeEJhQ3pwblpObUVUWnpXWVEzVUczOUtrQkRYaC95?=
+ =?utf-8?B?SnNKbE5aWjV6UEE4eUVJVSt0L2kzc1IvbUtTZ0tEemhXSUtXT0JhVmhvYURh?=
+ =?utf-8?B?Qm5haDF6K2Rpbzk1bG11VTNPZjJFNFozUVZTMDZxWWpMNDBHSUd6YytsSkxE?=
+ =?utf-8?B?U20waGtOWUJMME8yTzEvcVFRR0twNEZYaGQ0dDZuSFdCVEV6MGdUMTZUc3R5?=
+ =?utf-8?B?Ry91U2RaaXlNQUt3b256Y014K1B2cGxFa0gwT1I4ZWEvano0ZlV2aktNcTN2?=
+ =?utf-8?B?ZVNmbjJ6YmNvSGlxMndSRkpKYndDY1I4bHZnd3V0dHhjRVRxQ3RiQ3praWpi?=
+ =?utf-8?B?WkFpVUt2M1VZY3RTRGxjWXV4Zit5Zld0K3djcHdwY3krRTVhWDZhVi9RSUQz?=
+ =?utf-8?B?VzRYRUkwYS9VajdvNnlWN2FyZlFxZlZnd210QUNXNWQ4L2puTUpETEc4blZU?=
+ =?utf-8?B?Yno4anBhYi9YZ2JETXBlMmU2VUpRQnVoYlBaclZvS3NMRDc3NWlhVDVqOGN6?=
+ =?utf-8?B?M1UrdmZ2REovTGRPdFF1OFZtOWtYc3pXTjk1STI2bW42RVJjaGpjbE1pbUgw?=
+ =?utf-8?B?Q00vZVQ1clhUb1lCeitqZTBOb3hmbklIcnJobXdYOVlDWFlYanlDWGxSaDFj?=
+ =?utf-8?B?aEhHSTNnSG1mby9SRkRIMFNaV0Q2UDJoa0JKN09qRDVuSW9EVE5XYm02UVpj?=
+ =?utf-8?B?Y0hzRGVKZExzSDNqS0VEdW5VazlweFFCSElqTkxxQUJ0dFNBc0FvaHdWYW1D?=
+ =?utf-8?B?M3lrUVFSc0V2MHFMSE1UK1ZTeWswcmpNRi9KWFptbllRQUhBZjBSOU9FSmlJ?=
+ =?utf-8?B?S3FlM2NNdjhmOXVnPT0=?=
+MIME-Version: 1.0
+
+--Apple-Mail=_06AA1B32-1ABF-4611-AD76-A92B20109518
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+
+
+> Anfang der weitergeleiteten Nachricht:
+>=20
+> Von: "Florian Gebauer" <fgebauer@gww-architekten.de>
+> Betreff: AW: Umweltamt Stellungnahme / Nils
+> Datum: 29. September 2026 um 20:46:30 MESZ
+> An: "'Stephanie Sabatier'" <info@stephaniesabatier.com>
+>=20
+> Hallo Stephanie,,
+> =20
+> ja ich tendiere auch zu Punkt 1 u. 2.  Ein neue Grenzziehung ohne Plan =
+geht eigentlich gar nicht und ist zwingend von den Beh=C3=B6rden zu =
+erstellen.
+> =20
+> Einen Punkt muss man jedoch betrachten. Nach dem der Garten nun =
+offiziell Au=C3=9Fenbereich ist, darf dort auch nicht mehr gebaut =
+werden. F=C3=BCr die Abwehr einer m=C3=B6glichen Bebauung ist das sogar =
+noch besser. Mit der Aussage das die Einstufung als Au=C3=9Fenbereich =
+vertretbar ist, w=C3=A4re ich vorsichtig. Ich wei=C3=9F nicht woher ihr =
+das habt. Aber ich habe bei der Einstufungen von Au=C3=9Fenbereich schon =
+bei anderen Bauvorhaben gro=C3=9Fe =C3=9Cberraschungen bei der Bewertung =
+ erlebt. Die Verwaltungsgerichte k=C3=B6nnen das durchaus wieder ganz =
+anders sehen.
+> =20
+> Bzgl. des Baumschutzes ist der Au=C3=9Fenbereich  jedoch kein Vorteil. =
+Die B=C3=A4ume sind zwar immer noch gem. allgemeinen Naturschutzrecht =
+gesch=C3=BCtzt jedoch haben sie in diesem Bereich nicht automatisch =
+denselben individuellen Schutzstatus wie nach der st=C3=A4dtischen =
+Baumschutzverordnung.
+> =20
+> Erinnerst du dich an eine Ortsbesichtigung des Umweltamts bei uns zur =
+Baumschutz-Grenze? Das Umweltamt behauptet eine.=20
+> Von einer Begehung wei=C3=9F ich nichts. Au=C3=9Ferdem w=C3=A4re diese =
+ja auch ohne unser Einverst=C3=A4ndnis nicht m=C3=B6glich. Von dieser =
+Anfrage wei=C3=9F ich nichts. Entweder sind sie mal wieder einfach =
+reinmarschiert oder es hat diese gar nicht gegeben=E2=80=A6.
+> =20
+> Meine Planungsvariante kannst du gerne weiterreichen. Jedoch immer mit =
+dem Hinweis, dass diese von mir/ von uns kommt und nicht von der Stadt =
+oder WWA.
+> Je mehr davon wissen desto gr=C3=B6=C3=9Fer wird der Druck, dass die =
+Variante seri=C3=B6s untersucht wird.
+> =20
+> Gru=C3=9F, Flo
+> Florian Gebauer
+> Dipl.-Ing.(FH) Architekt BDA
+>=20
+=EF=BF=BC
+> =20
+>=20
+> Wahlenstra=C3=9Fe 8
+>=20
+> 93047 Regensburg
+>=20
+> T: 0941.5840471
+> F: 0941.5840472
+> mail@gww-architekten.de <mailto:mail@gww-architekten.de>
+> www.gww-architekten.de <http://www.gww-architekten.de/>
+>=20
+>=20
+> diese nachricht und/oder anh=C3=A4nge sind vertraulich und k=C3=B6nnen =
+der geheimhaltungspflicht unterliegen.=20
+> wenn sie nicht der vorgesehene adressat sind, weisen wir sie hiermit =
+darauf hin, dass jegliche nutzung, weiterleitung und kopien unzul=C3=A4ssi=
+g sind.
+> benachrichtigen sie uns bitte unverz=C3=BCglich per e-mail und =
+l=C3=B6schen Sie diese nachricht und/oder anh=C3=A4nge aus Ihrem system.
+>=20
+> =20
+> Von: Stephanie Sabatier [mailto:info@stephaniesabatier.com]=20
+> Gesendet: Dienstag, 29. September 2026 17:35
+> An: Florian Gebauer
+> Betreff: Umweltamt Stellungnahme / Nils
+> =20
+> Hallo Flo,
+> Martin hat die Telefonnotiz aus der Umweltamts-Stellungnahme mit den =
+Planunterlagen abgeglichen. Das Neue daran:
+> Die Baumschutz-Grenze auf unserem Grundst=C3=BCck ist die Mauerlinie. =
+Die Notiz nimmt den =E2=80=9EObstgarten W=C3=B6hrdstr. 41 entlang der =
+n=C3=B6rdlichen Hausgrenze" aus; der Erl=C3=A4uterungsbericht (S. 55) =
+legt die Mauer =E2=80=9Ein Achse der Nordfassade des Geb=C3=A4udes". Im =
+Baumkataster-Plan D 7.1 (Ausschnitt im Anhang) reicht der =
+Geltungsbereich bei allen Nachbarn bis zum Hochufer, nur um unseren =
+Garten macht die Linie eine Ausbuchtung bis an die Hauswand. Gezeichnet =
+hat sie Frau Hain von bgmr, also die Planerin des Vorhabenstr=C3=A4gers; =
+die Notiz sagt selbst, dass eigentlich =E2=80=9EBauordnung und UA" =
+festlegen m=C3=BCssten. Das Bauordnungsamt hat nicht entschieden, obwohl =
+es 2022 bei der Verordnungs=C3=A4nderung selbst bezweifelt hat, dass ein =
+Geltungsbereich ohne Karte rechtssicher ist (steht in den Stellungnahmen =
+zur Beschlussvorlage).
+> Was das ausmacht: Bei uns werden 23 B=C3=A4ume gef=C3=A4llt, im LBP =
+mit 0 Ersatzb=C3=A4umen nach Baumschutzverordnung. F=C3=BCnf davon =
+liegen nach den eigenen Katasterwerten =C3=BCber 100 cm (Eiche 29, =
+Walnuss 30, Zwetschge 37, Birne 52, Mirabelle 61); im Geltungsbereich =
+w=C3=A4ren das nach =C2=A7 7 BVO 13 Ersatzb=C3=A4ume. Wichtiger: =C2=A7 =
+5 BVO verlangt f=C3=BCr gesch=C3=BCtzte B=C3=A4ume, dass =E2=80=9Ezumutbar=
+e Alternativen nicht zur Verf=C3=BCgung stehen". Das ist unsere =
+UGA-Forderung, dann pro Baum zu pr=C3=BCfen. Und es erkl=C3=A4rt unsere =
+Einwendung 2.2: Die B=C3=A4ume stehen nicht wegen Messfehlern auf =
+=E2=80=9Enicht gesch=C3=BCtzt", sondern wegen dieser Grenze.
+> Einordnung: Dass ein gro=C3=9Fer Obstgarten zur Donau als =
+Au=C3=9Fenbereich gilt, ist vertretbar. Angreifbar sind das Verfahren, =
+die Ungleichbehandlung gegen=C3=BCber den Nachbarn und der hausnahe =
+Streifen, in dem die Mauer steht.
+> Optionen:
+> Nachreichung 2 an Frau Wittmann: neue Tatsache, Antrag auf f=C3=B6rmlich=
+e Grenzfeststellung mit Bauordnungsamt, alte Karte 1993 vorlegen, =
+BVO-Bilanz neu rechnen, =C2=A7 5-Pr=C3=BCfung je Baum, F=C3=A4llliste =
+f=C3=BCr die ge=C3=A4nderte Mauerlinie.
+> Zus=C3=A4tzlich kurz an die Regierung der Oberpfalz, damit Nils' =
+Anregung unseren konkreten Fall bekommt.
+> Nichts, Nils allein weiterlaufen lassen. Dann bleibt die Frage im =
+Planfeststellungsverfahren selbst offen.
+> Wir tendieren zu 1 plus 2, der Aufwand ist =C3=BCberschaubar. Die =
+ausf=C3=BChrliche Analyse mit allen Belegstellen (mit Claude erstellt) =
+schickt Martin gern mit. Sofern es dir recht ist, w=C3=BCrden wir dich =
+dazuholen, weil deine Messungen die Kataster-R=C3=BCge tragen.
+> Erinnerst du dich an eine Ortsbesichtigung des Umweltamts bei uns zur =
+Baumschutz-Grenze? Das Umweltamt behauptet eine.=20
+> Mit Gr=C3=BC=C3=9Fen, Stephanie
+
+
+--Apple-Mail=_06AA1B32-1ABF-4611-AD76-A92B20109518
+Content-Type: multipart/related; type="text/html";
+	boundary="Apple-Mail=_5EA6B2F4-C1CC-4762-8342-ADE59DF56B94"
+
+--Apple-Mail=_5EA6B2F4-C1CC-4762-8342-ADE59DF56B94
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html aria-label=3D"message body"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head><body style=3D"overflow-wrap: break-word; -webkit-nbsp-mode: space; li=
+ne-break: after-white-space;"><br id=3D"lineBreakAtBeginningOfMessage"><div=
+><br><blockquote type=3D"cite"><div>Anfang der weitergeleiteten Nachricht:<=
+/div><br class=3D"Apple-interchange-newline"><div style=3D"margin-top: 0px;=
+ margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span style=3D"f=
+ont-family: -webkit-system-font, Helvetica Neue, Helvetica, sans-serif; col=
+or:rgba(0, 0, 0, 1.0);"><b>Von: </b></span><span style=3D"font-family: -web=
+kit-system-font, Helvetica Neue, Helvetica, sans-serif;">&quot;Florian Geba=
+uer&quot; &lt;fgebauer@gww-architekten.de&gt;<br></span></div><div style=3D=
+"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"=
+><span style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica=
+, sans-serif; color:rgba(0, 0, 0, 1.0);"><b>Betreff: </b></span><span style=
+=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, sans-serif=
+;"><b>AW: Umweltamt Stellungnahme / Nils</b><br></span></div><div style=3D"=
+margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;">=
+<span style=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica,=
+ sans-serif; color:rgba(0, 0, 0, 1.0);"><b>Datum: </b></span><span style=3D=
+"font-family: -webkit-system-font, Helvetica Neue, Helvetica, sans-serif;">=
+29. September 2026 um 20:46:30 MESZ<br></span></div><div style=3D"margin-to=
+p: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"><span sty=
+le=3D"font-family: -webkit-system-font, Helvetica Neue, Helvetica, sans-ser=
+if; color:rgba(0, 0, 0, 1.0);"><b>An: </b></span><span style=3D"font-family=
+: -webkit-system-font, Helvetica Neue, Helvetica, sans-serif;">&quot;'Steph=
+anie Sabatier'&quot; &lt;info@stephaniesabatier.com&gt;<br></span></div><br=
+><div><div class=3D"WordSection1" style=3D"page: WordSection1; caret-color:=
+ rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal;=
+ font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orpha=
+ns: 2; text-align: start; text-indent: 0px; text-transform: none; white-spa=
+ce: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; t=
+ext-decoration-line: none; text-decoration-thickness: auto; text-decoration=
+-style: solid;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; fo=
+nt-family: &quot;Times New Roman&quot;, serif;"><span style=3D"font-size: 1=
+0pt; font-family: &quot;Century Gothic&quot;, sans-serif;">Hallo Stephanie,=
+,<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size:=
+ 12pt; font-family: &quot;Times New Roman&quot;, serif;"><span style=3D"fon=
+t-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif;"><o:p>&n=
+bsp;</o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 1=
+2pt; font-family: &quot;Times New Roman&quot;, serif;"><span style=3D"font-=
+size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif;">ja ich te=
+ndiere auch zu Punkt 1 u. 2.&nbsp; Ein neue Grenzziehung ohne Plan geht eig=
+entlich gar nicht und ist zwingend von den Beh=C3=B6rden zu erstellen.<o:p>=
+</o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt;=
+ font-family: &quot;Times New Roman&quot;, serif;"><span style=3D"font-size=
+: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif;"><o:p>&nbsp;</=
+o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; f=
+ont-family: &quot;Times New Roman&quot;, serif;"><span style=3D"font-size: =
+10pt; font-family: &quot;Century Gothic&quot;, sans-serif;">Einen Punkt mus=
+s man jedoch betrachten. Nach dem der Garten nun offiziell Au=C3=9Fenbereic=
+h ist, darf dort auch nicht mehr gebaut werden. F=C3=BCr die Abwehr einer m=
+=C3=B6glichen Bebauung ist das sogar noch besser. Mit der Aussage das die E=
+instufung als Au=C3=9Fenbereich vertretbar ist, w=C3=A4re ich vorsichtig. I=
+ch wei=C3=9F nicht woher ihr das habt. Aber ich habe bei der Einstufungen v=
+on Au=C3=9Fenbereich schon bei anderen Bauvorhaben gro=C3=9Fe =C3=9Cberrasc=
+hungen bei der Bewertung&nbsp; erlebt. Die Verwaltungsgerichte k=C3=B6nnen =
+das durchaus wieder ganz anders sehen.<o:p></o:p></span></div><div style=3D=
+"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: &quot;Times New Ro=
+man&quot;, serif;"><span style=3D"font-size: 10pt; font-family: &quot;Centu=
+ry Gothic&quot;, sans-serif;"><o:p>&nbsp;</o:p></span></div><div style=3D"m=
+argin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: &quot;Times New Roma=
+n&quot;, serif;"><span style=3D"font-size: 10pt; font-family: &quot;Century=
+ Gothic&quot;, sans-serif;">Bzgl. des Baumschutzes ist der Au=C3=9Fenbereic=
+h &nbsp;jedoch kein Vorteil. Die B=C3=A4ume sind zwar immer noch gem. allge=
+meinen Naturschutzrecht gesch=C3=BCtzt jedoch haben sie in diesem Bereich n=
+icht automatisch denselben individuellen Schutzstatus wie nach der st=C3=A4=
+dtischen Baumschutzverordnung.<o:p></o:p></span></div><div style=3D"margin:=
+ 0cm 0cm 0.0001pt; font-size: 12pt; font-family: &quot;Times New Roman&quot=
+;, serif;"><span style=3D"font-size: 10pt; font-family: &quot;Century Gothi=
+c&quot;, sans-serif;"><o:p>&nbsp;</o:p></span></div><div style=3D"margin: 0=
+cm 0cm 0.0001pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;,=
+ serif;"><i><span style=3D"font-family: Aptos;">Erinnerst du dich an eine O=
+rtsbesichtigung des Umweltamts bei uns zur Baumschutz-Grenze? Das Umweltamt=
+ behauptet eine.&nbsp;<o:p></o:p></span></i></div><div style=3D"margin: 0cm=
+ 0cm 0.0001pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, s=
+erif;"><span style=3D"font-size: 10pt; font-family: &quot;Century Gothic&qu=
+ot;, sans-serif;">Von einer Begehung wei=C3=9F ich nichts. Au=C3=9Ferdem w=
+=C3=A4re diese ja auch ohne unser Einverst=C3=A4ndnis nicht m=C3=B6glich. V=
+on dieser Anfrage wei=C3=9F ich nichts. Entweder sind sie mal wieder einfac=
+h reinmarschiert oder es hat diese gar nicht gegeben=E2=80=A6.<o:p></o:p></=
+span></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-fa=
+mily: &quot;Times New Roman&quot;, serif;"><span style=3D"font-size: 10pt; =
+font-family: &quot;Century Gothic&quot;, sans-serif;"><o:p>&nbsp;</o:p></sp=
+an></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-fami=
+ly: &quot;Times New Roman&quot;, serif;"><span style=3D"font-size: 10pt; fo=
+nt-family: &quot;Century Gothic&quot;, sans-serif;">Meine Planungsvariante =
+kannst du gerne weiterreichen. Jedoch immer mit dem Hinweis, dass diese von=
+ mir/ von uns kommt und nicht von der Stadt oder WWA.<o:p></o:p></span></di=
+v><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: &qu=
+ot;Times New Roman&quot;, serif;"><span style=3D"font-size: 10pt; font-fami=
+ly: &quot;Century Gothic&quot;, sans-serif;">Je mehr davon wissen desto gr=
+=C3=B6=C3=9Fer wird der Druck, dass die Variante seri=C3=B6s untersucht wir=
+d.<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size=
+: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><span style=3D"fo=
+nt-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif;"><o:p>&=
+nbsp;</o:p></span></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: =
+12pt; font-family: &quot;Times New Roman&quot;, serif;"><span style=3D"font=
+-size: 10pt; font-family: &quot;Century Gothic&quot;, sans-serif;">Gru=C3=
+=9F, Flo<o:p></o:p></span></div><div><p class=3D"MsoNormal" style=3D"margin=
+: 0cm 0cm 30pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, =
+serif;"><span style=3D"font-size: 10pt; font-family: &quot;Century Gothic&q=
+uot;, sans-serif;">Florian Gebauer</span><span style=3D"font-family: &quot;=
+Century Gothic&quot;, sans-serif;"><br></span><span style=3D"font-size: 8pt=
+; font-family: &quot;Century Gothic&quot;, sans-serif;">Dipl.-Ing.(FH) Arch=
+itekt BDA<o:p></o:p></span></p><p class=3D"MsoNormalCxSpMiddle" style=3D"ma=
+rgin-bottom: 30pt;"><span style=3D"font-size: 10pt; font-family: &quot;Uni =
+Neue Book&quot;;"><img height=3D"41" id=3D"Grafik_x0020_2" alt=3D"image002.=
+png" src=3D"cid:image002.png@01DD5053.9B16E720"><o:p></o:p></span></p><p cl=
+ass=3D"MsoNormalCxSpMiddle" style=3D"margin-bottom: 30pt;"><b><span style=
+=3D"font-size: 11pt; font-family: &quot;Century Gothic&quot;, sans-serif; c=
+olor: rgb(227, 108, 10);"><o:p>&nbsp;</o:p></span></b></p><p class=3D"MsoNo=
+rmalCxSpMiddle" style=3D"margin-bottom: 30pt;"><span style=3D"font-size: 9p=
+t; font-family: &quot;Century Gothic&quot;, sans-serif;">Wahlenstra=C3=9Fe =
+8<o:p></o:p></span></p><p class=3D"MsoNormalCxSpMiddle" style=3D"margin-bot=
+tom: 30pt;"><span style=3D"font-size: 9pt; font-family: &quot;Century Gothi=
+c&quot;, sans-serif;">93047 Regensburg<o:p></o:p></span></p><p class=3D"Mso=
+NormalCxSpMiddle" style=3D"margin-bottom: 30pt;"><span style=3D"font-size: =
+9pt; font-family: &quot;Century Gothic&quot;, sans-serif;">T: 0941.5840471<=
+br>F: 0941.5840472<br></span><u><span style=3D"font-size: 9pt; font-family:=
+ &quot;Century Gothic&quot;, sans-serif;"><a href=3D"mailto:mail@gww-archit=
+ekten.de" style=3D"color: purple; text-decoration: underline;"><span style=
+=3D"color: windowtext;">mail@gww-architekten.de</span></a><br><a href=3D"ht=
+tp://www.gww-architekten.de/" style=3D"color: purple; text-decoration: unde=
+rline;"><span style=3D"color: windowtext;">www.gww-architekten.de</span></a=
+></span></u><span style=3D"font-size: 9pt; font-family: &quot;Century Gothi=
+c&quot;, sans-serif;"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D=
+"margin: 0cm 0cm 30pt; font-size: 12pt; font-family: &quot;Times New Roman&=
+quot;, serif;"><span style=3D"font-size: 10pt; font-family: &quot;Uni Neue =
+Book&quot;;"><br><br></span><span style=3D"font-size: 8pt; font-family: &qu=
+ot;Century Gothic&quot;, sans-serif;">diese&nbsp;nachricht&nbsp;und/oder an=
+h=C3=A4nge sind vertraulich und k=C3=B6nnen der&nbsp;geheimhaltungspflicht&=
+nbsp;unterliegen.<span class=3D"Apple-converted-space">&nbsp;</span><br>wen=
+n sie nicht der vorgesehene&nbsp;adressat&nbsp;sind, weisen wir sie hiermit=
+ darauf hin, dass jegliche&nbsp;nutzung,&nbsp;weiterleitung&nbsp;und&nbsp;k=
+opien&nbsp;unzul=C3=A4ssig sind.<br>benachrichtigen sie uns bitte unverz=C3=
+=BCglich per&nbsp;e-mail&nbsp;und l=C3=B6schen Sie diese&nbsp;nachricht&nbs=
+p;und/oder anh=C3=A4nge aus Ihrem system.</span><span style=3D"font-size: 1=
+0pt; font-family: &quot;Uni Neue Book&quot;;"><o:p></o:p></span></p></div><=
+div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: &quot;=
+Times New Roman&quot;, serif;"><span style=3D"font-size: 10pt; font-family:=
+ &quot;Century Gothic&quot;, sans-serif;"><o:p>&nbsp;</o:p></span></div><di=
+v><div style=3D"border-width: 1pt medium medium; border-style: solid none n=
+one; border-color: rgb(181, 196, 223) currentcolor currentcolor; border-ima=
+ge: none; padding: 3pt 0cm 0cm;"><div style=3D"margin: 0cm 0cm 0.0001pt; fo=
+nt-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><b><span s=
+tyle=3D"font-size: 10pt; font-family: Tahoma, sans-serif;">Von:</span></b><=
+span style=3D"font-size: 10pt; font-family: Tahoma, sans-serif;"><span clas=
+s=3D"Apple-converted-space">&nbsp;</span>Stephanie Sabatier [mailto:info@st=
+ephaniesabatier.com]<span class=3D"Apple-converted-space">&nbsp;</span><br>=
+<b>Gesendet:</b><span class=3D"Apple-converted-space">&nbsp;</span>Dienstag=
+, 29. September 2026 17:35<br><b>An:</b><span class=3D"Apple-converted-spac=
+e">&nbsp;</span>Florian Gebauer<br><b>Betreff:</b><span class=3D"Apple-conv=
+erted-space">&nbsp;</span>Umweltamt Stellungnahme / Nils<o:p></o:p></span><=
+/div></div></div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; f=
+ont-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></div><di=
+v style=3D"margin-bottom: 12pt;"><div style=3D"margin: 0cm 0cm 0.0001pt; fo=
+nt-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><span styl=
+e=3D"font-family: Aptos;">Hallo Flo,<o:p></o:p></span></div></div><div styl=
+e=3D"margin-bottom: 12pt;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-siz=
+e: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><span style=3D"f=
+ont-family: Aptos;">Martin hat die Telefonnotiz aus der Umweltamts-Stellung=
+nahme mit den Planunterlagen abgeglichen. Das Neue daran:<o:p></o:p></span>=
+</div></div><div style=3D"margin-bottom: 12pt;"><div style=3D"margin: 0cm 0=
+cm 0.0001pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, ser=
+if;"><b><span style=3D"font-family: Aptos;">Die Baumschutz-Grenze auf unser=
+em Grundst=C3=BCck ist die Mauerlinie.</span></b><span style=3D"font-family=
+: Aptos;">&nbsp;Die Notiz nimmt den =E2=80=9EObstgarten W=C3=B6hrdstr. 41 e=
+ntlang der n=C3=B6rdlichen Hausgrenze&quot; aus; der Erl=C3=A4uterungsberic=
+ht (S. 55) legt die Mauer =E2=80=9Ein Achse der Nordfassade des Geb=C3=A4ud=
+es&quot;. Im Baumkataster-Plan D 7.1 (Ausschnitt im Anhang) reicht der Gelt=
+ungsbereich bei allen Nachbarn bis zum Hochufer, nur um unseren Garten mach=
+t die Linie eine Ausbuchtung bis an die Hauswand. Gezeichnet hat sie Frau H=
+ain von bgmr, also die Planerin des Vorhabenstr=C3=A4gers; die Notiz sagt s=
+elbst, dass eigentlich =E2=80=9EBauordnung und UA&quot; festlegen m=C3=BCss=
+ten. Das Bauordnungsamt hat nicht entschieden, obwohl es 2022 bei der Veror=
+dnungs=C3=A4nderung selbst bezweifelt hat, dass ein Geltungsbereich ohne Ka=
+rte rechtssicher ist (steht in den Stellungnahmen zur Beschlussvorlage).<o:=
+p></o:p></span></div></div><div style=3D"margin-bottom: 12pt;"><div style=
+=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: &quot;Times New=
+ Roman&quot;, serif;"><b><span style=3D"font-family: Aptos;">Was das ausmac=
+ht:</span></b><span style=3D"font-family: Aptos;">&nbsp;Bei uns werden 23 B=
+=C3=A4ume gef=C3=A4llt, im LBP mit 0 Ersatzb=C3=A4umen nach Baumschutzveror=
+dnung. F=C3=BCnf davon liegen nach den eigenen Katasterwerten =C3=BCber 100=
+ cm (Eiche 29, Walnuss 30, Zwetschge 37, Birne 52, Mirabelle 61); im Geltun=
+gsbereich w=C3=A4ren das nach =C2=A7 7 BVO 13 Ersatzb=C3=A4ume. Wichtiger: =
+=C2=A7 5 BVO verlangt f=C3=BCr gesch=C3=BCtzte B=C3=A4ume, dass =E2=80=9Ezu=
+mutbare Alternativen nicht zur Verf=C3=BCgung stehen&quot;. Das ist unsere =
+UGA-Forderung, dann pro Baum zu pr=C3=BCfen. Und es erkl=C3=A4rt unsere Ein=
+wendung 2.2: Die B=C3=A4ume stehen nicht wegen Messfehlern auf =E2=80=9Enic=
+ht gesch=C3=BCtzt&quot;, sondern wegen dieser Grenze.<o:p></o:p></span></di=
+v></div><div style=3D"margin-bottom: 12pt;"><div style=3D"margin: 0cm 0cm 0=
+.0001pt; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"=
+><b><span style=3D"font-family: Aptos;">Einordnung:</span></b><span style=
+=3D"font-family: Aptos;">&nbsp;Dass ein gro=C3=9Fer Obstgarten zur Donau al=
+s Au=C3=9Fenbereich gilt, ist vertretbar. Angreifbar sind das Verfahren, di=
+e Ungleichbehandlung gegen=C3=BCber den Nachbarn und der hausnahe Streifen,=
+ in dem die Mauer steht.<o:p></o:p></span></div></div><div style=3D"margin-=
+bottom: 12pt;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; fon=
+t-family: &quot;Times New Roman&quot;, serif;"><b><span style=3D"font-famil=
+y: Aptos;">Optionen:</span></b><span style=3D"font-family: Aptos;"><o:p></o=
+:p></span></div></div><ol start=3D"1" type=3D"1" style=3D"margin-bottom: 0c=
+m;"><li class=3D"MsoNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 1=
+2pt; font-family: &quot;Times New Roman&quot;, serif;"><span style=3D"font-=
+family: Aptos;">Nachreichung 2 an Frau Wittmann: neue Tatsache, Antrag auf =
+f=C3=B6rmliche Grenzfeststellung mit Bauordnungsamt, alte Karte 1993 vorleg=
+en, BVO-Bilanz neu rechnen, =C2=A7 5-Pr=C3=BCfung je Baum, F=C3=A4llliste f=
+=C3=BCr die ge=C3=A4nderte Mauerlinie.<o:p></o:p></span></li><li class=3D"M=
+soNormal" style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: =
+&quot;Times New Roman&quot;, serif;"><span style=3D"font-family: Aptos;">Zu=
+s=C3=A4tzlich kurz an die Regierung der Oberpfalz, damit Nils' Anregung uns=
+eren konkreten Fall bekommt.<o:p></o:p></span></li><li class=3D"MsoNormal" =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: &quot;Time=
+s New Roman&quot;, serif;"><span style=3D"font-family: Aptos;">Nichts, Nils=
+ allein weiterlaufen lassen. Dann bleibt die Frage im Planfeststellungsverf=
+ahren selbst offen.<o:p></o:p></span></li></ol><div style=3D"margin-bottom:=
+ 12pt;"><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-famil=
+y: &quot;Times New Roman&quot;, serif;"><span style=3D"font-family: Aptos;"=
+>Wir tendieren zu 1 plus 2, der Aufwand ist =C3=BCberschaubar. Die ausf=C3=
+=BChrliche Analyse mit allen Belegstellen (mit Claude erstellt) schickt Mar=
+tin gern mit. Sofern es dir recht ist, w=C3=BCrden wir dich dazuholen, weil=
+ deine Messungen die Kataster-R=C3=BCge tragen.<o:p></o:p></span></div></di=
+v><div style=3D"margin-bottom: 12pt;"><div style=3D"margin: 0cm 0cm 0.0001p=
+t; font-size: 12pt; font-family: &quot;Times New Roman&quot;, serif;"><span=
+ style=3D"font-family: Aptos;">Erinnerst du dich an eine Ortsbesichtigung d=
+es Umweltamts bei uns zur Baumschutz-Grenze? Das Umweltamt behauptet eine.&=
+nbsp;<o:p></o:p></span></div></div><div style=3D"margin-bottom: 12pt;"><div=
+ style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: &quot;Tim=
+es New Roman&quot;, serif;"><span style=3D"font-family: Aptos;">Mit Gr=C3=
+=BC=C3=9Fen, Stephanie</span></div></div></div></div></blockquote></div><br=
+></body></html>=
+
+--Apple-Mail=_5EA6B2F4-C1CC-4762-8342-ADE59DF56B94
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="image002.png"
+Content-Type: image/png; x-unix-mode=0644; name="image002.png"
+Content-ID: <image002.png@01DD5053.9B16E720>
+
+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
+OgAAAABJRU5ErkJggg==
+
+--Apple-Mail=_5EA6B2F4-C1CC-4762-8342-ADE59DF56B94--
+
+--Apple-Mail=_06AA1B32-1ABF-4611-AD76-A92B20109518--

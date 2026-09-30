@@ -1,0 +1,1233 @@
+Received: from PAWPR08MB10994.eurprd08.prod.outlook.com
+ (2603:10a6:102:469::11) by VI0PR08MB10826.eurprd08.prod.outlook.com with
+ HTTPS; Wed, 30 Sep 2026 16:24:41 +0000
+Received: from ZR0P278CA0084.CHEP278.PROD.OUTLOOK.COM (2603:10a6:910:22::17)
+ by PAWPR08MB10994.eurprd08.prod.outlook.com (2603:10a6:102:469::11) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.472.14; Wed, 30 Sep
+ 2026 16:24:38 +0000
+Received: from ZR1PEPF0000E6B5.eurprd07.prod.outlook.com
+ (2603:10a6:910:22:cafe::8b) by ZR0P278CA0084.outlook.office365.com
+ (2603:10a6:910:22::17) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.21.472.16 via Frontend Transport; Wed,
+ 30 Sep 2026 16:24:38 +0000
+Authentication-Results: mx.microsoft.com 1; spf=pass (sender IP is
+ 212.227.17.21) smtp.mailfrom=gmx.de; dkim=pass (signature was verified)
+ header.d=gmx.de;dmarc=pass action=none header.from=gmx.de;compauth=pass
+ reason=100
+Received-SPF: Pass (protection.outlook.com: domain of gmx.de designates
+ 212.227.17.21 as permitted sender) receiver=protection.outlook.com;
+ client-ip=212.227.17.21; helo=mout.gmx.net; pr=C
+Received: from mout.gmx.net (212.227.17.21) by
+ ZR1PEPF0000E6B5.mail.protection.outlook.com (10.167.241.68) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.21.472.14
+ via Frontend Transport; Wed, 30 Sep 2026 16:24:38 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmx.de;
+	s=s31663417; t=1790785478; x=1791390278; i=nilsdeichner@gmx.de;
+	bh=JHyyz3yZrCXSOkcL79dmLd5gYP+PYKXstC3XfyK296s=;
+	h=X-UI-Sender-Class:From:To:References:In-Reply-To:Subject:Date:
+	 Message-ID:MIME-Version:Content-Type:cc:content-transfer-encoding:
+	 content-type:date:from:message-id:mime-version:reply-to:subject:
+	 to;
+	b=EG/KHLlXtTnGAzw00JKc/34j1ZmxYtUmaoqhvdoaO3kQPVXQ6VJysY+QuSzH7o4X
+	 srm/GnTmsu5jlgUxxndT00ZoF8Mu0Y7cKror9bdviM55DKxnKrNj/B1EW7/eJ6i3u
+	 fNf8v6o5lZbyziJnUQEAW1V3fNwwYqNcoXSnt1A6W8mOHky2JwerZrrw3JI0vS9VB
+	 aCyliSIR7ME9vTu5GErLMc0Z3RJZlnNtigWmUkfuQHjuHHL2tkgtb9QYZBBkl0kD8
+	 QFKXzVBDnaAhsCOFY8MoBitiJR/Eg7uAtmhvBW6IRnIXoD9k2pWnIglKFHt1vVrag
+	 RhVifrqe5xYYjZEMjw==
+X-UI-Sender-Class: 724b4f7f-cbec-4199-ad4e-598c01a50d3a
+Received: from client.hidden.invalid by mail.gmx.net (mrgmx104
+ [212.227.17.168]) with ESMTPSA (Nemesis) id 1MaJ81-1xEzNA2sqL-00TMPX; Wed, 30
+ Sep 2026 18:24:37 +0200
+From: <nilsdeichner@gmx.de>
+To: =?iso-8859-1?Q?'=22Martin_Schwenzer=2C_DER_H=C4UPTLING=22'?= <martin@derhaeuptling.de>,
+	<info@stephaniesabatier.com>
+References: <0a3f1e8b716b44098112c4ca2fc07290@reg-opf.bayern.de> <001001dd4b20$14350a80$3c9f1f80$@gmx.de> <e37a098a749e49abaca97d53e07d1859@reg-opf.bayern.de> 
+In-Reply-To:
+Subject: =?iso-8859-1?Q?WG:_Ihr_Schreiben_vom_21.09.2026_-_Abgrenzung_Geltungsbere?=
+	=?iso-8859-1?Q?ich_Baumschutzverordnung=2C_HWS_Abschnitt_H_Unterer_W=F6hr?=
+	=?iso-8859-1?Q?d_-_Bitte_um_erneute_Pr=FCfung?=
+Date: Wed, 30 Sep 2026 18:24:37 +0200
+Message-ID: <!&!AAAAAAAAAAAuAAAAAAAAAKmNcUxrjYlPt+4xKOOV6qABAMO2jhD3dRHOtM0AqgC7tuYAAAAAAA4AABAAAAB2eBcUxA6ZSrwGkctg5+mMAQAAAAA=@gmx.de>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0039_01DD5108.F3D05D50"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQIZ9qz2Pv5+KtE4wz/x0Lqpo4z9bQH+zpOoAbFl+S4CuNSDq7Y6ul0A
+Content-Language: de
+X-Provags-ID: V03:K1:mBBRAqjmNJBnEhx/kdJTNKeb9D5B2dc6UyyhhHYo/G5+BXtuYtJ
+ 64hFZtasVdGCAneuafsV11rX9sEVwVuzTCIPnqgW4YdTGl5HzrfsbSmwlUy68mx3MP/KEZO
+ nAVlgW6YZQtyj1BGvDR5AcWhuq7DEIb/j41yZW+LyEsRIe6fNMVhT/tlmIanqqsdwpdKhPs
+ 6HkKQki/Y4+iF6ptxPl1g==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:H9lCETxQ4ow=;AQKQ7q3LwJmPplvF27a3+q7aXgq
+ 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
+ Vo6Q11j2bFNKU518EhljBBi+wgA==
+Return-Path: nilsdeichner@gmx.de
+X-MS-Exchange-Organization-ExpirationStartTime: 30 Sep 2026 16:24:38.7048
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: f4c28d0b-b010-4402-f332-08df1f0f52fa
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 8f051a06-6e1a-4205-83c2-06aa470f4cd7:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: ZR1PEPF0000E6B5:EE_|PAWPR08MB10994:EE_|VI0PR08MB10826:EE_
+X-MS-Exchange-Organization-AuthSource: ZR1PEPF0000E6B5.eurprd07.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: f4c28d0b-b010-4402-f332-08df1f0f52fa
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|260918215300599003|260918224100599003|19092799006|7093399015|10067099003|5063699009|56012099006|4143699003|19002099009|16102099003|18002099003|22082099003|8096899003|13003099007;
+X-Forefront-Antispam-Report: CIP:212.227.17.21;CTRY:DE;LANG:de;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mout.gmx.net;PTR:mout.gmx.net;CAT:NONE;SFS:(13230040)(260918215300599003)(260918224100599003)(19092799006)(7093399015)(10067099003)(5063699009)(56012099006)(4143699003)(19002099009)(16102099003)(18002099003)(22082099003)(8096899003)(13003099007);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 30 Sep 2026 16:24:38.5581
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: f4c28d0b-b010-4402-f332-08df1f0f52fa
+X-MS-Exchange-CrossTenant-Id: 8f051a06-6e1a-4205-83c2-06aa470f4cd7
+X-MS-Exchange-CrossTenant-AuthSource: ZR1PEPF0000E6B5.eurprd07.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PAWPR08MB10994
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.4947117
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0472.005
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(4710232)(4713193)(4999285)(920097)(930201)(20251009189)(140003)(1310096);
+X-Microsoft-Antispam-Message-Info:
+	=?Windows-1252?Q?c0J22Z4AaQIaOkeriXoClwPObtPCRTPi3SQlyeUQTgPrkp67V7wi5Wf8?=
+ =?Windows-1252?Q?22d5ZOkoxdQTe+dtOcTn044cWThFhpljeP3PJ+FvoYNYs/X9VltbXBoT?=
+ =?Windows-1252?Q?OEzglqkQDXeac8z2Q4hPHTQdFKRZwyRRSPRqIJsAGW5UzSYbG0UsJuUc?=
+ =?Windows-1252?Q?bj0moejo3pqTa8CiNBiozsgZW6wSgwWpQ9TtbPFIv7MUeTxobXcc8WAN?=
+ =?Windows-1252?Q?xXu18qVwDXpGMMxf3BnE4bF/sRysEmd6kbh0mvcolNzaxsgNlETlJ8Op?=
+ =?Windows-1252?Q?fbq69zUuXhQeQrKd8hVOfIwCO9n1m7wFdL1j5n/f+s1UX9w0EUUkxX/z?=
+ =?Windows-1252?Q?WKUYkxrsmEG+4UKOdQzJg9eU+8r4adghN9GytB6ez5RaubO/fmtAkCMc?=
+ =?Windows-1252?Q?JG5H6nh+FSu2mF4jqzzG8A2jcvYMYLp088KwZ4DWCdCaHtmcLp5uHurY?=
+ =?Windows-1252?Q?C4xumYIIfGJQs58MVie6yCWrgfOK3934mHk7vG1DkqU8ESvSU7uVVOk3?=
+ =?Windows-1252?Q?EW/gVCWmGVi8F7XzjgFz9DB91o3Aq7cLxuWfD86mZYFntfNfRRjJBCNQ?=
+ =?Windows-1252?Q?BCmXEk+pjKlVbDgNv0+DqDq4WIkJQcwksVf9tJWMgtIApTIp7QxlIVGQ?=
+ =?Windows-1252?Q?B+g51XRdxKOcOYgIHYFhfewSLkuUQnABv1mDNAQmO5vB6peRt8y37247?=
+ =?Windows-1252?Q?EBA9IYlcyWsrPrLjlr45dI927t5lukFqSlRgOA/EPRiMl+8SRrQdVNvw?=
+ =?Windows-1252?Q?e582GxRwvt7jIu5oDL4blSu7unwJmU/T6vutUj8dL9NCRrs5QsdXbkBt?=
+ =?Windows-1252?Q?hEvYzwi7er4aX+0XEOJFe2DpkdMff4KyoaPiQzKt4r7jz14gGA/liDu8?=
+ =?Windows-1252?Q?JI+PA3mCn3HuFqWUTArLo7NFCK3OJaQjEp6G50qYcybtzWF6uHySDfDl?=
+ =?Windows-1252?Q?388vBCFSF2rKXirvxHkDMFgbsi3EIlq8X9veUgV4xUKQUeoXw7VPVjE9?=
+ =?Windows-1252?Q?n2RslXBxe4Pk/6rVfVZkGQwwIaj8hdvOGEpXOnSjK1Tvh/VYJe9blWQr?=
+ =?Windows-1252?Q?Bybz2QI9sEVmNkR7AtGy2QDNv//uv364km3Us94QWFopaA4D/H7OrZWD?=
+ =?Windows-1252?Q?mCqSi2hMvc+rnFKc3dE1un8M/tBwMvYh4PV9nnY/qZ0Y5csUWYumlgut?=
+ =?Windows-1252?Q?F+BWYqmTc0+G/NYc0RPSRHye7+8nTetVyZY8izD3GCGBxmXc9JL67fPs?=
+ =?Windows-1252?Q?iNuKJezPNTlldyD5M4hKMgcmR7rnj6CHt2rhLvAF0S1syoaJgN8Kioqj?=
+ =?Windows-1252?Q?C0qlaooQju9PosgG9FGRklEUNZAKsr2/gvAPIpecbtwI5ZPYDZ52KjuA?=
+ =?Windows-1252?Q?BmQpctRjr+i5H+37ozKB1CVkhopWZ6hqsDHIWr1pDAIfKeEsmWfd5mF+?=
+ =?Windows-1252?Q?1o2eXtElirYoXoE4nn3KoGiDJ359WML9IRNlxknAoOpR+bat4tD9lj/3?=
+ =?Windows-1252?Q?ov5fSyvvob4Gc5wmBp+6OCW6IGXLBX6nmFB7Q1w1EOi3mWOaglpeKezD?=
+ =?Windows-1252?Q?XPRXNm/k9hZl5/3ylCmp16WzgsHGFj/8CprIvOGRY5tPsMnORCJqhOh/?=
+ =?Windows-1252?Q?EVa4Cg0clM0ezkbD0EafZsFdVCMjYlvTY8B9Ql0N7XB66rc6a2rWSmmS?=
+ =?Windows-1252?Q?BZYVq4vlIA55FnBBm74VWopV/o0edLWhQpDQwKvW6JYHWLEnrBs1k+n7?=
+ =?Windows-1252?Q?JluTR7kTM5lgC8L1aPBhAp2M4xaGVWvM/47/RLXzAjczNqg4VBrNAmws?=
+ =?Windows-1252?Q?s4bkJmbdGE1WueUVRkdQXgHD/PHiAVgYy4z9/CFmaQ9XDx/nx149G0Hp?=
+ =?Windows-1252?Q?Ov6yMP4uNJ/eZBUV/Kd35FUqtmuuX2y6iJAIAWWWnjs9OfMRBDGB1unT?=
+ =?Windows-1252?Q?4R15saGC5XkXE0QuxZOeStO4ZKTEszcyRIlD5QD1wXJa/E2dhI81zzSf?=
+ =?Windows-1252?Q?FVSGRPctmf2Ly9ZsfGU9k6CR5sF3GVrbo2N7bN0ezCYkluQJSSDa+Wz6?=
+ =?Windows-1252?Q?MJ41mephWehWN9qDAn5clHkyfT4+aQIhxEqfc93GLdxl0qzfCb8YTIBD?=
+ =?Windows-1252?Q?z6War4nUWoJJUvvgkZHNfNuZXr2gzAhYO/SSo6S3nnwS2P3v9bbdHKXZ?=
+ =?Windows-1252?Q?yvFtJhz4H0giyKNtRqvKF+HvpWoWFwbJPD5DJDs57qoqnIBDhEJPvhUP?=
+ =?Windows-1252?Q?I9EX4Mno3fzS4fo32fJ1hPWaH/+v5xbKuv+7uiVwAK6b38UP4J4p85a9?=
+ =?Windows-1252?Q?NRgNMB1NdeVdZU6kMGOrfV0KDw1MO1b3AC6agosG4jG2+V7ERbeQXEFR?=
+ =?Windows-1252?Q?/eblLhfeyGZW0HzrXCQ4lNhHVUF4ZdL/T4mVaUfkxR2iE/lioTRiKmvc?=
+ =?Windows-1252?Q?NQk6u/l9j0zXhe3TdoXx3YE+oIM+YHNKCDm1SL7nxOZEJ+omAaukzkjh?=
+ =?Windows-1252?Q?h9zYC6OEj+v17EniEa6hW8KczXQ5gbMJ5pUF51BzjIvea5h/AFF1GZ0l?=
+ =?Windows-1252?Q?qYncszO6Xu6vsnHJtWTlZs/IVUYvfu+AHCrAp2zkqaYvKGcOoy4OStG9?=
+ =?Windows-1252?Q?IdSBJKpttJDuWOoxsU3RJ9hl056lLxC8kgfNGv7d5z6Gr0xsX+x1lcd2?=
+ =?Windows-1252?Q?I+eVYuaxJxrX2Fkf4C0lg4t/O0yrIzO/BVJ3CFbgeKJwun2tY1pWZay5?=
+ =?Windows-1252?Q?hFjf+74Z/CM09Z00ezsIW0X2kAPuONZ6qU0ULbWTBt5c9f05my6DRMV4?=
+ =?Windows-1252?Q?0yZpApWpgkb3cX1edZ5WUBXWkyU=3D?=
+MIME-Version: 1.0
+
+------=_NextPart_000_0039_01DD5108.F3D05D50
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+=20
+
+ich hab der Regierung der Oberpfalz nochmals geantwortet (siehe unten =
+zur
+Info).
+
+
+VG
+Nils
+
+=20
+
+Von: nilsdeichner@gmx.de <nilsdeichner@gmx.de>=20
+Gesendet: Mittwoch, 30. September 2026 18:23
+An: 'Rechtsfragen-Umwelt@reg-opf.bayern.de'
+<Rechtsfragen-Umwelt@reg-opf.bayern.de>
+Cc: 'Robert.Thoma@reg-opf.bayern.de' <Robert.Thoma@reg-opf.bayern.de>;
+'kommunale-angelegenheiten@reg-opf.bayern.de'
+<kommunale-angelegenheiten@reg-opf.bayern.de>;
+'naturschutz@reg-opf.bayern.de' <naturschutz@reg-opf.bayern.de>
+Betreff: Ihr Schreiben vom 21.09.2026 =96 Abgrenzung Geltungsbereich
+Baumschutzverordnung, HWS Abschnitt H Unterer W=F6hrd =96 Bitte um =
+erneute
+Pr=FCfung
+
+=20
+
+Sehr geehrter Herr Geyer,
+
+=20
+
+vielen Dank f=FCr die Stellungnahme des Umweltamts Regensburg zu meiner
+Anregung vom 04.08.2026.
+
+=20
+
+Mir ist bewusst, dass kein Anspruch auf aufsichtliches Einschreiten =
+besteht.
+Ihre Mitteilung st=FCtzt sich jedoch nach ihrem Wortlaut auf die =
+Stellungnahme
+des Umweltamts vom 11.09.2026 (Az. 31.2 P=F6 / HWS H Baumschutz). Diese =
+stammt
+von der Stelle, deren Vorgehen Gegenstand meiner Anregung war und die
+zugleich Planfeststellungsbeh=F6rde ist. Mehrere Aussagen darin stimmen =
+nicht
+mit den ausgelegten Planunterlagen =FCberein. Ich m=F6chte Sie auf diese =
+Punkte
+hinweisen und bitte Sie, Ihre Einsch=E4tzung auf dieser Grundlage noch =
+einmal
+zu =FCberpr=FCfen.
+
+=20
+
+1. Wer hat die Grenze festgelegt? (Antworten 1 und 3)
+
+Nach der Stellungnahme wurde die Grenzziehung mit den genannten =C4mtern
+diskutiert, =84die Entscheidung oblag dem Umweltamt=93. In der Legende =
+der
+Anlage D 7.1 hei=DFt es zur Linie dagegen: =84digitalisierter
+Abgrenzungsvorschlag nach telefonischer Abstimmung im Umweltamt der =
+Stadt
+Regensburg am 25.04.2023=93. Auch Anlage D 2.1, auf die LBP und UVS =
+f=FCr den
+Geltungsbereich verweisen, nennt als Quelle nur: =84digitalisiert nach =
+telef.
+Abstimmung mit dem Umweltamt am 25.04.2023=93. Die als Beleg =
+beigef=FCgte
+Telefonnotiz stammt nicht vom Umweltamt, sondern vom Planungsb=FCro =
+(gez. bgmr
+Landschaftsarchitekten GmbH, Tanja Hain). Dort hei=DFt es: =84Da die =
+neuen
+Grenzen nicht zeichnerisch definiert sind (m=FCssten Bauordnung und UA
+festlegen), haben Frau Dr. P=F6hler und Frau Hain diese telefonisch
+abgestimmt=93 und =84Frau Hain zeichnet die Grenze nach telefonischer =
+Absprache
+und stuft die B=E4ume des Baumkatasters neu nach BaumSchVO ein=93. Weder =
+aus den
+Planunterlagen noch aus der Stellungnahme geht hervor, dass das =
+Umweltamt
+die danach gezeichnete Linie gepr=FCft oder =FCbernommen hat. Die =
+Beteiligung
+der anderen =C4mter wird weder datiert noch belegt.
+
+=20
+
+2. Dokumentation (Antworten 2, 4 und 5)
+
+Die Stellungnahme nennt vorausgegangene =84Abstimmungen vor Ort und per =
+E-Mail
+und Besprechungen=93 sowie Ortsbesichtigungen, legt sie aber weder vor =
+noch
+datiert sie. An anderer Stelle sind Abstimmungen und Termine in den
+Unterlagen datiert belegt, etwa =84Telefonische Abstimmungen zu
+Bauzeitenregelungen und Bibernachweisen am 08.09. und 28.09.2023=93 mit =
+dem
+Umweltamt, Ortstermine zur Linde Am Winterhafen 14 am 17.09.2018 und
+26.02.2019 oder das =84Protokoll Nr. 64 zur Beratung am 09.02.2023=93 =
+(Anlage D
+2.0, S. 132 f.). F=FCr die Grenzziehung nennen die Unterlagen dagegen =
+nur das
+Telefonat vom 25.04.2023 (Quellenverzeichnisse D 7.0 und D 6.0, Legenden =
+D
+2.1 und D 7.1). Das in meiner Anregung genannte Beispiel W=F6hrdstra=DFe =
+10 /
+Baum Nr. 426 behandelt die Stellungnahme nicht.
+
+=20
+
+3. Bebauungspl=E4ne (Antwort 7)
+
+a) Nach der Stellungnahme gibt es am Unteren W=F6hrd =84zwei g=FCltige
+Bebauungspl=E4ne=93, darunter den Bebauungsplan Nr. 279 =84vom =
+18.01.2022=93. An
+diesem Tag hat der Ausschuss f=FCr Stadtplanung, Verkehr und =
+Wohnungsfragen
+beschlossen, den Geltungsbereich anzupassen (Amtsblatt Nr. 10/2022). Der
+Entwurf lag noch bis 02.10.2025 =F6ffentlich aus. In den Planunterlagen =
+ist
+der Plan entsprechend als =84Bebauungsplan Nr. 279 (Stand: beendete
+fr=FChzeitige Beteiligung T=D6B, =D6ffentlichkeit)=93 ausgewiesen =
+(Legende D 7.1).
+Bei der Grenzziehung 2023 galt er also nicht, und der Bereich =
+=84Parkplatz am
+Alten Eisstadion und Lindenallee PA 8=93 wurde in der Telefonnotiz als
+Au=DFenbereich eingestuft. Nach Mitteilung der Stadt ist das =
+Planungsrecht
+inzwischen in Kraft getreten, das Parkhaus wird gebaut. Nach der auch in =
+der
+Stellungnahme zitierten Begr=FCndung der Verordnungs=E4nderung soll der
+Geltungsbereich =84mitwachsen=93. Die Einstufung dieses Bereichs w=E4re =
+daher neu
+zu pr=FCfen.
+
+b) Laut Stellungnahme wurde =84nicht auf die Grenzen der =
+Bebauungspl=E4ne=93
+abgestellt. Nach Anlage D 2.5, Tab. 5a, wird im Geltungsbereich des
+Bebauungsplans Nr. 185-I jedoch =84nach Vorgabe des Umweltamtes (Mai =
+2022)
+ausschlie=DFlich die Baumschutzverordnung angewendet=93. Eine =
+fl=E4chenbezogene
+Eingriffsbilanzierung nach BayKompV erfolgt dort nicht, und bei =
+Einzelb=E4umen
+werden nur die nach der Baumschutzverordnung gesch=FCtzten B=E4ume
+ber=FCcksichtigt (D 2.0, S. 50, 66 und 123). Die Grenze des =
+Bebauungsplans
+bestimmt dort also die Bewertungsmethode.
+
+=20
+
+4. Einheitliche Anwendung (Antwort 6)
+
+Die Stellungnahme bejaht eine einheitliche und widerspruchsfreie =
+Anwendung.
+Die Unterlagen zeigen Folgendes:
+
+- Nach =A7 7 Abs. 2 BSchV kann als Auflage verlangt werden, dass Ersatz =
+auf
+=84einem Grundst=FCck im Geltungsbereich dieser Verordnung=93 geleistet =
+wird. Die
+positive BVO-Bilanz von 24 B=E4umen I. Wuchsordnung (D 2.0, S. 69) =
+ergibt sich
+nach D 2.5, Tab. 5e, jedoch erst durch die Anrechnung von 32 =
+Neupflanzungen
+I. Wuchsordnung in PA 10. PA 10 ist nach der Telefonnotiz =
+Au=DFenbereich. Ohne
+PA 10 erg=E4be sich rechnerisch ein Defizit von 8 B=E4umen I. =
+Wuchsordnung. D
+2.0 (S. 123) nennt ausdr=FCcklich den Ausgleich des Defizits im Wald in =
+PA 2
+durch Ersatzpflanzungen =84im Bereich der n=F6rdlichen Aue des PA 10=93.
+
+- Zugleich wurden =84nach R=FCcksprache im Umweltamt=93 Neupflanzungen =
+als
+gesch=FCtzte Ersatzpflanzungen eingestuft, =84auch wenn diese sich =
+au=DFerhalb der
+im Zusammenhang bebauten Ortsteile befinden=93 (D 7.0, S. 4; ebenso =
+Legende D
+7.1).
+
+- Die Telefonnotiz ordnet das =84Hochufer Kastanienallee=93 dem =
+Innenbereich zu,
+PA 1 =84n=F6rdlich der Bau- und Gartengrenze=93 und PA 3 =84n=F6rdlich =
+der Haus- und
+Gartengrenze=93 dagegen dem Au=DFenbereich. F=FCr die Ersatzpflanzungen =
+=84auf dem
+Hochufer PA 1, PA 3=93 hei=DFt es, sie seien =84aber weiterhin als =
+gesch=FCtzt
+einzustufen=93. Warum das Hochufer an der Kastanienallee anders =
+behandelt wird
+als das Hochufer in PA 1 und PA 3, wird nicht begr=FCndet.
+
+Wo die Linie B=E4ume aus dem Schutz nimmt, wird sie also als feste =
+Grenze
+behandelt, bei Ersatzpflanzungen und ihrer Anrechnung dagegen nicht.
+
+=20
+
+5. Beispiel Baum Nr. 426
+
+Baum Nr. 426 ist nach Anlage D 7.2 eine Silberweide in PA 5 mit 2,15 m
+Stammumfang und 11 m Kronendurchmesser, eingestuft als nicht =
+gesch=FCtzt.
+Anders als den Weiden ab Nr. 428 ist ihm kein Biotop (R-1042-024)
+zugeordnet. Nach D 2.5, Tab. 5a, geh=F6rt er zu den sieben B=E4umen der
+Kategorie I (=84mittlere baubedingte Wirkungen=93, Eingriffsfaktor 0,7). =
+Diese
+Kategorie umfasst nach D 2.0 (S. 68) den Bau von HWS-Mauer und/oder
+Untergrundabdichtung, Versiegelungen f=FCr Stra=DFen- und Wegebau sowie
+Bodenauf- und -abtrag im Kronentraufbereich. Im Plan D 7.1 verl=E4uft =
+die
+Linie am kleinen Geb=E4ude =F6stlich von W=F6hrdstra=DFe 10 und dann =
+knapp n=F6rdlich
+seines Stammes zwischen Baum Nr. 409 (gesch=FCtzt) und Baum Nr. 426. =
+Nach der
+Telefonnotiz geh=F6rt das =84Hochufer Kastanienallee=93 zum =
+Innenbereich. Ob Baum
+Nr. 426 noch auf dem Hochufer oder bereits an der B=F6schung steht, ist
+nirgends dokumentiert. Davon h=E4ngt ab, ob der Eingriff nach der
+Baumschutzverordnung genehmigungsbed=FCrftig ist und ob bei einem =
+Verlust nach
+=A7 7 Abs. 2 BSchV f=FCnf Ersatzb=E4ume I. Wuchsordnung gefordert werden =
+k=F6nnten.
+
+=20
+
+6. Auswirkungen (Antworten 8 bis 10)
+
+Die Antworten =84Nein=93, =84Nein=93 und =84Keine=93 werden nicht =
+begr=FCndet. Die Grenze
+ist jedoch ergebnisrelevant: Nach meiner Auswertung von D 2.5, Tab. 5b, =
+und
+D 7.2 sind neun zur F=E4llung vorgesehene B=E4ume als nicht gesch=FCtzt
+eingestuft, obwohl ihr Stammumfang die Schwelle der Baumschutzverordnung
+=FCberschreitet (Nr. 29, 30, 37, 52, 61, 123, 127, 128 und 485). Einen =
+anderen
+Grund als ihre Lage au=DFerhalb der Linie nennen die Unterlagen nicht. =
+L=E4gen
+sie innerhalb, k=F6nnten nach der Staffel in =A7 7 Abs. 2 BSchV rund 39
+zus=E4tzliche Ersatzb=E4ume gefordert werden. Anlage D 7.0 (S. 5) h=E4lt =
+selbst
+fest: =84Je nach Verfahrensdauer kann damit ggf. eine erneute Pr=FCfung =
+des
+Schutzstatus von B=E4umen im Eingriffsbereich notwendig werden.=93 Da =
+der
+Planfeststellungsbeschluss die Genehmigung nach der Baumschutzverordnung
+ersetzt (Art. 75 Abs. 1 BayVwVfG), muss aus ihm ohnehin hervorgehen, =
+f=FCr
+welche B=E4ume er diese Genehmigung erteilt, und zwar nach der Sach- und
+Rechtslage bei seinem Erlass.
+
+=20
+
+7. Antwort 11
+
+Die Stellungnahme verweist darauf, dass das Umweltamt nicht =
+Vorhabentr=E4ger
+ist. Die Frage richtete sich jedoch an die Planfeststellungsbeh=F6rde, =
+und das
+ist nach der Bekanntmachung vom 17.10.2025 das Umweltamt selbst.
+
+=20
+
+Ich bitte Sie daher,
+
+1. die Angaben der Stellungnahme anhand der genannten Unterlagen (D 2.0, =
+D
+2.1, D 2.5, D 7.0, D 7.1, D 7.2) zu =FCberpr=FCfen,
+
+2. wie in meiner Anregung erbeten das Sachgebiet 51 zu beteiligen und =
+mir
+mitzuteilen, ob dies geschehen ist,
+
+3. nach Art. 111 GO die Unterlagen zur Grenzziehung anzufordern,
+insbesondere Vermerke, E-Mails und Kartenentw=FCrfe aus 2023,
+Besprechungsprotokolle mit Bezug zur Baumschutzverordnung sowie die =
+Vorgabe
+des Umweltamtes zum Bebauungsplangebiet Nr. 185-I (in D 2.5 einmal auf =
+Mai
+2022, einmal auf 2023 datiert), und
+
+4. darauf hinzuwirken, dass die Abgrenzung im Planfeststellungsbeschluss
+nachvollziehbar begr=FCndet wird.
+
+=20
+
+Sollten Sie weiterhin keinen Anlass zum T=E4tigwerden sehen, w=E4re ich =
+f=FCr eine
+kurze Mitteilung dankbar, ob die genannten Widerspr=FCche, insbesondere =
+zum
+Bebauungsplan Nr. 279 und zur Anrechnung von PA 10, dabei gepr=FCft =
+wurden.
+
+=20
+
+=20
+
+Mit freundlichen Gr=FC=DFen
+
+=20
+
+Nils Deichner
+
+W=F6hrdstra=DFe 1
+
+93059 Regensburg
+
+=20
+
+Von: Rechtsfragen-Umwelt@reg-opf.bayern.de
+<mailto:Rechtsfragen-Umwelt@reg-opf.bayern.de>
+<Rechtsfragen-Umwelt@reg-opf.bayern.de
+<mailto:Rechtsfragen-Umwelt@reg-opf.bayern.de> >=20
+Gesendet: Dienstag, 29. September 2026 11:03
+An: nilsdeichner@gmx.de <mailto:nilsdeichner@gmx.de>=20
+Betreff: AW: [EXTERN] AW: Ihr Schreiben v. 04.08.2026
+
+=20
+
+Sehr geehrter Herr Deichner,=20
+
+=20
+
+anbei die Stellungnahme des Umweltamtes der Stadt Regensburg als untere
+Naturschutzbeh=F6rde. Entschuldigen Sie die krankheitsbedingte =
+Verz=F6gerung.=20
+
+=20
+
+Mit freundlichen Gr=FC=DFen
+
+=20
+
+Christoph Geyer
+
+=20
+
+Regierungsdirektor
+
+Sachgebietsleiter 55.1
+
+________________________________________
+
+=20
+
+Regierung der Oberpfalz
+
+SG 55.1 =96 Rechtsfragen Umwelt
+
+Emmeramsplatz 8
+
+93039 Regensburg
+
+Tel.: 0941/5680-1822
+
+=20
+
+E-Mail: christoph.geyer@reg-opf.bayern.de
+<mailto:christoph.geyer@reg-opf.bayern.de> =20
+
+Internet: www.ropf.de <http://www.ropf.de>=20
+
+________________________________________
+
+Bitte pr=FCfen Sie, ob diese Mail ausgedruckt werden muss.=20
+
+=20
+
+Der Inhalt dieser E-Mail ist ausschlie=DFlich f=FCr den bezeichneten =
+Adressaten
+bestimmt. Wenn Sie nicht der vorgesehene Adressat dieser E-Mail oder =
+dessen
+Vertreter sein sollten, bitten wir Sie, sich in diesem Falle umgehend =
+mit
+dem Absender der E-Mail in Verbindung zu setzen und diese Daten von =
+Ihrem
+Computer zu l=F6schen. Bitte beachten Sie, dass jede Form von
+Ver=F6ffentlichung, Vervielf=E4ltigung oder Weitergabe des Inhalts =
+dieser E-Mail
+unzul=E4ssig ist.
+
+=20
+
+=20
+
+=20
+
+Von: nilsdeichner@gmx.de <mailto:nilsdeichner@gmx.de>  =
+<nilsdeichner@gmx.de
+<mailto:nilsdeichner@gmx.de> >=20
+Gesendet: Mittwoch, 23. September 2026 07:55
+An: Rechtsfragen-Umwelt (Reg Oberpfalz)
+<Rechtsfragen-Umwelt@reg-opf.bayern.de
+<mailto:Rechtsfragen-Umwelt@reg-opf.bayern.de> >
+Cc: Thoma, Robert (Reg Oberpfalz) <Robert.Thoma@reg-opf.bayern.de
+<mailto:Robert.Thoma@reg-opf.bayern.de> >
+Betreff: [EXTERN] AW: Ihr Schreiben v. 04.08.2026
+
+=20
+
+Hinweis: Diese E-Mail stammt von einem Absender au=DFerhalb des =
+Adressraums
+bayern.de. Seien Sie vorsichtig, bevor Sie einen Link anklicken oder =
+einen
+Anhang =F6ffnen.
+
+=20
+
+Sehr geehrter Herr Geyer,
+
+=20
+
+vielen Dank f=FCr Ihr Schreiben vom 21.09.2026.
+
+=20
+
+Sie teilen darin mit, dass die Regierung der Oberpfalz meine Anregung =
+zum
+Anlass genommen hat, eine Stellungnahme des Umweltamtes der Stadt =
+Regensburg
+anzufordern und diese anschlie=DFend gepr=FCft hat.
+
+Ich bitte Sie daher um =DCbersendung dieser Stellungnahme des =
+Umweltamtes in
+vollst=E4ndiger Form, einschlie=DFlich etwaiger Anlagen oder =
+erg=E4nzender
+Unterlagen, die Bestandteil der Stellungnahme sind, vorzugsweise
+elektronisch per E-Mail.
+
+=20
+
+Soweit erforderlich, beantrage ich den Zugang zu dieser Stellungnahme
+zugleich gem=E4=DF Art. 3 Bayerisches Umweltinformationsgesetz (BayUIG), =
+soweit
+darin Umweltinformationen im Sinne des BayUIG enthalten sind.
+
+Sollten einzelne Teile der Stellungnahme nach Ihrer Auffassung nicht
+zug=E4nglich sein, bitte ich darum, mir die =FCbrigen Teile zug=E4nglich =
+zu machen
+und hinsichtlich etwaiger zur=FCckgehaltener Inhalte die jeweilige
+Rechtsgrundlage mitzuteilen.
+
+=20
+
+Vielen Dank.
+
+=20
+
+=20
+
+Mit freundlichen Gr=FC=DFen
+
+Nils Deichner
+
+=20
+
+Von: Rechtsfragen-Umwelt@reg-opf.bayern.de
+<mailto:Rechtsfragen-Umwelt@reg-opf.bayern.de>
+<Rechtsfragen-Umwelt@reg-opf.bayern.de
+<mailto:Rechtsfragen-Umwelt@reg-opf.bayern.de> >=20
+Gesendet: Montag, 21. September 2026 14:46
+An: nilsdeichner@gmx.de <mailto:nilsdeichner@gmx.de>=20
+Cc: Robert.Thoma@reg-opf.bayern.de =
+<mailto:Robert.Thoma@reg-opf.bayern.de>=20
+Betreff: Ihr Schreiben v. 04.08.2026
+
+=20
+
+Sehr geehrter Herr Deichner,=20
+
+=20
+
+anbei die Antwort auf Ihr Schreiben vom 04.08.2026 mit der Bitte um
+Kenntnisnahme.=20
+
+=20
+
+Mit freundlichen Gr=FC=DFen
+
+=20
+
+Christoph Geyer
+
+=20
+
+Regierungsdirektor
+
+Sachgebietsleiter 55.1
+
+________________________________________
+
+=20
+
+Regierung der Oberpfalz
+
+SG 55.1 =96 Rechtsfragen Umwelt
+
+Emmeramsplatz 8
+
+93039 Regensburg
+
+Tel.: 0941/5680-1822
+
+=20
+
+E-Mail: christoph.geyer@reg-opf.bayern.de
+<mailto:christoph.geyer@reg-opf.bayern.de> =20
+
+Internet: www.ropf.de <http://www.ropf.de>=20
+
+________________________________________
+
+Bitte pr=FCfen Sie, ob diese Mail ausgedruckt werden muss.=20
+
+=20
+
+Der Inhalt dieser E-Mail ist ausschlie=DFlich f=FCr den bezeichneten =
+Adressaten
+bestimmt. Wenn Sie nicht der vorgesehene Adressat dieser E-Mail oder =
+dessen
+Vertreter sein sollten, bitten wir Sie, sich in diesem Falle umgehend =
+mit
+dem Absender der E-Mail in Verbindung zu setzen und diese Daten von =
+Ihrem
+Computer zu l=F6schen. Bitte beachten Sie, dass jede Form von
+Ver=F6ffentlichung, Vervielf=E4ltigung oder Weitergabe des Inhalts =
+dieser E-Mail
+unzul=E4ssig ist.
+
+=20
+
+=20
+
+
+------=_NextPart_000_0039_01DD5108.F3D05D50
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1"><meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)"=
+><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+span.E-MailFormatvorlage21
+	{mso-style-type:personal-compose;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3D"DE" link=3D"#0563C1"=
+ vlink=3D"#954F72" style=3D"word-wrap:break-word"><div class=3D"WordSection=
+1"><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">Hallo zusammen,<=
+o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt=
+"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-si=
+ze:12.0pt">ich hab der Regierung der Oberpfalz nochmals geantwortet (siehe =
+unten zur Info).<br><br><br>VG<br>Nils<o:p></o:p></span></p><p class=3D"Mso=
+Normal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><div><=
+div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0=
+cm 0cm"><p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&=
+quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Von:</span></b=
+><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-ligatures:no=
+ne;mso-fareast-language:DE"> nilsdeichner@gmx.de &lt;nilsdeichner@gmx.de&gt=
+; <br><b>Gesendet:</b> Mittwoch, 30. September 2026 18:23<br><b>An:</b> 'Re=
+chtsfragen-Umwelt@reg-opf.bayern.de' &lt;Rechtsfragen-Umwelt@reg-opf.bayern=
+.de&gt;<br><b>Cc:</b> 'Robert.Thoma@reg-opf.bayern.de' &lt;Robert.Thoma@reg=
+-opf.bayern.de&gt;; 'kommunale-angelegenheiten@reg-opf.bayern.de' &lt;kommu=
+nale-angelegenheiten@reg-opf.bayern.de&gt;; 'naturschutz@reg-opf.bayern.de'=
+ &lt;naturschutz@reg-opf.bayern.de&gt;<br><b>Betreff:</b> Ihr Schreiben vom=
+ 21.09.2026 &#8211; Abgrenzung Geltungsbereich Baumschutzverordnung, HWS Ab=
+schnitt H Unterer W=F6hrd &#8211; Bitte um erneute Pr=FCfung<o:p></o:p></sp=
+an></p></div></div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p><p class=3D"=
+MsoNormal"><span style=3D"font-size:12.0pt">Sehr geehrter Herr Geyer,<o:p><=
+/o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:=
+p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12=
+.0pt">vielen Dank f=FCr die Stellungnahme des Umweltamts Regensburg zu mein=
+er Anregung vom 04.08.2026.<o:p></o:p></span></p><p class=3D"MsoNormal"><sp=
+an style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNo=
+rmal"><span style=3D"font-size:12.0pt">Mir ist bewusst, dass kein Anspruch =
+auf aufsichtliches Einschreiten besteht. Ihre Mitteilung st=FCtzt sich jedo=
+ch nach ihrem Wortlaut auf die Stellungnahme des Umweltamts vom 11.09.2026 =
+(Az. 31.2 P=F6 / HWS H Baumschutz). Diese stammt von der Stelle, deren Vorg=
+ehen Gegenstand meiner Anregung war und die zugleich Planfeststellungsbeh=
+=F6rde ist. Mehrere Aussagen darin stimmen nicht mit den ausgelegten Planun=
+terlagen =FCberein. Ich m=F6chte Sie auf diese Punkte hinweisen und bitte S=
+ie, Ihre Einsch=E4tzung auf dieser Grundlage noch einmal zu =FCberpr=FCfen.=
+<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0p=
+t"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-s=
+ize:12.0pt">1. Wer hat die Grenze festgelegt? (Antworten 1 und 3)<o:p></o:p=
+></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">Nach de=
+r Stellungnahme wurde die Grenzziehung mit den genannten =C4mtern diskutier=
+t, &#8222;die Entscheidung oblag dem Umweltamt&#8220;. In der Legende der A=
+nlage D 7.1 hei=DFt es zur Linie dagegen: &#8222;digitalisierter Abgrenzung=
+svorschlag nach telefonischer Abstimmung im Umweltamt der Stadt Regensburg =
+am 25.04.2023&#8220;. Auch Anlage D 2.1, auf die LBP und UVS f=FCr den Gelt=
+ungsbereich verweisen, nennt als Quelle nur: &#8222;digitalisiert nach tele=
+f. Abstimmung mit dem Umweltamt am 25.04.2023&#8220;. Die als Beleg beigef=
+=FCgte Telefonnotiz stammt <b>nicht</b> vom Umweltamt, sondern vom Planungs=
+b=FCro (gez. bgmr Landschaftsarchitekten GmbH, Tanja Hain). Dort hei=DFt es=
+: &#8222;Da die neuen Grenzen nicht zeichnerisch definiert sind (m=FCssten =
+Bauordnung und UA festlegen), haben Frau Dr. P=F6hler und Frau Hain diese t=
+elefonisch abgestimmt&#8220; und &#8222;Frau Hain zeichnet die Grenze nach =
+telefonischer Absprache und stuft die B=E4ume des Baumkatasters neu nach Ba=
+umSchVO ein&#8220;. Weder aus den Planunterlagen noch aus der Stellungnahme=
+ geht hervor, dass das Umweltamt die danach gezeichnete Linie gepr=FCft ode=
+r =FCbernommen hat. Die Beteiligung der anderen =C4mter wird weder datiert =
+noch belegt.<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"fon=
+t-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span sty=
+le=3D"font-size:12.0pt">2. Dokumentation (Antworten 2, 4 und 5)<o:p></o:p><=
+/span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">Die Stell=
+ungnahme nennt vorausgegangene &#8222;Abstimmungen vor Ort und per E-Mail u=
+nd Besprechungen&#8220; sowie Ortsbesichtigungen, legt sie aber weder vor n=
+och datiert sie. An anderer Stelle sind Abstimmungen und Termine in den Unt=
+erlagen datiert belegt, etwa &#8222;Telefonische Abstimmungen zu Bauzeitenr=
+egelungen und Bibernachweisen am 08.09. und 28.09.2023&#8220; mit dem Umwel=
+tamt, Ortstermine zur Linde Am Winterhafen 14 am 17.09.2018 und 26.02.2019 =
+oder das &#8222;Protokoll Nr. 64 zur Beratung am 09.02.2023&#8220; (Anlage =
+D 2.0, S. 132 f.). F=FCr die Grenzziehung nennen die Unterlagen dagegen nur=
+ das Telefonat vom 25.04.2023 (Quellenverzeichnisse D 7.0 und D 6.0, Legend=
+en D 2.1 und D 7.1). Das in meiner Anregung genannte Beispiel W=F6hrdstra=
+=DFe 10 / Baum Nr. 426 behandelt die Stellungnahme nicht.<o:p></o:p></span>=
+</p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:=
+p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">3. Beb=
+auungspl=E4ne (Antwort 7)<o:p></o:p></span></p><p class=3D"MsoNormal"><span=
+ style=3D"font-size:12.0pt">a) Nach der Stellungnahme gibt es am Unteren W=
+=F6hrd &#8222;zwei g=FCltige Bebauungspl=E4ne&#8220;, darunter den Bebauung=
+splan Nr. 279 &#8222;vom 18.01.2022&#8220;. An diesem Tag hat der Ausschuss=
+ f=FCr Stadtplanung, Verkehr und Wohnungsfragen beschlossen, den Geltungsbe=
+reich anzupassen (Amtsblatt Nr. 10/2022). Der Entwurf lag noch bis 02.10.20=
+25 =F6ffentlich aus. In den Planunterlagen ist der Plan entsprechend als &#=
+8222;Bebauungsplan Nr. 279 (Stand: beendete fr=FChzeitige Beteiligung T=D6B=
+, =D6ffentlichkeit)&#8220; ausgewiesen (Legende D 7.1). Bei der Grenzziehun=
+g 2023 galt er also nicht, und der Bereich &#8222;Parkplatz am Alten Eissta=
+dion und Lindenallee PA 8&#8220; wurde in der Telefonnotiz als Au=DFenberei=
+ch eingestuft. Nach Mitteilung der Stadt ist das Planungsrecht inzwischen i=
+n Kraft getreten, das Parkhaus wird gebaut. Nach der auch in der Stellungna=
+hme zitierten Begr=FCndung der Verordnungs=E4nderung soll der Geltungsberei=
+ch &#8222;mitwachsen&#8220;. Die Einstufung dieses Bereichs w=E4re daher ne=
+u zu pr=FCfen.<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"f=
+ont-size:12.0pt">b) Laut Stellungnahme wurde &#8222;nicht auf die Grenzen d=
+er Bebauungspl=E4ne&#8220; abgestellt. Nach Anlage D 2.5, Tab. 5a, wird im =
+Geltungsbereich des Bebauungsplans Nr. 185-I jedoch &#8222;nach Vorgabe des=
+ Umweltamtes (Mai 2022) ausschlie=DFlich die Baumschutzverordnung angewende=
+t&#8220;. Eine fl=E4chenbezogene Eingriffsbilanzierung nach BayKompV erfolg=
+t dort nicht, und bei Einzelb=E4umen werden nur die nach der Baumschutzvero=
+rdnung gesch=FCtzten B=E4ume ber=FCcksichtigt (D 2.0, S. 50, 66 und 123). D=
+ie Grenze des Bebauungsplans bestimmt dort also die Bewertungsmethode.<o:p>=
+</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o=
+:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:1=
+2.0pt">4. Einheitliche Anwendung (Antwort 6)<o:p></o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt">Die Stellungnahme bejaht ei=
+ne einheitliche und widerspruchsfreie Anwendung. Die Unterlagen zeigen Folg=
+endes:<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size=
+:12.0pt">- Nach =A7 7 Abs. 2 BSchV kann als Auflage verlangt werden, dass E=
+rsatz auf &#8222;einem Grundst=FCck im Geltungsbereich dieser Verordnung&#8=
+220; geleistet wird. Die positive BVO-Bilanz von 24 B=E4umen I. Wuchsordnun=
+g (D 2.0, S. 69) ergibt sich nach D 2.5, Tab. 5e, jedoch erst durch die Anr=
+echnung von 32 Neupflanzungen I. Wuchsordnung in PA 10. PA 10 ist nach der =
+Telefonnotiz Au=DFenbereich. Ohne PA 10 erg=E4be sich rechnerisch ein Defiz=
+it von 8 B=E4umen I. Wuchsordnung. D 2.0 (S. 123) nennt ausdr=FCcklich den =
+Ausgleich des Defizits im Wald in PA 2 durch Ersatzpflanzungen &#8222;im Be=
+reich der n=F6rdlichen Aue des PA 10&#8220;.<o:p></o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt">- Zugleich wurden &#8222;na=
+ch R=FCcksprache im Umweltamt&#8220; Neupflanzungen als gesch=FCtzte Ersatz=
+pflanzungen eingestuft, &#8222;auch wenn diese sich au=DFerhalb der im Zusa=
+mmenhang bebauten Ortsteile befinden&#8220; (D 7.0, S. 4; ebenso Legende D =
+7.1).<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:=
+12.0pt">- Die Telefonnotiz ordnet das &#8222;Hochufer Kastanienallee&#8220;=
+ dem Innenbereich zu, PA 1 &#8222;n=F6rdlich der Bau- und Gartengrenze&#822=
+0; und PA 3 &#8222;n=F6rdlich der Haus- und Gartengrenze&#8220; dagegen dem=
+ Au=DFenbereich. F=FCr die Ersatzpflanzungen &#8222;auf dem Hochufer PA 1, =
+PA 3&#8220; hei=DFt es, sie seien &#8222;aber weiterhin als gesch=FCtzt ein=
+zustufen&#8220;. Warum das Hochufer an der Kastanienallee anders behandelt =
+wird als das Hochufer in PA 1 und PA 3, wird nicht begr=FCndet.<o:p></o:p><=
+/span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">Wo die Li=
+nie B=E4ume aus dem Schutz nimmt, wird sie also als feste Grenze behandelt,=
+ bei Ersatzpflanzungen und ihrer Anrechnung dagegen nicht.<o:p></o:p></span=
+></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o=
+:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">5. Be=
+ispiel Baum Nr. 426<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:12.0pt">Baum Nr. 426 ist nach Anlage D 7.2 eine Silberweide i=
+n PA 5 mit 2,15 m Stammumfang und 11 m Kronendurchmesser, eingestuft als ni=
+cht gesch=FCtzt. Anders als den Weiden ab Nr. 428 ist ihm kein Biotop (R-10=
+42-024) zugeordnet. Nach D 2.5, Tab. 5a, geh=F6rt er zu den sieben B=E4umen=
+ der Kategorie I (&#8222;mittlere baubedingte Wirkungen&#8220;, Eingriffsfa=
+ktor 0,7). Diese Kategorie umfasst nach D 2.0 (S. 68) den Bau von HWS-Mauer=
+ und/oder Untergrundabdichtung, Versiegelungen f=FCr Stra=DFen- und Wegebau=
+ sowie Bodenauf- und -abtrag im Kronentraufbereich. Im Plan D 7.1 verl=E4uf=
+t die Linie am kleinen Geb=E4ude =F6stlich von W=F6hrdstra=DFe 10 und dann =
+knapp n=F6rdlich seines Stammes zwischen Baum Nr. 409 (gesch=FCtzt) und Bau=
+m Nr. 426. Nach der Telefonnotiz geh=F6rt das &#8222;Hochufer Kastanienalle=
+e&#8220; zum Innenbereich. Ob Baum Nr. 426 noch auf dem Hochufer oder berei=
+ts an der B=F6schung steht, ist nirgends dokumentiert. Davon h=E4ngt ab, ob=
+ der Eingriff nach der Baumschutzverordnung genehmigungsbed=FCrftig ist und=
+ ob bei einem Verlust nach =A7 7 Abs. 2 BSchV f=FCnf Ersatzb=E4ume I. Wuchs=
+ordnung gefordert werden k=F6nnten.<o:p></o:p></span></p><p class=3D"MsoNor=
+mal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt">6. Auswirkungen (Antworten =
+8 bis 10)<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-s=
+ize:12.0pt">Die Antworten &#8222;Nein&#8220;, &#8222;Nein&#8220; und &#8222=
+;Keine&#8220; werden nicht begr=FCndet. Die Grenze ist jedoch ergebnisrelev=
+ant: Nach meiner Auswertung von D 2.5, Tab. 5b, und D 7.2 sind neun zur F=
+=E4llung vorgesehene B=E4ume als nicht gesch=FCtzt eingestuft, obwohl ihr S=
+tammumfang die Schwelle der Baumschutzverordnung =FCberschreitet (Nr. 29, 3=
+0, 37, 52, 61, 123, 127, 128 und 485). Einen anderen Grund als ihre Lage au=
+=DFerhalb der Linie nennen die Unterlagen nicht. L=E4gen sie innerhalb, k=
+=F6nnten nach der Staffel in =A7 7 Abs. 2 BSchV rund 39 zus=E4tzliche Ersat=
+zb=E4ume gefordert werden. Anlage D 7.0 (S. 5) h=E4lt selbst fest: &#8222;J=
+e nach Verfahrensdauer kann damit ggf. eine erneute Pr=FCfung des Schutzsta=
+tus von B=E4umen im Eingriffsbereich notwendig werden.&#8220; Da der Planfe=
+ststellungsbeschluss die Genehmigung nach der Baumschutzverordnung ersetzt =
+(Art. 75 Abs. 1 BayVwVfG), muss aus ihm ohnehin hervorgehen, f=FCr welche B=
+=E4ume er diese Genehmigung erteilt, und zwar nach der Sach- und Rechtslage=
+ bei seinem Erlass.<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><s=
+pan style=3D"font-size:12.0pt">7. Antwort 11<o:p></o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt">Die Stellungnahme verweist =
+darauf, dass das Umweltamt nicht Vorhabentr=E4ger ist. Die Frage richtete s=
+ich jedoch an die Planfeststellungsbeh=F6rde, und das ist nach der Bekanntm=
+achung vom 17.10.2025 das Umweltamt selbst.<o:p></o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p=
+><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">Ich bitte Sie dahe=
+r,<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.=
+0pt">1. die Angaben der Stellungnahme anhand der genannten Unterlagen (D 2.=
+0, D 2.1, D 2.5, D 7.0, D 7.1, D 7.2) zu =FCberpr=FCfen,<o:p></o:p></span><=
+/p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">2. wie in meiner=
+ Anregung erbeten das Sachgebiet 51 zu beteiligen und mir mitzuteilen, ob d=
+ies geschehen ist,<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:12.0pt">3. nach Art. 111 GO die Unterlagen zur Grenzziehung a=
+nzufordern, insbesondere Vermerke, E-Mails und Kartenentw=FCrfe aus 2023, B=
+esprechungsprotokolle mit Bezug zur Baumschutzverordnung sowie die Vorgabe =
+des Umweltamtes zum Bebauungsplangebiet Nr. 185-I (in D 2.5 einmal auf Mai =
+2022, einmal auf 2023 datiert), und<o:p></o:p></span></p><p class=3D"MsoNor=
+mal"><span style=3D"font-size:12.0pt">4. darauf hinzuwirken, dass die Abgre=
+nzung im Planfeststellungsbeschluss nachvollziehbar begr=FCndet wird.<o:p><=
+/o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:=
+p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12=
+.0pt">Sollten Sie weiterhin keinen Anlass zum T=E4tigwerden sehen, w=E4re i=
+ch f=FCr eine kurze Mitteilung dankbar, ob die genannten Widerspr=FCche, in=
+sbesondere zum Bebauungsplan Nr. 279 und zur Anrechnung von PA 10, dabei ge=
+pr=FCft wurden.<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"=
+font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNorma=
+l"><span style=3D"font-size:12.0pt">Mit freundlichen Gr=FC=DFen<o:p></o:p><=
+/span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbs=
+p;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">=
+Nils Deichner<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"fo=
+nt-size:12.0pt">W=F6hrdstra=DFe 1<o:p></o:p></span></p><p class=3D"MsoNorma=
+l"><span style=3D"font-size:12.0pt">93059 Regensburg<o:p></o:p></span></p><=
+p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></s=
+pan></p><div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.=
+0pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><span style=3D"font-family:&quot=
+;Calibri&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Von:<=
+/span></b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-lig=
+atures:none;mso-fareast-language:DE"> <a href=3D"mailto:Rechtsfragen-Umwelt=
+@reg-opf.bayern.de">Rechtsfragen-Umwelt@reg-opf.bayern.de</a> &lt;<a href=
+=3D"mailto:Rechtsfragen-Umwelt@reg-opf.bayern.de">Rechtsfragen-Umwelt@reg-o=
+pf.bayern.de</a>&gt; <br><b>Gesendet:</b> Dienstag, 29. September 2026 11:0=
+3<br><b>An:</b> <a href=3D"mailto:nilsdeichner@gmx.de">nilsdeichner@gmx.de<=
+/a><br><b>Betreff:</b> AW: [EXTERN] AW: Ihr Schreiben v. 04.08.2026<o:p></o=
+:p></span></p></div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p><p class=3D=
+"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">Sehr g=
+eehrter Herr Deichner, <o:p></o:p></span></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-family:&quot;Arial&quot;,sans-serif"><o:p>&nbsp;</o:p></span><=
+/p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans=
+-serif">anbei die Stellungnahme des Umweltamtes der Stadt Regensburg als un=
+tere Naturschutzbeh=F6rde. Entschuldigen Sie die krankheitsbedingte Verz=F6=
+gerung. <o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fa=
+mily:&quot;Arial&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p><p class=3D"=
+MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-liga=
+tures:none;mso-fareast-language:DE">Mit freundlichen Gr=FC=DFen<o:p></o:p><=
+/span></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quo=
+t;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"><o:p>&nbsp;</o:p>=
+</span></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&qu=
+ot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Christoph Geyer<=
+o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-family:&quo=
+t;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"><o:p>&=
+nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-family:&qu=
+ot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Regie=
+rungsdirektor<o:p></o:p></span></p><p class=3D"MsoNormal"><b><span style=3D=
+"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-la=
+nguage:DE">Sachgebietsleiter 55.1<o:p></o:p></span></b></p><p class=3D"MsoN=
+ormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligature=
+s:none;mso-fareast-language:DE">________________________________________<o:=
+p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;=
+Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"><o:p>&nb=
+sp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot=
+;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Regieru=
+ng der Oberpfalz<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D=
+"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-la=
+nguage:DE">SG 55.1 &#8211; Rechtsfragen Umwelt<o:p></o:p></span></p><p clas=
+s=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso=
+-ligatures:none;mso-fareast-language:DE">Emmeramsplatz 8<o:p></o:p></span><=
+/p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans=
+-serif;mso-ligatures:none;mso-fareast-language:DE">93039 Regensburg<o:p></o=
+:p></span></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial=
+&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Tel.: 0941/56=
+80-1822<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fam=
+ily:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE=
+"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fa=
+mily:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:D=
+E">E-Mail: <a href=3D"mailto:christoph.geyer@reg-opf.bayern.de">christoph.g=
+eyer@reg-opf.bayern.de</a> <o:p></o:p></span></p><p class=3D"MsoNormal"><sp=
+an style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso=
+-fareast-language:DE">Internet: <a href=3D"http://www.ropf.de">www.ropf.de<=
+/a><o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-family:=
+&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">__=
+______________________________________<o:p></o:p></span></p><p class=3D"Mso=
+Normal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatur=
+es:none;mso-fareast-language:DE">Bitte pr=FCfen Sie, ob diese Mail ausgedru=
+ckt werden muss. <o:p></o:p></span></p><p class=3D"MsoNormal"><span style=
+=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast=
+-language:DE"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span styl=
+e=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareas=
+t-language:DE">Der Inhalt dieser E-Mail ist ausschlie=DFlich f=FCr den beze=
+ichneten Adressaten bestimmt. Wenn Sie nicht der vorgesehene Adressat diese=
+r E-Mail oder dessen Vertreter sein sollten, bitten wir Sie, sich in diesem=
+ Falle umgehend mit dem Absender der E-Mail in Verbindung zu setzen und die=
+se Daten von Ihrem Computer zu l=F6schen. Bitte beachten Sie, dass jede For=
+m von Ver=F6ffentlichung, Vervielf=E4ltigung oder Weitergabe des Inhalts di=
+eser E-Mail unzul=E4ssig ist.<o:p></o:p></span></p><p class=3D"MsoNormal"><=
+span style=3D"font-family:&quot;Arial&quot;,sans-serif"><o:p>&nbsp;</o:p></=
+span></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot=
+;,sans-serif"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><o:p>&nbsp=
+;</o:p></p><div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding=
+:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><span style=3D"font-family:&q=
+uot;Calibri&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Vo=
+n:</span></b><span style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-=
+ligatures:none;mso-fareast-language:DE"> <a href=3D"mailto:nilsdeichner@gmx=
+.de">nilsdeichner@gmx.de</a> &lt;<a href=3D"mailto:nilsdeichner@gmx.de">nil=
+sdeichner@gmx.de</a>&gt; <br><b>Gesendet:</b> Mittwoch, 23. September 2026 =
+07:55<br><b>An:</b> Rechtsfragen-Umwelt (Reg Oberpfalz) &lt;<a href=3D"mail=
+to:Rechtsfragen-Umwelt@reg-opf.bayern.de">Rechtsfragen-Umwelt@reg-opf.bayer=
+n.de</a>&gt;<br><b>Cc:</b> Thoma, Robert (Reg Oberpfalz) &lt;<a href=3D"mai=
+lto:Robert.Thoma@reg-opf.bayern.de">Robert.Thoma@reg-opf.bayern.de</a>&gt;<=
+br><b>Betreff:</b> [EXTERN] AW: Ihr Schreiben v. 04.08.2026<o:p></o:p></spa=
+n></p></div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p><div style=3D"borde=
+r:solid #9C6500 1.0pt;padding:2.0pt 2.0pt 2.0pt 2.0pt"><p class=3D"MsoNorma=
+l" style=3D"line-height:12.0pt;background:#FFEB9C"><span style=3D"font-size=
+:10.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#9C6500;mso-ligatu=
+res:none;mso-fareast-language:DE">Hinweis:</span><span style=3D"font-size:1=
+0.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black;mso-ligatures:=
+none;mso-fareast-language:DE"> Diese E-Mail stammt von einem Absender au=DF=
+erhalb des Adressraums bayern.de. Seien Sie vorsichtig, bevor Sie einen Lin=
+k anklicken oder einen Anhang =F6ffnen.<o:p></o:p></span></p></div><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt;mso-ligatures:none;mso-farea=
+st-language:DE"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span st=
+yle=3D"font-size:12.0pt">Sehr geehrter Herr Geyer,<o:p></o:p></span></p><p =
+class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></spa=
+n></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">vielen Dank f=
+=FCr Ihr Schreiben vom 21.09.2026.<o:p></o:p></span></p><p class=3D"MsoNorm=
+al"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt">Sie teilen darin mit, dass =
+die Regierung der Oberpfalz meine Anregung zum Anlass genommen hat, eine St=
+ellungnahme des Umweltamtes der Stadt Regensburg anzufordern und diese ansc=
+hlie=DFend gepr=FCft hat.<o:p></o:p></span></p><p class=3D"MsoNormal"><span=
+ style=3D"font-size:12.0pt">Ich bitte Sie daher um =DCbersendung dieser Ste=
+llungnahme des Umweltamtes in vollst=E4ndiger Form, einschlie=DFlich etwaig=
+er Anlagen oder erg=E4nzender Unterlagen, die Bestandteil der Stellungnahme=
+ sind, vorzugsweise elektronisch per E-Mail.<o:p></o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p=
+><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">Soweit erforderlic=
+h, beantrage ich den Zugang zu dieser Stellungnahme zugleich gem=E4=DF Art.=
+ 3 Bayerisches Umweltinformationsgesetz (BayUIG), soweit darin Umweltinform=
+ationen im Sinne des BayUIG enthalten sind.<o:p></o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:12.0pt">Sollten einzelne Teile der =
+Stellungnahme nach Ihrer Auffassung nicht zug=E4nglich sein, bitte ich daru=
+m, mir die =FCbrigen Teile zug=E4nglich zu machen und hinsichtlich etwaiger=
+ zur=FCckgehaltener Inhalte die jeweilige Rechtsgrundlage mitzuteilen.<o:p>=
+</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o=
+:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:1=
+2.0pt">Vielen Dank.<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><s=
+pan style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoN=
+ormal"><span style=3D"font-size:12.0pt">Mit freundlichen Gr=FC=DFen<o:p></o=
+:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt">Nils =
+Deichner<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-si=
+ze:12.0pt"><o:p>&nbsp;</o:p></span></p><div style=3D"border:none;border-top=
+:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><=
+span style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-ligatures:none=
+;mso-fareast-language:DE">Von:</span></b><span style=3D"font-family:&quot;C=
+alibri&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE"> <a hre=
+f=3D"mailto:Rechtsfragen-Umwelt@reg-opf.bayern.de">Rechtsfragen-Umwelt@reg-=
+opf.bayern.de</a> &lt;<a href=3D"mailto:Rechtsfragen-Umwelt@reg-opf.bayern.=
+de">Rechtsfragen-Umwelt@reg-opf.bayern.de</a>&gt; <br><b>Gesendet:</b> Mont=
+ag, 21. September 2026 14:46<br><b>An:</b> <a href=3D"mailto:nilsdeichner@g=
+mx.de">nilsdeichner@gmx.de</a><br><b>Cc:</b> <a href=3D"mailto:Robert.Thoma=
+@reg-opf.bayern.de">Robert.Thoma@reg-opf.bayern.de</a><br><b>Betreff:</b> I=
+hr Schreiben v. 04.08.2026<o:p></o:p></span></p></div><p class=3D"MsoNormal=
+"><o:p>&nbsp;</o:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&q=
+uot;Arial&quot;,sans-serif">Sehr geehrter Herr Deichner, </span><o:p></o:p>=
+</p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,san=
+s-serif">&nbsp;</span><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"=
+font-family:&quot;Arial&quot;,sans-serif">anbei die Antwort auf Ihr Schreib=
+en vom 04.08.2026 mit der Bitte um Kenntnisnahme. </span><o:p></o:p></p><p =
+class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif=
+">&nbsp;</span><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-fa=
+mily:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:D=
+E">Mit freundlichen Gr=FC=DFen</span><o:p></o:p></p><p class=3D"MsoNormal">=
+<span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none;=
+mso-fareast-language:DE">&nbsp;</span><o:p></o:p></p><p class=3D"MsoNormal"=
+><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none=
+;mso-fareast-language:DE">Christoph Geyer</span><o:p></o:p></p><p class=3D"=
+MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-liga=
+tures:none;mso-fareast-language:DE">&nbsp;</span><o:p></o:p></p><p class=3D=
+"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-lig=
+atures:none;mso-fareast-language:DE">Regierungsdirektor</span><o:p></o:p></=
+p><p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Arial&quot;,sa=
+ns-serif;mso-ligatures:none;mso-fareast-language:DE">Sachgebietsleiter 55.1=
+</span></b><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-family=
+:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">_=
+_______________________________________</span><o:p></o:p></p><p class=3D"Ms=
+oNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatu=
+res:none;mso-fareast-language:DE">&nbsp;</span><o:p></o:p></p><p class=3D"M=
+soNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligat=
+ures:none;mso-fareast-language:DE">Regierung der Oberpfalz</span><o:p></o:p=
+></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sa=
+ns-serif;mso-ligatures:none;mso-fareast-language:DE">SG 55.1 &#8211; Rechts=
+fragen Umwelt</span><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"fo=
+nt-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-langu=
+age:DE">Emmeramsplatz 8</span><o:p></o:p></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-far=
+east-language:DE">93039 Regensburg</span><o:p></o:p></p><p class=3D"MsoNorm=
+al"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-ligatures:n=
+one;mso-fareast-language:DE">Tel.: 0941/5680-1822</span><o:p></o:p></p><p c=
+lass=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;=
+mso-ligatures:none;mso-fareast-language:DE">&nbsp;</span><o:p></o:p></p><p =
+class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif=
+;mso-ligatures:none;mso-fareast-language:DE">E-Mail: <a href=3D"mailto:chri=
+stoph.geyer@reg-opf.bayern.de">christoph.geyer@reg-opf.bayern.de</a> </span=
+><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Ari=
+al&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">Internet: <=
+a href=3D"http://www.ropf.de">www.ropf.de</a></span><o:p></o:p></p><p class=
+=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;mso-=
+ligatures:none;mso-fareast-language:DE">___________________________________=
+_____</span><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-famil=
+y:&quot;Arial&quot;,sans-serif;mso-ligatures:none;mso-fareast-language:DE">=
+Bitte pr=FCfen Sie, ob diese Mail ausgedruckt werden muss. </span><o:p></o:=
+p></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,s=
+ans-serif;mso-ligatures:none;mso-fareast-language:DE">&nbsp;</span><o:p></o=
+:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,=
+sans-serif;mso-ligatures:none;mso-fareast-language:DE">Der Inhalt dieser E-=
+Mail ist ausschlie=DFlich f=FCr den bezeichneten Adressaten bestimmt. Wenn =
+Sie nicht der vorgesehene Adressat dieser E-Mail oder dessen Vertreter sein=
+ sollten, bitten wir Sie, sich in diesem Falle umgehend mit dem Absender de=
+r E-Mail in Verbindung zu setzen und diese Daten von Ihrem Computer zu l=F6=
+schen. Bitte beachten Sie, dass jede Form von Ver=F6ffentlichung, Vervielf=
+=E4ltigung oder Weitergabe des Inhalts dieser E-Mail unzul=E4ssig ist.</spa=
+n><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Ar=
+ial&quot;,sans-serif">&nbsp;</span><o:p></o:p></p><p class=3D"MsoNormal"><s=
+pan style=3D"font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span><o:p></=
+o:p></p></div></body></html>=
+
+------=_NextPart_000_0039_01DD5108.F3D05D50--

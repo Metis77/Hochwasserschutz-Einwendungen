@@ -1,6 +1,6 @@
 # Baumschutzverordnungs-Grenze am Unteren Wöhrd – Analyse und Nachreichungs-Empfehlung
 
-**Stand:** 29.09.2026 · **Herkunft:** von Stephanie weitergeleitet (CC Flo) · **Anlass:** Stellungnahme des Umweltamts (Amt 31.2, Dr. Pöhler / Dr. Voigt) vom 11.09.2026 an die Regierung der Oberpfalz, SG 55.1, zur „Anregung zur Prüfung der BVO-Grenze" von Nils Deichner vom 04.08.2026 – mit der Telefonnotiz vom 25.04.2023 als Anlage (Transkript: `2026-09-11_Stellungnahme-Umweltamt-Pruefung-BVO-Grenze.md`).
+**Stand:** 30.09.2026 (Abschnitte 2.1, 2.4, 2.5, 4 und 5 fortgeschrieben) · **Herkunft:** von Stephanie weitergeleitet (CC Flo) · **Anlass:** Stellungnahme des Umweltamts (Amt 31.2, Dr. Pöhler / Dr. Voigt) vom 11.09.2026 an die Regierung der Oberpfalz, SG 55.1, zur „Anregung zur Prüfung der BVO-Grenze" von Nils Deichner vom 04.08.2026 – mit der Telefonnotiz vom 25.04.2023 als Anlage (Transkript: `2026-09-11_Stellungnahme-Umweltamt-Pruefung-BVO-Grenze.md`).
 
 BVO / BSchV = Baumschutzverordnung der Stadt Regensburg (Fassung 09.01.2023, AMBl. Nr. 9 vom 27.02.2023; Lesefassung in `Sonstige Dokumente/Baumschutzverordnung-Regensburg-Lesefassung-2023.pdf`).
 
@@ -43,7 +43,7 @@ Das erklärt rückwirkend den Befund unserer Einwendung V2, Abschnitt 2.2 („al
 1. **Es gibt kein eigenes Dokument der Stadt zur Grenzziehung.** Die einzige Unterlage ist die Telefonnotiz der Landschaftsarchitektin des Vorhabensträgers (bgmr, Tanja Hain). Sie hält fest: „Da die neuen Grenzen nicht zeichnerisch definiert sind (**müssten Bauordnung und UA festlegen**), haben Frau Dr. Pöhler und Frau Hain diese telefonisch abgestimmt … **Frau Hain zeichnet die Grenze** … und stuft die Bäume des Baumkatasters neu … ein." Die Planerin des Antragstellers hat also die Grenze des Schutzregimes gezeichnet, dem ihr eigener Antrag unterliegt.
 2. **Bauordnungsamt und Stadtplanungsamt haben nicht entschieden** („diskutiert … die Entscheidung oblag dem Umweltamt"). Die Abgrenzung des unbeplanten Innenbereichs nach § 34 BauGB ist aber originär bauplanungsrechtliche Materie des Bauordnungsamts. Dasselbe Bauordnungsamt (Amt 63) hatte im Änderungsverfahren 2022 bezweifelt, „ob ‚dynamischer' Geltungsbereich, ohne Karte, rechtssicher ist" (Anlage 1 zur Beschlussvorlage VO/22/19666/31, `Sonstige Dokumente/2022-11-14_Anlage-1-…pdf`).
 3. **Keine schriftliche Begründung, keine Überarbeitung, keine Auswirkung** – jeweils mit einem Wort beantwortet. Für Wöhrdstraße 41 ist „keine Auswirkung" nachweislich falsch: Die BVO-Bilanz des LBP (Tab. 5e) und die Anwendung von § 5 BSchV hängen unmittelbar an der Grenze.
-4. **„Ortseinsicht Grundstück Wöhrdstraße 41":** wird behauptet, aber nicht belegt (kein Datum, kein Vermerk, keine Teilnehmer). Zu klären mit den Bewohnern, ob und wann das Umweltamt zu diesem Zweck vor Ort war.
+4. **„Ortseinsicht Grundstück Wöhrdstraße 41":** wird behauptet, aber nicht belegt (kein Datum, kein Vermerk, keine Teilnehmer). **Florian Gebauer (Bewohner) am 29.09.2026: Von einer Begehung ist nichts bekannt, eine Anfrage dazu gab es nicht; ohne Einverständnis der Bewohner wäre sie auch nicht möglich gewesen.** Entweder hat sie nicht stattgefunden, oder das Umweltamt war unangekündigt auf dem Grundstück. In der Nachreichung: Vorlage von Datum, Teilnehmern und Vermerk verlangen.
 5. **Amt 31.2 (Baumschutz) und Amt 31.1 (Planfeststellungsbehörde, Frau Wittmann) sind dasselbe Amt.** Die Behörde, die den Plan feststellt, hat die für den Plan günstige Grenze vorab telefonisch mit dem Antragsteller vereinbart und beantwortet nun die Frage nach den Auswirkungen auf ihr eigenes Verfahren mit „keine".
 
 ### 2.2 Innerer Widerspruch der Planunterlagen
@@ -62,12 +62,37 @@ Der LBP nutzt die Außenbereichs-Einstufung des Obstgartens als **Argument für*
 
 Nüchtern: Nach ständiger Rechtsprechung endet der Bebauungszusammenhang am Ortsrand regelmäßig am letzten Baukörper; rückwärtige große Freiflächen zum Fluss hin sind typischerweise Außenbereich. Ein 5.573-m²-Grundstück mit großem Obstgarten zur Donau ist deshalb **nicht offensichtlich** Innenbereich. Die Einstufung ist vertretbar – aber sie ist eine Einzelfallwertung, die begründet, dokumentiert und von der zuständigen Stelle getroffen werden muss.
 
+**Einschränkung (Gebauer, 29.09.2026):** Mit dem Wort „vertretbar" vorsichtig sein. Verwaltungsgerichte bewerten Außenbereichs-Einstufungen häufig anders als die Verwaltung; er hat das bei anderen Bauvorhaben selbst erlebt. In Schreiben nach außen deshalb nicht selbst einräumen, dass der Garten Außenbereich sei, sondern nur feststellen, dass die Einstufung unbegründet, undokumentiert und von der falschen Stelle getroffen ist. Zweischneidig bleibt: Als Außenbereich ist der Garten vor Bebauung geschützt (§ 35 BauGB), das hilft gegen eine spätere Siedlungsentwicklung im Obstgarten (Abschnitt 2.2). Für den Baumschutz bringt der Außenbereich nichts, dort gilt nur das allgemeine Naturschutzrecht (BayKompV) ohne den individuellen Schutzstatus der BSchV.
+
 Angriffspunkte:
 
 - **Hausnahe Gartenflächen** („bebauungsakzessorische" Nutzung) gehören nach der Rechtsprechung regelmäßig noch zum Innenbereich. Die Grenze „entlang der nördlichen Hausgrenze" lässt nicht einmal den hausnahen Streifen im Innenbereich – und genau dort (Mauer „in Achse der Nordfassade", Versprung 6 m) stehen die betroffenen Bäume. Der LBP selbst beschreibt den Bestand als „Streuobstwiesen mit **Hausgartennutzung**" (D 2.0, Md. Z. 1038) und die Biotopkartierung als „strukturreichen Garten … Nutz- und Ziergarten" (D 6.0, S. 6 f.).
 - **Einfriedung und Nutzung:** alte Weißdornhecke am Nord- und Westrand, Pflege durch die Bewohner, Zuordnung zum Wohnhaus – Umstände, die den Eindruck der Zugehörigkeit zur Bebauung vermitteln.
 - **Unterschiedliche Behandlung** der Nachbargrundstücke: Bei Wöhrdstraße 33a–37f und 49–53 reicht der Geltungsbereich bis zum Hochufer (D 7.1). Warum der Bebauungszusammenhang dort weiter nördlich endet als bei Nr. 41, ist nirgends begründet – die Antwort „einheitlich und widerspruchsfrei: Ja" bleibt Behauptung.
 - Rechtsprechung zum Bebauungszusammenhang vor Verwendung noch verifizieren (Kandidaten: BVerwG, Urt. v. 12.12.1990 – 4 C 40.87; BVerwG, Beschl. v. 02.08.2001 – 4 B 26.01 zur bebauungsakzessorischen Nutzung; jüngere VGH-München-Entscheidungen zum Ortsrand).
+
+### 2.5 Deichners Erwiderung an die Regierung vom 30.09.2026 – geprüft
+
+Nils Deichner hat der Regierung (SG 55.1, CC SG 12 und Naturschutz) am 30.09.2026 auf die Stellungnahme geantwortet (Transkript: `2026-09-30_Deichner-Erwiderung-an-Regierung-BVO-Grenze.md`). Er hat unsere fünf Baumnummern aus der Mail an Stephanie übernommen und um vier weitere ergänzt. Seine Aussagen gegen die Planunterlagen geprüft:
+
+| Aussage Deichner | Prüfung (Markdown-Konvertierung der Planunterlagen) |
+| --- | --- |
+| Die positive BVO-Bilanz von 24 Bäumen I. Wuchsordnung entsteht nur durch 32 Neupflanzungen I. Wuchsordnung in PA 10; ohne PA 10 Defizit von 8 Bäumen | **Bestätigt.** Tab. 5e (D 2.5, Md. Z. 3654–3720): PA 10 Bilanz +32 / +16, Summe aller PA +24 / +42; ohne PA 10: −8 Bäume I. Wuchsordnung (II. Wuchsordnung bliebe +26). D 2.0 S. 123 nennt den Ausgleich des Wald-Defizits PA 2 „im Bereich der nördlichen Aue des PA 10" ausdrücklich |
+| PA 10 ist laut Telefonnotiz Außenbereich; § 7 Abs. 2 BSchV verlangt Ersatz „auf einem Grundstück im Geltungsbereich" | **Bestätigt.** Telefonnotiz: „Als Außenbereich … PA 10"; BSchV § 7 Abs. 2 Satz 1 wörtlich so |
+| Neupflanzungen wurden „nach Rücksprache im Umweltamt" auch außerhalb der im Zusammenhang bebauten Ortsteile als geschützte Ersatzpflanzungen eingestuft | **Bestätigt.** D 7.0 S. 4 (Md. Z. 116–119) |
+| Hochufer Kastanienallee = Innenbereich, Hochufer PA 1 und PA 3 = Außenbereich, ohne Begründung | **Bestätigt.** Telefonnotiz, Listen Innen-/Außenbereich. PA 1 ist unser Abschnitt: Der Maßstab, der an der Kastanienallee das Hochufer zum Siedlungsbereich zählt, müsste vor Wöhrdstraße 41 genauso gelten |
+| Neun Fällbäume über der Schwelle als „nicht geschützt": Nr. 29, 30, 37, 52, 61, 123, 127, 128, 485 | **Katasterwerte bestätigt** (D 7.2, Tab. 5b). Nr. 123 Spitzahorn 300 cm, Nr. 127 Robinie 400 cm, Nr. 128 Robinie 300 cm: alle PA 1, Stadtbiotop R-1303-001, Vermerk „V-Daten angepasst", Höhlen-/Initialhöhlenbaum 2021; D 2.0 S. 66 nennt sie als „baubedingt notwendige Fällung von vier Bäumen des Stadtbiotops R-1303-001 (3 Robinien, 1 Spitzahorn in PA 1)". Der vierte, Nr. 126 (100 cm), liegt exakt auf der Schwelle („mehr als 100 cm", § 1 Abs. 2) und fehlt zu Recht. Nr. 485 Esche PA 7, zweistämmig 135 + 120 cm, Tab. 5e: „Uferböschung Straßenrand", nicht geschützt. **Standort der Bäume 123–128 in D 7.1 noch nicht verortet** (Nummern folgen unmittelbar auf Wöhrdstraße 41, Nr. 24–116) |
+| Rund 39 zusätzliche Ersatzbäume | **Nachgerechnet** nach § 7 Abs. 2 a BSchV (101–130: 2, 131–170: 3, 171–210: 4, 211–250: 5, 251–290: 6, ab 291 je volle 40 cm +1; mehrstämmig Summe): unsere fünf → 13 (Abschnitt 1); Nr. 123 → 6, Nr. 127 → 8, Nr. 128 → 6, Nr. 485 (255 cm) → 6 = 26; **gesamt 39** bei konservativer Lesart der Stufe „ab 291 cm" (sonst 41) |
+| B-Plan 185-I: Vorgabe des Umweltamts einmal „Mai 2022", einmal „2023" datiert | **Bestätigt.** D 2.5 Md. Z. 2985 („Mai 2022") gegen Kopf Tab. 5b, Md. Z. 3339 („2023") |
+| D 7.0 S. 5: „Je nach Verfahrensdauer kann damit ggf. eine erneute Prüfung des Schutzstatus … notwendig werden" | **Bestätigt** (Md. Z. 150) |
+| B-Plan Nr. 279: am 18.01.2022 nur Anpassungsbeschluss (Amtsblatt 10/2022), Auslegung bis 02.10.2025, bei der Grenzziehung 2023 nicht in Kraft | **Nicht geprüft** (Amtsblatt und B-Plan-Verfahrensstand liegen nicht im Repo). Legende D 7.1 nennt den Plan als „Stand: beendete frühzeitige Beteiligung" |
+
+**Was das für uns ändert:**
+
+- Die Ungleichbehandlung ist jetzt zweifach belegt: räumlich (Nachbarn bis zum Hochufer, wir bis zur Hauswand, Abschnitt 1) und systematisch (Hochufer Kastanienallee innen, Hochufer PA 1 außen; Linie starr bei Schutzverlust, elastisch bei Ersatzanrechnung in PA 10).
+- Der Art.-75-Punkt ist der stärkste verfahrensrechtliche Hebel: Der Planfeststellungsbeschluss ersetzt die BSchV-Genehmigung (§ 6 Abs. 3 BSchV, Art. 75 Abs. 1 BayVwVfG) und muss nach der Sach- und Rechtslage bei Erlass benennen, welche Bäume er freigibt. Die Planer selbst kündigen in D 7.0 eine „erneute Prüfung des Schutzstatus" an. Damit ist die Grenzfrage keine erledigte Vorfrage aus 2023, sondern Teil der Entscheidung 2027.
+- Der Regierung liegt unser Fall jetzt in Zahlen vor, aber ohne Grundstücksbezug (Mauerachse, Ausbuchtung, hausnaher Streifen, bestrittene Ortseinsicht). Das ist der Rest, den nur wir liefern können (Abschnitt 4 B).
+- Antwort 11 der Stellungnahme („Umweltamt ist nicht Vorhabenträger") geht ins Leere: Nach der Bekanntmachung vom 17.10.2025 ist das Umweltamt die Planfeststellungsbehörde. Deichner hat das benannt; in Nachreichung 2 wiederholen (Abschnitt 4 A, Punkt 4).
 
 ---
 
@@ -108,36 +133,44 @@ Kurz, auf Wöhrdstraße 41 fokussiert, mit Plan-Ausschnitt D 7.1 und Telefonnoti
    - Vorlage der Karte von 1993 (Fassung 2004) mit Darstellung, welche Bäume des Vorhabens unter der alten Fassung geschützt waren;
    - Neuberechnung der BVO-Bilanz (Tab. 5e) für PA 1 und Einzelbaumbewertung von Stieleiche Nr. 29 und Walnuss Nr. 30;
    - Prüfung der Genehmigungsvoraussetzungen des § 5 BSchV (zumutbare Alternativen) für jeden betroffenen Baum – Verknüpfung mit dem früheren UGA-Ende (Antrag 12, Protokoll 24.06.2026 Abschnitt B) und der geänderten Linienführung (Mauerende am Durchgang Haupthaus/Nebengebäude): aktualisierte Fällliste für die neue Linienführung.
+   - **Neu (30.09.2026, aus Deichners Erwiderung, Abschnitt 2.5):** Offenlegung des Kriteriums, nach dem das Hochufer an der Kastanienallee (PA 5) Innenbereich ist, das Hochufer vor Wöhrdstraße 41 (PA 1) aber Außenbereich; Neuberechnung der BVO-Bilanz (Tab. 5e) ohne Anrechnung der 32 Neupflanzungen in PA 10, weil § 7 Abs. 2 BSchV Ersatz „auf einem Grundstück im Geltungsbereich" verlangt und PA 10 laut Telefonnotiz außerhalb liegt; Klarstellung, dass der Planfeststellungsbeschluss nach Art. 75 Abs. 1 BayVwVfG und § 6 Abs. 3 BSchV die BSchV-Genehmigung ersetzt und deshalb nach der Sach- und Rechtslage bei Erlass benennen muss, für welche Bäume er sie erteilt (D 7.0 S. 5 kündigt die „erneute Prüfung des Schutzstatus" selbst an).
 4. **Verfahrensbitte:** Klarstellung, dass Amt 31.1 als Planfeststellungsbehörde die Grenzfrage eigenständig prüft und nicht auf die Vorabstimmung von Amt 31.2 mit dem Vorhabensträger verweist.
 
 Nicht hineinschreiben: Motivunterstellungen („damit sie bauen können"); stattdessen Zufallsfrage stellen: Warum endet der Bebauungszusammenhang genau dort, wo die Mauer geplant ist, und bei den Nachbarn am Hochufer?
 
 ### B. Schreiben an die Regierung der Oberpfalz, SG 55.1
 
-Deichners Anregung liegt dort noch; die Stellungnahme des Umweltamts ist die Antwort auf die erste Runde. Ein eigenes, kurzes Schreiben (Betroffene des konkret genannten Grundstücks) mit den Belegen aus Abschnitt 1 und 2.1 macht die abstrakte Frage anschaulich: Karte D 7.1, Kataster-Zahlen, Mauerachse, Bauordnungsamt-Zweifel 2022. Bitte: rechtsaufsichtliche Prüfung, ob die Abgrenzung von der zuständigen Stelle mit dokumentierter Begründung getroffen wurde. Aktenzeichen der Regierung über Deichner erfragen.
+**Stand 30.09.2026: durch Deichner zum größten Teil erledigt.** Seine Erwiderung vom 30.09.2026 (Abschnitt 2.5) trägt unsere fünf Baumnummern, die Ersatzrechnung und die PA-10-Anrechnung bereits zur Regierung, mit SG 12 und Naturschutz in Kopie. Ein eigenes Schreiben lohnt nur noch kurz (eine Seite) und ausdrücklich als Ergänzung der Betroffenen des in der Telefonnotiz namentlich genannten Grundstücks: Mauerachse = BVO-Grenze (Erläuterungsbericht S. 55), Ausbuchtung in D 7.1 (PNG als Anlage), hausnaher Streifen, Ungleichbehandlung gegenüber den Nachbarn, bestrittene Ortseinsicht (Gebauer). Bezug: Az. der Umweltamts-Stellungnahme **31.2 Pö / HWS H Baumschutz**; das Aktenzeichen der Regierung steht in deren Schreiben vom 21.09.2026, das uns noch fehlt (bei Deichner erbitten). Adressat SG 55.1 (Herr Geyer), nachrichtlich SG 12 und Naturschutz wie bei Deichner. Wortwahl beachten: nicht „vertretbar" schreiben (Abschnitt 2.4).
 
 ### C. Abstimmung mit Deichner und Gebauer
 
-- Deichner: Original der Anregung vom 04.08.2026 und ggf. weitere Korrespondenz mit der Regierung ins Repo (`von Nils Deichner/`); ihm die Wöhrdstraße-41-Belege geben – das ist der konkrete Fall, der seiner Anregung bisher fehlt.
-- Gebauer: Seine Einwendung trägt die Baumkataster-Rüge mit eigenen Messungen (Anlagen 2 + 3); Nachreichung 2 sollte darauf verweisen oder mitunterzeichnet werden.
+- **Deichner:** Original der Anregung vom 04.08.2026 liegt seit 29.09.2026 vor (`../von Nils Deichner/2026-08-04 Rechtsaufsichtliche_Pruefung_BVO_Grenze_Unterer_Woehrd.pdf`), seine Erwiderung vom 30.09.2026 ebenfalls (Abschnitt 2.5). Er hat unsere Belege ohne Rückfrage verwendet; Rollenteilung: Er führt die Aufsichtsschiene bei der Regierung, wir die Grundstücksschiene bei der Planfeststellungsbehörde. Noch von ihm zu erbitten: Antwortschreiben der Regierung vom 21.09.2026 (PDF mit Aktenzeichen).
+- **Gebauer (Antwort 29.09.2026):** tendiert wie wir zu Option 1 + 2 („Eine neue Grenzziehung ohne Plan geht eigentlich gar nicht und ist zwingend von den Behörden zu erstellen"). Kennt keine Ortsbesichtigung des Umweltamts (Abschnitt 2.1, Punkt 4). Seine Planungsvariante darf weitergereicht werden, immer mit dem Hinweis, dass sie von ihm stammt und nicht von Stadt oder WWA; je mehr Stellen sie kennen, desto größer der Druck, sie ernsthaft zu prüfen. Seine Einwendung trägt die Baumkataster-Rüge mit eigenen Messungen (Anlagen 2 + 3); Nachreichung 2 sollte darauf verweisen oder mitunterzeichnet werden.
 
 ---
 
 ## 5. Offene Punkte
 
 - [ ] Alte BVO-Karte (1993/2004) beschaffen: Umweltamt, Stadtarchiv, Deichner, Internet Archive (am 29.09.2026 offline: `regensburg.de/sixcms/media.php/140/6.1.1.pdf` vor 2023)
-- [ ] Bewohner fragen: Gab es je eine Ortseinsicht des Umweltamts zur BVO-Grenze auf Wöhrdstraße 41? Wann, wer?
-- [ ] Deichners Schreiben vom 04.08.2026 und Regierungs-Aktenzeichen beschaffen
+- [x] Bewohner gefragt (29.09.2026): Gebauer kennt keine Ortseinsicht des Umweltamts zur BVO-Grenze auf Wöhrdstraße 41 → in Nachreichung 2 Vorlage des Vermerks verlangen
+- [x] Deichners Schreiben vom 04.08.2026 liegt vor (29.09.2026, `../von Nils Deichner/`)
+- [ ] Antwortschreiben der Regierung vom 21.09.2026 (PDF-Anhang mit Aktenzeichen) bei Deichner erbitten
+- [ ] Standort der Fällbäume Nr. 123, 126, 127, 128 (Stadtbiotop R-1303-001, PA 1) in Plan D 7.1 verorten: Nachbargrundstück oder Hochufer?
+- [ ] Amtsblatt Nr. 10/2022 und Verfahrensstand B-Plan Nr. 279 prüfen, falls Deichners Argument (Abschnitt 2.5) übernommen wird
 - [ ] Rechtsprechung zum hausnahen Garten / Ortsrand verifizieren (Abschnitt 2.4)
-- [ ] Entscheidung: Nachreichung 2 nur Martin/Stephanie oder gemeinsam mit Gebauer
+- [ ] Entscheidung Stephanie: Nachreichung 2 nur Martin/Stephanie oder gemeinsam mit Gebauer (Flo und Nils sind für Option 1 + 2)
 
 ---
 
 ## 6. Quellen
 
-- Stellungnahme Umweltamt 11.09.2026 mit Telefonnotiz 25.04.2023 – `2026-09-11_Stellungnahme-Umweltamt-Pruefung-BVO-Grenze.pdf` (+ Transkript .md)
+- Stellungnahme Umweltamt 11.09.2026 (Az. 31.2 Pö / HWS H Baumschutz) mit Telefonnotiz 25.04.2023 – `2026-09-11_Stellungnahme-Umweltamt-Pruefung-BVO-Grenze.pdf` (+ Transkript .md)
+- Anregung Nils Deichner an die Regierung der Oberpfalz, SG 12, vom 04.08.2026 – `../von Nils Deichner/2026-08-04 Rechtsaufsichtliche_Pruefung_BVO_Grenze_Unterer_Woehrd.pdf`
+- Mailkette Deichner/Regierung 21.09.–29.09.2026 (Fwd Stephanie 30.09.2026) – `2026-09-29_E-Mail-Deichner-Regierung-Mailkette-Stellungnahme-Umweltamt.eml`
+- Antwort Florian Gebauer an Stephanie, 29.09.2026 (Fwd Stephanie 30.09.2026) – `2026-09-29_E-Mail-Gebauer-Antwort-Optionen-BVO-Grenze.eml`
+- Erwiderung Deichner an die Regierung, 30.09.2026 – `2026-09-30_E-Mail-Deichner-an-Regierung-Bitte-um-erneute-Pruefung.eml` (+ Transkript `2026-09-30_Deichner-Erwiderung-an-Regierung-BVO-Grenze.md`)
 - Baumschutzverordnung Regensburg, Lesefassung 2023 – https://www.regensburg.de/sixcms/media.php/140/6.1.1.pdf (Kopie in `Sonstige Dokumente/`)
 - Beschlussvorlage VO/22/19666/31 vom 30.11.2022 (Umweltausschuss 08.12.2022, Stadtrat 15.12.2022) – https://srv19.regensburg.de/bi/vo020.asp?VOLFDNR=19200 ; Anlage 1 „Stellungnahmen" (Kopie in `Sonstige Dokumente/`)
 - BayVGH, Beschl. v. 08.03.2016 – 14 ZB 15.1373 (zitiert in der Stellungnahme)
 - Art. 51 Abs. 1 Nr. 5 a BayNatSchG: Ermächtigung „zum Schutz des Bestands von Bäumen und Sträuchern ganz oder teilweise innerhalb der im Zusammenhang bebauten Ortsteile" – https://www.gesetze-bayern.de/Content/Document/BayNatSchG-51
-- Planunterlagen A, D 1.0, D 2.0, D 2.5, D 6.0, D 7.0–7.2 (Fundstellen in Abschnitt 3)
+- Planunterlagen A, D 1.0, D 2.0, D 2.5, D 6.0, D 7.0–7.2 (Fundstellen in Abschnitt 3 und 2.5)
