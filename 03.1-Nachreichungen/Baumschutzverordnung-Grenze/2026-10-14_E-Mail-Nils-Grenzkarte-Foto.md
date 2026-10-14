@@ -1,6 +1,6 @@
 # E-Mail an Nils Deichner: Grenzkarte 1993, Foto als Anlage zur Nachreichung 2
 
-**Stand:** 14.10.2026 · **Status:** am 14.10.2026 zur Vorabklärung an Stephanie geschickt, noch nicht an Nils · **Anlass:** Nils' Mail an die Stadtratsfraktionen vom 14.10.2026 (von Stephanie weitergeleitet, abgelegt in `../von Nils Deichner/`) mit Foto der Grenzkarte 1993. Nachreichung 2 nennt in Abschnitt 1 e seine Einsichtnahme beim Umweltamt und in Abschnitt 3 sein Schreiben an die Regierung vom 30.09.2026; Nils bekommt die Nachreichung nachrichtlich.
+**Stand:** 14.10.2026 · **Status:** am 14.10.2026 zur Vorabklärung an Stephanie, danach an Nils; **Antwort von Nils am 14.10.2026:** „klar, gerne alles verwenden“, Originalfotos der Karte mitgeschickt (abgelegt in `../von Nils Deichner/`, Datum 2026-08-26), Einsichtnahme beim Umweltamt am 26.08.2026 → in Nachreichung 2 Abschnitt 1 e (Ausschnitt als Abbildung 2) und Übersicht als Anlage 2 (`../Anlagen-Nachreichung-2/`) eingearbeitet · **Anlass:** Nils' Mail an die Stadtratsfraktionen vom 14.10.2026 (von Stephanie weitergeleitet, abgelegt in `../von Nils Deichner/`) mit Foto der Grenzkarte 1993. Nachreichung 2 nennt in Abschnitt 1 e seine Einsichtnahme beim Umweltamt und in Abschnitt 3 sein Schreiben an die Regierung vom 30.09.2026; Nils bekommt die Nachreichung nachrichtlich.
 
 ---
 
@@ -19,3 +19,13 @@ Wir reichen gerade eine zweite Ergänzung unserer Einwendungen zur Baumschutz-Gr
 
 Viele Grüße
 Martin
+
+---
+
+**Antwort Nils Deichner, 14.10.2026** (Wortlaut):
+
+> Hi Martin,
+>
+> klar, gerne alles verwenden 😊
+> Im Anhang noch die Original-Fotos von der Karte, die ich gemacht habe.
+> Ich war am 26. August beim Umweltamt.
