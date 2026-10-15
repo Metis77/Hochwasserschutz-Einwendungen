@@ -13,6 +13,7 @@ Namenskonvention wie in `03.1-Nachreichungen/`: ISO-Datum vorn, Snapshots als `s
 | [snapshot-2026-10-15/](snapshot-2026-10-15/) | Zweite Sicherung (curl): HTML Startseite und Impressum, `events.js`, `flock.js`, `robots.txt`, `sitemap.xml`, Antwort-Header der Startseite |
 | [instagram/](instagram/) | Screenshots der Instagram-Auftritte (Profil-Post der Insel-Freunde, Agentur-Profil), ISO-Datum vorn |
 | [2026-10-15_hcwagner-com_Visitenkarte.jpg](2026-10-15_hcwagner-com_Visitenkarte.jpg), [2026-10-15_hcwagner-com_Flyer-Agentur.pdf](2026-10-15_hcwagner-com_Flyer-Agentur.pdf) | Gesamte öffentliche Website der PR-Agentur (ein Bild, ein Flyer von 2012), gesichert 15.10.2026 |
+| [2026-10-15_E-Mail-Steph-Textidee-Mandatsfrage-Buergerdialog.md](2026-10-15_E-Mail-Steph-Textidee-Mandatsfrage-Buergerdialog.md) | Entwurf an Steph: Textidee Mandatsfrage für alle Kanäle, Platzhalter Y für Inselbewohner unter den Mitgliedern. Status: versendet 15.10.2026 |
 | FAQ-Entwurf als Antwort | liegt im Repo WebSite-Inhalte: `research/insel-freunde/faq-entwurf-befuerworter.md` (noch nicht in `seiten/faq.md` übernommen) |
 
 ## Chronik
@@ -44,6 +45,8 @@ Sichtbaren Text vergleichen: Tags entfernen (`sed 's/<[^>]*>/\n/g'`) und gegen d
 **H.C. WAGNERs BUREAU** (Hinweis Martin 15.10.2026; öffentlich belegt durch den Kollaborations-Post auf Instagram): PR-Agentur, Inhaber Hans-Christian Wagner, **Wöhrdstraße 50, 93059 Regensburg**, also selbst auf dem Unteren Wöhrd ansässig. Website hcwagner.com besteht nur aus einer Visitenkarte und einem Flyer (Dezember 2012): Presse- und Öffentlichkeitsarbeit, Medieninformationen und PR-Texte, Event-Marketing, Reportage-Fotografie; Domain seit 2001. Instagram `hcwagnersbureau`: 307 Beiträge, 1.481 Follower, Reportage-Fotos von Regensburger Veranstaltungen (Stadtpolitik, Vereine, Brauereien); der Bürgerdialog-Post erscheint auch dort. Ob die Agentur auch die Website insel-freunde.de betreut, ist nicht belegt (Lovable-Baukasten, keine Agentur-Signatur im Code).
 
 Bedeutung: Die Gegenseite arbeitet mit professioneller PR und hat mit dem Bürgerdialog einen Termin mit dem Bürgermeister. Für Einzelpersonen gilt die Leitplanke unten; die Agentur als Unternehmen darf in der Chronik benannt werden, in öffentlichen Texten des Aktionsbündnisses nur, wenn es einen sachlichen Anlass gibt.
+
+**Mandatsvergleich** (Stand 15.10.2026): Insel-Freunde treten als „Die Bewohner des Unteren Wöhrd“ auf, ohne Rechtsform, Mitglieder, Sprecher oder Unterstützerliste; Instagram 39 Follower. Aktionsbündnis Erhalt der Donauinseln e. V.: eingetragener Verein, Vorstand, Adresse, **über 700 Mitglieder** (Angabe Martin 15.10.2026; Anteil Inselbewohner offen, vor Veröffentlichung vom Vorstand bestätigen lassen), dazu 57 private Einwendungen im Verfahren. Die Mandatsfrage nur als Frage stellen („Wer sind die Insel-Freunde, wie viele Bewohner stehen dahinter?“), nicht als Vorwurf, und nicht gegen die Personen richten (beide bekannten Köpfe wohnen selbst auf der Insel). Risiko: Eine provozierte Zählung kann ihnen mit PR-Hilfe in kurzer Zeit eine Unterstützerliste verschaffen.
 
 ## Leitplanken
 
