@@ -1,0 +1,12 @@
+HTTP/2 200 
+date: Thu, 15 Oct 2026 07:35:25 GMT
+content-type: text/html; charset=utf-8
+cache-control: no-cache, must-revalidate, max-age=0
+strict-transport-security: max-age=31536000; includeSubDomains
+referrer-policy: strict-origin-when-cross-origin
+x-content-type-options: nosniff
+x-deployment-id: psr2.d3660139-8542-4cb1-a9ef-74bc71ab838b.1792654524.iO82IKUgsVjH5WeODOt-OHymGrFqYRbpB9pNpKfVa2g
+set-cookie: __cf_bm=u..pWuHT5zp.Jpv5J1Fynm6DBoeFJ6NgvrIAabRWL44-1792049724.6745923-1.0.1.1-xcX0vMSOajMcAyv2z2XpKOTfk_EjPw0AifsMW6LDHw0RXd0xiZdfGkkpzwcrYpCmn3ddUiZFgP5jP6G4NyR5U7sPONpCcr7_Z7RgUQRzwqMn7qV3cl4EFM1Q82euamGW; HttpOnly; SameSite=None; Secure; Path=/; Domain=insel-freunde.de; Expires=Thu, 15 Oct 2026 08:05:25 GMT
+server: cloudflare
+cf-ray: a4ad259b38a3dbdc-FRA
+
