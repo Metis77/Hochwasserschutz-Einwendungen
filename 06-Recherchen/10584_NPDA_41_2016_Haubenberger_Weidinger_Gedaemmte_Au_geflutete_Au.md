@@ -81,3 +81,17 @@ Die „Deckschicht“ ist der bewurzelbare Feinboden (2–4 m) über dem Kieskö
 - Flurabstände an den Beobachtungspunkten des Modells (F 3.2, Anlagen 3.5.x) mit Wurzeltiefen typischer Arten abgleichen.
 - Prüfen, ob der Baumzustandsbericht 2025 des Umweltamts (Feinwurzelschäden durch Trockenjahre, `03.1-Nachreichungen/README.md`) als lokaler Beleg für die Trockenstress-Linie der Studie taugt.
 - Neuere Literatur zur Lobau (Nationalpark Donau-Auen, Gewässervernetzung seit 2000er Jahren) als Ergänzung suchen, falls eine Nachreichung 3 verfasst wird.
+
+## 7. Review-Befunde zur Studie (15.10.2026, unabhängiger Agent, alle 57 Seiten gegen den Scan geprüft)
+
+Korrekturen, die auch für diese Auswertung gelten (Abschnitte 2 und 3 oben sind insoweit zu lesen mit):
+
+- **Keine „Nährstoffverarmung“:** S. 43 unmittelbar nach dem Fazit-Satz: „Mit Nährstoffmangelerscheinungen muß jedoch aufgrund der hohen Gesamtnährstoffvorräte der jungen Flußsedimente in absehbarer Zeit nicht gerechnet werden.“ Nur „geringere C- und N-Vorräte (Tab. 16, 17)“ sagen.
+- **Lobau hatte zusätzlich eine Absenkung des Grundwasserstands** durch das „Einpegeln“ der Altarme (S. 13, 23) und am Weidenstandort künstlich verlängerte Rückstau-Überflutungen (Tab. 9, S. 24: 35–60 Tage/Jahr gedämmt gegenüber 22–30 geflutet). „Mechanismus identisch, Mittelwasser unverändert“ ist für die Lobau falsch. Übertragbar ist der Pappelstandort (trocken): 23 Tage Grundwasser in der Deckschicht (Tab. 8), Niederschlagsabhängigkeit und „kann … Trockenstreß … entstehen“ (S. 39), „häufiger Wassermangel“ (S. 47), Feinwurzeln in den obersten 20 cm (S. 33 f.).
+- **„Kaum noch Feinwurzeln unter 100 cm“** ist ein Nässe-Befund des gedämmten Weidenstandorts (dauernde Wassersättigung, S. 32); am gedämmten Pappelstandort ist die Durchwurzelung bis 120 cm sogar höher (Abb. 23, S. 33).
+- **Ausschlagfähigkeit** betrifft die Silberpappel und ist dreifach abgeschwächt formuliert (S. 46); Höhenwachstum: Silberweide bis 10 Jahre verzögert, Silberpappel nur in der Jugend, Endhöhe gleich (S. 44–46).
+- **Verjüngung:** „kaum Möglichkeiten zur Keimung“ (S. 13), „möglich, daß die Verjüngung … unterbrochen wird“ (S. 15); für Garten- und Straßenbäume ohne Belang.
+- **Greifenstein (S. 25)** ist eine Staustufe (Einstau hebt und fixiert den Flusswasserstand), kein Hochwasserschutzbauwerk; als Analogie zur Dichtwand ungeeignet.
+- **Abbildung 20 (Pappelstandorte, S. 29)** passt zum Wöhrd (gedämpfte Spitzen, ähnliche Tiefstände); Abbildung 19 (Weiden) zeigt den Nässe-Fall mit höherem Mittel.
+- **Störgrößen, die die Behörde entgegenhalten kann:** Mannswörth forstlich intensiv genutzt, 42,3 % Kanadapappel gegenüber 6,6 % (S. 16); Streu- und Unterholzunterschiede teils Bestandespflege (S. 30, 47); tonreichere Böden rechtsufrig (S. 35); vier Standorte, Tensiometer und Dendrometer nur 1988, 48 Stammscheiben; Tab. 8 Weide ohne Unterschied (360/360 Tage); S. 48: „Weitere eindeutige Aussagen … lassen sich aufgrund der vielfältigen, nicht rekonstruierbaren Einflußgrößen … nicht treffen.“ Ganglinien 1956–1988 teils regressionsgestützt berechnet (S. 22).
+- **Formalia:** Studie 1987–1990 (Gutachten 1987/1989/1990, S. 19), Bericht Dezember 1990; Institute stehen im unpaginierten Impressum, nicht auf S. 5; gedruckte Seite = PDF-Seite − 5; Nutzungsbedingungen auf der Rückseite des Nachdrucks („Bei Vervielfältigung sind Titel und Herausgeber zu nennen … © Stadt Wien, MA49“), bei Zitaten und Abbildungen „© Stadt Wien, MA 49“ nennen.
