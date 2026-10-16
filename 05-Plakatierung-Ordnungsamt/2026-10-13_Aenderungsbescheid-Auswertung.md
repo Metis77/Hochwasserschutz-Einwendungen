@@ -1,6 +1,6 @@
 # Änderungsbescheid der Stadt Regensburg vom 13.10.2026 (Plakatierung im Altstadtschutzbereich)
 
-Auswertung vom 15.10.2026. Keine Rechtsberatung – zur Weitergabe an Steph und Claudia Kunstmann (Anwältin im Bündnis).
+Auswertung vom 15.10.2026, ergänzt am 16.10.2026 um den Bescheid vom 17.08.2026 (eigene Auswertung: `2026-08-17_Bescheid-Auswertung.md`). Keine Rechtsberatung – zur Weitergabe an Steph und Claudia Kunstmann (Anwältin im Bündnis).
 
 **Dokument:** `2026-10-13_Aenderungsbescheid-Plakatiererlaubnis-Altstadtschutzbereich.pdf` (6 Seiten, Az. Amt 32.1.1/He, Sachbearbeitung Christine Hennicke, unterschrieben Bleckmann, Verwaltungsdirektor). Abdruck vorab per E-Mail am 15.10.2026, 17:25 Uhr an info@donauinseln.de („informatorisch“); **Original per Postzustellungsurkunde unterwegs** – das Zustelldatum (gelber Umschlag) ist für alle Fristen maßgeblich und muss notiert werden.
 
@@ -11,7 +11,7 @@ Auswertung vom 15.10.2026. Keine Rechtsberatung – zur Weitergabe an Steph und 
 | ca. 06.08.2026 | Banner „Hochwasserschutz geht auch anders“ an 11 Standorten auf der Insel (Wöhrdstr. 53, 47, 41, 33a, 25, 3, 1; Küffnerstr. 1, 4; Proskestr. 1, 4) |
 | 13.08. | Ordnungsamt (Lisa Baumer): Aufforderung abzuhängen oder Antrag bis 17.08.; Altstadtschutzbereich angeblich „nicht genehmigungsfähig“ (`2026-08-13_E-Mail-…md`, Rechtslage: `Recherche-Rechtslage-Plakatierung.md`) |
 | 14.08. | Steph stellt per E-Mail Antrag nach § 3 PlV. Baumer: 6 Standorte liegen im Altstadtschutzbereich (Küffnerstr. 1, 4; Wöhrdstr. 1, 3; Proskestr. 1, 4) und müssen weg; Erlaubnis bis 01.10.2026 (max. 8 Wochen) |
-| 17.08. | **Bescheid Az. 32.1.1/Ba** mit Kostenrechnung: max. 50 Standorte, 06.08.–01.10.2026, ganzes Stadtgebiet außer Altstadtschutzbereich. Banner im Altstadtbereich abgehängt; 3 neue Standorte Maffeistr. 16, 18, 20. *(Der Bescheid selbst liegt nicht im Repo – bei Steph anfordern.)* |
+| 17.08. | **Bescheid Az. 32.1.1/Ba** mit Kostenrechnung (92,32 €, fällig 06.09.): max. 50 Standorte (bis fünfteilig), 06.08.–01.10.2026, ganzes Stadtgebiet außer Altstadtschutzbereich; sofortige Vollziehung, Zwangsgeld 150 € je Verstoß. Banner im Altstadtbereich abgehängt; 3 neue Standorte Maffeistr. 16, 18, 20. (`2026-08-17_Bescheid-Plakatiererlaubnis-Stadtgebiet.pdf`, Auswertung `2026-08-17_Bescheid-Auswertung.md`) |
 | 24.08. | Baumer bestätigt: Erlaubnis gilt stadtweit außer Altstadtschutzbereich, max. 50 Standorte |
 | ca. 18.09. | Befürworter-Plakate („JA“) an fast jedem Haus der **Werftstraße** – größtenteils Altstadtschutzbereich (Mails Pöllath 19.09., Dietl 26.09.) |
 | 15.09. | Claudia Kunstmann: Gleichbehandlung Art. 3 GG, Neutralitätspflicht, Ermessen § 3 PlV darf nicht meinungsabhängig sein |
@@ -57,11 +57,12 @@ Auswertung vom 15.10.2026. Keine Rechtsberatung – zur Weitergabe an Steph und 
 **Gleichbehandlung – prüfen und dokumentieren:**
 - Die Begründung („mehrere Aktionsbündnisse“) zeigt: Die Stadt hat den Befürworter-Plakaten in der Werftstraße vermutlich einen parallelen Bescheid mit denselben Auflagen erteilt – nachträglich, denn die hingen ab ca. 18.09. ohne Erlaubnis, während das Bündnis im August binnen 4 Tagen mit OWi-Verfahren bedroht wurde (Mails Dietl 26.09., Pöllath 19.09.).
 - **Zählen und mit Datum fotografieren:** Wie viele „JA“-Plakate hängen auf der Insel, wie viele je Hausnummer, seit wann? Mehr als 20, mehrere je Haus oder länger als 8 Wochen (ab 18.09. = bis 13.11.) → schriftliche Bitte an das Amt um Gleichbehandlung (Art. 3 Abs. 1 GG; Einschätzung Kunstmann 15.09.). Das ist das eigentliche Druckmittel, nicht die absolute Zahl 20.
+- Maßstab der Stadt selbst (Bescheid 17.08., S. 7): Längeres Hängen wäre „ein entscheidender Nachteil gegenüber anderen Antragstellern …, die ihre Plakate fristgerecht abhängen“; „fortgesetzt gegen geltendes Recht“ werde nicht hingenommen. Daran ist das Amt bei den JA-Plakaten zu messen.
 - Leitplanke (README 07): keine Kritik an Einzelpersonen; Adressat ist die Verwaltungspraxis.
 
 **Dezember:** Ablauf ca. 11.–14.12.2026; Planfeststellungsbeschluss nicht vor April 2027. Folgeantrag für beide Bereiche Ende November stellen. Die PlV kennt keine Obergrenze für Folgeerlaubnisse, nur die Verwaltungspraxis „max. 8 Wochen je Erlaubnis“; irgendwann wird die Stadt „Dauerplakatierung“ einwenden – dann greift wieder Art. 5 GG/Art. 3 GG, solange die Gegenseite ebenfalls hängt.
 
-**Pflichten einhalten:** Standortliste am Tag des Aufhängens melden (Ziffer II), 1 Banner je Hausnummer, nur Privatgrund, 2 Tage nach Ablauf abhängen – jeder Verstoß ist ein Widerrufsgrund (Widerrufsvorbehalt) und ein OWi-Tatbestand.
+**Pflichten einhalten:** Standortliste am Tag des Aufhängens melden (Ziffer II), 1 Banner je Hausnummer, nur Privatgrund, Zustimmung des Eigentümers oder Besitzers auf Anforderung nachweisen (Ziffer II.2 des Bescheids vom 17.08.), 2 Tage nach Ablauf abhängen – jeder Verstoß ist ein Widerrufsgrund (Widerrufsvorbehalt), ein OWi-Tatbestand und löst das fortgeltende Zwangsgeld von 150 € aus Ziffer V des Bescheids vom 17.08. aus.
 
 ## 4. Angreifbar?
 
@@ -77,7 +78,7 @@ Auswertung vom 15.10.2026. Keine Rechtsberatung – zur Weitergabe an Steph und 
 | Art. 5 GG wird in der Abwägung nicht genannt | Inhaltlich ist das Interesse gewürdigt („direkte Betroffenheit“). Ein Gericht sieht darin kaum ein Ermessensdefizit |
 | Widerrufsvorbehalt | Zulässig (Art. 36 Abs. 2 Nr. 3 BayVwVfG). Ein Widerruf bräuchte eigene Ermessensgründe (Art. 49 Abs. 2 BayVwVfG), darf nicht meinungsabhängig sein. Nicht angreifbar, aber Druckmittel der Stadt |
 | Meldepflicht „noch am gleichen Tag“ | Eng, aber verhältnismäßig; E-Mail genügt |
-| Form (Textbaustein-Klammer, Tippfehler, Unterschrift) | Unschädlich |
+| Form (Textbaustein-Klammer, Tippfehler, Unterschrift) | Unschädlich; der § 188-Baustein steht auch im Bescheid vom 17.08., also Vorlagenfehler |
 | Bekanntgabe | Vorab-Mail ist „informatorisch“, Fristen laufen ab PZU-Zustellung. Banner, die schon am 16./17.10. hängen, sind praktisch risikolos (die Stadt hat die Entscheidung selbst mitgeteilt), formal beginnt der 8-Wochen-Zeitraum aber erst mit Zustellung |
 
 **Empfehlung: nicht klagen.** Der Bescheid gibt im Kern, was Steph am 16.09. erbeten hat, die Auflagen sind vertretbar begründet, eine Klage wäre langsamer als der Zeitraum selbst, kostet und belastet den Kontakt zum Amt, der bisher funktioniert hat. Alles, was fehlt, ist per Antrag erreichbar: Folgeerlaubnis außen (sofort), Folgeerlaubnis beides (Ende November), ggf. Erhöhung über 20 mit Nachweis der Nachfrage. Klage nur, wenn sich die Ungleichbehandlung belegen lässt (Gegenseite mehr Standorte, mehrere je Haus, länger als 8 Wochen, keine Auflagen) und das Amt auf einen schriftlichen Hinweis nicht reagiert – dann über Claudia Kunstmann, Frist ab PZU-Datum im Blick.
@@ -85,7 +86,7 @@ Auswertung vom 15.10.2026. Keine Rechtsberatung – zur Weitergabe an Steph und 
 ## 5. Offene Punkte
 
 - [ ] PZU-Zustelldatum bei Steph erfragen und hier eintragen → 8-Wochen-Ende und Klagefrist berechnen
-- [ ] Bescheid vom 17.08.2026 (Az. 32.1.1/Ba) mit Kostenrechnung von Steph anfordern und hier ablegen (die Ziffern I, II.2–4, IV, V und die Gebühr sind nur indirekt bekannt)
+- [x] Bescheid vom 17.08.2026 (Az. 32.1.1/Ba) mit Kostenrechnung liegt vor (16.10.), Auswertung `2026-08-17_Bescheid-Auswertung.md`; dort offen: Zahlung der 92,32 €, Standortliste vom 14.08., Zustimmungsnachweise
 - [x] Banner außerhalb des Altstadtbereichs sind seit 01.10. abgehängt (Martin, 15.10.) → Folgeantrag außen, sobald dort wieder gehängt werden soll (Enddatum = Altstadt-Frist)
 - [ ] Bestandsaufnahme Befürworter-Plakate auf der Insel (Anzahl, je Hausnummer, Datum, Fotos)
 - [ ] Standortliste für die 20 Altstadt-Standorte vorbereiten; am Tag des Aufhängens melden
